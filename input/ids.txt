@@ -1,0 +1,129 @@
+﻿
+Aleppo University
+Alexandria University - Faculty of Engineering
+Arab Academy for Science and Technology (Alexandria)
+Ateneo de Manila University
+Beihang University
+Beijing University of Posts and Telecommunications
+Belarusian State University
+Belarusian State University of Informatics and Radioelectronics
+Birla Institute of Technology & Science, Pilani Campus
+British University in Egypt
+Cairo University - Faculty of Computers and Information
+California Institute of Technology
+Carnegie Mellon University
+Charles University in Prague
+Chulalongkorn University
+Comenius University
+Cornell University
+Damascus University
+Escuela Superior De Computo Instituto Politecnico Nacional
+ETH Zürich
+Fudan University
+Harvard University
+Ho Chi Minh City University of Science
+Illinois Institute of Technology
+Imperial College London
+Indian Institute of Information Technology - Allahabad
+Indian Institute of Technology - Bombay
+Indian Institute of Technology - Delhi
+Indian Institute of Technology - Kanpur
+Indian Institute of Technology - Roorkee
+Innopolis University
+Instituto Tecnológico Autónomo de México
+Iowa State University
+Islamic Azad University of Mashhad
+ITESM Campus Monterrey
+Jagiellonian University in Krakow
+Jahangirnagar University
+KAIST
+Kim Il Sung University
+Korea University
+Kyoto University
+Lviv National University
+Massachusetts Institute of Technology
+Moscow Aviation Institute
+Moscow Engineering Physics Institute
+Moscow Institute of Physics & Technology
+Moscow State University
+National Chiao Tung University
+National Taiwan University
+National University of Defense Technology
+National University of Singapore
+Ningbo University
+Nizhny Novgorod State University
+North South University
+Northeast Normal University
+Northeastern University (China)
+Northern (Arctic) Federal University
+Ohio State University
+Osaka University
+Peking University
+Prince of Songkla University
+Princess Sumaya University for Technology
+Radboud University
+Rice University
+Saratov State University
+Shahid Beheshti University
+Shahjalal University of Science and Technology
+Shanghai Jiao Tong University
+Shanghai University
+Sharif University of Technology
+South China University of Technology
+South Dakota School of Mines and Technology
+St. Petersburg Academic University
+St. Petersburg ITMO University
+St. Petersburg State University
+Stanford University
+Taras Shevchenko National University of Kyiv
+The Chinese University of Hong Kong
+The University of South Dakota
+The University of Tokyo
+The University of Western Australia
+Tianjin University
+Tishreen University
+Tsinghua University
+Universidad de Buenos Aires - FCEN
+Universidad de Chile
+Universidad de La Habana
+Universidad de los Andes, Colombia
+Universidad de Oriente - Sede Antonio Maceo
+Universidad Nacional de Colombia - Bogotá
+Universidad Nacional de Ingeniería - FIIS
+Universidad Nacional de Rosario
+Universidad Simón Bolívar
+Universidade de São Paulo
+Universidade de São Paulo - Campus de São Carlos
+Universidade Estadual de Campinas
+Universidade Federal da Bahia
+Universidade Federal de Campina Grande
+Universidade Federal de Pernambuco
+Universitat Politècnica de Catalunya
+University of Aizu
+University of British Columbia
+University of California at Berkeley
+University of Cape Town
+University of Central Florida
+University of Chicago
+University of Electronic Science and Technology of China
+University of Engineering and Technology - VNU
+University of Helsinki
+University of Illinois at Urbana-Champaign
+University of Minnesota - Twin Cities
+University of New South Wales
+University of North Carolina at Chapel Hill
+University of Southern California
+University of Utah
+University of Virginia
+University of Warsaw
+University of Waterloo
+University of Wisconsin - Madison
+University of Wroclaw
+University of Zagreb
+Ural Federal University
+Utrecht University
+Virginia Tech
+Zaporizhzhya National Technical University
+Zhejiang Normal University
+Zhejiang University
+Zhongshan (Sun Yat-sen) University

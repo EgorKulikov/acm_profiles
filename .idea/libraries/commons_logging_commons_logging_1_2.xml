@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="commons-logging:commons-logging:1.2" type="repository">
+    <properties maven-id="commons-logging:commons-logging:1.2" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/commons-logging-1.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ideaLibSources/commons-logging-1.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

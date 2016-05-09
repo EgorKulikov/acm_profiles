@@ -1,0 +1,840 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>
+        
+            LiCheng Lan &middot;
+        
+            World-Finals-2016 &middot; MyICPC
+    </title>
+    
+
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+<meta name="description"
+      content="MyICPC provides a personalized view of an ICPC competition and encourages social engagement.  MyICPC has been used at regionals and World Finals."/>
+<meta name="keywords"
+      content="MyICPC, ICPC, ACM-ICPC, personalized view, programming competition, programming contest, ACM, World finals, regionals"/>
+<meta name="author" content="Roman Smetana"/>
+<meta name="application-name" content="MyICPC"/>
+
+<link rel="Shortcut Icon" href="http://icpc.baylor.edu/img/icon-icpc-small.gif"/>
+
+
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css" type="text/css">
+<link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/font-awesome/4.1.0/css/font-awesome.min.css" type="text/css">
+
+<link rel="stylesheet" href="/css/myicpc/style.css;jsessionid=DBAD3qYMaS3zd2M1uv6W9xDLPAEXc5-rNkXbWPqU.2014myicpc06" type="text/css">
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    
+</head>
+<body class="desktop">
+<div id="bodyContainer">
+    
+        
+
+
+
+
+<nav id="top-menu-nav" class="navbar navbar-inverse navbar-fixed-top desktop">
+    <div class="container-fluid">
+        <div class="navbar-header">
+			<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+	            <span class="sr-only">Toggle navigation</span>
+	            <span class="icon-bar"></span>
+	            <span class="icon-bar"></span>
+	            <span class="icon-bar"></span>
+	          </button>
+            <div class="navbar-brand">
+                <a href="/World-Finals-2016;jsessionid=DBAD3qYMaS3zd2M1uv6W9xDLPAEXc5-rNkXbWPqU.2014myicpc06" id="homepage-link">
+                    
+
+
+
+
+
+<span class="fa fa-home"  title=""></span>
+
+                    <span class="hidden-xs hidden-sm">
+		            	MyICPC 
+		            </span>	
+                </a>
+            </div>
+        </div>
+<!-- TODO -->
+		<div id="navbar" class="navbar-collapse collapse" aria-expanded="false" style="height: 1px;">
+          
+
+
+        <ul id="top-sub-menu" class="nav navbar-nav">
+            
+                <li class=" dropdown">
+                    
+
+
+
+
+
+
+
+
+
+
+
+<a href="javascript:void(0)"
+
+
+
+
+data-toggle="dropdown"
+   class="dropdown-toggle"
+   style="">
+    
+                        
+
+
+
+
+
+<span class="glyphicon glyphicon-calendar"  title=""></span>
+ <span class="hidden-xs hidden-sm">Schedule</span> <b class="caret"></b>
+                    
+</a>
+
+                    <table class="dropdown-menu main-dropdown-submenu">
+                        
+
+<tr>
+    <td>
+
+
+
+
+
+
+
+<a href="/World-Finals-2016/my-schedule;jsessionid=DBAD3qYMaS3zd2M1uv6W9xDLPAEXc5-rNkXbWPqU.2014myicpc06" class="block"><span class="glyphicon glyphicon-user"></span><br/> My Schedule</a></td>
+    <td>
+
+
+
+
+
+
+
+<a href="/World-Finals-2016/schedule;jsessionid=DBAD3qYMaS3zd2M1uv6W9xDLPAEXc5-rNkXbWPqU.2014myicpc06" class="block"><span class="glyphicon glyphicon-calendar"></span><br/> Full Schedule</a></td>
+</tr>
+<tr>
+    <td>
+
+
+
+
+
+
+
+<a href="/World-Finals-2016/venues;jsessionid=DBAD3qYMaS3zd2M1uv6W9xDLPAEXc5-rNkXbWPqU.2014myicpc06" class="block"><span class="glyphicon glyphicon-map-marker"></span><br/> Venues</a></td>
+    <td></td>
+</tr>
+                    </table>
+                </li>
+            
+            <li id="main-menu-scoreboard" class=" dropdown">
+                
+
+
+
+
+
+
+
+
+
+
+
+<a href="javascript:void(0)"
+
+
+
+
+data-toggle="dropdown"
+   class="dropdown-toggle"
+   style="">
+    
+                    
+
+
+
+
+
+<span class="glyphicon glyphicon-list"  title=""></span>
+ <span class="hidden-xs hidden-sm">Scoreboard</span> <b class="caret"></b>
+                
+</a>
+
+                <table class="dropdown-menu main-dropdown-submenu">
+                    
+
+
+
+<tr>
+    <td>
+
+
+
+
+
+
+
+<a href="/World-Finals-2016/scoreboard;jsessionid=DBAD3qYMaS3zd2M1uv6W9xDLPAEXc5-rNkXbWPqU.2014myicpc06" class="block"><span class="glyphicon glyphicon-list"></span><br/> Scoreboard</a></td>
+    <td>
+
+
+
+
+
+
+
+<a href="/World-Finals-2016/scorebar;jsessionid=DBAD3qYMaS3zd2M1uv6W9xDLPAEXc5-rNkXbWPqU.2014myicpc06" class="block"><span class="glyphicon glyphicon-align-left"></span><br/> Scorebar</a></td>
+</tr>
+<tr>
+    <td>
+
+
+
+
+
+
+
+<a href="/World-Finals-2016/teams;jsessionid=DBAD3qYMaS3zd2M1uv6W9xDLPAEXc5-rNkXbWPqU.2014myicpc06" class="block"><span class="fa fa-users"></span><br/> Teams</a></td>
+    <td>
+        
+            
+
+
+
+
+
+
+
+<a href="/World-Finals-2016/map;jsessionid=DBAD3qYMaS3zd2M1uv6W9xDLPAEXc5-rNkXbWPqU.2014myicpc06" class="block"><span class="glyphicon glyphicon-picture"></span><br/> Map</a>
+        
+    </td>
+</tr>
+<tr>
+    <td>
+
+
+
+
+
+
+
+<a href="/World-Finals-2016/insight;jsessionid=DBAD3qYMaS3zd2M1uv6W9xDLPAEXc5-rNkXbWPqU.2014myicpc06" class="block"><span class="glyphicon glyphicon-eye-open"></span><br/> Insight</a></td>
+    <td>
+        
+            
+
+
+
+
+
+
+
+<a href="/World-Finals-2016/insight;jsessionid=DBAD3qYMaS3zd2M1uv6W9xDLPAEXc5-rNkXbWPqU.2014myicpc06#/code" class="block"><span class="fa fa-code"></span><br/> Code</a>
+        
+    </td>
+</tr>
+                </table>
+            </li>
+            
+                <li id="main-menu-quest" class=" dropdown">
+                    
+
+
+
+
+
+
+
+
+
+
+
+<a href="javascript:void(0)"
+
+
+
+
+data-toggle="dropdown"
+   class="dropdown-toggle"
+   style="">
+    
+                        
+
+
+
+
+
+<span class="glyphicon glyphicon-screenshot"  title=""></span>
+ <span class="hidden-xs hidden-sm">Quest</span> <b class="caret"></b>
+                    
+</a>
+
+                    <table class="dropdown-menu main-dropdown-submenu">
+                        
+
+
+<tr>
+    <td>
+
+
+
+
+
+
+
+<a href="/World-Finals-2016/quest;jsessionid=DBAD3qYMaS3zd2M1uv6W9xDLPAEXc5-rNkXbWPqU.2014myicpc06" class="block"><span class="glyphicon glyphicon-screenshot"></span><br/> Quest</a></td>
+    <td>
+
+
+
+
+
+
+
+<a href="/World-Finals-2016/quest/challenges;jsessionid=DBAD3qYMaS3zd2M1uv6W9xDLPAEXc5-rNkXbWPqU.2014myicpc06" class="block"><span class="fa fa-trophy"></span><br/> Challenges</a></td>
+</tr>
+<tr>
+    <td>
+
+
+
+
+
+
+
+<a href="/World-Finals-2016/quest/leaderboard;jsessionid=DBAD3qYMaS3zd2M1uv6W9xDLPAEXc5-rNkXbWPqU.2014myicpc06" class="block"><span class="glyphicon glyphicon-list"></span><br/> Leaderboard</a></td>
+</tr>
+                    </table>
+                </li>
+            
+            
+                
+                
+                    <li id="main-menu-gallery" class=" dropdown">
+                        
+
+
+
+
+
+
+
+
+
+
+
+<a href="javascript:void(0)"
+
+
+
+
+data-toggle="dropdown"
+   class="dropdown-toggle"
+   style="">
+    
+                            
+
+
+
+
+
+<span class="glyphicon glyphicon-camera"  title=""></span>
+ <span class="hidden-xs hidden-sm">Gallery</span> <b class="caret"></b>
+                        
+</a>
+
+                        <table class="dropdown-menu main-dropdown-submenu">
+                            
+
+
+<tr>
+    <td>
+
+
+
+
+
+
+
+<a href="/World-Finals-2016/gallery;jsessionid=DBAD3qYMaS3zd2M1uv6W9xDLPAEXc5-rNkXbWPqU.2014myicpc06" class="block"><span class="fa fa-camera"></span><br/> Crowd</a></td>
+    <td>
+
+
+
+
+
+
+
+<a href="/World-Finals-2016/gallery/official;jsessionid=DBAD3qYMaS3zd2M1uv6W9xDLPAEXc5-rNkXbWPqU.2014myicpc06" class="block"><span class="fa fa-picture-o"></span><br/> Official</a></td>
+</tr>
+                        </table>
+                    </li>
+                
+            
+            
+                <li class="">
+                    <a href="/World-Finals-2016/polls;jsessionid=DBAD3qYMaS3zd2M1uv6W9xDLPAEXc5-rNkXbWPqU.2014myicpc06">
+                        
+
+
+
+
+
+<span class="glyphicon glyphicon-bullhorn"  title=""></span>
+ <span class="hidden-xs hidden-sm">Polls</span>
+                    </a>
+                </li>
+            
+            
+                <li class="">
+                    <a href="/World-Finals-2016/blog;jsessionid=DBAD3qYMaS3zd2M1uv6W9xDLPAEXc5-rNkXbWPqU.2014myicpc06">
+                        
+
+
+
+
+
+<span class="fa fa-rss"  title=""></span>
+ <span class="hidden-xs hidden-sm">Blog</span>
+                    </a>
+                </li>
+            
+        </ul>
+        <ul class="nav navbar-nav navbar-right">
+            <li>
+                <a href="javascript:void(0)" id="notification-counter-link">
+                    <span id="notification-counter" class="label label-danger notification-counter">
+                        1
+                    </span>
+                </a>
+            </li>
+        </ul>
+        <p class="navbar-text navbar-right contest-time hidden-xs" title="Contest time Hours:Minutes">
+            <span class="glyphicon glyphicon-time"></span> <span class="time_holder"></span>
+        </p>
+        <ul class="nav navbar-nav navbar-right">
+            <li class="hidden">
+                
+
+
+
+
+
+
+
+
+
+
+
+<a href="javascript:void(0)"
+id="scorebord-notification-btn"
+
+
+
+
+   class=""
+   style="">
+    
+                    
+
+
+
+
+
+<span class="glyphicon glyphicon-bell"  title=""></span>
+ <span class="hidden-xs hidden-sm text">Notifications</span>
+                
+</a>
+
+            </li>
+        </ul>
+        </div>
+    </div>
+</nav>
+
+<div id="featured-notification-container"></div>
+    
+    
+    
+        <div id="pageTitle" class="page-header clearfix" style="margin-bottom: 10px;">
+            
+                <div class="pull-right">
+                    
+                </div>
+            
+            <h2>
+                LiCheng Lan
+        <small>
+            
+                Contestant
+            
+        </small>
+            </h2>
+        </div>
+    
+
+    
+<div id="messages">
+    
+    
+    
+</div>
+
+    <div id="body" class="clearfix">
+        
+        <div class="col-sm-6">
+            <h3>Attended contests</h3>
+            
+                <table class="table">
+                    <thead>
+                        <tr>
+                            <th>Year</th>
+                            <th>Contest</th>
+                            <th>Team role</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        
+                            <tr>
+                                <td>2016</td>
+                                <td>40th Annual World Finals of the ACM International Collegiate Programming Contest</td>
+                                <td>Contestant</td>
+                            </tr>
+
+                        
+                            <tr>
+                                <td>2015</td>
+                                <td>The 2015 ACM-ICPC Asia Tsukuba Regional Contest</td>
+                                <td>Contestant</td>
+                            </tr>
+
+                        
+                            <tr>
+                                <td>2015</td>
+                                <td>The 2015 ACM-ICPC Asia Jakarta Regional Contest</td>
+                                <td>Contestant</td>
+                            </tr>
+
+                        
+                            <tr>
+                                <td>2014</td>
+                                <td>Asia Taichung Preliminary 2 sub-contest</td>
+                                <td>Contestant</td>
+                            </tr>
+
+                        
+                            <tr>
+                                <td>2014</td>
+                                <td>ACM-ICPC Taiwan Summer Camp Second Programming Contest</td>
+                                <td>Contestant</td>
+                            </tr>
+
+                        
+                            <tr>
+                                <td>2014</td>
+                                <td>The 2014 ACM-ICPC Asia Daejeon Regional Contest</td>
+                                <td>Contestant</td>
+                            </tr>
+
+                        
+                            <tr>
+                                <td>2014</td>
+                                <td>ACM-ICPC Taiwan Summer Camp First Programming Contest</td>
+                                <td>Contestant</td>
+                            </tr>
+
+                        
+                            <tr>
+                                <td>2014</td>
+                                <td>The 2014 ACM-ICPC Asia Taichung Regional Contest</td>
+                                <td>Contestant</td>
+                            </tr>
+
+                        
+                            <tr>
+                                <td>2013</td>
+                                <td>The 2013 ACM-ICPC Asia Daejeon Regional Contest</td>
+                                <td>Contestant</td>
+                            </tr>
+
+                        
+                            <tr>
+                                <td>2013</td>
+                                <td>The 2013 ACM-ICPC Asia Chia-Yi Regional Contest</td>
+                                <td>Contestant</td>
+                            </tr>
+
+                        
+                            <tr>
+                                <td>2013</td>
+                                <td>Asia Chia-Yi -Taiwan National Programming Contest</td>
+                                <td>Contestant</td>
+                            </tr>
+
+                        
+                            <tr>
+                                <td>2012</td>
+                                <td>The 2012 ACM-ICPC Asia Kaohsiung Regional Contest</td>
+                                <td>Contestant</td>
+                            </tr>
+
+                        
+                            <tr>
+                                <td>2012</td>
+                                <td>The 2012 ACM-ICPC Asia Tokyo Regional Contest</td>
+                                <td>Contestant</td>
+                            </tr>
+
+                        
+                    </tbody>
+                </table>
+            
+            
+        </div>
+
+        <div class="col-sm-6">
+            <h3>Quest</h3>
+            
+            
+                <p class="no-items-available">
+                    LiCheng Lan has not participated in 
+                    <a href="/World-Finals-2016/quest;jsessionid=DBAD3qYMaS3zd2M1uv6W9xDLPAEXc5-rNkXbWPqU.2014myicpc06">Quest</a>
+                </p>
+            
+        </div>
+
+    
+    </div>
+    
+
+<footer id="footer">
+    <a id="feedbackLink" class="btn btn-info pull-right btn-xs">
+        
+
+
+
+
+
+<span class="fa fa-envelope-o"  title=""></span>
+ Feedback
+    </a>
+
+    <div id="share-container">
+        <a href="http://www.twitter.com/icpcnews" title="http://www.twitter.com/icpcnews" target="_blank">
+            
+
+
+
+
+
+<span class="fa fa-twitter-square"  title=""></span>
+
+        </a> &middot;
+        <a href="http://www.facebook.com/icpcnews" title="http://www.facebook.com/icpcnews" target="_blank">
+            
+
+
+
+
+
+<span class="fa fa-facebook-square"  title=""></span>
+
+        </a> &middot;
+        <a href="http://www.youtube.com/user/ICPCNews" title="http://www.youtube.com/user/ICPCNews" target="_blank">
+            
+
+
+
+
+
+<span class="fa fa-youtube"  title=""></span>
+
+        </a> &middot;
+        <a href="http://www.instagram.com/icpcnews" title="http://www.instagram.com/icpcnews" target="_blank">
+            
+
+
+
+
+
+<span class="fa fa-instagram"  title=""></span>
+
+        </a>
+    </div>
+</footer>
+
+<div id="feedbackWrapper"></div>
+</div>
+
+
+
+
+
+<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.4.3/angular.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.4.3/angular-sanitize.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.4.3/angular-route.min.js" defer></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/modernizr/2.7.1/modernizr.min.js" defer></script>
+<script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.11.1/jquery-ui.min.js" defer></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js" defer></script>
+<script src="/js/jquery/jquery.atmosphere.min.js;jsessionid=DBAD3qYMaS3zd2M1uv6W9xDLPAEXc5-rNkXbWPqU.2014myicpc06" defer></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/underscore.js/1.5.2/underscore-min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/handlebars.js/1.3.0/handlebars.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/jquery.touchswipe/1.6.4/jquery.touchSwipe.min.js" defer></script>
+<script src="https://apis.google.com/js/platform.js" async defer></script>
+
+
+<script src="/js/myicpc/functions.js;jsessionid=DBAD3qYMaS3zd2M1uv6W9xDLPAEXc5-rNkXbWPqU.2014myicpc06"></script>
+
+<script type="application/javascript">
+    
+    notificationCountPolling('', '/World-Finals-2016');
+
+    
+    $(function() {
+        $("#feedbackLink").click(function() {
+            $.get("/World-Finals-2016/feedback-form;jsessionid=DBAD3qYMaS3zd2M1uv6W9xDLPAEXc5-rNkXbWPqU.2014myicpc06", function(data) {
+                $("#feedbackWrapper").html(data);
+                $("#feedbackModal").modal('show');
+            });
+        });
+    });
+
+    $("#notification-counter-link").click(function() {
+        var $featuredNotificationContainer = $("#featured-notification-container");
+        if (!$featuredNotificationContainer.is(":visible")) {
+            $.get("/World-Finals-2016/notification/featured-panel;jsessionid=DBAD3qYMaS3zd2M1uv6W9xDLPAEXc5-rNkXbWPqU.2014myicpc06", function(data) {
+                $featuredNotificationContainer.html(data);
+                $featuredNotificationContainer.slideDown();
+                $(window).scrollTop(0);
+            });
+        } else {
+            $featuredNotificationContainer.slideUp();
+        }
+    });
+
+    
+    showShareDialog = function(notificationId) {
+        $.get('/World-Finals-2016/notification/;jsessionid=DBAD3qYMaS3zd2M1uv6W9xDLPAEXc5-rNkXbWPqU.2014myicpc06' +notificationId + '/share', function(data) {
+            $('#shareNotificationDialogContainer').html(data);
+            $('#shareNotificationDialog').modal('show');
+        })
+    }
+
+    function profilePictureError(image) {
+        image.onerror = "";
+        image.src = "/images/default-profile-small.png;jsessionid=DBAD3qYMaS3zd2M1uv6W9xDLPAEXc5-rNkXbWPqU.2014myicpc06";
+        return true;
+    }
+    profilePictureError
+
+    if (typeof localStorage !== "undefined") {
+        localStorage["currentContest"] = 'World-Finals-2016';
+    }
+
+    
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+                (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'UA-44308219-1', 'auto');
+    ga('send', 'pageview');
+
+</script>
+<div id="shareNotificationDialogContainer"></div>
+
+    
+<script type="text/javascript">
+
+
+   $(function () {
+
+	    $(".dropdown").click(
+            function () {
+				if(smallScreen()) {
+                	$(this).toggleClass('open');
+				}
+            });
+	    $(".dropdown").hover(
+            function () {
+            	if(!smallScreen()) {
+	               // $('.dropdown-menu', this).stop(true, true).slideDown("fast");  // kills click
+	              	$(this).toggleClass('open');
+            	}
+            },
+            function () {
+            	if(!smallScreen()) {
+		             // $('.dropdown-menu', this).stop(true, true).slideUp("fast"); // kills click
+		              $(this).toggleClass('open');
+            	}
+            } );
+   
+
+    var timediff = -764746;
+
+    function contestTime() {
+      $(".time_holder").html(formatContestTime(timediff));
+      timediff += 60;
+    }
+    function smallScreen() {
+    	return $(window).width() < 768
+    }
+
+    contestTime();
+    if (timediff < 18000) {
+      setInterval(contestTime, 60 * 1000);
+    }
+  });
+  
+</script>
+
+
+
+<iframe src="/loadCacheManifest;jsessionid=DBAD3qYMaS3zd2M1uv6W9xDLPAEXc5-rNkXbWPqU.2014myicpc06" style="display: none;"></iframe>
+</body>
+</html>
+
