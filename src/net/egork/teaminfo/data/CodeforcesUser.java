@@ -58,6 +58,12 @@ public class CodeforcesUser {
             persons.add(person);
             byHandle.put(person.getCfHandle(), person);
         }
+//        addCodeforcesAchievements(byHandle);
+        return persons;
+    }
+
+    public static void addCodeforcesAchievements() throws IOException {
+        Map<String, Person> byHandle = new HashMap<>();
         BufferedReader reader = new BufferedReader(new FileReader("input/codeforces_contest.cvs"));
         reader.readLine();
         String s;
@@ -79,13 +85,18 @@ public class CodeforcesUser {
                 Iterator<JsonNode> memberIterator = members.elements();
                 while (memberIterator.hasNext()) {
                     String handle = memberIterator.next().get("handle").asText();
-                    byHandle.get(handle).addAchievement(new Achievement(name + " " + (rank <= 3 ? rank + Utils.appropriateEnd
+                    Person person = byHandle.get(handle);
+                    if (person == null) {
+                        person = new Person().setCfHandle(handle);
+                        byHandle.put(handle, person);
+                    }
+                    person.addAchievement(new Achievement(name + " " + (rank <= 3 ? rank + Utils.appropriateEnd
                             (rank) : "finalist"), rank <= 3 ? Integer.parseInt(top3Priority) : Integer.parseInt
                             (otherPriority)));
                 }
             }
         }
-        return persons;
+        Utils.mapper.writeValue(new File("input/codeforces_achivements.json"), new ArrayList<>(byHandle.values()));
     }
 
     private static String getName(CodeforcesUser user) {

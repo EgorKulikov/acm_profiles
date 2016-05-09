@@ -25,6 +25,10 @@ public class PersonalDatabase {
             CodeforcesUser.main();
         }
         add("input/codeforces.json");
+        if (Boolean.getBoolean("reloadCodeforcesAchievements")) {
+            CodeforcesUser.addCodeforcesAchievements();
+        }
+        add("input/codeforces_achivements.json");
         log.info("Codeforces processed");
         saveDatabase();
         log.info("Database created");
