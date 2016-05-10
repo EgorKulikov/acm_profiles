@@ -13,6 +13,7 @@ public class Person {
     private String name;
     private List<String> altNames = new ArrayList<>();
     private String tcHandle;
+    private String tcId;
     private int tcRating = -1;
     private String cfHandle;
     private int cfRating = -1;
@@ -82,15 +83,24 @@ public class Person {
         return this;
     }
 
+    public String getTcId() {
+        return tcId;
+    }
+
+    public void setTcId(String tcId) {
+        this.tcId = tcId;
+    }
+
     public boolean isCompatible(Person other) {
-        return Utils.compatible(tcHandle, other.tcHandle) && Utils.compatible(cfHandle, other.cfHandle);
+        return Utils.compatible(tcHandle, other.tcHandle) && Utils.compatible(cfHandle, other.cfHandle) &&
+                Utils.compatible(tcId, other.tcId);
     }
 
     public void updateFrom(Person other) {
         if (name == null || name.equals(other.name)) {
             name = other.name;
         } else {
-            if (!altNames.contains(other.name)) {
+            if (other.name != null && !altNames.contains(other.name)) {
                 altNames.add(other.name);
             }
         }
@@ -101,6 +111,9 @@ public class Person {
         }
         if (other.tcHandle != null) {
             tcHandle = other.tcHandle;
+        }
+        if (other.tcId != null) {
+            tcId = other.tcId;
         }
         if (other.tcRating != -1) {
             tcRating = other.tcRating;
@@ -117,16 +130,29 @@ public class Person {
 
     public boolean isSamePerson(Person other) {
         if (name != null) {
-            if (name.equals(other.name) || other.altNames.contains(name)) {
+            if (name.equals(other.name)) {
                 return true;
+            }
+            for (String altName : other.altNames) {
+                if (name.equalsIgnoreCase(altName)) {
+                    return true;
+                }
             }
         }
         for (String name : altNames) {
-            if (name.equals(other.name) || other.altNames.contains(name)) {
+            if (name.equalsIgnoreCase(other.name)) {
                 return true;
+            }
+            for (String altName : other.altNames) {
+                if (name.equalsIgnoreCase(altName)) {
+                    return true;
+                }
             }
         }
         if (tcHandle != null && tcHandle.equals(other.tcHandle)) {
+            return true;
+        }
+        if (tcId != null && tcId.equals(other.tcId)) {
             return true;
         }
         return cfHandle != null && cfHandle.equals(other.cfHandle);

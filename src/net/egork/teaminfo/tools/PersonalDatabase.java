@@ -16,8 +16,9 @@ import java.util.*;
 public class PersonalDatabase {
     static Log log = LogFactory.getLog(PersonalDatabase.class);
 
-    static Map<String, Person> byName = new HashMap<>();
+    static Map<String, Person> byName = new TreeMap<>(String.CASE_INSENSITIVE_ORDER);
     static Map<String, Person> byTc = new HashMap<>();
+    static Map<String, Person> byTcId = new HashMap<>();
     static Map<String, Person> byCf = new HashMap<>();
 
     public static void main(String... args) throws Exception {
@@ -30,6 +31,11 @@ public class PersonalDatabase {
         }
         add("input/codeforces_achivements.json");
         log.info("Codeforces processed");
+        if (Boolean.getBoolean("reloadIOI")) {
+            IOIDownloader.main();
+        }
+        add("input/ioi.json");
+        log.info("IOI Processed");
         saveDatabase();
         log.info("Database created");
     }
@@ -58,20 +64,44 @@ public class PersonalDatabase {
             if (!good) {
                 log.info("Something fishy with " + person.getName() + " " + person.getTcHandle() + " " + person.getCfHandle());
             }
+            Set<Person> added = new HashSet<>();
             if (person.getName() != null && byName.containsKey(person.getName())) {
-                person.updateFrom(byName.get(person.getName()));
+                Person current = byName.get(person.getName());
+                if (!added.contains(current)) {
+                    person.updateFrom(current);
+                    added.add(current);
+                }
             }
             List<String> altNames = new ArrayList<>(person.getAltNames());
             for (String name : altNames) {
                 if (byName.containsKey(name)) {
-                    person.updateFrom(byName.get(name));
+                    Person current = byName.get(name);
+                    if (!added.contains(current)) {
+                        person.updateFrom(current);
+                        added.add(current);
+                    }
                 }
             }
             if (person.getTcHandle() != null && byTc.containsKey(person.getTcHandle())) {
-                person.updateFrom(byTc.get(person.getTcHandle()));
+                Person current = byTc.get(person.getTcHandle());
+                if (!added.contains(current)) {
+                    person.updateFrom(current);
+                    added.add(current);
+                }
+            }
+            if (person.getTcId() != null && byTcId.containsKey(person.getTcId())) {
+                Person current = byTcId.get(person.getTcId());
+                if (!added.contains(current)) {
+                    person.updateFrom(current);
+                    added.add(current);
+                }
             }
             if (person.getCfHandle() != null && byCf.containsKey(person.getCfHandle())) {
-                person.updateFrom(byCf.get(person.getCfHandle()));
+                Person current = byCf.get(person.getCfHandle());
+                if (!added.contains(current)) {
+                    person.updateFrom(current);
+                    added.add(current);
+                }
             }
             if (person.getName() != null) {
                 byName.put(person.getName(), person);
@@ -81,6 +111,9 @@ public class PersonalDatabase {
             }
             if (person.getTcHandle() != null) {
                 byTc.put(person.getTcHandle(), person);
+            }
+            if (person.getTcId() != null) {
+                byTcId.put(person.getTcId(), person);
             }
             if (person.getCfHandle() != null) {
                 byCf.put(person.getCfHandle(), person);

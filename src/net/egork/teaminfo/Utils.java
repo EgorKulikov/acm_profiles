@@ -104,7 +104,7 @@ public class Utils {
         return node;
     }
 
-    public static boolean compatible(Object o1, Object o2) {
+    public static boolean compatible(String o1, String o2) {
         return o1 == null || o2 == null || o1.equals(o2);
     }
 
@@ -116,5 +116,19 @@ public class Utils {
             list.add(mapper.treeToValue(elements.next(), aClass));
         }
         return list;
+    }
+
+    public static String getYears(List<String> years) {
+        boolean first = true;
+        StringBuilder result = new StringBuilder();
+        for (String year : years) {
+            if (first) {
+                first = false;
+            } else {
+                result.append(", ");
+            }
+            result.append(year);
+        }
+        return result.toString();
     }
 }

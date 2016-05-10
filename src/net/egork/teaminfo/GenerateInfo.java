@@ -57,6 +57,8 @@ public class GenerateInfo {
             PersonalDatabase.main();
         }
         List<Person> persons = Utils.readList("input/database.json", Person.class);
+        int coachesFound = 0;
+        int participantsFound = 0;
         for (int i = 1; i <= 128; i++) {
             Record record = records[i];
             boolean coachFound = false;
@@ -68,7 +70,8 @@ public class GenerateInfo {
                 }
             }
             if (coachFound) {
-                log.info("Data for coach " + record.coach.getName());
+//                log.info("Data for coach " + record.coach.getName());
+                coachesFound++;
             }
             for (Person contestant : record.contestants) {
                 boolean found = false;
@@ -80,11 +83,14 @@ public class GenerateInfo {
                     }
                 }
                 if (found) {
-                    log.info("Data for contestant " + contestant.getName());
+//                    log.info("Data for contestant " + contestant.getName());
+                    participantsFound++;
                 }
             }
         }
         log.info("Personal info integrated");
+        log.info("Coaches: " + coachesFound + "/128 found");
+        log.info("Participants: " + participantsFound + "/384 found");
     }
 
     private static void readSnark() throws Exception {
