@@ -147,9 +147,7 @@ public class Person {
             }
         }
         for (String altName : other.altNames) {
-            if (!altNames.contains(altName)) {
-                altNames.add(altName);
-            }
+            addAltName(altName);
         }
         if (other.tcHandle != null) {
             tcHandle = other.tcHandle;

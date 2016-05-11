@@ -297,6 +297,7 @@ public class GenerateInfo {
         for (int i = 1; i <= 128; i++) {
             Utils.mapper.writeValue(new File("output/" + i + ".json"), records[i]);
         }
+        Utils.mapper.writeValue(new File("output/all.json"), Arrays.asList(Arrays.copyOfRange(records, 1, 129)));
     }
 
     private static void readIds() throws Exception {
