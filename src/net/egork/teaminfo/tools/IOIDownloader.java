@@ -1,6 +1,5 @@
 package net.egork.teaminfo.tools;
 
-import net.egork.teaminfo.Utils;
 import net.egork.teaminfo.data.Achievement;
 import net.egork.teaminfo.data.Person;
 import org.apache.commons.logging.Log;
@@ -8,7 +7,6 @@ import org.apache.commons.logging.LogFactory;
 
 import java.io.File;
 import java.util.ArrayList;
-import java.util.Collections;
 import java.util.List;
 
 import static net.egork.teaminfo.Utils.*;
@@ -52,10 +50,6 @@ public class IOIDownloader {
                 person.setCfHandle(page.substring(0, page.indexOf("\"")));
             }
             page = page.substring(page.indexOf("Medal</a>"));
-            List<String> goldMedals = new ArrayList<>();
-            List<String> silverMedals = new ArrayList<>();
-            List<String> bronzeMedals = new ArrayList<>();
-            List<String> noMedals = new ArrayList<>();
             page = page.substring(0, page.indexOf("</table>"));
             while ((index = page.indexOf("<tr>")) != -1) {
                 page = page.substring(index);
@@ -65,34 +59,14 @@ public class IOIDownloader {
                 page = page.substring(page.indexOf("/") + 1);
                 String year = page.substring(0, page.indexOf("\""));
                 if (start.contains("gold")) {
-                    goldMedals.add(year);
+                    person.addAchievement(new Achievement("IOI Gold Medalist", Integer.parseInt(year), 50));
                 } else if (start.contains("silver")) {
-                    silverMedals.add(year);
+                    person.addAchievement(new Achievement("IOI Silver Medalist", Integer.parseInt(year), 30));
                 } else if (start.contains("bronze")) {
-                    bronzeMedals.add(year);
+                    person.addAchievement(new Achievement("IOI Bronze Medalist", Integer.parseInt(year), 20));
                 } else {
-                    noMedals.add(year);
+                    person.addAchievement(new Achievement("IOI Participant", Integer.parseInt(year), 10));
                 }
-            }
-            if (!goldMedals.isEmpty()) {
-                Collections.reverse(goldMedals);
-                person.addAchievement(new Achievement("IOI Gold Medalist (" + Utils.getYears(goldMedals) + ")", 50 +
-                        goldMedals.size()));
-            }
-            if (!silverMedals.isEmpty()) {
-                Collections.reverse(silverMedals);
-                person.addAchievement(new Achievement("IOI Silver Medalist (" + Utils.getYears(silverMedals) + ")", 30 +
-                        silverMedals.size()));
-            }
-            if (!bronzeMedals.isEmpty()) {
-                Collections.reverse(bronzeMedals);
-                person.addAchievement(new Achievement("IOI Bronze Medalist (" + Utils.getYears(bronzeMedals) + ")", 20 +
-                        bronzeMedals.size()));
-            }
-            if (!noMedals.isEmpty()) {
-                Collections.reverse(noMedals);
-                person.addAchievement(new Achievement("IOI Participant (" + Utils.getYears(noMedals) + ")", 10 +
-                        noMedals.size()));
             }
             persons.add(person);
             if (++count % 100 == 0) {

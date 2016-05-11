@@ -91,8 +91,8 @@ public class CodeforcesUser {
                         byHandle.put(handle, person);
                     }
                     person.addAchievement(new Achievement(name + " " + (rank <= 3 ? rank + Utils.appropriateEnd
-                            (rank) : "finalist"), rank <= 3 ? Integer.parseInt(top3Priority) + 3 - rank : Integer
-                            .parseInt(otherPriority)));
+                            (rank) : "finalist"), Integer.parseInt(tokens[4]), rank <= 3 ? Integer.parseInt
+                            (top3Priority) + 3 - rank : Integer.parseInt(otherPriority)));
                 }
             }
         }

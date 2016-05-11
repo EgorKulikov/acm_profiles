@@ -119,16 +119,54 @@ public class Utils {
     }
 
     public static String getYears(List<String> years) {
-        boolean first = true;
         StringBuilder result = new StringBuilder();
+        int start = -1;
+        int end = -1;
+        boolean first = true;
         for (String year : years) {
-            if (first) {
-                first = false;
-            } else {
-                result.append(", ");
+            int y = Integer.parseInt(year);
+            if (end + 1 != y) {
+                if (start != -1) {
+                    if (first) {
+                        first = false;
+                    } else {
+                        result.append(", ");
+                    }
+                    if (end - start > 1) {
+                        result.append(start).append("-").append(end);
+                    } else if (end - start == 1) {
+                        result.append(start).append(", ").append(end);
+                    } else {
+                        result.append(start);
+                    }
+                }
+                start = y;
             }
-            result.append(year);
+            end = y;
+        }
+        if (first) {
+            first = false;
+        } else {
+            result.append(", ");
+        }
+        if (end - start > 1) {
+            result.append(start).append("-").append(end);
+        } else if (end - start == 1) {
+            result.append(start).append(", ").append(end);
+        } else {
+            result.append(start);
         }
         return result.toString();
+    }
+
+    private static String UMLAUTS = "ŠŒŽšœžŸ¥µÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖØÙÚÛÜÝàáâãäåæçèéêëìíîïðñòóôõöøùúûüýÿ";
+    private static String WITHOUT = "SOZsozYYuAAAAAAACEEEEIIIIDNOOOOOOUUUUYaaaaaaaceeeeiiiionoooooouuuuyy";
+
+    public static String replaceUmlauts(String name) {
+        name = name.replace("ß", "ss");
+        for (int i = 0; i < UMLAUTS.length(); i++) {
+            name = name.replace(UMLAUTS.charAt(i), WITHOUT.charAt(i));
+        }
+        return name;
     }
 }

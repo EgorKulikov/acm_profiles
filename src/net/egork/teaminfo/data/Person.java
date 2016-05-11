@@ -2,9 +2,7 @@ package net.egork.teaminfo.data;
 
 import net.egork.teaminfo.Utils;
 
-import java.util.ArrayList;
-import java.util.Collections;
-import java.util.List;
+import java.util.*;
 
 /**
  * @author egor@egork.net
@@ -49,6 +47,21 @@ public class Person {
 
     public Person setName(String name) {
         this.name = name;
+        if (name != null) {
+            if (name.contains("Andrew")) {
+                addAltName(name.replace("Andrew", "Andrey"));
+            }
+            if (name.contains("Alexander")) {
+                addAltName(name.replace("Alexander", "Aleksandr"));
+            }
+            if (name.contains("Alexandr")) {
+                addAltName(name.replace("Alexandr", "Aleksandr"));
+            }
+            String noUmlauts = Utils.replaceUmlauts(name);
+            if (!noUmlauts.equals(name)) {
+                addAltName(noUmlauts);
+            }
+        }
         return this;
     }
 
@@ -73,12 +86,41 @@ public class Person {
     }
 
     public Person addAltName(String name) {
+        if (name.equals(this.name) || altNames.contains(name)) {
+            return this;
+        }
         altNames.add(name);
+        String noUmlauts = Utils.replaceUmlauts(name);
+        if (!noUmlauts.equals(name)) {
+            addAltName(noUmlauts);
+        }
         return this;
     }
 
     public Person addAchievement(Achievement achievement) {
         achievements.add(achievement);
+        Collections.sort(achievements);
+        return this;
+    }
+
+    public Person compressAchievements() {
+        Map<String, List<Achievement>> byType = new HashMap<>();
+        for (Achievement achievement : achievements) {
+            if (!byType.containsKey(achievement.achievement)) {
+                byType.put(achievement.achievement, new ArrayList<>());
+            }
+            byType.get(achievement.achievement).add(achievement);
+        }
+        achievements = new ArrayList<>();
+        for (Map.Entry<String, List<Achievement>> entry : byType.entrySet()) {
+            List<String> years = new ArrayList<>();
+            for (Achievement achievement : entry.getValue()) {
+                years.add(Integer.toString(achievement.year));
+            }
+            Collections.sort(years);
+            achievements.add(new Achievement(entry.getKey() + " (" + Utils.getYears(years) + ")", null, entry
+                    .getValue().iterator().next().priority + years.size()));
+        }
         Collections.sort(achievements);
         return this;
     }

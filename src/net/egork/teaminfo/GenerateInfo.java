@@ -1,5 +1,6 @@
 package net.egork.teaminfo;
 
+import net.egork.teaminfo.data.Achievement;
 import net.egork.teaminfo.data.Person;
 import net.egork.teaminfo.data.Record;
 import net.egork.teaminfo.data.University;
@@ -48,9 +49,33 @@ public class GenerateInfo {
         readPersonalDatabase();
 
         saveResults();
+        saveRepeatFinalists();
     }
 
-
+    private static void saveRepeatFinalists() throws Exception {
+        PrintWriter out = new PrintWriter("repeat.cvs");
+        for (int i = 1; i <= 128; i++) {
+            Record record = records[i];
+            List<String> good = new ArrayList<>();
+            for (Person person : record.contestants) {
+                for (Achievement achievement : person.getAchievements()) {
+                    if (achievement.achievement.startsWith("ACM ICPC Finalist")) {
+                        good.add(";" + person.getName() + ";" + achievement.achievement.substring(achievement
+                                .achievement.length() - 4));
+                    }
+                }
+            }
+            if (good.size() != 0) {
+                out.print(record.university.getFullName() + ";" + record.university.getRegion() + ";" + good.size());
+                for (String s : good) {
+                    out.print(s);
+                }
+                out.println();
+            }
+        }
+        out.close();
+        log.info("Repeats processed");
+    }
 
     private static void readPersonalDatabase() throws Exception {
         if (Boolean.getBoolean("recreateUserDatabase")) {
@@ -86,6 +111,13 @@ public class GenerateInfo {
 //                    log.info("Data for contestant " + contestant.getName());
                     participantsFound++;
                 }
+            }
+        }
+        for (int i = 1; i <= 128; i++) {
+            Record record = records[i];
+            record.coach.compressAchievements();
+            for (Person contestant : record.contestants) {
+                contestant.compressAchievements();
             }
         }
         log.info("Personal info integrated");

@@ -36,6 +36,16 @@ public class PersonalDatabase {
         }
         add("input/ioi.json");
         log.info("IOI Processed");
+        if (Boolean.getBoolean("reloadTopCoder")) {
+            TopCoderDownloader.main();
+        }
+        add("input/topcoder.json");
+        if (Boolean.getBoolean("reloadWFData")) {
+            WFData.main();
+        }
+        add("input/wf.json");
+        log.info("TopCoder Processed");
+        add("input/corrections.json");
         saveDatabase();
         log.info("Database created");
     }
@@ -99,6 +109,20 @@ public class PersonalDatabase {
             if (person.getCfHandle() != null && byCf.containsKey(person.getCfHandle())) {
                 Person current = byCf.get(person.getCfHandle());
                 if (!added.contains(current)) {
+                    person.updateFrom(current);
+                    added.add(current);
+                }
+            }
+            if (person.getCfHandle() != null && byTc.containsKey(person.getCfHandle())) {
+                Person current = byTc.get(person.getCfHandle());
+                if (!added.contains(current) && current.isCompatible(person)) {
+                    person.updateFrom(current);
+                    added.add(current);
+                }
+            }
+            if (person.getTcHandle() != null && byCf.containsKey(person.getTcHandle())) {
+                Person current = byCf.get(person.getTcHandle());
+                if (!added.contains(current) && current.isCompatible(person)) {
                     person.updateFrom(current);
                     added.add(current);
                 }
