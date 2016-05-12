@@ -24,8 +24,13 @@ public class Utils {
     public static String loadPage(String address) throws Exception {
         URL url = new URL(address);
         URLConnection connection = url.openConnection();
-        BufferedReader reader = new BufferedReader(new InputStreamReader(connection.getInputStream()));
-        return getString(reader);
+        try {
+            BufferedReader reader = new BufferedReader(new InputStreamReader(connection.getInputStream()));
+            return getString(reader);
+        } catch (IOException e) {
+            log.error("Can't load page " + address);
+            return loadPage(address);
+        }
     }
 
     private static String getString(BufferedReader reader) throws IOException {

@@ -14,7 +14,7 @@ public class University {
     private int gold = -1;
     private int silver = -1;
     private int bronze = -1;
-    private int regionalChampionships = -1;
+    private int regionalChampionships = 0;
 
     public String getFullName() {
         return fullName;

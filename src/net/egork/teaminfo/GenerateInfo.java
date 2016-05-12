@@ -44,12 +44,27 @@ public class GenerateInfo {
         //Teams
         readShortNames();
         readSnark();
+        readRegionalChamps();
 
         //Personal
         readPersonalDatabase();
 
         saveResults();
         saveRepeatFinalists();
+    }
+
+    private static void readRegionalChamps() throws Exception {
+        BufferedReader reader = new BufferedReader(new FileReader("input/regional_champs.txt"));
+        String s;
+        while ((s = reader.readLine()) != null) {
+            for (int i = 1; i <= 128; i++) {
+                University university = records[i].university;
+                if (university.getFullName().equals(s)) {
+                    university.setRegionalChampionships(university.getRegionalChampionships() + 1);
+                }
+            }
+        }
+        log.info("Regional champs done");
     }
 
     private static void saveRepeatFinalists() throws Exception {
@@ -165,7 +180,7 @@ public class GenerateInfo {
 
     private static void readShortNames() throws Exception {
         University[] universities = new University[128];
-        BufferedReader reader = new BufferedReader(new FileReader("input/short.csv"));
+        BufferedReader reader = new BufferedReader(new FileReader("input/short.cvs"));
         for (int i = 0; i < 128; i++) {
             String[] tokens = reader.readLine().split(";");
             universities[i] = new University();

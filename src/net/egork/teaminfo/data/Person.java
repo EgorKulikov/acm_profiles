@@ -134,8 +134,8 @@ public class Person {
     }
 
     public boolean isCompatible(Person other) {
-        return Utils.compatible(tcHandle, other.tcHandle) && Utils.compatible(cfHandle, other.cfHandle) &&
-                Utils.compatible(tcId, other.tcId);
+        return Utils.compatible(tcHandle, other.tcHandle) && (Utils.compatible(cfHandle, other.cfHandle) || cfHandle
+                .equalsIgnoreCase(other.cfHandle)) && Utils.compatible(tcId, other.tcId);
     }
 
     public void updateFrom(Person other) {
@@ -195,6 +195,6 @@ public class Person {
         if (tcId != null && tcId.equals(other.tcId)) {
             return true;
         }
-        return cfHandle != null && cfHandle.equals(other.cfHandle);
+        return cfHandle != null && cfHandle.equalsIgnoreCase(other.cfHandle);
     }
 }

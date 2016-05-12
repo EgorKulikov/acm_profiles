@@ -19,7 +19,7 @@ public class PersonalDatabase {
     static Map<String, Person> byName = new TreeMap<>(String.CASE_INSENSITIVE_ORDER);
     static Map<String, Person> byTc = new HashMap<>();
     static Map<String, Person> byTcId = new HashMap<>();
-    static Map<String, Person> byCf = new HashMap<>();
+    static Map<String, Person> byCf = new TreeMap<>(String.CASE_INSENSITIVE_ORDER);
 
     public static void main(String... args) throws Exception {
         if (Boolean.getBoolean("reloadCodeforcesUsers")) {
@@ -152,5 +152,7 @@ public class PersonalDatabase {
         allPersons.addAll(byCf.values());
         List<Person> persons = new ArrayList<>(allPersons);
         Utils.mapper.writeValue(new File("input/database.json"), persons);
+        persons.stream().forEach(Person::compressAchievements);
+        Utils.mapper.writeValue(new File("input/compressed_database.json"), persons);
     }
 }
