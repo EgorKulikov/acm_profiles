@@ -11,6 +11,7 @@ public class Team {
     private String name;
     private List<String> regionals;
     private int openCupPlace = -1;
+    private int openCupTimes = 0;
 
     public String getName() {
         return name;
@@ -34,6 +35,14 @@ public class Team {
 
     public void setOpenCupPlace(int openCupPlace) {
         this.openCupPlace = openCupPlace;
+    }
+
+    public int getOpenCupTimes() {
+        return openCupTimes;
+    }
+
+    public void setOpenCupTimes(int openCupTimes) {
+        this.openCupTimes = openCupTimes;
     }
 
     public void updateFrom(Team team) {

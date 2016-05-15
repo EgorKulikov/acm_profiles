@@ -45,6 +45,7 @@ public class GenerateInfo {
         readShortNames();
         readSnark();
         readRegionalChamps();
+        readOpenCup();
 
         //Personal
         readPersonalDatabase();
@@ -52,6 +53,26 @@ public class GenerateInfo {
         saveResults();
         saveRepeatFinalists();
         saveHRForm();
+    }
+
+    private static void readOpenCup() throws Exception {
+        BufferedReader reader = new BufferedReader(new FileReader("input/opencup.txt"));
+        String s;
+        while ((s = reader.readLine()) != null) {
+            String[] tokens = s.split(";");
+            boolean found = false;
+            for (int i = 1; i <= 128; i++) {
+                Record record = records[i];
+                if (record.university.getFullName().equals(tokens[0])) {
+                    record.team.setOpenCupPlace(Integer.parseInt(tokens[1]));
+                    record.team.setOpenCupTimes(Integer.parseInt(tokens[2]));
+                    found = true;
+                }
+            }
+            if (!found) {
+                log.error("Can't find " + tokens[0]);
+            }
+        }
     }
 
     private static void saveHRForm() throws Exception {

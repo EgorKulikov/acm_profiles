@@ -157,6 +157,7 @@ Achievements:
 
 University: Beihang University
 Team: TheWaySoFar
+OpenCup: 87 (6)
 
 Coach:
 Name: You Song
@@ -198,6 +199,7 @@ ACM ICPC Finalist (2015)
 
 University: Beijing University of Posts and Telecommunications
 Team: heheda
+OpenCup: 80 (3)
 
 Coach:
 Name: Ya Yang
@@ -235,6 +237,7 @@ Achievements:
 
 University: Belarusian State University
 Team: BelarusianSU1
+OpenCup: 34 (13)
 
 Coach:
 Name: Vladimir Kotov
@@ -277,6 +280,7 @@ Achievements:
 
 University: Belarusian State University of Informatics and Radioelectronics
 Team: Belarusian SUIR 2
+OpenCup: 24 (15)
 
 Coach:
 Name: Aliaksei Ropan
@@ -324,6 +328,7 @@ CROC Championship finalist (2016)
 
 University: Birla Institute of Technology & Science, Pilani Campus
 Team: stronglyConnected
+OpenCup: 57 (4)
 
 Coach:
 Name: Avinash Gautam
@@ -514,6 +519,7 @@ IOI Participant (2014)
 
 University: Charles University in Prague
 Team: MFF
+OpenCup: 281 (3)
 
 Coach:
 Name: Zdenek Dvorak
@@ -808,6 +814,7 @@ IOI Participant (2012)
 
 University: Fudan University
 Team: Saga
+OpenCup: 44 (4)
 
 Coach:
 Name: Weiwei Sun
@@ -972,6 +979,7 @@ Achievements:
 
 University: Imperial College London
 Team: DoCThors
+OpenCup: 144 (3)
 
 Coach:
 Name: Christian Ledig
@@ -1203,6 +1211,7 @@ Achievements:
 
 University: Innopolis University
 Team: Innopolis U Known
+OpenCup: 25 (16)
 
 Coach:
 Name: Alexey Maleev
@@ -1397,6 +1406,7 @@ Achievements:
 
 University: Jagiellonian University in Krakow
 Team: Jagiellonian
+OpenCup: 133 (3)
 
 Coach:
 Name: Pawel Idziak
@@ -1632,6 +1642,7 @@ Achievements:
 
 University: Lviv National University
 Team: LNU Penguins
+OpenCup: 13 (15)
 
 Coach:
 Name: Vasyl Biletskyy
@@ -1721,6 +1732,7 @@ MemSQL Start[c]UP 1st (2014)
 
 University: Moscow Aviation Institute
 Team: MAI #1
+OpenCup: 137 (15)
 
 Coach:
 Name: Renat Gimadeev
@@ -1768,6 +1780,7 @@ Achievements:
 
 University: Moscow Engineering Physics Institute
 Team: MEPhI: Cupcakes
+OpenCup: 94 (7)
 
 Coach:
 Name: Vasily Astakhov
@@ -1808,6 +1821,7 @@ Achievements:
 
 University: Moscow Institute of Physics & Technology
 Team: MIPT: Jinotega
+OpenCup: 10 (16)
 
 Coach:
 Name: Mikhail Tikhomirov
@@ -1857,6 +1871,7 @@ IOI Silver Medalist (2014)
 
 University: Moscow State University
 Team: Moscow SU Trinity
+OpenCup: 7 (16)
 
 Coach:
 Name: Andrey Shestimerov
@@ -1937,6 +1952,7 @@ Achievements:
 
 University: National Taiwan University
 Team: bcw0x1bd2
+OpenCup: 39 (4)
 
 Coach:
 Name: Pu-Jen Cheng
@@ -2101,6 +2117,7 @@ Achievements:
 
 University: Nizhny Novgorod State University
 Team: Nizhny Novgorod SU 1
+OpenCup: 5 (16)
 
 Coach:
 Name: Nikolai Borisov
@@ -2230,6 +2247,7 @@ Achievements:
 
 University: Northeastern University (China)
 Team: NEU_I forgot it.
+OpenCup: 658 (1)
 
 Coach:
 Name: XiaoFeng Liu
@@ -2267,6 +2285,7 @@ Achievements:
 
 University: Northern (Arctic) Federal University
 Team: Northern (Arctic) FU 1
+OpenCup: 130 (15)
 
 Coach:
 Name: Kirill Butin
@@ -2578,6 +2597,7 @@ IOI Bronze Medalist (2008)
 
 University: Saratov State University
 Team: Saratov SU Daemons
+OpenCup: 20 (16)
 
 Coach:
 Name: Michael Mirzayanov
@@ -2713,6 +2733,7 @@ ACM ICPC Finalist (2015)
 
 University: Shanghai Jiao Tong University
 Team: Dreadnought
+OpenCup: 3 (14)
 
 Coach:
 Name: Yong Yu
@@ -2760,6 +2781,7 @@ FBHC Finalist (2015)
 
 University: Shanghai University
 Team: Wand Maker
+OpenCup: 288 (2)
 
 Coach:
 Name: Yunfu Shen
@@ -2918,6 +2940,7 @@ Achievements:
 
 University: St. Petersburg Academic University
 Team: SPbAU 1 Generation Z
+OpenCup: 41 (13)
 
 Coach:
 Name: Sergey Kopeliovich
@@ -2965,6 +2988,7 @@ Achievements:
 
 University: St. Petersburg ITMO University
 Team: SPb ITMO University 1
+OpenCup: 9 (15)
 
 Coach:
 Name: Andrey Stankevich
@@ -3023,6 +3047,7 @@ Kotlin Finalist (2014)
 
 University: St. Petersburg State University
 Team: SPb SU 1: Base
+OpenCup: 4 (16)
 
 Coach:
 Name: Andrei Lopatin
@@ -3117,6 +3142,7 @@ Achievements:
 
 University: Taras Shevchenko National University of Kyiv
 Team: Flawless
+OpenCup: 29 (16)
 
 Coach:
 Name: Vitalii Bondarenko
@@ -3324,6 +3350,7 @@ Achievements:
 
 University: Tianjin University
 Team: TJU_Thief_Master
+OpenCup: 333 (2)
 
 Coach:
 Name: Ruiguo Yu
@@ -3402,6 +3429,7 @@ Achievements:
 
 University: Tsinghua University
 Team: Wunderzeit
+OpenCup: 30 (3)
 
 Coach:
 Name: Xiaojun Wu
@@ -3529,6 +3557,7 @@ Achievements:
 
 University: Universidad de La Habana
 Team: UH_REFRESH
+OpenCup: 234 (3)
 
 Coach:
 Name: Alfredo Somoza Moreno
@@ -3953,6 +3982,7 @@ Achievements:
 
 University: Universidade Federal de Campina Grande
 Team: Abella e as feras
+OpenCup: 140 (9)
 
 Coach:
 Name: Rohit Gheyi
@@ -4396,6 +4426,7 @@ Achievements:
 
 University: University of Helsinki
 Team: Game of Nolife
+OpenCup: 33 (11)
 
 Coach:
 Name: Antti Laaksonen
@@ -4710,6 +4741,7 @@ Achievements:
 
 University: University of Warsaw
 Team: Warsaw Eagles 2016
+OpenCup: 16 (3)
 
 Coach:
 Name: Jan Madey
@@ -4833,6 +4865,7 @@ Achievements:
 
 University: University of Wroclaw
 Team: UWr1
+OpenCup: 31 (4)
 
 Coach:
 Name: Krzysztof Lorys
@@ -4875,6 +4908,7 @@ IOI Silver Medalist (2012)
 
 University: University of Zagreb
 Team: Zagreb
+OpenCup: 147 (2)
 
 Coach:
 Name: Krešimir Malnar
@@ -4918,6 +4952,7 @@ IOI Bronze Medalist (2013)
 
 University: Ural Federal University
 Team: Ural FU: Dandelion
+OpenCup: 8 (16)
 
 Coach:
 Name: Mikhail Rubinchik
@@ -5046,6 +5081,7 @@ Achievements:
 
 University: Zaporizhzhya National Technical University
 Team: ZNTU_SetUp
+OpenCup: 102 (9)
 
 Coach:
 Name: Natalia Myronova
@@ -5121,6 +5157,7 @@ Achievements:
 
 University: Zhejiang University
 Team: Siunaus
+OpenCup: 282 (2)
 
 Coach:
 Name: Can Wang
@@ -5161,6 +5198,7 @@ Achievements:
 
 University: Zhongshan (Sun Yat-sen) University
 Team: SYSU_Braid
+OpenCup: 142 (3)
 
 Coach:
 Name: SongShan Guo

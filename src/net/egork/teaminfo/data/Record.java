@@ -25,6 +25,9 @@ public class Record {
     public void print(PrintWriter out) {
         out.println("University: " + university.getFullName());
         out.println("Team: " + team.getName());
+        if (team.getOpenCupPlace() != -1) {
+            out.println(String.format("OpenCup: %d (%d)", team.getOpenCupPlace(), team.getOpenCupTimes()));
+        }
         out.println();
         out.println("Coach:");
         printPerson(coach, out);
