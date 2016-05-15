@@ -13,6 +13,7 @@ import org.apache.commons.logging.LogFactory;
 import java.io.*;
 import java.util.*;
 
+import static com.sun.xml.internal.bind.v2.util.EditDistance.editDistance;
 import static net.egork.teaminfo.Utils.*;
 
 /**
@@ -47,12 +48,29 @@ public class GenerateInfo {
         readRegionalChamps();
         readOpenCup();
 
+        readAltNames();
+
         //Personal
         readPersonalDatabase();
 
         saveResults();
         saveRepeatFinalists();
         saveHRForm();
+    }
+
+    private static void readAltNames() throws Exception {
+        BufferedReader reader = new BufferedReader(new FileReader("input/possible.cvs"));
+        String s;
+        while ((s = reader.readLine()) != null) {
+            String[] tokens = s.split("#");
+            for (int i = 1; i <= 128; i++) {
+                for (int j = 0; j < 3; j++) {
+                    if (records[i].contestants[j].getName().equals(tokens[0])) {
+                        records[i].contestants[j].addAltName(tokens[1]);
+                    }
+                }
+            }
+        }
     }
 
     private static void readOpenCup() throws Exception {
@@ -127,6 +145,7 @@ public class GenerateInfo {
         if (Boolean.getBoolean("recreateUserDatabase")) {
             PersonalDatabase.main();
         }
+        PrintWriter out = new PrintWriter("output/possible.cvs");
         List<Person> persons = Utils.readList("input/database.json", Person.class);
         int coachesFound = 0;
         int participantsFound = 0;
@@ -157,8 +176,41 @@ public class GenerateInfo {
 //                    log.info("Data for contestant " + contestant.getName());
                     participantsFound++;
                 }
+                    for (Person person : persons) {
+                        if (contestant.isSamePerson(person)) {
+                            continue;
+                        }
+                        if (person.getName() != null && editDistance(person.getName(), contestant.getName()) <= 2 && !person.getName().equals(contestant.getName())) {
+                            out.println(contestant.getName() + "#" + person.getName());
+                        }
+                        for (String name : person.getAltNames()) {
+                            if (editDistance(name, contestant.getName()) <= 2 && !name.equals(contestant.getName())) {
+                                out.println(contestant.getName() + "#" + person.getName());
+                            }
+                        }
+                    }
+                    String[] tokens = contestant.getName().split(" ");
+                    for (int j = 0; j < tokens.length; j++) {
+                        String name = tokens[j];
+                        for (int k = j + 1; k < tokens.length; k++) {
+                            name += " " + tokens[k];
+                            if (j == 0 && k == tokens.length - 1) {
+                                continue;
+                            }
+                            for (Person person : persons) {
+                                if (contestant.isSamePerson(person)) {
+                                    continue;
+                                }
+                                if (name.equals(person.getName()) || person.getAltNames().contains(name)) {
+                                    out.println(contestant.getName() + "#" + person.getName());
+                                }
+                            }
+                        }
+                    }
+
             }
         }
+        out.close();
         for (int i = 1; i <= 128; i++) {
             Record record = records[i];
             record.coach.compressAchievements();

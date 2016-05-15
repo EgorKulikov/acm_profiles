@@ -1,0 +1,38 @@
+Beihang University;87;6
+Beijing University of Posts and Telecommunications;80;3
+Birla Institute of Technology & Science, Pilani Campus;57;4
+Fudan University;44;4
+National Taiwan University;39;4
+Northeastern University (China);658;1
+Shanghai Jiao Tong University;3;14
+Shanghai University;288;2
+Tianjin University;333;2
+Tsinghua University;30;3
+Zhejiang University;282;2
+Zhongshan (Sun Yat-sen) University;142;3
+Belarusian State University;34;13
+Belarusian State University of Informatics and Radioelectronics;24;15
+Charles University in Prague;281;3
+Imperial College London;144;3
+Innopolis University;25;16
+Jagiellonian University in Krakow;133;3
+Lviv National University;13;15
+Moscow Aviation Institute;137;15
+Moscow Engineering Physics Institute;94;7
+Moscow Institute of Physics & Technology;10;16
+Moscow State University;7;16
+Nizhny Novgorod State University;5;16
+Northern (Arctic) Federal University;130;15
+Saratov State University;20;16
+St. Petersburg Academic University;41;13
+St. Petersburg ITMO University;9;15
+St. Petersburg State University;4;16
+Taras Shevchenko National University of Kyiv;29;16
+University of Helsinki;33;11
+University of Warsaw;16;3
+University of Wroclaw;31;4
+University of Zagreb;147;2
+Ural Federal University;8;16
+Zaporizhzhya National Technical University;102;9
+Universidad de La Habana;234;3
+Universidade Federal de Campina Grande;140;9
