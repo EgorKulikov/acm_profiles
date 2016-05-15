@@ -3026,12 +3026,20 @@ Team: SPb SU 1: Base
 
 Coach:
 Name: Andrei Lopatin
-TC handle: 
-CF handle: 
+TC handle: KOTEHOK
+CF handle: KOTEHOK
 Achievements:
+ACM ICPC win (2000, 2001)
 ACM ICPC win as coach (2014)
-ACM ICPC silver medal as coach (2013)
-World Finals coach (2012, 2015)
+ACM ICPC gold medal as coach (2009, 2011)
+ACM ICPC silver medal as coach (2006, 2010, 2013)
+ACM ICPC bronze medal as coach (2008)
+World Finals coach (2003-2005, 2007, 2012, 2015)
+GCJ Finalist (2008)
+TCCC Semifinalist (2006)
+TCO Semifinalist (2008)
+IOI Silver Medalist (1997, 1998)
+RCC Finalist (2012)
 
 Contestant 1:
 Name: Stanislav Ershov
