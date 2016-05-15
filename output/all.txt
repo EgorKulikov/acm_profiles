@@ -1839,7 +1839,7 @@ Kotlin Finalist (2014)
 
 Contestant 3:
 Name: Konstantin Semenov
-TC handle: zemen96
+TC handle: zemen
 CF handle: zemen
 Achievements:
 IOI Gold Medalist (2013)

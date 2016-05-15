@@ -37,7 +37,7 @@ public class IOIDownloader {
                 person.addAltName(page.substring(0, page.indexOf("<")));
             }
             index = page.indexOf("http://community.topcoder.com/tc?module=MemberProfile");
-            if (index != -1) {
+            if (index != -1 && person.getName().equals("Konstantin Semenov")) {
                 page = page.substring(index);
                 page = page.substring(page.indexOf("cr=") + 3);
                 String tcId = page.substring(0, page.indexOf("\""));
