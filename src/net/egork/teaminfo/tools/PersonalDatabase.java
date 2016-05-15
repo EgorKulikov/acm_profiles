@@ -40,11 +40,17 @@ public class PersonalDatabase {
             TopCoderDownloader.main();
         }
         add("input/topcoder.json");
+        log.info("TopCoder Processed");
         if (Boolean.getBoolean("reloadWFData")) {
             WFData.main();
         }
         add("input/wf.json");
-        log.info("TopCoder Processed");
+        log.info("WF Processed");
+        if (Boolean.getBoolean("reloadSnarknews")) {
+            SnarkDownloader.main();
+        }
+        add("input/snark.json");
+        log.info("Snark Processed");
         add("input/corrections.json");
         saveDatabase();
         log.info("Database created");

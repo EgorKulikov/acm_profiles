@@ -49,12 +49,13 @@
 <link rel="Shortcut Icon" href="http://icpc.baylor.edu/img/icon-icpc-small.gif"/>
 
 
-<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css" type="text/css">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" type="text/css">
 <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/font-awesome/4.1.0/css/font-awesome.min.css" type="text/css">
 
-<link rel="stylesheet" href="/css/myicpc/style.css;jsessionid=gzOsLLzvUc1qDejOV8Tb3dUkP8bB7xEfg2UaSahM.2014myicpc06" type="text/css">
+<link rel="stylesheet" href="/css/myicpc/style.css;jsessionid=yCa0ZrP30xUG6AJtecYxnbyHs7Y41V2pHZgA8CAO.2014myicpc06" type="text/css">
 
-<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
 
     <meta name="viewport" content="width=device-width, initial-scale=1">
     
@@ -70,8 +71,14 @@
 <nav id="top-menu-nav" class="navbar navbar-inverse navbar-fixed-top desktop">
     <div class="container-fluid">
         <div class="navbar-header">
+			<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+	            <span class="sr-only">Toggle navigation</span>
+	            <span class="icon-bar"></span>
+	            <span class="icon-bar"></span>
+	            <span class="icon-bar"></span>
+	          </button>
             <div class="navbar-brand">
-                <a href="/World-Finals-2016;jsessionid=gzOsLLzvUc1qDejOV8Tb3dUkP8bB7xEfg2UaSahM.2014myicpc06" id="homepage-link">
+                <a href="/World-Finals-2016;jsessionid=yCa0ZrP30xUG6AJtecYxnbyHs7Y41V2pHZgA8CAO.2014myicpc06" id="homepage-link">
                     
 
 
@@ -79,10 +86,17 @@
 
 
 <span class="fa fa-home"  title=""></span>
- MyICPC
+
+                    <span class="hidden-xs hidden-sm">
+		            	MyICPC 
+		            </span>	
                 </a>
             </div>
         </div>
+<!-- TODO -->
+		<div id="navbar" class="navbar-collapse collapse" aria-expanded="false" style="height: 1px;">
+          
+
 
         <ul id="top-sub-menu" class="nav navbar-nav">
             
@@ -131,7 +145,7 @@ data-toggle="dropdown"
 
 
 
-<a href="/World-Finals-2016/my-schedule;jsessionid=gzOsLLzvUc1qDejOV8Tb3dUkP8bB7xEfg2UaSahM.2014myicpc06" class="block"><span class="glyphicon glyphicon-user"></span><br/> My Schedule</a></td>
+<a href="/World-Finals-2016/my-schedule;jsessionid=yCa0ZrP30xUG6AJtecYxnbyHs7Y41V2pHZgA8CAO.2014myicpc06" class="block"><span class="glyphicon glyphicon-user"></span><br/> My Schedule</a></td>
     <td>
 
 
@@ -140,7 +154,7 @@ data-toggle="dropdown"
 
 
 
-<a href="/World-Finals-2016/schedule;jsessionid=gzOsLLzvUc1qDejOV8Tb3dUkP8bB7xEfg2UaSahM.2014myicpc06" class="block"><span class="glyphicon glyphicon-calendar"></span><br/> Full Schedule</a></td>
+<a href="/World-Finals-2016/schedule;jsessionid=yCa0ZrP30xUG6AJtecYxnbyHs7Y41V2pHZgA8CAO.2014myicpc06" class="block"><span class="glyphicon glyphicon-calendar"></span><br/> Full Schedule</a></td>
 </tr>
 <tr>
     <td>
@@ -151,7 +165,7 @@ data-toggle="dropdown"
 
 
 
-<a href="/World-Finals-2016/venues;jsessionid=gzOsLLzvUc1qDejOV8Tb3dUkP8bB7xEfg2UaSahM.2014myicpc06" class="block"><span class="glyphicon glyphicon-map-marker"></span><br/> Venues</a></td>
+<a href="/World-Finals-2016/venues;jsessionid=yCa0ZrP30xUG6AJtecYxnbyHs7Y41V2pHZgA8CAO.2014myicpc06" class="block"><span class="glyphicon glyphicon-map-marker"></span><br/> Venues</a></td>
     <td></td>
 </tr>
                     </table>
@@ -204,7 +218,7 @@ data-toggle="dropdown"
 
 
 
-<a href="/World-Finals-2016/scoreboard;jsessionid=gzOsLLzvUc1qDejOV8Tb3dUkP8bB7xEfg2UaSahM.2014myicpc06" class="block"><span class="glyphicon glyphicon-list"></span><br/> Scoreboard</a></td>
+<a href="/World-Finals-2016/scoreboard;jsessionid=yCa0ZrP30xUG6AJtecYxnbyHs7Y41V2pHZgA8CAO.2014myicpc06" class="block"><span class="glyphicon glyphicon-list"></span><br/> Scoreboard</a></td>
     <td>
 
 
@@ -213,7 +227,7 @@ data-toggle="dropdown"
 
 
 
-<a href="/World-Finals-2016/scorebar;jsessionid=gzOsLLzvUc1qDejOV8Tb3dUkP8bB7xEfg2UaSahM.2014myicpc06" class="block"><span class="glyphicon glyphicon-align-left"></span><br/> Scorebar</a></td>
+<a href="/World-Finals-2016/scorebar;jsessionid=yCa0ZrP30xUG6AJtecYxnbyHs7Y41V2pHZgA8CAO.2014myicpc06" class="block"><span class="glyphicon glyphicon-align-left"></span><br/> Scorebar</a></td>
 </tr>
 <tr>
     <td>
@@ -224,7 +238,7 @@ data-toggle="dropdown"
 
 
 
-<a href="/World-Finals-2016/teams;jsessionid=gzOsLLzvUc1qDejOV8Tb3dUkP8bB7xEfg2UaSahM.2014myicpc06" class="block"><span class="fa fa-users"></span><br/> Teams</a></td>
+<a href="/World-Finals-2016/teams;jsessionid=yCa0ZrP30xUG6AJtecYxnbyHs7Y41V2pHZgA8CAO.2014myicpc06" class="block"><span class="fa fa-users"></span><br/> Teams</a></td>
     <td>
         
             
@@ -235,7 +249,7 @@ data-toggle="dropdown"
 
 
 
-<a href="/World-Finals-2016/map;jsessionid=gzOsLLzvUc1qDejOV8Tb3dUkP8bB7xEfg2UaSahM.2014myicpc06" class="block"><span class="glyphicon glyphicon-picture"></span><br/> Map</a>
+<a href="/World-Finals-2016/map;jsessionid=yCa0ZrP30xUG6AJtecYxnbyHs7Y41V2pHZgA8CAO.2014myicpc06" class="block"><span class="glyphicon glyphicon-picture"></span><br/> Map</a>
         
     </td>
 </tr>
@@ -248,7 +262,7 @@ data-toggle="dropdown"
 
 
 
-<a href="/World-Finals-2016/insight;jsessionid=gzOsLLzvUc1qDejOV8Tb3dUkP8bB7xEfg2UaSahM.2014myicpc06" class="block"><span class="glyphicon glyphicon-eye-open"></span><br/> Insight</a></td>
+<a href="/World-Finals-2016/insight;jsessionid=yCa0ZrP30xUG6AJtecYxnbyHs7Y41V2pHZgA8CAO.2014myicpc06" class="block"><span class="glyphicon glyphicon-eye-open"></span><br/> Insight</a></td>
     <td>
         
             
@@ -259,7 +273,7 @@ data-toggle="dropdown"
 
 
 
-<a href="/World-Finals-2016/insight;jsessionid=gzOsLLzvUc1qDejOV8Tb3dUkP8bB7xEfg2UaSahM.2014myicpc06#/code" class="block"><span class="fa fa-code"></span><br/> Code</a>
+<a href="/World-Finals-2016/insight;jsessionid=yCa0ZrP30xUG6AJtecYxnbyHs7Y41V2pHZgA8CAO.2014myicpc06#/code" class="block"><span class="fa fa-code"></span><br/> Code</a>
         
     </td>
 </tr>
@@ -303,6 +317,7 @@ data-toggle="dropdown"
                         
 
 
+
 <tr>
     <td>
 
@@ -312,7 +327,7 @@ data-toggle="dropdown"
 
 
 
-<a href="/World-Finals-2016/quest;jsessionid=gzOsLLzvUc1qDejOV8Tb3dUkP8bB7xEfg2UaSahM.2014myicpc06" class="block"><span class="glyphicon glyphicon-screenshot"></span><br/> Quest</a></td>
+<a href="/World-Finals-2016/quest;jsessionid=yCa0ZrP30xUG6AJtecYxnbyHs7Y41V2pHZgA8CAO.2014myicpc06" class="block"><span class="glyphicon glyphicon-screenshot"></span><br/> Quest</a></td>
     <td>
 
 
@@ -321,7 +336,7 @@ data-toggle="dropdown"
 
 
 
-<a href="/World-Finals-2016/quest/challenges;jsessionid=gzOsLLzvUc1qDejOV8Tb3dUkP8bB7xEfg2UaSahM.2014myicpc06" class="block"><span class="fa fa-trophy"></span><br/> Challenges</a></td>
+<a href="/World-Finals-2016/quest/challenges;jsessionid=yCa0ZrP30xUG6AJtecYxnbyHs7Y41V2pHZgA8CAO.2014myicpc06" class="block"><span class="fa fa-trophy"></span><br/> Challenges</a></td>
 </tr>
 <tr>
     <td>
@@ -332,8 +347,11 @@ data-toggle="dropdown"
 
 
 
-<a href="/World-Finals-2016/quest/leaderboard;jsessionid=gzOsLLzvUc1qDejOV8Tb3dUkP8bB7xEfg2UaSahM.2014myicpc06" class="block"><span class="glyphicon glyphicon-list"></span><br/> Leaderboard</a></td>
-</tr>
+<a href="/World-Finals-2016/quest/leaderboard;jsessionid=yCa0ZrP30xUG6AJtecYxnbyHs7Y41V2pHZgA8CAO.2014myicpc06" class="block"><span class="glyphicon glyphicon-list"></span><br/> Leaderboard</a></td>
+    <td>
+	    
+    </td>
+</tr> 
                     </table>
                 </li>
             
@@ -386,7 +404,7 @@ data-toggle="dropdown"
 
 
 
-<a href="/World-Finals-2016/gallery;jsessionid=gzOsLLzvUc1qDejOV8Tb3dUkP8bB7xEfg2UaSahM.2014myicpc06" class="block"><span class="fa fa-camera"></span><br/> Crowd</a></td>
+<a href="/World-Finals-2016/gallery;jsessionid=yCa0ZrP30xUG6AJtecYxnbyHs7Y41V2pHZgA8CAO.2014myicpc06" class="block"><span class="fa fa-camera"></span><br/> Crowd</a></td>
     <td>
 
 
@@ -395,7 +413,7 @@ data-toggle="dropdown"
 
 
 
-<a href="/World-Finals-2016/gallery/official;jsessionid=gzOsLLzvUc1qDejOV8Tb3dUkP8bB7xEfg2UaSahM.2014myicpc06" class="block"><span class="fa fa-picture-o"></span><br/> Official</a></td>
+<a href="/World-Finals-2016/gallery/official;jsessionid=yCa0ZrP30xUG6AJtecYxnbyHs7Y41V2pHZgA8CAO.2014myicpc06" class="block"><span class="fa fa-picture-o"></span><br/> Official</a></td>
 </tr>
                         </table>
                     </li>
@@ -403,7 +421,7 @@ data-toggle="dropdown"
             
             
                 <li class="">
-                    <a href="/World-Finals-2016/polls;jsessionid=gzOsLLzvUc1qDejOV8Tb3dUkP8bB7xEfg2UaSahM.2014myicpc06">
+                    <a href="/World-Finals-2016/polls;jsessionid=yCa0ZrP30xUG6AJtecYxnbyHs7Y41V2pHZgA8CAO.2014myicpc06">
                         
 
 
@@ -417,7 +435,7 @@ data-toggle="dropdown"
             
             
                 <li class="">
-                    <a href="/World-Finals-2016/blog;jsessionid=gzOsLLzvUc1qDejOV8Tb3dUkP8bB7xEfg2UaSahM.2014myicpc06">
+                    <a href="/World-Finals-2016/blog;jsessionid=yCa0ZrP30xUG6AJtecYxnbyHs7Y41V2pHZgA8CAO.2014myicpc06">
                         
 
 
@@ -434,7 +452,7 @@ data-toggle="dropdown"
             <li>
                 <a href="javascript:void(0)" id="notification-counter-link">
                     <span id="notification-counter" class="label label-danger notification-counter">
-                        1
+                        70
                     </span>
                 </a>
             </li>
@@ -478,6 +496,7 @@ id="scorebord-notification-btn"
 
             </li>
         </ul>
+        </div>
     </div>
 </nav>
 
@@ -552,7 +571,7 @@ id="scorebord-notification-btn"
 
 <li class="active  ">
     
-        <a href="/World-Finals-2016/team/273573/profile;jsessionid=gzOsLLzvUc1qDejOV8Tb3dUkP8bB7xEfg2UaSahM.2014myicpc06">
+        <a href="/World-Finals-2016/team/273573/profile;jsessionid=yCa0ZrP30xUG6AJtecYxnbyHs7Y41V2pHZgA8CAO.2014myicpc06">
             Team profile
         </a>
     
@@ -574,7 +593,7 @@ id="scorebord-notification-btn"
 
 <li class="  ">
     
-        <a href="/World-Finals-2016/team/273573/social;jsessionid=gzOsLLzvUc1qDejOV8Tb3dUkP8bB7xEfg2UaSahM.2014myicpc06">
+        <a href="/World-Finals-2016/team/273573/social;jsessionid=yCa0ZrP30xUG6AJtecYxnbyHs7Y41V2pHZgA8CAO.2014myicpc06">
             Social
         </a>
     
@@ -619,7 +638,7 @@ id="scorebord-notification-btn"
                           <div class="item ">
                               
                               
-                                  <img src="/images/default-profile-small.png;jsessionid=gzOsLLzvUc1qDejOV8Tb3dUkP8bB7xEfg2UaSahM.2014myicpc06" alt="Sebastián Prillo" class="center-block" width="150">
+                                  <img src="/images/default-profile-small.png;jsessionid=yCa0ZrP30xUG6AJtecYxnbyHs7Y41V2pHZgA8CAO.2014myicpc06" alt="Sebastián Prillo" class="center-block" width="150">
                               
                               <div style="height: 120px;"> </div>
                               <div class="carousel-caption">
@@ -651,7 +670,7 @@ id="scorebord-notification-btn"
                           <div class="item ">
                               
                               
-                                  <img src="/images/default-profile-small.png;jsessionid=gzOsLLzvUc1qDejOV8Tb3dUkP8bB7xEfg2UaSahM.2014myicpc06" alt="Miguel Maurizio" class="center-block" width="150">
+                                  <img src="/images/default-profile-small.png;jsessionid=yCa0ZrP30xUG6AJtecYxnbyHs7Y41V2pHZgA8CAO.2014myicpc06" alt="Miguel Maurizio" class="center-block" width="150">
                               
                               <div style="height: 120px;"> </div>
                               <div class="carousel-caption">
@@ -812,9 +831,11 @@ id="scorebord-notification-btn"
                   <tr>
                       <th>Region:</th>
                       <td>Latin America</td>
-                  </tr>
+                  </tr>                  
                   </tbody>
               </table>
+              
+              
 
               <h3>
                   University
@@ -945,15 +966,14 @@ id="scorebord-notification-btn"
 <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.4.3/angular-route.min.js" defer></script>
 <script src="//cdnjs.cloudflare.com/ajax/libs/modernizr/2.7.1/modernizr.min.js" defer></script>
 <script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.11.1/jquery-ui.min.js" defer></script>
-<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js" defer></script>
-<script src="/js/jquery/jquery.atmosphere.min.js;jsessionid=gzOsLLzvUc1qDejOV8Tb3dUkP8bB7xEfg2UaSahM.2014myicpc06" defer></script>
+<script src="/js/jquery/jquery.atmosphere.min.js;jsessionid=yCa0ZrP30xUG6AJtecYxnbyHs7Y41V2pHZgA8CAO.2014myicpc06" defer></script>
 <script src="//cdnjs.cloudflare.com/ajax/libs/underscore.js/1.5.2/underscore-min.js"></script>
 <script src="//cdnjs.cloudflare.com/ajax/libs/handlebars.js/1.3.0/handlebars.min.js"></script>
 <script src="//cdnjs.cloudflare.com/ajax/libs/jquery.touchswipe/1.6.4/jquery.touchSwipe.min.js" defer></script>
 <script src="https://apis.google.com/js/platform.js" async defer></script>
 
 
-<script src="/js/myicpc/functions.js;jsessionid=gzOsLLzvUc1qDejOV8Tb3dUkP8bB7xEfg2UaSahM.2014myicpc06"></script>
+<script src="/js/myicpc/functions.js;jsessionid=yCa0ZrP30xUG6AJtecYxnbyHs7Y41V2pHZgA8CAO.2014myicpc06"></script>
 
 <script type="application/javascript">
     
@@ -962,7 +982,7 @@ id="scorebord-notification-btn"
     
     $(function() {
         $("#feedbackLink").click(function() {
-            $.get("/World-Finals-2016/feedback-form;jsessionid=gzOsLLzvUc1qDejOV8Tb3dUkP8bB7xEfg2UaSahM.2014myicpc06", function(data) {
+            $.get("/World-Finals-2016/feedback-form;jsessionid=yCa0ZrP30xUG6AJtecYxnbyHs7Y41V2pHZgA8CAO.2014myicpc06", function(data) {
                 $("#feedbackWrapper").html(data);
                 $("#feedbackModal").modal('show');
             });
@@ -972,7 +992,7 @@ id="scorebord-notification-btn"
     $("#notification-counter-link").click(function() {
         var $featuredNotificationContainer = $("#featured-notification-container");
         if (!$featuredNotificationContainer.is(":visible")) {
-            $.get("/World-Finals-2016/notification/featured-panel;jsessionid=gzOsLLzvUc1qDejOV8Tb3dUkP8bB7xEfg2UaSahM.2014myicpc06", function(data) {
+            $.get("/World-Finals-2016/notification/featured-panel;jsessionid=yCa0ZrP30xUG6AJtecYxnbyHs7Y41V2pHZgA8CAO.2014myicpc06", function(data) {
                 $featuredNotificationContainer.html(data);
                 $featuredNotificationContainer.slideDown();
                 $(window).scrollTop(0);
@@ -984,7 +1004,7 @@ id="scorebord-notification-btn"
 
     
     showShareDialog = function(notificationId) {
-        $.get('/World-Finals-2016/notification/;jsessionid=gzOsLLzvUc1qDejOV8Tb3dUkP8bB7xEfg2UaSahM.2014myicpc06' +notificationId + '/share', function(data) {
+        $.get('/World-Finals-2016/notification/;jsessionid=yCa0ZrP30xUG6AJtecYxnbyHs7Y41V2pHZgA8CAO.2014myicpc06' +notificationId + '/share', function(data) {
             $('#shareNotificationDialogContainer').html(data);
             $('#shareNotificationDialog').modal('show');
         })
@@ -992,7 +1012,7 @@ id="scorebord-notification-btn"
 
     function profilePictureError(image) {
         image.onerror = "";
-        image.src = "/images/default-profile-small.png;jsessionid=gzOsLLzvUc1qDejOV8Tb3dUkP8bB7xEfg2UaSahM.2014myicpc06";
+        image.src = "/images/default-profile-small.png;jsessionid=yCa0ZrP30xUG6AJtecYxnbyHs7Y41V2pHZgA8CAO.2014myicpc06";
         return true;
     }
     profilePictureError
@@ -1015,23 +1035,39 @@ id="scorebord-notification-btn"
 
     
 <script type="text/javascript">
-  $(function () {
-    $(".dropdown").hover(
+
+
+   $(function () {
+
+	    $(".dropdown").click(
             function () {
-              $('.dropdown-menu', this).stop(true, true).slideDown("fast");
-              $(this).toggleClass('open');
+				if(smallScreen()) {
+                	$(this).toggleClass('open');
+				}
+            });
+	    $(".dropdown").hover(
+            function () {
+            	if(!smallScreen()) {
+	               // $('.dropdown-menu', this).stop(true, true).slideDown("fast");  // kills click
+	              	$(this).toggleClass('open');
+            	}
             },
             function () {
-              $('.dropdown-menu', this).stop(true, true).slideUp("fast");
-              $(this).toggleClass('open');
-            }
-    );
+            	if(!smallScreen()) {
+		             // $('.dropdown-menu', this).stop(true, true).slideUp("fast"); // kills click
+		              $(this).toggleClass('open');
+            	}
+            } );
+   
 
-    var timediff = -1016149;
+    var timediff = -9245;
 
     function contestTime() {
       $(".time_holder").html(formatContestTime(timediff));
       timediff += 60;
+    }
+    function smallScreen() {
+    	return $(window).width() < 768
     }
 
     contestTime();
@@ -1039,11 +1075,12 @@ id="scorebord-notification-btn"
       setInterval(contestTime, 60 * 1000);
     }
   });
+  
 </script>
 
 
 
-<iframe src="/loadCacheManifest;jsessionid=gzOsLLzvUc1qDejOV8Tb3dUkP8bB7xEfg2UaSahM.2014myicpc06" style="display: none;"></iframe>
+<iframe src="/loadCacheManifest;jsessionid=yCa0ZrP30xUG6AJtecYxnbyHs7Y41V2pHZgA8CAO.2014myicpc06" style="display: none;"></iframe>
 </body>
 </html>
 

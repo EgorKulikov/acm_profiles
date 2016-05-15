@@ -44,7 +44,7 @@ public class IOIDownloader {
                 person.setTcId(tcId);
             }
             index = page.indexOf("http://codeforces.com/profile/");
-            if (index != -1) {
+            if (index != -1 && !person.getName().equals("Chun Yin Samspon Lee")) {
                 page = page.substring(index);
                 page = page.substring(page.indexOf("profile/") + 8);
                 person.setCfHandle(page.substring(0, page.indexOf("\"")));
