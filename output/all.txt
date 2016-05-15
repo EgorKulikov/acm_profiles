@@ -65,7 +65,7 @@ Achievements:
 Contestant 3:
 Name: Omar Mohamed Eissa
 TC handle: 
-CF handle: omar22
+CF handle: OmaaarZ
 Achievements:
 
 
@@ -132,7 +132,7 @@ Achievements:
 Contestant 1:
 Name: Kyle Stephen See
 TC handle: 
-CF handle: 
+CF handle: kylesky
 Achievements:
 
 Contestant 2:
@@ -208,7 +208,7 @@ Achievements:
 Contestant 1:
 Name: Zitian Wang
 TC handle: 
-CF handle: 
+CF handle: wzt_000
 Achievements:
 
 Contestant 2:
@@ -220,7 +220,7 @@ Achievements:
 Contestant 3:
 Name: YingXiang Jiao
 TC handle: 
-CF handle: 
+CF handle: beegerous
 Achievements:
 
 
@@ -415,14 +415,14 @@ Achievements:
 
 Contestant 2:
 Name: Mohammad Yasser
-TC handle: 
-CF handle: chomagh
+TC handle: mohammad_yasser
+CF handle: Mohammad_Yasser
 Achievements:
 
 Contestant 3:
 Name: Mohammed Magdy
-TC handle: magdi
-CF handle: magdi
+TC handle: 
+CF handle: Baby_Steps
 Achievements:
 
 
@@ -457,7 +457,7 @@ Achievements:
 Contestant 3:
 Name: Ching Yun Hsu
 TC handle: 
-CF handle: 
+CF handle: ChingYunH
 Achievements:
 
 
@@ -482,7 +482,7 @@ World Finals coach (2011, 2012, 2014, 2015)
 Contestant 1:
 Name: Naomi Rubin
 TC handle: 
-CF handle: 
+CF handle: nhrubin
 Achievements:
 
 Contestant 2:
@@ -526,8 +526,8 @@ IOI Bronze Medalist (2015)
 
 Contestant 2:
 Name: Matěj Konečný
-TC handle: 
-CF handle: 
+TC handle: Shulik
+CF handle: Shulik
 Achievements:
 IOI Participant (2015)
 
@@ -621,8 +621,8 @@ IOI Silver Medalist (2014)
 
 Contestant 3:
 Name: Michal Anderle
-TC handle: 
-CF handle: 
+TC handle: michal27
+CF handle: michal27
 Achievements:
 IOI Bronze Medalist (2011)
 
@@ -699,7 +699,7 @@ IOI Participant (2010)
 Contestant 3:
 Name: Muaz Twaty
 TC handle: 
-CF handle: 
+CF handle: muaz-32
 Achievements:
 
 
@@ -724,7 +724,7 @@ World Finals coach (2013-2015)
 Contestant 1:
 Name: Luis Martin Jiménez Rodríguez
 TC handle: 
-CF handle: 
+CF handle: ChOmPs
 Achievements:
 ACM ICPC Finalist (2015)
 
@@ -737,8 +737,8 @@ ACM ICPC Finalist (2015)
 
 Contestant 3:
 Name: Filiberto Fuentes Hernandez
-TC handle: 
-CF handle: 
+TC handle: galloska
+CF handle: galloska
 Achievements:
 
 
@@ -1039,7 +1039,7 @@ World Finals coach (2005, 2006, 2013, 2014)
 Contestant 1:
 Name: Venkateswara Rao Chippada
 TC handle: 
-CF handle: 
+CF handle: venkat82
 Achievements:
 
 Contestant 2:
@@ -1120,8 +1120,8 @@ Achievements:
 
 Contestant 2:
 Name: Sahil Grover
-TC handle: gsahil
-CF handle: gsahil
+TC handle: 
+CF handle: kryptox
 Achievements:
 
 Contestant 3:
@@ -1152,7 +1152,7 @@ World Finals coach (2014, 2015)
 Contestant 1:
 Name: Aman Kumar Kedia
 TC handle: 
-CF handle: 
+CF handle: amankedia1994
 Achievements:
 ACM ICPC Finalist (2015)
 
@@ -1189,7 +1189,7 @@ Achievements:
 
 Contestant 1:
 Name: Aleksandr Mashrabov
-TC handle: map
+TC handle: AMashrabov
 CF handle: map
 Achievements:
 ACM ICPC Finalist (2014)
@@ -1280,8 +1280,8 @@ Achievements:
 
 Contestant 3:
 Name: Yuxiang Zhang
-TC handle: LXLWDGY
-CF handle: LXLWDGY
+TC handle: 
+CF handle: 
 Achievements:
 
 
@@ -1311,7 +1311,7 @@ Achievements:
 Contestant 2:
 Name: Reza Kakhki
 TC handle: 
-CF handle: RK2371
+CF handle: Elk-Cloner
 Achievements:
 
 Contestant 3:
@@ -1349,13 +1349,13 @@ ACM ICPC Finalist (2015)
 Contestant 2:
 Name: Diego Emilio Gutierrez Yepiz
 TC handle: 
-CF handle: 
+CF handle: Diego1149
 Achievements:
 
 Contestant 3:
 Name: Carlos Salvador Garza Garza
 TC handle: 
-CF handle: 
+CF handle: Carlos_Googles
 Achievements:
 
 
@@ -1388,7 +1388,7 @@ Achievements:
 Contestant 2:
 Name: Szymon Łukasz
 TC handle: 
-CF handle: 
+CF handle: noh4h_ss
 Achievements:
 
 Contestant 3:
@@ -1419,9 +1419,9 @@ Achievements:
 Contestant 1:
 Name: Md. Nafis Sadique
 TC handle: 
-CF handle: nfssdq
+CF handle: 
 Achievements:
-ACM ICPC Finalist (2015)
+IOI Participant (2012)
 
 Contestant 2:
 Name: Raihat Zaman Neloy
@@ -1456,10 +1456,11 @@ World Finals coach (2004, 2006, 2007)
 
 Contestant 1:
 Name: Jae Hong Kim
-TC handle: 
-CF handle: 
+TC handle: Xhark
+CF handle: Xhark
 Achievements:
-IOI Silver Medalist (2006)
+GCJ Finalist (2015)
+FBHC Finalist (2012)
 
 Contestant 2:
 Name: Sun Il Kwon
@@ -1547,9 +1548,8 @@ IOI Gold Medalist (2013)
 Contestant 3:
 Name: Dong Ho Lee
 TC handle: 
-CF handle: 
+CF handle: dlehdgh
 Achievements:
-ACM ICPC Finalist (2012)
 
 
 
@@ -1620,15 +1620,15 @@ RCC Finalist (2014, 2015)
 Contestant 2:
 Name: Vitalii Herasymiv
 TC handle: 
-CF handle: 
+CF handle: witua
 Achievements:
 ACM ICPC Finalist (2015)
 IOI Silver Medalist (2012)
 
 Contestant 3:
 Name: Taras Savitskyi
-TC handle: 
-CF handle: Taras_Savitskiy
+TC handle: Trumen
+CF handle: Trumen
 Achievements:
 
 
@@ -1890,7 +1890,7 @@ Achievements:
 Contestant 3:
 Name: LiCheng Lan
 TC handle: 
-CF handle: 
+CF handle: lclan
 Achievements:
 
 
@@ -1931,7 +1931,7 @@ IOI Gold Medalist (2013)
 Contestant 3:
 Name: Han Chung Wang
 TC handle: hanhan0912
-CF handle: hanhan0912
+CF handle: 
 Achievements:
 IOI Participant (2013)
 
@@ -1997,7 +1997,7 @@ World Finals coach (2015)
 Contestant 1:
 Name: Hung Tam Nguyen
 TC handle: 
-CF handle: 
+CF handle: nguyenhungtam
 Achievements:
 
 Contestant 2:
@@ -2010,8 +2010,8 @@ IOI Silver Medalist (2011)
 
 Contestant 3:
 Name: Thanh Trung Nguyen
-TC handle: chemthan
-CF handle: chemthan
+TC handle: bapcoi
+CF handle: bapcoi
 Achievements:
 
 
@@ -2049,7 +2049,7 @@ Achievements:
 Contestant 3:
 Name: Qi Wu
 TC handle: 
-CF handle: rgtbctltpx
+CF handle: 
 Achievements:
 
 
@@ -2307,8 +2307,8 @@ Achievements:
 
 Contestant 1:
 Name: Yosuke Sameshima
-TC handle: 
-CF handle: 
+TC handle: __math
+CF handle: __math
 Achievements:
 
 Contestant 2:
@@ -2319,8 +2319,8 @@ Achievements:
 
 Contestant 3:
 Name: Naohiro Kawamitsu
-TC handle: 
-CF handle: 
+TC handle: ustimaw
+CF handle: ustimaw
 Achievements:
 
 
@@ -2426,7 +2426,7 @@ ACM ICPC Finalist (2014)
 Contestant 2:
 Name: Maram Tuffaha
 TC handle: 
-CF handle: 
+CF handle: wentmay
 Achievements:
 
 Contestant 3:
@@ -2545,7 +2545,7 @@ Kotlin Finalist (2014)
 
 Contestant 1:
 Name: Edvard Davtyan
-TC handle: EDvard
+TC handle: homo_sapiens
 CF handle: Edvard
 Achievements:
 ACM ICPC Finalist (2013)
@@ -2607,7 +2607,7 @@ ACM ICPC Finalist (2015)
 Contestant 3:
 Name: Nima Shirvanian
 TC handle: 
-CF handle: 
+CF handle: nima.sh
 Achievements:
 ACM ICPC Finalist (2015)
 
@@ -3098,8 +3098,8 @@ Yandex.Algorithm Finalist (2015)
 
 Contestant 3:
 Name: Mykhailo Chornyi
-TC handle: 
-CF handle: 
+TC handle: mgch
+CF handle: mgch
 Achievements:
 
 
@@ -3281,15 +3281,14 @@ World Finals coach (2008, 2009, 2011-2013)
 Contestant 1:
 Name: Tingle Zhou
 TC handle: 
-CF handle: 
+CF handle: 452660407
 Achievements:
 
 Contestant 2:
 Name: Sheng Cao
-TC handle: mozeda
-CF handle: 
+TC handle: jinzhao
+CF handle: jinzhao
 Achievements:
-ACM ICPC Finalist (2013)
 
 Contestant 3:
 Name: Yibo Shi
@@ -3419,8 +3418,8 @@ Achievements:
 
 Contestant 3:
 Name: Miguel Maurizio
-TC handle: 
-CF handle: 
+TC handle: miguelmaurizio
+CF handle: miguelmaurizio
 Achievements:
 
 
@@ -3493,8 +3492,8 @@ Achievements:
 
 Contestant 3:
 Name: Abel Ramos
-TC handle: 
-CF handle: 
+TC handle: abelramos
+CF handle: abelramos
 Achievements:
 
 
@@ -3634,20 +3633,20 @@ Achievements:
 
 Contestant 1:
 Name: Victor Alin Cueva Llanos
-TC handle: 
-CF handle: 
+TC handle: Victoralin10
+CF handle: Victoralin10
 Achievements:
 
 Contestant 2:
 Name: Josué Andrés Julcarima Calle
 TC handle: 
-CF handle: 
+CF handle: josue.0
 Achievements:
 
 Contestant 3:
 Name: Diego Mauricio Mansilla Mallqui
-TC handle: 
-CF handle: 
+TC handle: dmansilla07
+CF handle: dmansilla07
 Achievements:
 
 
@@ -3686,7 +3685,7 @@ ACM ICPC Finalist (2015)
 Contestant 3:
 Name: Mariano Crosetti
 TC handle: 
-CF handle: 
+CF handle: mariano22
 Achievements:
 ACM ICPC Finalist (2015)
 
@@ -3717,8 +3716,8 @@ Achievements:
 
 Contestant 2:
 Name: Rubmary Rojas
-TC handle: 
-CF handle: 
+TC handle: rubmary
+CF handle: Rubmary
 Achievements:
 
 Contestant 3:
@@ -3785,7 +3784,7 @@ ACM ICPC Finalist (2014)
 Contestant 1:
 Name: Tomás Raphael Rizzo Fonseca
 TC handle: 
-CF handle: 
+CF handle: tomasf
 Achievements:
 
 Contestant 2:
@@ -3974,6 +3973,7 @@ Name: Angel Garcia Gomez
 TC handle: 
 CF handle: angargo
 Achievements:
+ACM ICPC Finalist (2015)
 
 Contestant 2:
 Name: Ferran Alet
@@ -4017,8 +4017,8 @@ Achievements:
 
 Contestant 2:
 Name: Kazuki Omomo
-TC handle: 
-CF handle: 
+TC handle: zukky
+CF handle: zukky
 Achievements:
 
 Contestant 3:
@@ -4180,8 +4180,8 @@ ACM ICPC Finalist (2013)
 
 Contestant 3:
 Name: Evan Dorundo
-TC handle: 
-CF handle: 
+TC handle: edorundo
+CF handle: edorundo
 Achievements:
 ACM ICPC Finalist (2015)
 
@@ -4364,7 +4364,7 @@ Achievements:
 Contestant 2:
 Name: Xin Gao
 TC handle: 
-CF handle: 
+CF handle: victor_gaoxin
 Achievements:
 ACM ICPC Finalist (2015)
 
@@ -4441,8 +4441,8 @@ IOI Participant (2013)
 
 Contestant 2:
 Name: Daaron Chiu
-TC handle: 
-CF handle: 
+TC handle: grundo
+CF handle: grundo
 Achievements:
 
 Contestant 3:
@@ -4516,7 +4516,7 @@ Achievements:
 Contestant 2:
 Name: Zekun Li
 TC handle: 
-CF handle: 
+CF handle: GodDammit
 Achievements:
 
 Contestant 3:
@@ -4664,7 +4664,7 @@ World Finals coach (2015)
 Contestant 1:
 Name: Antonio Molina Lovett
 TC handle: 
-CF handle: 
+CF handle: y0105w49
 Achievements:
 
 Contestant 2:
@@ -4676,9 +4676,10 @@ IOI Gold Medalist (2014, 2015)
 
 Contestant 3:
 Name: Yi Feng Huang
-TC handle: zlfengyi1
-CF handle: zlfengyi1
+TC handle: azneye
+CF handle: azneyes
 Achievements:
+IOI Bronze Medalist (2013)
 
 
 
@@ -4739,21 +4740,21 @@ World Finals coach (2007, 2012-2015)
 Contestant 1:
 Name: Mateusz Gołębiewski
 TC handle: 
-CF handle: 
+CF handle: matix2267
 Achievements:
 ACM ICPC Finalist (2015)
 
 Contestant 2:
 Name: Maciej Dulęba
 TC handle: 
-CF handle: 
+CF handle: Solaris
 Achievements:
 ACM ICPC Finalist (2015)
 
 Contestant 3:
 Name: Bartłomiej Dudek
-TC handle: 
-CF handle: 
+TC handle: bardek
+CF handle: bardek
 Achievements:
 ACM ICPC Finalist (2015)
 IOI Silver Medalist (2012)
@@ -4878,7 +4879,7 @@ ACM ICPC Finalist (2013)
 Contestant 1:
 Name: Harry Smit
 TC handle: 
-CF handle: 
+CF handle: RarebitFiend
 Achievements:
 
 Contestant 2:
@@ -4890,7 +4891,7 @@ Achievements:
 Contestant 3:
 Name: Timon Knigge
 TC handle: 
-CF handle: 
+CF handle: TimonKnigge
 Achievements:
 
 
@@ -4914,19 +4915,19 @@ World Finals coach (2014, 2015)
 Contestant 1:
 Name: Dustin Pho
 TC handle: 
-CF handle: 
+CF handle: pho
 Achievements:
 
 Contestant 2:
 Name: Christopher Wu
 TC handle: 
-CF handle: 
+CF handle: ChrisWu
 Achievements:
 
 Contestant 3:
 Name: Peter Steele
-TC handle: 
-CF handle: 
+TC handle: PeterASteele
+CF handle: PeterASteele
 Achievements:
 
 
@@ -4964,7 +4965,7 @@ Achievements:
 Contestant 3:
 Name: Viktoriia Kosarenko
 TC handle: 
-CF handle: 
+CF handle: Life_is_good
 Achievements:
 
 
@@ -4994,13 +4995,13 @@ Achievements:
 Contestant 2:
 Name: Yifan Ye
 TC handle: 
-CF handle: 
+CF handle: love_master
 Achievements:
 
 Contestant 3:
 Name: Sheng Qiu
-TC handle: 
-CF handle: 
+TC handle: qs1994
+CF handle: qs1994
 Achievements:
 
 
@@ -5033,7 +5034,7 @@ Achievements:
 Contestant 2:
 Name: Mengge Jin
 TC handle: 
-CF handle: 
+CF handle: J.T.J.L.
 Achievements:
 
 Contestant 3:

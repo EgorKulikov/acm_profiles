@@ -28,6 +28,12 @@ public class PersonalDatabase {
             CodeforcesUser.main();
         }
         add("input/codeforces.json", true);
+        if (Boolean.getBoolean("reloadTopCoder")) {
+            TopCoderDownloader.main();
+        }
+        add("input/topcoder.json");
+        log.info("TopCoder Processed");
+        add("input/corrections.json");
         if (Boolean.getBoolean("reloadCodeforcesAchievements")) {
             CodeforcesUser.addCodeforcesAchievements();
         }
@@ -38,11 +44,6 @@ public class PersonalDatabase {
         }
         add("input/ioi.json");
         log.info("IOI Processed");
-        if (Boolean.getBoolean("reloadTopCoder")) {
-            TopCoderDownloader.main();
-        }
-        add("input/topcoder.json");
-        log.info("TopCoder Processed");
         if (Boolean.getBoolean("reloadWFData")) {
             WFData.main();
         }
@@ -53,9 +54,35 @@ public class PersonalDatabase {
         }
         add("input/snark.json");
         log.info("Snark Processed");
-        add("input/corrections.json");
+        linkTcCf();
         saveDatabase();
         log.info("Database created");
+    }
+
+    private static void linkTcCf() {
+        for (Person person : new HashSet<>(byTc.values())) {
+            if (byCf.containsKey(person.getTcHandle())) {
+                Person match = byCf.get(person.getTcHandle());
+                if (match != person && match.isCompatible(person)) {
+                    person.updateFrom(match);
+                    if (person.getName() != null) {
+                        byName.put(person.getName(), person);
+                    }
+                    for (String name : person.getAltNames()) {
+                        byName.put(name, person);
+                    }
+                    if (person.getTcHandle() != null) {
+                        byTc.put(person.getTcHandle(), person);
+                    }
+                    if (person.getTcId() != null) {
+                        byTcId.put(person.getTcId(), person);
+                    }
+                    if (person.getCfHandle() != null) {
+                        byCf.put(person.getCfHandle(), person);
+                    }
+                }
+            }
+        }
     }
 
     private static void add(String filename) throws Exception {
@@ -65,6 +92,9 @@ public class PersonalDatabase {
     private static void add(String filename, boolean moreSkipableThanYouThink) throws Exception {
         List<Person> persons = Utils.readList(filename, Person.class);
         for (Person person : persons) {
+            if (!moreSkipableThanYouThink && person.getCfHandle() != null && byCf.get(person.getCfHandle()) == null) {
+                person.setCfHandle(null);
+            }
             boolean good = true;
             Set<Person> incompatible = new HashSet<>();
             if (person.getName() != null && byName.containsKey(person.getName()) && !byName.get(person.getName())
@@ -95,9 +125,8 @@ public class PersonalDatabase {
                         message += ";" + other.getName() + " " + other.getTcHandle() + " " + other.getCfHandle() + " " + other.getAltNames();
                     }
                     log.info(message);
-                } else {
-                    continue;
                 }
+                continue;
             }
             Set<Person> added = new HashSet<>();
             if (person.getName() != null && byName.containsKey(person.getName())) {
@@ -134,20 +163,6 @@ public class PersonalDatabase {
             if (person.getCfHandle() != null && byCf.containsKey(person.getCfHandle())) {
                 Person current = byCf.get(person.getCfHandle());
                 if (!added.contains(current)) {
-                    person.updateFrom(current);
-                    added.add(current);
-                }
-            }
-            if (person.getCfHandle() != null && byTc.containsKey(person.getCfHandle())) {
-                Person current = byTc.get(person.getCfHandle());
-                if (!added.contains(current) && current.isCompatible(person)) {
-                    person.updateFrom(current);
-                    added.add(current);
-                }
-            }
-            if (person.getTcHandle() != null && byCf.containsKey(person.getTcHandle())) {
-                Person current = byCf.get(person.getTcHandle());
-                if (!added.contains(current) && current.isCompatible(person)) {
                     person.updateFrom(current);
                     added.add(current);
                 }

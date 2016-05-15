@@ -360,10 +360,17 @@ public class GenerateInfo {
     }
 
     private static void saveResults() throws Exception {
+        PrintWriter out = new PrintWriter("output/all.cvs");
         for (int i = 1; i <= 128; i++) {
             Utils.mapper.writeValue(new File("output/" + i + ".json"), records[i]);
+            out.println(records[i].university.getFullName());
+            for (int j = 0; j < 3; j++) {
+                Person contestant = records[i].contestants[j];
+                out.println(contestant.getName() + ";" + (contestant.getCfHandle() != null ? contestant.getCfHandle() : "") + ";" + (contestant.getTcHandle() != null ? contestant.getTcHandle() : ""));
+            }
         }
         Utils.mapper.writeValue(new File("output/all.json"), Arrays.asList(Arrays.copyOfRange(records, 1, 129)));
+        out.close();
     }
 
     private static void readIds() throws Exception {
