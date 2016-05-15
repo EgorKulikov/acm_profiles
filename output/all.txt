@@ -409,8 +409,8 @@ ACM ICPC Finalist (2002)
 
 Contestant 1:
 Name: Ziad Mohamed
-TC handle: 
-CF handle: donsaad
+TC handle: ziad.mohamed
+CF handle: ziad.mohamed
 Achievements:
 
 Contestant 2:
@@ -776,10 +776,9 @@ ACM ICPC Finalist (2013)
 
 Contestant 3:
 Name: Demjan Grubić
-TC handle: 
-CF handle: 
+TC handle: Demjan
+CF handle: Demjan
 Achievements:
-IOI Participant (2012)
 
 
 
@@ -809,10 +808,10 @@ ACM ICPC Finalist (2015)
 
 Contestant 2:
 Name: Ziyang Chen
-TC handle: 
-CF handle: choice
+TC handle: czy941030
+CF handle: czy941030
 Achievements:
-ACM ICPC Finalist (2009, 2010)
+ACM ICPC Finalist (2014)
 
 Contestant 3:
 Name: Jinyue Su
@@ -1153,8 +1152,9 @@ World Finals coach (2014, 2015)
 Contestant 1:
 Name: Aman Kumar Kedia
 TC handle: 
-CF handle: alpha007
+CF handle: 
 Achievements:
+ACM ICPC Finalist (2015)
 
 Contestant 2:
 Name: Kshitij  Bathla
@@ -1456,18 +1456,17 @@ World Finals coach (2004, 2006, 2007)
 
 Contestant 1:
 Name: Jae Hong Kim
-TC handle: Xhark
-CF handle: Xhark
+TC handle: 
+CF handle: 
 Achievements:
-GCJ Finalist (2015)
-FBHC Finalist (2012)
+IOI Silver Medalist (2006)
 
 Contestant 2:
 Name: Sun Il Kwon
 TC handle: 
-CF handle: iddaga
+CF handle: 
 Achievements:
-IOI Silver Medalist (2008)
+ACM ICPC Finalist (2011)
 
 Contestant 3:
 Name: Jongwon Lee
@@ -1621,13 +1620,15 @@ RCC Finalist (2014, 2015)
 Contestant 2:
 Name: Vitalii Herasymiv
 TC handle: 
-CF handle: witua
+CF handle: 
 Achievements:
+ACM ICPC Finalist (2015)
+IOI Silver Medalist (2012)
 
 Contestant 3:
 Name: Taras Savitskyi
-TC handle: Trumen
-CF handle: Trumen
+TC handle: 
+CF handle: Taras_Savitskiy
 Achievements:
 
 
@@ -1962,8 +1963,10 @@ ACM ICPC Finalist (2015)
 Contestant 2:
 Name: Hao Wu
 TC handle: 
-CF handle: mempast
+CF handle: 
 Achievements:
+World Finals coach (2014)
+ACM ICPC Finalist (2015)
 
 Contestant 3:
 Name: Hao Yu
@@ -2007,11 +2010,9 @@ IOI Silver Medalist (2011)
 
 Contestant 3:
 Name: Thanh Trung Nguyen
-TC handle: MLGuy
-CF handle: I_love_Hoang_Yen
+TC handle: chemthan
+CF handle: chemthan
 Achievements:
-ACM ICPC Finalist (2012, 2014)
-FBHC Finalist (2016)
 
 
 

@@ -27,7 +27,7 @@ public class PersonalDatabase {
         if (Boolean.getBoolean("reloadCodeforcesUsers")) {
             CodeforcesUser.main();
         }
-        add("input/codeforces.json");
+        add("input/codeforces.json", true);
         if (Boolean.getBoolean("reloadCodeforcesAchievements")) {
             CodeforcesUser.addCodeforcesAchievements();
         }
@@ -59,28 +59,45 @@ public class PersonalDatabase {
     }
 
     private static void add(String filename) throws Exception {
+        add(filename, false);
+    }
+
+    private static void add(String filename, boolean moreSkipableThanYouThink) throws Exception {
         List<Person> persons = Utils.readList(filename, Person.class);
         for (Person person : persons) {
             boolean good = true;
+            Set<Person> incompatible = new HashSet<>();
             if (person.getName() != null && byName.containsKey(person.getName()) && !byName.get(person.getName())
                     .isCompatible(person)) {
+                incompatible.add(byName.get(person.getName()));
                 good = false;
             }
             for (String name : person.getAltNames()) {
                 if (byName.containsKey(name) && !byName.get(name).isCompatible(person)) {
+                    incompatible.add(byName.get(name));
                     good = false;
                 }
             }
             if (person.getTcHandle() != null && byTc.containsKey(person.getTcHandle()) &&
                     !byTc.get(person.getTcHandle()).isCompatible(person)) {
+                incompatible.add(byTc.get(person.getTcHandle()));
                 good = false;
             }
             if (person.getCfHandle() != null && byCf.containsKey(person.getCfHandle()) &&
                     !byCf.get(person.getCfHandle()).isCompatible(person)) {
+                incompatible.add(byCf.get(person.getCfHandle()));
                 good = false;
             }
             if (!good) {
-                log.info("Something fishy with " + person.getName() + " " + person.getTcHandle() + " " + person.getCfHandle());
+                if (!moreSkipableThanYouThink) {
+                    String message = "Something fishy with " + person.getName() + " " + person.getTcHandle() + " " + person.getCfHandle() + " " + person.getAltNames();
+                    for (Person other : incompatible) {
+                        message += ";" + other.getName() + " " + other.getTcHandle() + " " + other.getCfHandle() + " " + other.getAltNames();
+                    }
+                    log.info(message);
+                } else {
+                    continue;
+                }
             }
             Set<Person> added = new HashSet<>();
             if (person.getName() != null && byName.containsKey(person.getName())) {

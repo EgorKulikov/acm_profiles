@@ -31,7 +31,7 @@ public class IOIDownloader {
             page = page.substring(page.indexOf("<div class=\"participantname\">"));
             page = page.substring(page.indexOf(">") + 6);
             person.setName(page.substring(0, page.indexOf("<")));
-            while ((index = page.indexOf("<div class=\"alternatename\">")) != -1) {
+            while ((index = page.indexOf("<div class=\"alternatename\">")) != -1 && !person.getName().equals("Po-En Chen")) {
                 page = page.substring(index);
                 page = page.substring(page.indexOf(">") + 1);
                 person.addAltName(page.substring(0, page.indexOf("<")));

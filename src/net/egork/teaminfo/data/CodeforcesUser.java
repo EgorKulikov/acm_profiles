@@ -31,7 +31,7 @@ public class CodeforcesUser {
             JsonNode next = elements.next();
             CodeforcesUser user = new CodeforcesUser();
             JsonNode handle = next.get("handle");
-            if (handle != null) {
+            if (handle != null && !handle.asText().equals("nullmineral") && !handle.asText().equals("avi1234")) {
                 user.handle = handle.asText();
             }
             JsonNode firstName = next.get("firstName");

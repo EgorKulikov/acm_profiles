@@ -176,38 +176,6 @@ public class GenerateInfo {
 //                    log.info("Data for contestant " + contestant.getName());
                     participantsFound++;
                 }
-                    for (Person person : persons) {
-                        if (contestant.isSamePerson(person)) {
-                            continue;
-                        }
-                        if (person.getName() != null && editDistance(person.getName(), contestant.getName()) <= 2 && !person.getName().equals(contestant.getName())) {
-                            out.println(contestant.getName() + "#" + person.getName());
-                        }
-                        for (String name : person.getAltNames()) {
-                            if (editDistance(name, contestant.getName()) <= 2 && !name.equals(contestant.getName())) {
-                                out.println(contestant.getName() + "#" + person.getName());
-                            }
-                        }
-                    }
-                    String[] tokens = contestant.getName().split(" ");
-                    for (int j = 0; j < tokens.length; j++) {
-                        String name = tokens[j];
-                        for (int k = j + 1; k < tokens.length; k++) {
-                            name += " " + tokens[k];
-                            if (j == 0 && k == tokens.length - 1) {
-                                continue;
-                            }
-                            for (Person person : persons) {
-                                if (contestant.isSamePerson(person)) {
-                                    continue;
-                                }
-                                if (name.equals(person.getName()) || person.getAltNames().contains(name)) {
-                                    out.println(contestant.getName() + "#" + person.getName());
-                                }
-                            }
-                        }
-                    }
-
             }
         }
         out.close();
