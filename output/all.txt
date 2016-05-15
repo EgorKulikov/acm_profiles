@@ -1899,9 +1899,10 @@ CROC Championship finalist (2016)
 
 Contestant 3:
 Name: Dmitriy Gorbunov
-TC handle: 
-CF handle: 
+TC handle: malcolm734
+CF handle: malcolm
 Achievements:
+IOI Gold Medalist (2013)
 
 
 
