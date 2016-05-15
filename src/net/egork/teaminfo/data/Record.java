@@ -31,8 +31,8 @@ public class Record {
         out.println();
         for (int i = 0; i < 3; i++) {
             out.println("Contestant " + (i + 1) + ":");
-            out.println();
             printPerson(contestants[i], out);
+            out.println();
         }
         out.println();
         out.println();
