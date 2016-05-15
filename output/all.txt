@@ -3,14 +3,14 @@ Team: Beginners
 
 Coach:
 Name: Souheil Khawatmi
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 
 Contestant 1:
 Name: Sami Rahma
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 
 Contestant 2:
@@ -22,8 +22,8 @@ IOI Silver Medalist (2014)
 
 Contestant 3:
 Name: Ahmad Rami Rahma
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 
 
@@ -55,14 +55,14 @@ Achievements:
 
 Contestant 2:
 Name: Essam AlNaggar
-TC handle: null
+TC handle: 
 CF handle: naggar
 Achievements:
 
 Contestant 3:
 Name: Omar Mohamed Eissa
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 
 
@@ -123,26 +123,26 @@ Team: Fuchsia Moth
 
 Coach:
 Name: Vernon Gutierrez
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 
 Contestant 1:
 Name: Kyle Stephen See
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 
 Contestant 2:
 Name: Jose Enrico Tiongson
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 
 Contestant 3:
 Name: David Martin Cuajunco
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 
 
@@ -160,8 +160,8 @@ Team: TheWaySoFar
 
 Coach:
 Name: You Song
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 World Finals coach (2013, 2015)
 
@@ -181,7 +181,7 @@ ACM ICPC Finalist (2015)
 
 Contestant 3:
 Name: Haiyu Zhao
-TC handle: null
+TC handle: 
 CF handle: InheritG
 Achievements:
 ACM ICPC Finalist (2015)
@@ -201,26 +201,26 @@ Team: heheda
 
 Coach:
 Name: Ya Yang
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 
 Contestant 1:
 Name: Zitian Wang
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 
 Contestant 2:
 Name: Jie Liu
-TC handle: null
+TC handle: 
 CF handle: hiyot
 Achievements:
 
 Contestant 3:
 Name: YingXiang Jiao
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 
 
@@ -238,8 +238,8 @@ Team: BelarusianSU1
 
 Coach:
 Name: Vladimir Kotov
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 ACM ICPC gold medal as coach (2004)
 ACM ICPC silver medal as coach (2012, 2013)
@@ -327,8 +327,8 @@ Team: stronglyConnected
 
 Coach:
 Name: Avinash Gautam
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 
 Contestant 1:
@@ -364,8 +364,8 @@ Team: Gotta Solve Em All
 
 Coach:
 Name: Khaled Nagaty
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 
 Contestant 1:
@@ -376,14 +376,14 @@ Achievements:
 
 Contestant 2:
 Name: Khaled Nabil
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 
 Contestant 3:
 Name: Yasser Khaled
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 
 
@@ -415,14 +415,14 @@ Achievements:
 
 Contestant 2:
 Name: Mohammad Yasser
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 
 Contestant 3:
 Name: Mohammed Magdy
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 
 
@@ -440,8 +440,8 @@ Team: Kiss a Wookiee
 
 Coach:
 Name: Donald Pinkston
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 
 Contestant 1:
@@ -452,14 +452,14 @@ Achievements:
 
 Contestant 2:
 Name: Taokun Zheng
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 
 Contestant 3:
 Name: Ching Yun Hsu
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 
 
@@ -485,8 +485,8 @@ World Finals coach (2011, 2012, 2014, 2015)
 
 Contestant 1:
 Name: Naomi Rubin
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 
 Contestant 2:
@@ -497,7 +497,7 @@ Achievements:
 
 Contestant 3:
 Name: Xinyu Wu
-TC handle: null
+TC handle: 
 CF handle: WuxinyuJason
 Achievements:
 IOI Participant (2014)
@@ -517,22 +517,22 @@ Team: MFF
 
 Coach:
 Name: Zdenek Dvorak
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 ACM ICPC Finalist (2002)
 
 Contestant 1:
 Name: Václav Rozhoň
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 IOI Bronze Medalist (2015)
 
 Contestant 2:
 Name: Matěj Konečný
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 IOI Participant (2015)
 
@@ -559,26 +559,26 @@ Team: CUCP Meow Meow :3
 
 Coach:
 Name: Athasit Surarerks
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 
 Contestant 1:
 Name: Nat Pavasant
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 
 Contestant 2:
 Name: Kittiphon Phalakarn
-TC handle: null
+TC handle: 
 CF handle: kittyphon
 Achievements:
 
 Contestant 3:
 Name: Kittiphop Phalakarn
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 
 
@@ -630,8 +630,8 @@ IOI Silver Medalist (2014)
 
 Contestant 3:
 Name: Michal Anderle
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 IOI Bronze Medalist (2011)
 
@@ -650,15 +650,15 @@ Team: snoopy fan club
 
 Coach:
 Name: Daniel Fleischman
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 World Finals coach (2010, 2015)
 ACM ICPC Finalist (2006, 2007)
 
 Contestant 1:
 Name: Victor Reis
-TC handle: null
+TC handle: 
 CF handle: victoreis
 Achievements:
 ACM ICPC Finalist (2015)
@@ -671,8 +671,8 @@ Achievements:
 
 Contestant 3:
 Name: Jake Silverman
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 
 
@@ -690,8 +690,8 @@ Team: Nitro++
 
 Coach:
 Name: Feras Al-Kassar
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 
 Contestant 1:
@@ -703,15 +703,15 @@ IOI Participant (2014, 2015)
 
 Contestant 2:
 Name: Khaled Koutini
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 IOI Participant (2010)
 
 Contestant 3:
 Name: Muaz Twaty
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 
 
@@ -729,29 +729,29 @@ Team: La Carabina del AC
 
 Coach:
 Name: Edgardo Adrian Franco Martinez
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 World Finals coach (2013-2015)
 
 Contestant 1:
 Name: Luis Martin Jiménez Rodríguez
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 ACM ICPC Finalist (2015)
 
 Contestant 2:
 Name: Sergio Adonais Romero González
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 ACM ICPC Finalist (2015)
 
 Contestant 3:
 Name: Filiberto Fuentes Hernandez
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 
 
@@ -769,30 +769,30 @@ Team: rETHink
 
 Coach:
 Name: Timon Gehr
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 IOI Participant (2010)
 
 Contestant 1:
 Name: Johannes Kapfhammer
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 ACM ICPC Finalist (2014)
 IOI Participant (2012, 2013)
 
 Contestant 2:
 Name: Kieran Nirkko
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 ACM ICPC Finalist (2013)
 
 Contestant 3:
 Name: Demjan Grubić
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 IOI Participant (2012)
 
@@ -811,29 +811,29 @@ Team: Saga
 
 Coach:
 Name: Weiwei Sun
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 World Finals coach (2012-2015)
 
 Contestant 1:
 Name: Haoming Xing
-TC handle: null
+TC handle: 
 CF handle: flydutchman
 Achievements:
 ACM ICPC Finalist (2015)
 
 Contestant 2:
 Name: Ziyang Chen
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 ACM ICPC Finalist (2014)
 
 Contestant 3:
 Name: Jinyue Su
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 
 
@@ -851,8 +851,8 @@ Team: Harvard
 
 Coach:
 Name: Robert L. Walton
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 ACM ICPC silver medal as coach (2012)
 ACM ICPC bronze medal as coach (2004)
@@ -898,28 +898,28 @@ Team: HCMUS - Shine
 
 Coach:
 Name: Nguyen Son Tung Pham
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 World Finals coach (2014)
 
 Contestant 1:
 Name: Yen Thanh Le
-TC handle: null
+TC handle: 
 CF handle: yenthanh.t7
 Achievements:
 ACM ICPC Finalist (2014)
 
 Contestant 2:
 Name: Viet Khoi Pham
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 
 Contestant 3:
 Name: Minh Bao Truong
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 
 
@@ -937,27 +937,27 @@ Team: Illinois Tech
 
 Coach:
 Name: Gruia Calinescu
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 World Finals coach (2004, 2005, 2012)
 
 Contestant 1:
 Name: Andrei Dumitru
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 
 Contestant 2:
 Name: Todor Markov
-TC handle: null
+TC handle: 
 CF handle: Togop
 Achievements:
 
 Contestant 3:
 Name: Benjamin Grimmer
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 
 
@@ -975,8 +975,8 @@ Team: DoCThors
 
 Coach:
 Name: Christian Ledig
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 
 Contestant 1:
@@ -996,8 +996,8 @@ IOI Bronze Medalist (2013)
 
 Contestant 3:
 Name: Posdarascu Eugenie Daniel
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 
 
@@ -1015,8 +1015,8 @@ Team: Greed_for_Speed
 
 Coach:
 Name: Sanjai Singh
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 
 Contestant 1:
@@ -1027,13 +1027,13 @@ Achievements:
 
 Contestant 2:
 Name: Mettu Shiva Reddy
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 
 Contestant 3:
 Name: Man Mohan Mishra
-TC handle: null
+TC handle: 
 CF handle: m17
 Achievements:
 
@@ -1052,20 +1052,20 @@ Team: ntm
 
 Coach:
 Name: Sharat Chandran
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 World Finals coach (2005, 2006, 2013, 2014)
 
 Contestant 1:
 Name: Venkateswara Rao Chippada
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 
 Contestant 2:
 Name: Nikhil Vyas
-TC handle: null
+TC handle: 
 CF handle: nikhilvyas
 Achievements:
 
@@ -1090,29 +1090,29 @@ Team: angle
 
 Coach:
 Name: Mausam Mausam
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 
 Contestant 1:
 Name: Kunal Singhal
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 ACM ICPC Finalist (2015)
 IOI Participant (2012)
 
 Contestant 2:
 Name: Satwant Rana
-TC handle: null
+TC handle: 
 CF handle: TheTerminalGuy
 Achievements:
 ACM ICPC Finalist (2015)
 
 Contestant 3:
 Name: Yash Kumar Bansal
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 
 
@@ -1130,13 +1130,13 @@ Team: FacelessMen
 
 Coach:
 Name: Surender Baswana
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 
 Contestant 1:
 Name: Atanu Chakraborty
-TC handle: null
+TC handle: 
 CF handle: alecsyde
 Achievements:
 
@@ -1167,28 +1167,28 @@ Team: 11Coders
 
 Coach:
 Name: Vinod Pankajakshan
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 World Finals coach (2014, 2015)
 
 Contestant 1:
 Name: Aman Kumar Kedia
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 ACM ICPC Finalist (2015)
 
 Contestant 2:
 Name: Kshitij  Bathla
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 
 Contestant 3:
 Name: Anubhav  Bindlish
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 
 
@@ -1206,8 +1206,8 @@ Team: Innopolis U Known
 
 Coach:
 Name: Alexey Maleev
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 
 Contestant 1:
@@ -1222,13 +1222,13 @@ CROC Championship finalist (2016)
 
 Contestant 2:
 Name: Sergey Kiyan
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 
 Contestant 3:
 Name: Evgeny Savinov
-TC handle: null
+TC handle: 
 CF handle: savinov
 Achievements:
 CROC Championship finalist (2016)
@@ -1248,26 +1248,26 @@ Team: Los Románticos
 
 Coach:
 Name: Maria Fernanda Pineda Bonnin
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 
 Contestant 1:
 Name: Freddy Román Cepeda
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 
 Contestant 2:
 Name: Diego Terán Ríos
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 
 Contestant 3:
 Name: Demian Espinosa Ruiz
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 
 
@@ -1285,28 +1285,28 @@ Team: Freelancers
 
 Coach:
 Name: Simanta Mitra
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 World Finals coach (2000, 2001, 2003, 2008, 2009, 2012, 2014, 2015)
 
 Contestant 1:
 Name: Jacob Smith
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 ACM ICPC Finalist (2015)
 
 Contestant 2:
 Name: Nathan De Graaf
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 
 Contestant 3:
 Name: Yuxiang Zhang
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 
 
@@ -1324,8 +1324,8 @@ Team: Aspire
 
 Coach:
 Name: Reza Godaz
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 
 Contestant 1:
@@ -1336,14 +1336,14 @@ Achievements:
 
 Contestant 2:
 Name: Reza Kakhki
-TC handle: null
+TC handle: 
 CF handle: RK2371
 Achievements:
 
 Contestant 3:
 Name: Sobhan Shafiei
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 
 
@@ -1361,28 +1361,28 @@ Team: HaKings
 
 Coach:
 Name: Luis Humberto González
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 World Finals coach (2009, 2015)
 
 Contestant 1:
 Name: Alfredo Altamirano Montealvo
-TC handle: null
+TC handle: 
 CF handle: fredy.altamirano
 Achievements:
 ACM ICPC Finalist (2015)
 
 Contestant 2:
 Name: Diego Emilio Gutierrez Yepiz
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 
 Contestant 3:
 Name: Carlos Salvador Garza Garza
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 
 
@@ -1400,8 +1400,8 @@ Team: Jagiellonian
 
 Coach:
 Name: Pawel Idziak
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 ACM ICPC gold medal as coach (2006)
 ACM ICPC bronze medal as coach (2011, 2013)
@@ -1409,14 +1409,14 @@ World Finals coach (2004, 2008, 2009, 2012, 2014, 2015)
 
 Contestant 1:
 Name: Michał Zając
-TC handle: null
+TC handle: 
 CF handle: zaj
 Achievements:
 
 Contestant 2:
 Name: Szymon Łukasz
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 
 Contestant 3:
@@ -1440,13 +1440,13 @@ Team: JU_O(N^3)
 
 Coach:
 Name: K M Akkas Ali
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 
 Contestant 1:
 Name: Md. Nafis Sadique
-TC handle: null
+TC handle: 
 CF handle: nfssdq
 Achievements:
 ACM ICPC Finalist (2015)
@@ -1459,7 +1459,7 @@ Achievements:
 
 Contestant 3:
 Name: Niloy Datta
-TC handle: null
+TC handle: 
 CF handle: ndatta
 Achievements:
 
@@ -1478,28 +1478,28 @@ Team: [A-Za-z0-9]+
 
 Coach:
 Name: Taisook Han
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 World Finals coach (2004, 2006, 2007)
 
 Contestant 1:
 Name: Jae Hong Kim
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 IOI Silver Medalist (2006)
 
 Contestant 2:
 Name: Sun Il Kwon
-TC handle: null
+TC handle: 
 CF handle: iddaga
 Achievements:
 IOI Silver Medalist (2008)
 
 Contestant 3:
 Name: Jongwon Lee
-TC handle: null
+TC handle: 
 CF handle: OnionPringles
 Achievements:
 
@@ -1518,25 +1518,25 @@ Team: RNS
 
 Coach:
 Name: Gwangbyol Jong
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 
 Contestant 1:
 Name: HyoSong Kim
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 
 Contestant 2:
 Name: UnSong Ri
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 
 Contestant 3:
 Name: GyongMin Jo
-TC handle: null
+TC handle: 
 CF handle: RNS_jgm
 Achievements:
 
@@ -1555,8 +1555,8 @@ Team: Opportunity
 
 Coach:
 Name: Jin Young Choi
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 ACM ICPC bronze medal as coach (2015)
 
@@ -1571,15 +1571,15 @@ IOI Bronze Medalist (2010)
 
 Contestant 2:
 Name: Geun Woo Bae
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 ACM ICPC bronze medal (2015)
 
 Contestant 3:
 Name: Dong Ho Lee
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 
 
@@ -1597,21 +1597,21 @@ Team: breakShot
 
 Coach:
 Name: Shoichi Nishimura
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 ACM ICPC Finalist (2014, 2015)
 
 Contestant 1:
 Name: Yuta Ojima
-TC handle: null
+TC handle: 
 CF handle: ojjiy5
 Achievements:
 
 Contestant 2:
 Name: Kazuki Takise
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 
 Contestant 3:
@@ -1635,8 +1635,8 @@ Team: LNU Penguins
 
 Coach:
 Name: Vasyl Biletskyy
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 ACM ICPC gold medal (2008)
 ACM ICPC gold medal as coach (2008)
@@ -1652,8 +1652,8 @@ RCC Finalist (2014, 2015)
 
 Contestant 2:
 Name: Vitalii Herasymiv
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 ACM ICPC Finalist (2015)
 IOI Silver Medalist (2012)
@@ -1679,8 +1679,8 @@ Team: MIT ZERO
 
 Coach:
 Name: Aleksandar Zlateski
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 World Finals coach (2010-2013)
 IOI Silver Medalist (2002)
@@ -1696,7 +1696,7 @@ IOI Silver Medalist (2013)
 
 Contestant 2:
 Name: Brian Chen
-TC handle: null
+TC handle: 
 CF handle: betaveros
 Achievements:
 
@@ -1736,7 +1736,7 @@ Yandex.Algorithm finalist (2011)
 
 Contestant 1:
 Name: Timofey Yushchenko
-TC handle: null
+TC handle: 
 CF handle: Timus
 Achievements:
 ACM ICPC Finalist (2015)
@@ -1772,7 +1772,7 @@ Team: MEPhI: Cupcakes
 Coach:
 Name: Vasily Astakhov
 TC handle: ST_Vasily
-CF handle: null
+CF handle: 
 Achievements:
 ACM ICPC bronze medal (2011)
 ACM ICPC Finalist (2009)
@@ -1860,8 +1860,8 @@ Team: Moscow SU Trinity
 
 Coach:
 Name: Andrey Shestimerov
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 
 Contestant 1:
@@ -1884,8 +1884,8 @@ CROC Championship finalist (2016)
 
 Contestant 3:
 Name: Dmitriy Gorbunov
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 
 
@@ -1903,8 +1903,8 @@ Team: NCTU_Thor
 
 Coach:
 Name: MinZheng Shieh
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 
 Contestant 1:
@@ -1915,14 +1915,14 @@ Achievements:
 
 Contestant 2:
 Name: Pin Chang Pan
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 
 Contestant 3:
 Name: LiCheng Lan
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 
 
@@ -1940,8 +1940,8 @@ Team: bcw0x1bd2
 
 Coach:
 Name: Pu-Jen Cheng
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 ACM ICPC gold medal as coach (2010, 2013, 2014)
 World Finals coach (2008, 2009, 2011, 2012, 2015)
@@ -1955,15 +1955,15 @@ IOI Silver Medalist (2012)
 
 Contestant 2:
 Name: Kai-Chi Huang
-TC handle: null
+TC handle: 
 CF handle: step5
 Achievements:
 IOI Gold Medalist (2013)
 
 Contestant 3:
 Name: Han Chung Wang
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 
 
@@ -1981,29 +1981,29 @@ Team: ALPC_Farewell
 
 Coach:
 Name: Yuxing Peng
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 World Finals coach (2010, 2012, 2015)
 
 Contestant 1:
 Name: Zheng Qin
-TC handle: null
+TC handle: 
 CF handle: clavichord93
 Achievements:
 ACM ICPC Finalist (2015)
 
 Contestant 2:
 Name: Hao Wu
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 World Finals coach (2014)
 ACM ICPC Finalist (2015)
 
 Contestant 3:
 Name: Hao Yu
-TC handle: null
+TC handle: 
 CF handle: alpc128
 Achievements:
 ACM ICPC Finalist (2015)
@@ -2023,15 +2023,15 @@ Team: RRwatameda
 
 Coach:
 Name: Sun Teck Tan
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 World Finals coach (2015)
 
 Contestant 1:
 Name: Hung Tam Nguyen
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 
 Contestant 2:
@@ -2044,8 +2044,8 @@ IOI Silver Medalist (2011)
 
 Contestant 3:
 Name: Thanh Trung Nguyen
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 ACM ICPC Finalist (2012, 2014)
 
@@ -2064,8 +2064,8 @@ Team: what duang to eat dinner
 
 Coach:
 Name: Yefang Chen
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 
 Contestant 1:
@@ -2079,14 +2079,14 @@ IOI Bronze Medalist (1997)
 
 Contestant 2:
 Name: Qing Ye
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 
 Contestant 3:
 Name: Qi Wu
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 
 
@@ -2104,8 +2104,8 @@ Team: Nizhny Novgorod SU 1
 
 Coach:
 Name: Nikolai Borisov
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 
 Contestant 1:
@@ -2158,8 +2158,8 @@ Team: NSU BugLovers
 
 Coach:
 Name: Md Shazzad Hosain
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 
 Contestant 1:
@@ -2170,7 +2170,7 @@ Achievements:
 
 Contestant 2:
 Name: Hasib Al Muhaimin
-TC handle: null
+TC handle: 
 CF handle: hasib
 Achievements:
 IOI Participant (2013-2015)
@@ -2196,26 +2196,26 @@ Team: Daedalus
 
 Coach:
 Name: Zhiguo Zhou
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 
 Contestant 1:
 Name: Chengyu Yang
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 
 Contestant 2:
 Name: Ligang Zhang
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 
 Contestant 3:
 Name: Miaoyang Li
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 
 
@@ -2233,26 +2233,26 @@ Team: NEU_I forgot it.
 
 Coach:
 Name: XiaoFeng Liu
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 
 Contestant 1:
 Name: Hengyu Liu
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 
 Contestant 2:
 Name: Han Wang
-TC handle: null
+TC handle: 
 CF handle: Cold.H
 Achievements:
 
 Contestant 3:
 Name: Haibin Xie
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 
 
@@ -2282,13 +2282,13 @@ Achievements:
 
 Contestant 2:
 Name: Vladimir Dodin
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 
 Contestant 3:
 Name: Aleksey Chesnokov
-TC handle: null
+TC handle: 
 CF handle: CleRIC
 Achievements:
 
@@ -2307,8 +2307,8 @@ Team: Future_Gazer
 
 Coach:
 Name: Suyi Wang
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 
 Contestant 1:
@@ -2319,13 +2319,13 @@ Achievements:
 
 Contestant 2:
 Name: Dingkang Wang
-TC handle: null
+TC handle: 
 CF handle: wdk
 Achievements:
 
 Contestant 3:
 Name: Jian Wang
-TC handle: null
+TC handle: 
 CF handle: BBbuff
 Achievements:
 
@@ -2344,14 +2344,14 @@ Team: chikOkU
 
 Coach:
 Name: Yasuaki Mitani
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 
 Contestant 1:
 Name: Yosuke Sameshima
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 
 Contestant 2:
@@ -2362,8 +2362,8 @@ Achievements:
 
 Contestant 3:
 Name: Naohiro Kawamitsu
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 
 
@@ -2381,8 +2381,8 @@ Team: Crawl
 
 Coach:
 Name: Guojie Luo
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 ACM ICPC gold medal as coach (2014)
 ACM ICPC silver medal as coach (2015)
@@ -2390,8 +2390,8 @@ World Finals coach (2013)
 
 Contestant 1:
 Name: Xuanrun Zhang
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 
 Contestant 2:
@@ -2422,26 +2422,26 @@ Team: FEDEX
 
 Coach:
 Name: Sangsuree Vasupongayya
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 
 Contestant 1:
 Name: Arif Waram
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 
 Contestant 2:
 Name: Napat Wongphan-ngam
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 
 Contestant 3:
 Name: Tanapol Anantachaiwanich
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 
 
@@ -2459,27 +2459,27 @@ Team: EarlGrey (PSUT)
 
 Coach:
 Name: Ashraf Ahmad
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 World Finals coach (2014)
 
 Contestant 1:
 Name: Abdullah Bahosain
-TC handle: null
+TC handle: 
 CF handle: AU.Bahosain
 Achievements:
 ACM ICPC Finalist (2014)
 
 Contestant 2:
 Name: Maram Tuffaha
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 
 Contestant 3:
 Name: Hasan Alhamsh
-TC handle: null
+TC handle: 
 CF handle: 2Nodes
 Achievements:
 ACM ICPC Finalist (2014)
@@ -2499,27 +2499,27 @@ Team: That empty teamname
 
 Coach:
 Name: Joshua Moerman
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 
 Contestant 1:
 Name: Thijs Miedema
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 
 Contestant 2:
 Name: David Venhoek
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 IOI Bronze Medalist (2008-2010)
 
 Contestant 3:
 Name: Bas Nieuwenhuizen
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 ACM ICPC Finalist (2013)
 IOI Silver Medalist (2010, 2011)
@@ -2539,22 +2539,22 @@ Team: Rice Gray
 
 Coach:
 Name: John Greiner
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 World Finals coach (2006, 2015)
 
 Contestant 1:
 Name: Philip Taffet
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 ACM ICPC Finalist (2015)
 
 Contestant 2:
 Name: Jose Carlos Vera-Garza
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 ACM ICPC Finalist (2015)
 
@@ -2582,7 +2582,7 @@ Team: Saratov SU Daemons
 Coach:
 Name: Michael Mirzayanov
 TC handle: Mike Mirzayanov
-CF handle: null
+CF handle: 
 Achievements:
 ACM ICPC silver medal (2002, 2003)
 ACM ICPC win as coach (2006)
@@ -2609,14 +2609,14 @@ Abbyy Cup finalist (2012)
 
 Contestant 2:
 Name: Danil Sagunov
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 
 Contestant 3:
 Name: Vitalii Kudasov
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 
 
@@ -2634,14 +2634,14 @@ Team: In 1010101 We Trust!
 
 Coach:
 Name: Mohammadreza Haghpanah
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 ACM ICPC Finalist (2015)
 
 Contestant 1:
 Name: Amirhossein Shapoori
-TC handle: null
+TC handle: 
 CF handle: shamir0xe
 Achievements:
 
@@ -2654,8 +2654,8 @@ ACM ICPC Finalist (2015)
 
 Contestant 3:
 Name: Nima Shirvanian
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 ACM ICPC Finalist (2015)
 
@@ -2674,8 +2674,8 @@ Team: DownToTheWire
 
 Coach:
 Name: Md Saiful Islam
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 World Finals coach (2015)
 
@@ -2689,14 +2689,14 @@ IOI Bronze Medalist (2012, 2013)
 
 Contestant 2:
 Name: Abdullah Al Maruf
-TC handle: null
+TC handle: 
 CF handle: PlausibleDeniability
 Achievements:
 ACM ICPC Finalist (2015)
 
 Contestant 3:
 Name: Sakibul Mowla
-TC handle: null
+TC handle: 
 CF handle: J-C
 Achievements:
 ACM ICPC Finalist (2015)
@@ -2716,8 +2716,8 @@ Team: Dreadnought
 
 Coach:
 Name: Yong Yu
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 ACM ICPC win as coach (2002, 2005, 2010)
 ACM ICPC gold medal as coach (2012, 2013)
@@ -2763,8 +2763,8 @@ Team: Wand Maker
 
 Coach:
 Name: Yunfu Shen
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 World Finals coach (2015)
 
@@ -2776,7 +2776,7 @@ Achievements:
 
 Contestant 2:
 Name: Yi Xu
-TC handle: null
+TC handle: 
 CF handle: fraud
 Achievements:
 
@@ -2802,8 +2802,8 @@ Team: CrockPot
 
 Coach:
 Name: Kamran Bavar
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 World Finals coach (2007-2015)
 IOI Bronze Medalist (1995)
@@ -2844,8 +2844,8 @@ Team: SOX
 
 Coach:
 Name: Chuhua Xian
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 World Finals coach (2014)
 
@@ -2858,14 +2858,14 @@ ACM ICPC Finalist (2015)
 
 Contestant 2:
 Name: Jiaming Fang
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 
 Contestant 3:
 Name: Peizhen Hu
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 
 
@@ -2883,27 +2883,27 @@ Team: SDSMT Hardrockers
 
 Coach:
 Name: Antonette Logar
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 World Finals coach (2013)
 
 Contestant 1:
 Name: Rachel Krohn
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 
 Contestant 2:
 Name: Daniel Andrus
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 
 Contestant 3:
 Name: Matthew Dyke
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 
 
@@ -3026,8 +3026,8 @@ Team: SPb SU 1: Base
 
 Coach:
 Name: Andrei Lopatin
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 ACM ICPC win as coach (2014)
 ACM ICPC silver medal as coach (2013)
@@ -3035,7 +3035,7 @@ World Finals coach (2012, 2015)
 
 Contestant 1:
 Name: Stanislav Ershov
-TC handle: null
+TC handle: 
 CF handle: ershov.stanislav
 Achievements:
 CROC Championship finalist (2016)
@@ -3072,8 +3072,8 @@ Team: Stanford Cardinal
 
 Coach:
 Name: Gerald Cain
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 ACM ICPC silver medal as coach (2002, 2008)
 ACM ICPC bronze medal as coach (2001)
@@ -3081,20 +3081,20 @@ World Finals coach (1999, 2000, 2004, 2007, 2012-2015)
 
 Contestant 1:
 Name: Hubert Teo
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 
 Contestant 2:
 Name: Joshua Alman
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 
 Contestant 3:
 Name: Yuetong Wang
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 
 
@@ -3112,8 +3112,8 @@ Team: Flawless
 
 Coach:
 Name: Vitalii Bondarenko
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 ACM ICPC gold medal as coach (2010)
 ACM ICPC silver medal as coach (2013)
@@ -3122,7 +3122,7 @@ IOI Bronze Medalist (1992)
 
 Contestant 1:
 Name: Roman Furko
-TC handle: null
+TC handle: 
 CF handle: Furko
 Achievements:
 ACM ICPC Finalist (2015)
@@ -3138,8 +3138,8 @@ ACM ICPC Finalist (2015)
 
 Contestant 3:
 Name: Mykhailo Chornyi
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 
 
@@ -3157,8 +3157,8 @@ Team: Real Base
 
 Coach:
 Name: Siu On Chan
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 ACM ICPC Finalist (2003, 2006)
 
@@ -3170,7 +3170,7 @@ Achievements:
 
 Contestant 2:
 Name: Kam Chuen Tung
-TC handle: null
+TC handle: 
 CF handle: alex20030190
 Achievements:
 IOI Silver Medalist (2013-2015)
@@ -3198,26 +3198,26 @@ Team: USD A
 
 Coach:
 Name: Doug Goodman
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 
 Contestant 1:
 Name: Mitchell Peterson
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 
 Contestant 2:
 Name: Ben Erickson
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 
 Contestant 3:
 Name: Kurtis Van Gent
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 
 
@@ -3235,8 +3235,8 @@ Team: IIIlIIIllIIlIlIIllIlIllllllIII
 
 Coach:
 Name: Tomoyuki Kaneko
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 ACM ICPC gold medal as coach (2013, 2015)
 ACM ICPC silver medal as coach (2014)
@@ -3282,25 +3282,25 @@ Team: Off By Wonders
 
 Coach:
 Name: Tim French
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 
 Contestant 1:
 Name: Emma Krantz
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 
 Contestant 2:
 Name: Max Ward-Graham
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 
 Contestant 3:
 Name: Andrew Gozzard
-TC handle: null
+TC handle: 
 CF handle: gozzardam
 Achievements:
 
@@ -3319,21 +3319,21 @@ Team: TJU_Thief_Master
 
 Coach:
 Name: Ruiguo Yu
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 World Finals coach (2008, 2009, 2011-2013)
 
 Contestant 1:
 Name: Tingle Zhou
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 
 Contestant 2:
 Name: Sheng Cao
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 
 Contestant 3:
@@ -3357,28 +3357,28 @@ Team: 4th FLOOR
 
 Coach:
 Name: Alaa Jarad
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 World Finals coach (2014, 2015)
 
 Contestant 1:
 Name: Sami Emad
-TC handle: null
+TC handle: 
 CF handle: samiemad
 Achievements:
 ACM ICPC Finalist (2015)
 
 Contestant 2:
 Name: Majd Ghada
-TC handle: null
+TC handle: 
 CF handle: majd.gda1
 Achievements:
 ACM ICPC Finalist (2015)
 
 Contestant 3:
 Name: Nodar Jarrar
-TC handle: null
+TC handle: 
 CF handle: nodar963
 Achievements:
 
@@ -3397,8 +3397,8 @@ Team: Wunderzeit
 
 Coach:
 Name: Xiaojun Wu
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 ACM ICPC gold medal as coach (2007, 2009, 2011, 2015)
 ACM ICPC silver medal as coach (2008, 2010)
@@ -3418,14 +3418,14 @@ Yandex.Algorithm Finalist (2013)
 
 Contestant 2:
 Name: Hengjie Zhang
-TC handle: null
+TC handle: 
 CF handle: zhj
 Achievements:
 IOI Gold Medalist (2015)
 
 Contestant 3:
 Name: Honghua Dong
-TC handle: null
+TC handle: 
 CF handle: dhh1995
 Achievements:
 IOI Gold Medalist (2014)
@@ -3468,8 +3468,8 @@ Achievements:
 
 Contestant 3:
 Name: Miguel Maurizio
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 
 
@@ -3487,26 +3487,26 @@ Team: Squash Masters
 
 Coach:
 Name: Camilo Garrido
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 
 Contestant 1:
 Name: Juan Pablo Paulsen Casanueva
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 
 Contestant 2:
 Name: Ronie Salgado
-TC handle: null
+TC handle: 
 CF handle: ronsaldo
 Achievements:
 
 Contestant 3:
 Name: Felipe Contreras
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 
 
@@ -3524,15 +3524,15 @@ Team: UH_REFRESH
 
 Coach:
 Name: Alfredo Somoza Moreno
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 World Finals coach (2011-2013, 2015)
 
 Contestant 1:
 Name: Norge Vizcay Zaldívar
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 
 Contestant 2:
@@ -3543,8 +3543,8 @@ Achievements:
 
 Contestant 3:
 Name: Abel Ramos
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 
 
@@ -3562,29 +3562,29 @@ Team: Programators Mark II
 
 Coach:
 Name: Mario Sánchez
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 World Finals coach (2012)
 
 Contestant 1:
 Name: Emanuel Krivoy
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 ACM ICPC Finalist (2015)
 
 Contestant 2:
 Name: Santiago Ceron
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 ACM ICPC Finalist (2015)
 
 Contestant 3:
 Name: Rafael Mantilla
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 ACM ICPC Finalist (2015)
 IOI Silver Medalist (2011)
@@ -3606,27 +3606,27 @@ Team: Conquer & Divide
 
 Coach:
 Name: Eloy Rafael Oliveros Domínguez
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 
 Contestant 1:
 Name: Eduardo Pascual Aseff
-TC handle: null
+TC handle: 
 CF handle: epascual
 Achievements:
 
 Contestant 2:
 Name: Alexander Bestard Rivera
-TC handle: null
+TC handle: 
 CF handle: bestard
 Achievements:
 IOI Participant (2015)
 
 Contestant 3:
 Name: Aurora Gil Pons
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 
 
@@ -3644,8 +3644,8 @@ Team: UNDynamic
 
 Coach:
 Name: Diego Ivan Caballero Rodríguez
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 ACM ICPC Finalist (2013, 2015)
 
@@ -3657,14 +3657,14 @@ Achievements:
 
 Contestant 2:
 Name: Juan Felipe Baquero Vargas
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 
 Contestant 3:
 Name: Andres Felipe Cruz Salinas
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 
 
@@ -3682,26 +3682,26 @@ Team: 1000KB
 
 Coach:
 Name: Rodolfo Moisés Mercado Gonzales
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 
 Contestant 1:
 Name: Victor Alin Cueva Llanos
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 
 Contestant 2:
 Name: Josué Andrés Julcarima Calle
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 
 Contestant 3:
 Name: Diego Mauricio Mansilla Mallqui
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 
 
@@ -3741,8 +3741,8 @@ ACM ICPC Finalist (2015)
 
 Contestant 3:
 Name: Mariano Crosetti
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 ACM ICPC Finalist (2015)
 
@@ -3768,14 +3768,14 @@ World Finals coach (2015)
 
 Contestant 1:
 Name: Mathias San Miguel
-TC handle: null
+TC handle: 
 CF handle: mathiassm
 Achievements:
 
 Contestant 2:
 Name: Rubmary Rojas
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 
 Contestant 3:
@@ -3799,7 +3799,7 @@ Team: Sua mãe
 
 Coach:
 Name: Renzo Gomez
-TC handle: null
+TC handle: 
 CF handle: renzo1805
 Achievements:
 
@@ -3843,8 +3843,8 @@ ACM ICPC Finalist (2014)
 
 Contestant 1:
 Name: Tomás Raphael Rizzo Fonseca
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 
 Contestant 2:
@@ -3874,8 +3874,8 @@ Team: BibleThump
 
 Coach:
 Name: Fábio Luiz Usberti
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 
 Contestant 1:
@@ -3886,8 +3886,8 @@ Achievements:
 
 Contestant 2:
 Name: Augusto dos Santos Morgan
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 
 Contestant 3:
@@ -3911,13 +3911,13 @@ Team: ROBÉRIO E SEUS TECLADOS
 
 Coach:
 Name: Mauricio Pamplona Segundo
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 
 Contestant 1:
 Name: Guilherme Bernal
-TC handle: null
+TC handle: 
 CF handle: lbguilherme
 Achievements:
 
@@ -3948,8 +3948,8 @@ Team: Abella e as feras
 
 Coach:
 Name: Rohit Gheyi
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 World Finals coach (2012, 2014, 2015)
 
@@ -3990,14 +3990,14 @@ Team: Turing-indecisos
 
 Coach:
 Name: Katia Guimarães
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 World Finals coach (1999, 2002, 2004)
 
 Contestant 1:
 Name: Gustavo Stor
-TC handle: null
+TC handle: 
 CF handle: Godely
 Achievements:
 
@@ -4028,21 +4028,21 @@ Team: Twelve seconds
 
 Coach:
 Name: Salvador Roura
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 World Finals coach (2004-2007, 2009, 2010, 2012-2015)
 
 Contestant 1:
 Name: Angel Garcia Gomez
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 ACM ICPC Finalist (2015)
 
 Contestant 2:
 Name: Ferran Alet
-TC handle: null
+TC handle: 
 CF handle: FerranAlet
 Achievements:
 ACM ICPC Finalist (2015)
@@ -4070,27 +4070,27 @@ Team: FinalZukky
 
 Coach:
 Name: Yutaka Watanobe
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 World Finals coach (2009)
 
 Contestant 1:
 Name: Takumi Yamashita
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 
 Contestant 2:
 Name: Kazuki Omomo
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 
 Contestant 3:
 Name: Tadamasa Yamaguchi
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 
 
@@ -4108,28 +4108,28 @@ Team: UBC+
 
 Coach:
 Name: Mushfiqur Rouf
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 ACM ICPC Finalist (2002, 2005)
 World Finals coach (2013)
 
 Contestant 1:
 Name: Brian Chau
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 
 Contestant 2:
 Name: Yuanchen Du
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 
 Contestant 3:
 Name: Hung li Chen
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 
 
@@ -4147,8 +4147,8 @@ Team: Berkeley Blue
 
 Coach:
 Name: Paul Hilfinger
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 ACM ICPC silver medal as coach (2015)
 ACM ICPC bronze medal as coach (1999)
@@ -4165,14 +4165,14 @@ IOI Silver Medalist (2009)
 
 Contestant 2:
 Name: Weiqiao Han
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 
 Contestant 3:
 Name: Alexander Dai
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 
 
@@ -4190,8 +4190,8 @@ Team: Amazingly Complicated Macros
 
 Coach:
 Name: Maria Keet
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 World Finals coach (2015)
 
@@ -4206,15 +4206,15 @@ IOI Participant (2012)
 
 Contestant 2:
 Name: Robin Visser
-TC handle: null
+TC handle: 
 CF handle: rvisser
 Achievements:
 IOI Bronze Medalist (2015)
 
 Contestant 3:
 Name: Ashraf Moolla
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 IOI Participant (2012)
 
@@ -4233,8 +4233,8 @@ Team: UCF Knights
 
 Coach:
 Name: Ali Orooji
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 ACM ICPC bronze medal as coach (2001)
 World Finals coach (2000, 2002, 2004-2010, 2012-2015)
@@ -4247,15 +4247,15 @@ Achievements:
 
 Contestant 2:
 Name: Stephen Royal
-TC handle: null
+TC handle: 
 CF handle: sroyal
 Achievements:
 ACM ICPC Finalist (2013)
 
 Contestant 3:
 Name: Evan Dorundo
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 ACM ICPC Finalist (2015)
 
@@ -4274,27 +4274,27 @@ Team: Sufficiently Advanced Tech
 
 Coach:
 Name: Borja Sotomayor
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 World Finals coach (2009-2015)
 
 Contestant 1:
 Name: Scott Shi
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 
 Contestant 2:
 Name: Mihai Andreescu
-TC handle: null
+TC handle: 
 CF handle: mihai995
 Achievements:
 
 Contestant 3:
 Name: Nikolas Anderson
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 
 
@@ -4312,21 +4312,21 @@ Team: UESTC_murasame
 
 Coach:
 Name: Peng Yang
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 World Finals coach (2012, 2014, 2015)
 
 Contestant 1:
 Name: Zhu He
-TC handle: null
+TC handle: 
 CF handle: Hezhu
 Achievements:
 
 Contestant 2:
 Name: SiRui Lin
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 
 Contestant 3:
@@ -4350,8 +4350,8 @@ Team: BYTE
 
 Coach:
 Name: Ho Phuong
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 World Finals coach (2015)
 
@@ -4399,13 +4399,13 @@ IOI Participant (2005)
 
 Contestant 1:
 Name: Olli Hirviniemi
-TC handle: null
+TC handle: 
 CF handle: Gomhog
 Achievements:
 
 Contestant 2:
 Name: Otte Heinävaara
-TC handle: null
+TC handle: 
 CF handle: gtrrebel
 Achievements:
 
@@ -4431,27 +4431,27 @@ Team: Poor Man's Shield
 
 Coach:
 Name: Uttam Thakore
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 World Finals coach (2015)
 
 Contestant 1:
 Name: Lan Dao
-TC handle: null
+TC handle: 
 CF handle: TiChuot97
 Achievements:
 
 Contestant 2:
 Name: Xin Gao
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 ACM ICPC Finalist (2015)
 
 Contestant 3:
 Name: Siwakorn Srisakaokul
-TC handle: null
+TC handle: 
 CF handle: NarakJung
 Achievements:
 
@@ -4470,14 +4470,14 @@ Team: Benchwarmers
 
 Coach:
 Name: Luc Nelson
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 
 Contestant 1:
 Name: Lucas Knutson
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 ACM ICPC Finalist (2015)
 
@@ -4490,8 +4490,8 @@ ACM ICPC Finalist (2015)
 
 Contestant 3:
 Name: BatOrgil Batsaikhan
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 
 
@@ -4509,8 +4509,8 @@ Team: TheNorthernLine
 
 Coach:
 Name: Aleks Ignjatovic
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 World Finals coach (2014, 2015)
 
@@ -4525,8 +4525,8 @@ IOI Participant (2013)
 
 Contestant 2:
 Name: Daaron Chiu
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 
 Contestant 3:
@@ -4551,26 +4551,26 @@ Team: Dayton Goliath Trees
 
 Coach:
 Name: Ketan Mayer-Patel
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 
 Contestant 1:
 Name: David Spencer
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 
 Contestant 2:
 Name: Dayton Ellwanger
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 
 Contestant 3:
 Name: Forrest Li
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 
 
@@ -4588,8 +4588,8 @@ Team: USC Trojans
 
 Coach:
 Name: David Kempe
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 World Finals coach (2002, 2013-2015)
 ACM ICPC Finalist (1999)
@@ -4597,19 +4597,19 @@ IOI Silver Medalist (1994)
 
 Contestant 1:
 Name: Yuehui Wang
-TC handle: null
+TC handle: 
 CF handle: windsfantasy6
 Achievements:
 
 Contestant 2:
 Name: Zekun Li
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 
 Contestant 3:
 Name: Ho Ching Justin Cheng
-TC handle: null
+TC handle: 
 CF handle: justindcheng
 Achievements:
 
@@ -4628,27 +4628,27 @@ Team: Uncompilables
 
 Coach:
 Name: Peter Jensen
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 World Finals coach (1999)
 
 Contestant 1:
 Name: Liam Machado
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 
 Contestant 2:
 Name: William Li
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 
 Contestant 3:
 Name: Samuel Zachary
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 
 
@@ -4666,28 +4666,28 @@ Team: foo
 
 Coach:
 Name: Aaron Bloomfield
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 World Finals coach (2009-2011, 2013, 2014)
 
 Contestant 1:
 Name: Andrew Norton
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 
 Contestant 2:
 Name: Derek Morris
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 ACM ICPC Finalist (2013)
 
 Contestant 3:
 Name: Alec Grieser
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 
 
@@ -4705,8 +4705,8 @@ Team: Warsaw Eagles 2016
 
 Coach:
 Name: Jan Madey
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 ACM ICPC win as coach (2003, 2007)
 ACM ICPC gold medal as coach (2012)
@@ -4716,8 +4716,8 @@ World Finals coach (1999, 2000, 2002, 2005, 2008, 2011)
 
 Contestant 1:
 Name: Marek Sokołowski
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 
 Contestant 2:
@@ -4750,15 +4750,15 @@ Team: Waterloo Black
 
 Coach:
 Name: Troy Vasiga
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 World Finals coach (2015)
 
 Contestant 1:
 Name: Antonio Molina Lovett
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 
 Contestant 2:
@@ -4770,8 +4770,8 @@ IOI Gold Medalist (2014, 2015)
 
 Contestant 3:
 Name: Yi Feng Huang
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 
 
@@ -4789,27 +4789,27 @@ Team: SmileDog
 
 Coach:
 Name: Dieter van Melkebeek
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 World Finals coach (2003-2015)
 
 Contestant 1:
 Name: Krittisak Chaiyakul
-TC handle: null
+TC handle: 
 CF handle: toppykung
 Achievements:
 IOI Bronze Medalist (2013, 2014)
 
 Contestant 2:
 Name: Ingkarat Rak-amnouykit
-TC handle: null
+TC handle: 
 CF handle: Ingkarat
 Achievements:
 
 Contestant 3:
 Name: Songwong Tasneeyapant
-TC handle: null
+TC handle: 
 CF handle: name
 Achievements:
 
@@ -4828,29 +4828,29 @@ Team: UWr1
 
 Coach:
 Name: Krzysztof Lorys
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 World Finals coach (2007, 2012-2015)
 
 Contestant 1:
 Name: Mateusz Gołębiewski
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 ACM ICPC Finalist (2015)
 
 Contestant 2:
 Name: Maciej Dulęba
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 ACM ICPC Finalist (2015)
 
 Contestant 3:
 Name: Bartłomiej Dudek
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 ACM ICPC Finalist (2015)
 IOI Silver Medalist (2012)
@@ -4870,8 +4870,8 @@ Team: Zagreb
 
 Coach:
 Name: Krešimir Malnar
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 ACM ICPC silver medal as coach (2008, 2014, 2015)
 
@@ -4965,27 +4965,27 @@ Team: Curiously recurring
 
 Coach:
 Name: Josse van Dobben de Bruyn
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 ACM ICPC Finalist (2013)
 
 Contestant 1:
 Name: Harry Smit
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 
 Contestant 2:
 Name: Ragnar Groot Koerkamp
-TC handle: null
+TC handle: 
 CF handle: Philae
 Achievements:
 
 Contestant 3:
 Name: Timon Knigge
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 
 
@@ -5003,27 +5003,27 @@ Team: Java the Hutt
 
 Coach:
 Name: Godmar Back
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 World Finals coach (2014, 2015)
 
 Contestant 1:
 Name: Dustin Pho
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 
 Contestant 2:
 Name: Christopher Wu
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 
 Contestant 3:
 Name: Peter Steele
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 
 
@@ -5041,8 +5041,8 @@ Team: ZNTU_SetUp
 
 Coach:
 Name: Natalia Myronova
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 
 Contestant 1:
@@ -5059,8 +5059,8 @@ Achievements:
 
 Contestant 3:
 Name: Viktoriia Kosarenko
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 
 
@@ -5078,8 +5078,8 @@ Team: NoPenalty
 
 Coach:
 Name: Jianmin Han
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 World Finals coach (2011)
 
@@ -5091,14 +5091,14 @@ Achievements:
 
 Contestant 2:
 Name: Yifan Ye
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 
 Contestant 3:
 Name: Sheng Qiu
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 
 
@@ -5116,8 +5116,8 @@ Team: Siunaus
 
 Coach:
 Name: Can Wang
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 ACM ICPC win as coach (2011)
 ACM ICPC silver medal as coach (2009)
@@ -5125,14 +5125,14 @@ World Finals coach (2007, 2012-2015)
 
 Contestant 1:
 Name: Xiajun Wang
-TC handle: null
+TC handle: 
 CF handle: Yukine_Chris
 Achievements:
 
 Contestant 2:
 Name: Mengge Jin
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 
 Contestant 3:
@@ -5156,8 +5156,8 @@ Team: SYSU_Braid
 
 Coach:
 Name: SongShan Guo
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 ACM ICPC silver medal as coach (2003, 2012)
 ACM ICPC bronze medal as coach (2001, 2004, 2010)
@@ -5171,15 +5171,15 @@ Achievements:
 
 Contestant 2:
 Name: Jianchang Zhang
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 ACM ICPC Finalist (2014)
 
 Contestant 3:
 Name: Yanfen Ma
-TC handle: null
-CF handle: null
+TC handle: 
+CF handle: 
 Achievements:
 
 

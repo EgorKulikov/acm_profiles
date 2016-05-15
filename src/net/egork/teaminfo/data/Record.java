@@ -46,10 +46,10 @@ public class Record {
         out.println();
     }
 
-    private void printPerson(Person person, PrintWriter out) {
+    public static void printPerson(Person person, PrintWriter out) {
         out.println("Name: " + person.getName());
-        out.println("TC handle: " + person.getTcHandle());
-        out.println("CF handle: " + person.getCfHandle());
+        out.println("TC handle: " + (person.getTcHandle() == null ? "" : person.getTcHandle()));
+        out.println("CF handle: " + (person.getCfHandle() == null ? "" : person.getCfHandle()));
         out.println("Achievements:");
         for (Achievement achievement : person.getAchievements()) {
             out.println(achievement.achievement);

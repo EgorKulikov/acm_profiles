@@ -3,11 +3,13 @@ package net.egork.teaminfo.tools;
 import net.egork.teaminfo.Utils;
 import net.egork.teaminfo.data.CodeforcesUser;
 import net.egork.teaminfo.data.Person;
+import net.egork.teaminfo.data.Record;
 import org.apache.commons.logging.Log;
 import org.apache.commons.logging.LogFactory;
 
 import java.io.File;
 import java.io.IOException;
+import java.io.PrintWriter;
 import java.util.*;
 
 /**
@@ -159,6 +161,12 @@ public class PersonalDatabase {
         List<Person> persons = new ArrayList<>(allPersons);
         Utils.mapper.writeValue(new File("input/database.json"), persons);
         persons.stream().forEach(Person::compressAchievements);
-        Utils.mapper.writeValue(new File("input/compressed_database.json"), persons);
+        Utils.mapper.writeValue(new File("output/compressed_database.json"), persons);
+        PrintWriter out = new PrintWriter("output/personal.txt");
+        for (Person person : persons) {
+            Record.printPerson(person, out);
+            out.println();
+        }
+        out.close();
     }
 }
