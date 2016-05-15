@@ -310,6 +310,7 @@ Name: Andrei Valchok
 TC handle: avolchek
 CF handle: andrew.volchek
 Achievements:
+RCC Finalist (2015)
 CROC Championship finalist (2016)
 
 
@@ -863,6 +864,8 @@ TC handle: scott_wu
 CF handle: scott_wu
 Achievements:
 IOI Gold Medalist (2012-2014)
+TCO Semifinalist (2015)
+FBHC Finalist (2016)
 Looksery Cup 2nd (2015)
 
 
@@ -1196,9 +1199,10 @@ CROC Championship finalist (2016)
 
 Contestant 2:
 Name: Sergey Kiyan
-TC handle: 
-CF handle: 
+TC handle: sokian
+CF handle: sokian
 Achievements:
+CROC Championship finalist (2016)
 
 Contestant 3:
 Name: Evgeny Savinov
@@ -1392,6 +1396,7 @@ Name: Krzysztof Maziarz
 TC handle: krismaz
 CF handle: krismaz
 Achievements:
+FBHC Finalist (2016)
 
 
 
@@ -1534,9 +1539,10 @@ IOI Bronze Medalist (2010)
 Contestant 2:
 Name: Geun Woo Bae
 TC handle: 
-CF handle: 
+CF handle: Cauchy_Function
 Achievements:
 ACM ICPC bronze medal (2015)
+IOI Gold Medalist (2013)
 
 Contestant 3:
 Name: Dong Ho Lee
@@ -1655,9 +1661,11 @@ IOI Silver Medalist (2013)
 
 Contestant 2:
 Name: Brian Chen
-TC handle: 
-CF handle: betaveros
+TC handle: betaveros
+CF handle: WildUtah
 Achievements:
+GCJ Finalist (2015)
+IOI Gold Medalist (2014)
 
 Contestant 3:
 Name: Andrew He
@@ -1774,6 +1782,7 @@ TC handle: Endagorion
 CF handle: Endagorion
 Achievements:
 TCO Finalist (2014)
+TCO Semifinalist (2015)
 RCC Finalist (2014, 2015)
 VK Cup finalist (2015)
 CROC Championship finalist (2013)
@@ -1803,6 +1812,7 @@ CF handle: zemen
 Achievements:
 IOI Gold Medalist (2013)
 IOI Silver Medalist (2014)
+RCC Finalist (2015)
 
 
 
@@ -1839,6 +1849,7 @@ CF handle: Zlobober
 Achievements:
 IOI Gold Medalist (2012)
 RCC Finalist (2014, 2015)
+FBHC Finalist (2016)
 CROC Championship finalist (2016)
 
 Contestant 3:
@@ -1912,9 +1923,10 @@ IOI Silver Medalist (2012)
 
 Contestant 2:
 Name: Kai-Chi Huang
-TC handle: 
+TC handle: kevin00050
 CF handle: step5
 Achievements:
+GCJ Finalist (2015)
 IOI Gold Medalist (2013)
 
 Contestant 3:
@@ -1998,10 +2010,11 @@ IOI Silver Medalist (2011)
 
 Contestant 3:
 Name: Thanh Trung Nguyen
-TC handle: 
-CF handle: 
+TC handle: MLGuy
+CF handle: I_love_Hoang_Yen
 Achievements:
 ACM ICPC Finalist (2012, 2014)
+FBHC Finalist (2016)
 
 
 
@@ -2072,6 +2085,7 @@ TC handle: Kankuro
 CF handle: vepifanov
 Achievements:
 ACM ICPC silver medal (2011)
+TCO 3rd (2015)
 RCC Winner (2012)
 GCJ Finalist (2011-2015)
 IOI Gold Medalist (2007, 2008)
@@ -2091,6 +2105,7 @@ TC handle: KalininN
 CF handle: KAN
 Achievements:
 IOI Gold Medalist (2013, 2014)
+FBHC Finalist (2016)
 RCC Finalist (2015)
 VK Cup finalist (2015)
 Zepto Code Rush 1st (2014)
@@ -2576,9 +2591,10 @@ ACM ICPC Finalist (2015)
 
 Contestant 1:
 Name: Amirhossein Shapoori
-TC handle: 
+TC handle: shamir14
 CF handle: shamir0xe
 Achievements:
+Bayan Finalist (2015)
 
 Contestant 2:
 Name: Farzad Sharbafian
@@ -2664,6 +2680,7 @@ TC handle: wenhanhuang
 CF handle: rowdark
 Achievements:
 ACM ICPC bronze medal (2015)
+GCJ Finalist (2015)
 
 Contestant 2:
 Name: Haobin Ni
@@ -2671,6 +2688,7 @@ TC handle: OIerRobbin
 CF handle: TankEngineer
 Achievements:
 ACM ICPC silver medal (2014)
+GCJ Finalist (2015)
 FBHC Finalist (2015)
 
 Contestant 3:
@@ -2679,7 +2697,9 @@ TC handle: cvcvb_lyp
 CF handle: AngryBacon
 Achievements:
 ACM ICPC bronze medal (2015)
+GCJ Finalist (2015)
 FBHC Finalist (2015)
+Yandex.Algorithm Finalist (2015)
 
 
 
@@ -2744,12 +2764,14 @@ TC handle: snbk
 CF handle: matrix
 Achievements:
 IOI Silver Medalist (2015)
+Bayan Finalist (2015)
 
 Contestant 2:
 Name: Peyman Jabbarzade Ganje
 TC handle: JeBeK
 CF handle: JeBeK
 Achievements:
+Bayan Finalist (2015)
 IOI Bronze Medalist (2015)
 
 Contestant 3:
@@ -2757,6 +2779,7 @@ Name: Ali Haghani
 TC handle: HFN
 CF handle: Haghani
 Achievements:
+Bayan 2nd (2015)
 IOI Gold Medalist (2015)
 
 
@@ -2924,6 +2947,7 @@ Achievements:
 ACM ICPC bronze medal (2014)
 VK Cup 2nd (2015)
 IOI Gold Medalist (2012)
+TCO Semifinalist (2015)
 IOI Silver Medalist (2011)
 RCC Finalist (2014)
 CROC Championship finalist (2016)
@@ -2969,7 +2993,7 @@ RCC Finalist (2012)
 
 Contestant 1:
 Name: Stanislav Ershov
-TC handle: 
+TC handle: ErshovStanislav
 CF handle: ershov.stanislav
 Achievements:
 CROC Championship finalist (2016)
@@ -2980,6 +3004,7 @@ TC handle: -XraY-
 CF handle: -XraY-
 Achievements:
 VK Cup finalist (2012, 2015)
+Yandex.Algorithm Finalist (2015)
 CROC Championship finalist (2016)
 
 Contestant 3:
@@ -3055,7 +3080,7 @@ IOI Bronze Medalist (1992)
 
 Contestant 1:
 Name: Roman Furko
-TC handle: 
+TC handle: Roma1995
 CF handle: Furko
 Achievements:
 ACM ICPC Finalist (2015)
@@ -3068,6 +3093,7 @@ TC handle: Fdg
 CF handle: Fdg
 Achievements:
 ACM ICPC Finalist (2015)
+Yandex.Algorithm Finalist (2015)
 
 Contestant 3:
 Name: Mykhailo Chornyi
@@ -3178,6 +3204,7 @@ CF handle: semiexp
 Achievements:
 ACM ICPC gold medal (2015)
 IOI Gold Medalist (2010-2012)
+GCJ Finalist (2015)
 
 Contestant 2:
 Name: Shinya Shiroshita
@@ -3349,7 +3376,7 @@ IOI Gold Medalist (2015)
 
 Contestant 3:
 Name: Honghua Dong
-TC handle: 
+TC handle: dhh1995_
 CF handle: dhh1995
 Achievements:
 IOI Gold Medalist (2014)
@@ -4807,6 +4834,8 @@ Name: Alexey Danilyuk
 TC handle: Um_nik
 CF handle: Um_nik
 Achievements:
+Yandex.Algorithm Finalsit (2015)
+RCC Finalist (2015)
 VK Cup finalist (2015)
 CROC Championship finalist (2016)
 Wunder Fund Round 3rd (2016)
@@ -4818,8 +4847,8 @@ CF handle: Merkurev
 Achievements:
 ACM ICPC Finalist (2014)
 GCJ Finalist (2015)
+FBHC Finalist (2014, 2016)
 RCC Finalist (2013, 2015)
-FBHC Finalist (2014)
 Yandex.Algorithm Finalist (2014)
 VK Cup finalist (2015)
 CROC Championship finalist (2016)

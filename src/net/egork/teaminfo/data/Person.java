@@ -57,6 +57,27 @@ public class Person {
             if (name.contains("Alexandr")) {
                 addAltName(name.replace("Alexandr", "Aleksandr"));
             }
+            if (name.contains("Michael")) {
+                addAltName(name.replace("Michael", "Mikhail"));
+            }
+            if (name.contains("Andrei")) {
+                addAltName(name.replace("Andrei", "Andrey"));
+            }
+            if (name.contains("Dmitrii")) {
+                addAltName(name.replace("Dmitrii", "Dmitriy"));
+            }
+            if (name.contains("Dmitri")) {
+                addAltName(name.replace("Dmitri", "Dmitriy"));
+            }
+            if (name.contains("Dmitry")) {
+                addAltName(name.replace("Dmitry", "Dmitriy"));
+            }
+            if (name.contains("Yurii")) {
+                addAltName(name.replace("Yurii", "Yury"));
+            }
+            if (name.contains("Yuri")) {
+                addAltName(name.replace("Yuri", "Yury"));
+            }
             String noUmlauts = Utils.replaceUmlauts(name);
             if (!noUmlauts.equals(name)) {
                 addAltName(noUmlauts);
