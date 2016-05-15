@@ -51,6 +51,15 @@ public class GenerateInfo {
 
         saveResults();
         saveRepeatFinalists();
+        saveHRForm();
+    }
+
+    private static void saveHRForm() throws Exception {
+        PrintWriter out = new PrintWriter("output/all.txt");
+        for (int i = 1; i <= 128; i++) {
+            records[i].print(out);
+        }
+        out.close();
     }
 
     private static void readRegionalChamps() throws Exception {

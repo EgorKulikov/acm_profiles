@@ -1,0 +1,5194 @@
+University: Aleppo University
+Team: Beginners
+
+Coach:
+Name: Souheil Khawatmi
+TC handle: null
+CF handle: null
+Achievements:
+
+Contestant 1:
+
+Name: Sami Rahma
+TC handle: null
+CF handle: null
+Achievements:
+Contestant 2:
+
+Name: Hasan Jaddouh
+TC handle: kingofnumbers
+CF handle: kingofnumbers
+Achievements:
+IOI Silver Medalist (2014)
+Contestant 3:
+
+Name: Ahmad Rami Rahma
+TC handle: null
+CF handle: null
+Achievements:
+
+
+
+
+
+
+
+
+
+
+University: Alexandria University - Faculty of Engineering
+Team: New Folder
+
+Coach:
+Name: Omar ElAzazy
+TC handle: oa12gb
+CF handle: Omar_ElAzazy
+Achievements:
+ACM ICPC Finalist (2012, 2014)
+World Finals coach (2013)
+
+Contestant 1:
+
+Name: Amr Mahmoud
+TC handle: AmrMahmoud
+CF handle: AmrMahmoud
+Achievements:
+Contestant 2:
+
+Name: Essam AlNaggar
+TC handle: null
+CF handle: naggar
+Achievements:
+Contestant 3:
+
+Name: Omar Mohamed Eissa
+TC handle: null
+CF handle: null
+Achievements:
+
+
+
+
+
+
+
+
+
+
+University: Arab Academy for Science and Technology (Alexandria)
+Team: No Ana Gai Aharag
+
+Coach:
+Name: Ahmed Salem
+TC handle: mrtempo
+CF handle: mrtempo
+Achievements:
+ACM ICPC Finalist (2013)
+IOI Bronze Medalist (2008, 2009, 2011)
+IOI Participant (2010)
+
+Contestant 1:
+
+Name: Moustafa Maher
+TC handle: Moustafamaher
+CF handle: MoustafaMaher
+Achievements:
+ACM ICPC Finalist (2015)
+Contestant 2:
+
+Name: Haytham Breaka
+TC handle: Haytham.Breaka
+CF handle: Haytham.Breaka
+Achievements:
+ACM ICPC Finalist (2015)
+Contestant 3:
+
+Name: Adel Ali
+TC handle: adelnobel
+CF handle: adelnobel
+Achievements:
+ACM ICPC Finalist (2015)
+
+
+
+
+
+
+
+
+
+
+University: Ateneo de Manila University
+Team: Fuchsia Moth
+
+Coach:
+Name: Vernon Gutierrez
+TC handle: null
+CF handle: null
+Achievements:
+
+Contestant 1:
+
+Name: Kyle Stephen See
+TC handle: null
+CF handle: null
+Achievements:
+Contestant 2:
+
+Name: Jose Enrico Tiongson
+TC handle: null
+CF handle: null
+Achievements:
+Contestant 3:
+
+Name: David Martin Cuajunco
+TC handle: null
+CF handle: null
+Achievements:
+
+
+
+
+
+
+
+
+
+
+University: Beihang University
+Team: TheWaySoFar
+
+Coach:
+Name: You Song
+TC handle: null
+CF handle: null
+Achievements:
+World Finals coach (2013, 2015)
+
+Contestant 1:
+
+Name: Shengying Jin
+TC handle: chffy
+CF handle: chffy
+Achievements:
+ACM ICPC Finalist (2015)
+Contestant 2:
+
+Name: Xuanang Zhao
+TC handle: sd0061
+CF handle: sd0061
+Achievements:
+ACM ICPC Finalist (2015)
+Contestant 3:
+
+Name: Haiyu Zhao
+TC handle: null
+CF handle: InheritG
+Achievements:
+ACM ICPC Finalist (2015)
+
+
+
+
+
+
+
+
+
+
+University: Beijing University of Posts and Telecommunications
+Team: heheda
+
+Coach:
+Name: Ya Yang
+TC handle: null
+CF handle: null
+Achievements:
+
+Contestant 1:
+
+Name: Zitian Wang
+TC handle: null
+CF handle: null
+Achievements:
+Contestant 2:
+
+Name: Jie Liu
+TC handle: null
+CF handle: hiyot
+Achievements:
+Contestant 3:
+
+Name: YingXiang Jiao
+TC handle: null
+CF handle: null
+Achievements:
+
+
+
+
+
+
+
+
+
+
+University: Belarusian State University
+Team: BelarusianSU1
+
+Coach:
+Name: Vladimir Kotov
+TC handle: null
+CF handle: null
+Achievements:
+ACM ICPC gold medal as coach (2004)
+ACM ICPC silver medal as coach (2012, 2013)
+ACM ICPC bronze medal as coach (2008)
+World Finals coach (1999, 2000, 2002, 2003, 2005, 2007, 2009-2011, 2014, 2015)
+
+Contestant 1:
+
+Name: Pavel Shaftsialevich
+TC handle: shef2318
+CF handle: shef_2318
+Achievements:
+Contestant 2:
+
+Name: Kanstantsin Sokal
+TC handle: Kostya_by
+CF handle: kostya_by
+Achievements:
+IOI Silver Medalist (2013)
+Contestant 3:
+
+Name: Aliaksei Paliyevits
+TC handle: IFLED
+CF handle: IFLED
+Achievements:
+
+
+
+
+
+
+
+
+
+
+University: Belarusian State University of Informatics and Radioelectronics
+Team: Belarusian SUIR 2
+
+Coach:
+Name: Aliaksei Ropan
+TC handle: aropan
+CF handle: aropan
+Achievements:
+ACM ICPC bronze medal (2012)
+World Finals coach (2015)
+TCO Semifinalist (2013)
+RCC Finalist (2012, 2015)
+IOI Bronze Medalist (2008)
+CROC Championship finalist (2013)
+
+Contestant 1:
+
+Name: Aliaksei Vistiazh
+TC handle: AlexVistyazh
+CF handle: netman
+Achievements:
+IOI Silver Medalist (2014)
+IOI Bronze Medalist (2015)
+CROC Championship finalist (2016)
+Contestant 2:
+
+Name: Andrei Sobal
+TC handle: teleport
+CF handle: teleport
+Achievements:
+Contestant 3:
+
+Name: Andrei Valchok
+TC handle: avolchek
+CF handle: andrew.volchek
+Achievements:
+CROC Championship finalist (2016)
+
+
+
+
+
+
+
+
+
+
+University: Birla Institute of Technology & Science, Pilani Campus
+Team: stronglyConnected
+
+Coach:
+Name: Avinash Gautam
+TC handle: null
+CF handle: null
+Achievements:
+
+Contestant 1:
+
+Name: Pranet Verma
+TC handle: pranet
+CF handle: pranet
+Achievements:
+Contestant 2:
+
+Name: Akul Sareen
+TC handle: akulsareen
+CF handle: akulsareen
+Achievements:
+Contestant 3:
+
+Name: Anuj Yadav
+TC handle: anuj95
+CF handle: StoneCold_
+Achievements:
+
+
+
+
+
+
+
+
+
+
+University: British University in Egypt
+Team: Gotta Solve Em All
+
+Coach:
+Name: Khaled Nagaty
+TC handle: null
+CF handle: null
+Achievements:
+
+Contestant 1:
+
+Name: Amir Nasr
+TC handle: Amirnasr
+CF handle: Amirnasr
+Achievements:
+Contestant 2:
+
+Name: Khaled Nabil
+TC handle: null
+CF handle: null
+Achievements:
+Contestant 3:
+
+Name: Yasser Khaled
+TC handle: null
+CF handle: null
+Achievements:
+
+
+
+
+
+
+
+
+
+
+University: Cairo University - Faculty of Computers and Information
+Team: El Psy Congroo
+
+Coach:
+Name: Mohamed Abd El-Wahab
+TC handle: fegla
+CF handle: fegla
+Achievements:
+World Finals coach (2010, 2012, 2013, 2013-2015, 2015, 2015, 2015)
+ACM ICPC Finalist (2002)
+
+Contestant 1:
+
+Name: Ziad Mohamed
+TC handle: ziad.mohamed
+CF handle: ziad.mohamed
+Achievements:
+Contestant 2:
+
+Name: Mohammad Yasser
+TC handle: null
+CF handle: null
+Achievements:
+Contestant 3:
+
+Name: Mohammed Magdy
+TC handle: null
+CF handle: null
+Achievements:
+
+
+
+
+
+
+
+
+
+
+University: California Institute of Technology
+Team: Kiss a Wookiee
+
+Coach:
+Name: Donald Pinkston
+TC handle: null
+CF handle: null
+Achievements:
+
+Contestant 1:
+
+Name: Albert Gural
+TC handle: agural
+CF handle: agural
+Achievements:
+Contestant 2:
+
+Name: Taokun Zheng
+TC handle: null
+CF handle: null
+Achievements:
+Contestant 3:
+
+Name: Ching Yun Hsu
+TC handle: null
+CF handle: null
+Achievements:
+
+
+
+
+
+
+
+
+
+
+University: Carnegie Mellon University
+Team: CMU1
+
+Coach:
+Name: Danny Sleator
+TC handle: Darooha
+CF handle: Darooha
+Achievements:
+ACM ICPC bronze medal as coach (2013)
+World Finals coach (2011, 2012, 2014, 2015)
+
+Contestant 1:
+
+Name: Naomi Rubin
+TC handle: null
+CF handle: null
+Achievements:
+Contestant 2:
+
+Name: Matthew Savage
+TC handle: bluepichu
+CF handle: bluepichu
+Achievements:
+Contestant 3:
+
+Name: Xinyu Wu
+TC handle: null
+CF handle: WuxinyuJason
+Achievements:
+IOI Participant (2014)
+
+
+
+
+
+
+
+
+
+
+University: Charles University in Prague
+Team: MFF
+
+Coach:
+Name: Zdenek Dvorak
+TC handle: null
+CF handle: null
+Achievements:
+ACM ICPC Finalist (2002)
+
+Contestant 1:
+
+Name: Václav Rozhoň
+TC handle: null
+CF handle: null
+Achievements:
+IOI Bronze Medalist (2015)
+Contestant 2:
+
+Name: Matěj Konečný
+TC handle: null
+CF handle: null
+Achievements:
+IOI Participant (2015)
+Contestant 3:
+
+Name: Štěpán Šimsa
+TC handle: simsa.st
+CF handle: simsa.st
+Achievements:
+ACM ICPC silver medal (2015)
+IOI Bronze Medalist (2012, 2013)
+
+
+
+
+
+
+
+
+
+
+University: Chulalongkorn University
+Team: CUCP Meow Meow :3
+
+Coach:
+Name: Athasit Surarerks
+TC handle: null
+CF handle: null
+Achievements:
+
+Contestant 1:
+
+Name: Nat Pavasant
+TC handle: null
+CF handle: null
+Achievements:
+Contestant 2:
+
+Name: Kittiphon Phalakarn
+TC handle: null
+CF handle: kittyphon
+Achievements:
+Contestant 3:
+
+Name: Kittiphop Phalakarn
+TC handle: null
+CF handle: null
+Achievements:
+
+
+
+
+
+
+
+
+
+
+University: Comenius University
+Team: Zelovoc svetla
+
+Coach:
+Name: Michal Forišek
+TC handle: misof
+CF handle: misof
+Achievements:
+ACM ICPC gold medal (2003)
+ACM ICPC bronze medal as coach (2014)
+World Finals coach (2013)
+GCJ 3rd (2012, 2013)
+TCO 3rd (2005)
+TCO Finalist (2006)
+TCCC Finalist (2005)
+GCJ Finalist (2005, 2006, 2009, 2011)
+IOI Gold Medalist (1998, 1999)
+TCCC Semifinalist (2006)
+TCO Semifinalist (2007)
+Yandex.Algorithm Finalist (2013)
+
+Contestant 1:
+
+Name: Ján Hozza
+TC handle: jablko
+CF handle: jablko
+Achievements:
+ACM ICPC bronze medal (2014)
+IOI Silver Medalist (2010, 2011)
+Contestant 2:
+
+Name: Eduard Batmendijn
+TC handle: baklazan4247
+CF handle: Baklazan
+Achievements:
+IOI Gold Medalist (2012, 2013, 2015)
+IOI Silver Medalist (2014)
+Contestant 3:
+
+Name: Michal Anderle
+TC handle: null
+CF handle: null
+Achievements:
+IOI Bronze Medalist (2011)
+
+
+
+
+
+
+
+
+
+
+University: Cornell University
+Team: snoopy fan club
+
+Coach:
+Name: Daniel Fleischman
+TC handle: null
+CF handle: null
+Achievements:
+World Finals coach (2010, 2015)
+ACM ICPC Finalist (2006, 2007)
+
+Contestant 1:
+
+Name: Victor Reis
+TC handle: null
+CF handle: victoreis
+Achievements:
+ACM ICPC Finalist (2015)
+Contestant 2:
+
+Name: Sakethnath Are
+TC handle: socketnaut
+CF handle: socketnaut
+Achievements:
+Contestant 3:
+
+Name: Jake Silverman
+TC handle: null
+CF handle: null
+Achievements:
+
+
+
+
+
+
+
+
+
+
+University: Damascus University
+Team: Nitro++
+
+Coach:
+Name: Feras Al-Kassar
+TC handle: null
+CF handle: null
+Achievements:
+
+Contestant 1:
+
+Name: Joud Zouzou
+TC handle: joudzouzou
+CF handle: JoudZouzou
+Achievements:
+IOI Participant (2014, 2015)
+Contestant 2:
+
+Name: Khaled Koutini
+TC handle: null
+CF handle: null
+Achievements:
+IOI Participant (2010)
+Contestant 3:
+
+Name: Muaz Twaty
+TC handle: null
+CF handle: null
+Achievements:
+
+
+
+
+
+
+
+
+
+
+University: Escuela Superior De Computo Instituto Politecnico Nacional
+Team: La Carabina del AC
+
+Coach:
+Name: Edgardo Adrian Franco Martinez
+TC handle: null
+CF handle: null
+Achievements:
+World Finals coach (2013-2015)
+
+Contestant 1:
+
+Name: Luis Martin Jiménez Rodríguez
+TC handle: null
+CF handle: null
+Achievements:
+ACM ICPC Finalist (2015)
+Contestant 2:
+
+Name: Sergio Adonais Romero González
+TC handle: null
+CF handle: null
+Achievements:
+ACM ICPC Finalist (2015)
+Contestant 3:
+
+Name: Filiberto Fuentes Hernandez
+TC handle: null
+CF handle: null
+Achievements:
+
+
+
+
+
+
+
+
+
+
+University: ETH Zürich
+Team: rETHink
+
+Coach:
+Name: Timon Gehr
+TC handle: null
+CF handle: null
+Achievements:
+IOI Participant (2010)
+
+Contestant 1:
+
+Name: Johannes Kapfhammer
+TC handle: null
+CF handle: null
+Achievements:
+ACM ICPC Finalist (2014)
+IOI Participant (2012, 2013)
+Contestant 2:
+
+Name: Kieran Nirkko
+TC handle: null
+CF handle: null
+Achievements:
+ACM ICPC Finalist (2013)
+Contestant 3:
+
+Name: Demjan Grubić
+TC handle: null
+CF handle: null
+Achievements:
+IOI Participant (2012)
+
+
+
+
+
+
+
+
+
+
+University: Fudan University
+Team: Saga
+
+Coach:
+Name: Weiwei Sun
+TC handle: null
+CF handle: null
+Achievements:
+World Finals coach (2012-2015)
+
+Contestant 1:
+
+Name: Haoming Xing
+TC handle: null
+CF handle: flydutchman
+Achievements:
+ACM ICPC Finalist (2015)
+Contestant 2:
+
+Name: Ziyang Chen
+TC handle: null
+CF handle: null
+Achievements:
+ACM ICPC Finalist (2014)
+Contestant 3:
+
+Name: Jinyue Su
+TC handle: null
+CF handle: null
+Achievements:
+
+
+
+
+
+
+
+
+
+
+University: Harvard University
+Team: Harvard
+
+Coach:
+Name: Robert L. Walton
+TC handle: null
+CF handle: null
+Achievements:
+ACM ICPC silver medal as coach (2012)
+ACM ICPC bronze medal as coach (2004)
+World Finals coach (2007, 2015)
+
+Contestant 1:
+
+Name: Calvin Deng
+TC handle: dnkywin
+CF handle: dnkywin
+Achievements:
+ACM ICPC Finalist (2015)
+IOI Silver Medalist (2013)
+Contestant 2:
+
+Name: Johnny Ho
+TC handle: random.johnnyh
+CF handle: random.johnnyh
+Achievements:
+ACM ICPC Finalist (2015)
+IOI Gold Medalist (2011, 2012)
+IOI Silver Medalist (2013)
+Contestant 3:
+
+Name: Scott Wu
+TC handle: scott_wu
+CF handle: scott_wu
+Achievements:
+IOI Gold Medalist (2012-2014)
+Looksery Cup 2nd (2015)
+
+
+
+
+
+
+
+
+
+
+University: Ho Chi Minh City University of Science
+Team: HCMUS - Shine
+
+Coach:
+Name: Nguyen Son Tung Pham
+TC handle: null
+CF handle: null
+Achievements:
+World Finals coach (2014)
+
+Contestant 1:
+
+Name: Yen Thanh Le
+TC handle: null
+CF handle: yenthanh.t7
+Achievements:
+ACM ICPC Finalist (2014)
+Contestant 2:
+
+Name: Viet Khoi Pham
+TC handle: null
+CF handle: null
+Achievements:
+Contestant 3:
+
+Name: Minh Bao Truong
+TC handle: null
+CF handle: null
+Achievements:
+
+
+
+
+
+
+
+
+
+
+University: Illinois Institute of Technology
+Team: Illinois Tech
+
+Coach:
+Name: Gruia Calinescu
+TC handle: null
+CF handle: null
+Achievements:
+World Finals coach (2004, 2005, 2012)
+
+Contestant 1:
+
+Name: Andrei Dumitru
+TC handle: null
+CF handle: null
+Achievements:
+Contestant 2:
+
+Name: Todor Markov
+TC handle: null
+CF handle: Togop
+Achievements:
+Contestant 3:
+
+Name: Benjamin Grimmer
+TC handle: null
+CF handle: null
+Achievements:
+
+
+
+
+
+
+
+
+
+
+University: Imperial College London
+Team: DoCThors
+
+Coach:
+Name: Christian Ledig
+TC handle: null
+CF handle: null
+Achievements:
+
+Contestant 1:
+
+Name: Yordan Chaparov
+TC handle: danch0
+CF handle: dancho
+Achievements:
+IOI Silver Medalist (2012)
+IOI Bronze Medalist (2011)
+Contestant 2:
+
+Name: Mihai Popa
+TC handle: mihaipopa12
+CF handle: mihaipopa12
+Achievements:
+IOI Bronze Medalist (2013)
+Contestant 3:
+
+Name: Posdarascu Eugenie Daniel
+TC handle: null
+CF handle: null
+Achievements:
+
+
+
+
+
+
+
+
+
+
+University: Indian Institute of Information Technology - Allahabad
+Team: Greed_for_Speed
+
+Coach:
+Name: Sanjai Singh
+TC handle: null
+CF handle: null
+Achievements:
+
+Contestant 1:
+
+Name: Aditya Sharma
+TC handle: aditya_kakarot
+CF handle: aditya_kakarot
+Achievements:
+Contestant 2:
+
+Name: Mettu Shiva Reddy
+TC handle: null
+CF handle: null
+Achievements:
+Contestant 3:
+
+Name: Man Mohan Mishra
+TC handle: null
+CF handle: m17
+Achievements:
+
+
+
+
+
+
+
+
+
+
+University: Indian Institute of Technology - Bombay
+Team: ntm
+
+Coach:
+Name: Sharat Chandran
+TC handle: null
+CF handle: null
+Achievements:
+World Finals coach (2005, 2006, 2013, 2014)
+
+Contestant 1:
+
+Name: Venkateswara Rao Chippada
+TC handle: null
+CF handle: null
+Achievements:
+Contestant 2:
+
+Name: Nikhil Vyas
+TC handle: null
+CF handle: nikhilvyas
+Achievements:
+Contestant 3:
+
+Name: Sai Sandeep
+TC handle: harrypotter192
+CF handle: harrypotter192
+Achievements:
+
+
+
+
+
+
+
+
+
+
+University: Indian Institute of Technology - Delhi
+Team: angle
+
+Coach:
+Name: Mausam Mausam
+TC handle: null
+CF handle: null
+Achievements:
+
+Contestant 1:
+
+Name: Kunal Singhal
+TC handle: null
+CF handle: null
+Achievements:
+ACM ICPC Finalist (2015)
+IOI Participant (2012)
+Contestant 2:
+
+Name: Satwant Rana
+TC handle: null
+CF handle: TheTerminalGuy
+Achievements:
+ACM ICPC Finalist (2015)
+Contestant 3:
+
+Name: Yash Kumar Bansal
+TC handle: null
+CF handle: null
+Achievements:
+
+
+
+
+
+
+
+
+
+
+University: Indian Institute of Technology - Kanpur
+Team: FacelessMen
+
+Coach:
+Name: Surender Baswana
+TC handle: null
+CF handle: null
+Achievements:
+
+Contestant 1:
+
+Name: Atanu Chakraborty
+TC handle: null
+CF handle: alecsyde
+Achievements:
+Contestant 2:
+
+Name: Sahil Grover
+TC handle: gsahil
+CF handle: gsahil
+Achievements:
+Contestant 3:
+
+Name: Abhilash Kumar
+TC handle: abhilak
+CF handle: abhilak
+Achievements:
+
+
+
+
+
+
+
+
+
+
+University: Indian Institute of Technology - Roorkee
+Team: 11Coders
+
+Coach:
+Name: Vinod Pankajakshan
+TC handle: null
+CF handle: null
+Achievements:
+World Finals coach (2014, 2015)
+
+Contestant 1:
+
+Name: Aman Kumar Kedia
+TC handle: null
+CF handle: null
+Achievements:
+ACM ICPC Finalist (2015)
+Contestant 2:
+
+Name: Kshitij  Bathla
+TC handle: null
+CF handle: null
+Achievements:
+Contestant 3:
+
+Name: Anubhav  Bindlish
+TC handle: null
+CF handle: null
+Achievements:
+
+
+
+
+
+
+
+
+
+
+University: Innopolis University
+Team: Innopolis U Known
+
+Coach:
+Name: Alexey Maleev
+TC handle: null
+CF handle: null
+Achievements:
+
+Contestant 1:
+
+Name: Aleksandr Mashrabov
+TC handle: map
+CF handle: map
+Achievements:
+ACM ICPC Finalist (2014)
+RCC Finalist (2014)
+VK Cup finalist (2015)
+CROC Championship finalist (2016)
+Contestant 2:
+
+Name: Sergey Kiyan
+TC handle: null
+CF handle: null
+Achievements:
+Contestant 3:
+
+Name: Evgeny Savinov
+TC handle: null
+CF handle: savinov
+Achievements:
+CROC Championship finalist (2016)
+
+
+
+
+
+
+
+
+
+
+University: Instituto Tecnológico Autónomo de México
+Team: Los Románticos
+
+Coach:
+Name: Maria Fernanda Pineda Bonnin
+TC handle: null
+CF handle: null
+Achievements:
+
+Contestant 1:
+
+Name: Freddy Román Cepeda
+TC handle: null
+CF handle: null
+Achievements:
+Contestant 2:
+
+Name: Diego Terán Ríos
+TC handle: null
+CF handle: null
+Achievements:
+Contestant 3:
+
+Name: Demian Espinosa Ruiz
+TC handle: null
+CF handle: null
+Achievements:
+
+
+
+
+
+
+
+
+
+
+University: Iowa State University
+Team: Freelancers
+
+Coach:
+Name: Simanta Mitra
+TC handle: null
+CF handle: null
+Achievements:
+World Finals coach (2000, 2001, 2003, 2008, 2009, 2012, 2014, 2015)
+
+Contestant 1:
+
+Name: Jacob Smith
+TC handle: null
+CF handle: null
+Achievements:
+ACM ICPC Finalist (2015)
+Contestant 2:
+
+Name: Nathan De Graaf
+TC handle: null
+CF handle: null
+Achievements:
+Contestant 3:
+
+Name: Yuxiang Zhang
+TC handle: null
+CF handle: null
+Achievements:
+
+
+
+
+
+
+
+
+
+
+University: Islamic Azad University of Mashhad
+Team: Aspire
+
+Coach:
+Name: Reza Godaz
+TC handle: null
+CF handle: null
+Achievements:
+
+Contestant 1:
+
+Name: Yoones Rezaei
+TC handle: yoones.rezaei
+CF handle: yoones.rezaei
+Achievements:
+Contestant 2:
+
+Name: Reza Kakhki
+TC handle: null
+CF handle: RK2371
+Achievements:
+Contestant 3:
+
+Name: Sobhan Shafiei
+TC handle: null
+CF handle: null
+Achievements:
+
+
+
+
+
+
+
+
+
+
+University: ITESM Campus Monterrey
+Team: HaKings
+
+Coach:
+Name: Luis Humberto González
+TC handle: null
+CF handle: null
+Achievements:
+World Finals coach (2009, 2015)
+
+Contestant 1:
+
+Name: Alfredo Altamirano Montealvo
+TC handle: null
+CF handle: fredy.altamirano
+Achievements:
+ACM ICPC Finalist (2015)
+Contestant 2:
+
+Name: Diego Emilio Gutierrez Yepiz
+TC handle: null
+CF handle: null
+Achievements:
+Contestant 3:
+
+Name: Carlos Salvador Garza Garza
+TC handle: null
+CF handle: null
+Achievements:
+
+
+
+
+
+
+
+
+
+
+University: Jagiellonian University in Krakow
+Team: Jagiellonian
+
+Coach:
+Name: Pawel Idziak
+TC handle: null
+CF handle: null
+Achievements:
+ACM ICPC gold medal as coach (2006)
+ACM ICPC bronze medal as coach (2011, 2013)
+World Finals coach (2004, 2008, 2009, 2012, 2014, 2015)
+
+Contestant 1:
+
+Name: Michał Zając
+TC handle: null
+CF handle: zaj
+Achievements:
+Contestant 2:
+
+Name: Szymon Łukasz
+TC handle: null
+CF handle: null
+Achievements:
+Contestant 3:
+
+Name: Krzysztof Maziarz
+TC handle: krismaz
+CF handle: krismaz
+Achievements:
+
+
+
+
+
+
+
+
+
+
+University: Jahangirnagar University
+Team: JU_O(N^3)
+
+Coach:
+Name: K M Akkas Ali
+TC handle: null
+CF handle: null
+Achievements:
+
+Contestant 1:
+
+Name: Md. Nafis Sadique
+TC handle: null
+CF handle: nfssdq
+Achievements:
+ACM ICPC Finalist (2015)
+Contestant 2:
+
+Name: Raihat Zaman Neloy
+TC handle: raihatneloy
+CF handle: raihatneloy
+Achievements:
+Contestant 3:
+
+Name: Niloy Datta
+TC handle: null
+CF handle: ndatta
+Achievements:
+
+
+
+
+
+
+
+
+
+
+University: KAIST
+Team: [A-Za-z0-9]+
+
+Coach:
+Name: Taisook Han
+TC handle: null
+CF handle: null
+Achievements:
+World Finals coach (2004, 2006, 2007)
+
+Contestant 1:
+
+Name: Jae Hong Kim
+TC handle: null
+CF handle: null
+Achievements:
+IOI Silver Medalist (2006)
+Contestant 2:
+
+Name: Sun Il Kwon
+TC handle: null
+CF handle: iddaga
+Achievements:
+IOI Silver Medalist (2008)
+Contestant 3:
+
+Name: Jongwon Lee
+TC handle: null
+CF handle: OnionPringles
+Achievements:
+
+
+
+
+
+
+
+
+
+
+University: Kim Il Sung University
+Team: RNS
+
+Coach:
+Name: Gwangbyol Jong
+TC handle: null
+CF handle: null
+Achievements:
+
+Contestant 1:
+
+Name: HyoSong Kim
+TC handle: null
+CF handle: null
+Achievements:
+Contestant 2:
+
+Name: UnSong Ri
+TC handle: null
+CF handle: null
+Achievements:
+Contestant 3:
+
+Name: GyongMin Jo
+TC handle: null
+CF handle: RNS_jgm
+Achievements:
+
+
+
+
+
+
+
+
+
+
+University: Korea University
+Team: Opportunity
+
+Coach:
+Name: Jin Young Choi
+TC handle: null
+CF handle: null
+Achievements:
+ACM ICPC bronze medal as coach (2015)
+
+Contestant 1:
+
+Name: MyungWoo Chun
+TC handle: myungwoo
+CF handle: Myungwoo
+Achievements:
+ACM ICPC bronze medal (2015)
+IOI Silver Medalist (2011)
+IOI Bronze Medalist (2010)
+Contestant 2:
+
+Name: Geun Woo Bae
+TC handle: null
+CF handle: null
+Achievements:
+ACM ICPC bronze medal (2015)
+Contestant 3:
+
+Name: Dong Ho Lee
+TC handle: null
+CF handle: null
+Achievements:
+
+
+
+
+
+
+
+
+
+
+University: Kyoto University
+Team: breakShot
+
+Coach:
+Name: Shoichi Nishimura
+TC handle: null
+CF handle: null
+Achievements:
+ACM ICPC Finalist (2014, 2015)
+
+Contestant 1:
+
+Name: Yuta Ojima
+TC handle: null
+CF handle: ojjiy5
+Achievements:
+Contestant 2:
+
+Name: Kazuki Takise
+TC handle: null
+CF handle: null
+Achievements:
+Contestant 3:
+
+Name: Akifumi Imanishi
+TC handle: asi1024
+CF handle: asi1024
+Achievements:
+
+
+
+
+
+
+
+
+
+
+University: Lviv National University
+Team: LNU Penguins
+
+Coach:
+Name: Vasyl Biletskyy
+TC handle: null
+CF handle: null
+Achievements:
+ACM ICPC gold medal (2008)
+ACM ICPC gold medal as coach (2008)
+World Finals coach (2011, 2015)
+
+Contestant 1:
+
+Name: Roman Bilyi
+TC handle: Deretin
+CF handle: RomaWhite
+Achievements:
+ACM ICPC Finalist (2015)
+RCC Finalist (2014, 2015)
+Contestant 2:
+
+Name: Vitalii Herasymiv
+TC handle: null
+CF handle: null
+Achievements:
+ACM ICPC Finalist (2015)
+IOI Silver Medalist (2012)
+Contestant 3:
+
+Name: Taras Savitskyi
+TC handle: Trumen
+CF handle: Trumen
+Achievements:
+
+
+
+
+
+
+
+
+
+
+University: Massachusetts Institute of Technology
+Team: MIT ZERO
+
+Coach:
+Name: Aleksandar Zlateski
+TC handle: null
+CF handle: null
+Achievements:
+World Finals coach (2010-2013)
+IOI Silver Medalist (2002)
+IOI Bronze Medalist (2001, 2003)
+
+Contestant 1:
+
+Name: Steven Hao
+TC handle: aceofdiamonds
+CF handle: stevenkplus
+Achievements:
+IOI Gold Medalist (2014)
+IOI Silver Medalist (2013)
+Contestant 2:
+
+Name: Brian Chen
+TC handle: null
+CF handle: betaveros
+Achievements:
+Contestant 3:
+
+Name: Andrew He
+TC handle: ecnerwal
+CF handle: ecnerwal
+Achievements:
+IOI Gold Medalist (2014, 2015)
+TCO Semifinalist (2015)
+MemSQL Start[c]UP 1st (2014)
+
+
+
+
+
+
+
+
+
+
+University: Moscow Aviation Institute
+Team: MAI #1
+
+Coach:
+Name: Renat Gimadeev
+TC handle: ariacas
+CF handle: zeliboba
+Achievements:
+ACM ICPC gold medal (2012)
+ACM ICPC Finalist (2011)
+FBHC Finalist (2013)
+RCC Finalist (2015)
+CROC Championship finalist (2016)
+Yandex.Algorithm finalist (2011)
+
+Contestant 1:
+
+Name: Timofey Yushchenko
+TC handle: null
+CF handle: Timus
+Achievements:
+ACM ICPC Finalist (2015)
+Contestant 2:
+
+Name: Aleksei Safronov
+TC handle: yarrr
+CF handle: yarrr
+Achievements:
+ACM ICPC Finalist (2013)
+RCC Finalist (2012)
+CROC Championship finalist (2016)
+Contestant 3:
+
+Name: Oleg Mingalev
+TC handle: shhdup
+CF handle: shhdup
+Achievements:
+
+
+
+
+
+
+
+
+
+
+University: Moscow Engineering Physics Institute
+Team: MEPhI: Cupcakes
+
+Coach:
+Name: Vasily Astakhov
+TC handle: ST_Vasily
+CF handle: null
+Achievements:
+ACM ICPC bronze medal (2011)
+ACM ICPC Finalist (2009)
+
+Contestant 1:
+
+Name: Arslan Urtashev
+TC handle: Avitella
+CF handle: Avitella
+Achievements:
+ABBYY Cup finalist (2013)
+Contestant 2:
+
+Name: Vladislav Bidzilya
+TC handle: Bdzl
+CF handle: bdzl
+Achievements:
+Contestant 3:
+
+Name: Alexander Minakov
+TC handle: Elshiko
+CF handle: Elshiko
+Achievements:
+
+
+
+
+
+
+
+
+
+
+University: Moscow Institute of Physics & Technology
+Team: MIPT: Jinotega
+
+Coach:
+Name: Mikhail Tikhomirov
+TC handle: Endagorion
+CF handle: Endagorion
+Achievements:
+TCO Finalist (2014)
+RCC Finalist (2014, 2015)
+VK Cup finalist (2015)
+CROC Championship finalist (2013)
+
+Contestant 1:
+
+Name: Ivan Smirnov
+TC handle: ifsmirnov
+CF handle: ifsmirnov
+Achievements:
+VK Cup finalist (2015)
+CROC Championship finalist (2013, 2016)
+Contestant 2:
+
+Name: Artsem Zhuk
+TC handle: Arterm
+CF handle: Arterm
+Achievements:
+RCC Finalist (2014)
+VK Cup finalist (2015)
+CROC Championship finalist (2016)
+Kotlin Finalist (2014)
+Contestant 3:
+
+Name: Konstantin Semenov
+TC handle: zemen96
+CF handle: zemen
+Achievements:
+IOI Gold Medalist (2013)
+IOI Silver Medalist (2014)
+
+
+
+
+
+
+
+
+
+
+University: Moscow State University
+Team: Moscow SU Trinity
+
+Coach:
+Name: Andrey Shestimerov
+TC handle: null
+CF handle: null
+Achievements:
+
+Contestant 1:
+
+Name: Alexey Shlyunkin
+TC handle: sankear
+CF handle: sankear
+Achievements:
+RCC Finalist (2014, 2015)
+CROC Championship finalist (2013)
+Abbyy Cup finalist (2012)
+Contestant 2:
+
+Name: Maxim Akhmedov
+TC handle: Zlobober
+CF handle: Zlobober
+Achievements:
+IOI Gold Medalist (2012)
+RCC Finalist (2014, 2015)
+CROC Championship finalist (2016)
+Contestant 3:
+
+Name: Dmitriy Gorbunov
+TC handle: null
+CF handle: null
+Achievements:
+
+
+
+
+
+
+
+
+
+
+University: National Chiao Tung University
+Team: NCTU_Thor
+
+Coach:
+Name: MinZheng Shieh
+TC handle: null
+CF handle: null
+Achievements:
+
+Contestant 1:
+
+Name: Jyun-Jie Liao
+TC handle: aaaaajack
+CF handle: aaaaajack
+Achievements:
+Contestant 2:
+
+Name: Pin Chang Pan
+TC handle: null
+CF handle: null
+Achievements:
+Contestant 3:
+
+Name: LiCheng Lan
+TC handle: null
+CF handle: null
+Achievements:
+
+
+
+
+
+
+
+
+
+
+University: National Taiwan University
+Team: bcw0x1bd2
+
+Coach:
+Name: Pu-Jen Cheng
+TC handle: null
+CF handle: null
+Achievements:
+ACM ICPC gold medal as coach (2010, 2013, 2014)
+World Finals coach (2008, 2009, 2011, 2012, 2015)
+
+Contestant 1:
+
+Name: Cheng-Min Chiang
+TC handle: bobogei81123
+CF handle: bobogei81123
+Achievements:
+IOI Silver Medalist (2012)
+Contestant 2:
+
+Name: Kai-Chi Huang
+TC handle: null
+CF handle: step5
+Achievements:
+IOI Gold Medalist (2013)
+Contestant 3:
+
+Name: Han Chung Wang
+TC handle: null
+CF handle: null
+Achievements:
+
+
+
+
+
+
+
+
+
+
+University: National University of Defense Technology
+Team: ALPC_Farewell
+
+Coach:
+Name: Yuxing Peng
+TC handle: null
+CF handle: null
+Achievements:
+World Finals coach (2010, 2012, 2015)
+
+Contestant 1:
+
+Name: Zheng Qin
+TC handle: null
+CF handle: clavichord93
+Achievements:
+ACM ICPC Finalist (2015)
+Contestant 2:
+
+Name: Hao Wu
+TC handle: null
+CF handle: null
+Achievements:
+World Finals coach (2014)
+ACM ICPC Finalist (2015)
+Contestant 3:
+
+Name: Hao Yu
+TC handle: null
+CF handle: alpc128
+Achievements:
+ACM ICPC Finalist (2015)
+
+
+
+
+
+
+
+
+
+
+University: National University of Singapore
+Team: RRwatameda
+
+Coach:
+Name: Sun Teck Tan
+TC handle: null
+CF handle: null
+Achievements:
+World Finals coach (2015)
+
+Contestant 1:
+
+Name: Hung Tam Nguyen
+TC handle: null
+CF handle: null
+Achievements:
+Contestant 2:
+
+Name: Tan Sy Nguyen Nguyen
+TC handle: flashmt
+CF handle: flashmt
+Achievements:
+ACM ICPC Finalist (2013)
+IOI Silver Medalist (2011)
+Contestant 3:
+
+Name: Thanh Trung Nguyen
+TC handle: null
+CF handle: null
+Achievements:
+ACM ICPC Finalist (2012, 2014)
+
+
+
+
+
+
+
+
+
+
+University: Ningbo University
+Team: what duang to eat dinner
+
+Coach:
+Name: Yefang Chen
+TC handle: null
+CF handle: null
+Achievements:
+
+Contestant 1:
+
+Name: Lei Chen
+TC handle: yayamao
+CF handle: yayamao
+Achievements:
+IOI Gold Medalist (1996)
+VK Cup finalist (2012)
+IOI Bronze Medalist (1997)
+Contestant 2:
+
+Name: Qing Ye
+TC handle: null
+CF handle: null
+Achievements:
+Contestant 3:
+
+Name: Qi Wu
+TC handle: null
+CF handle: null
+Achievements:
+
+
+
+
+
+
+
+
+
+
+University: Nizhny Novgorod State University
+Team: Nizhny Novgorod SU 1
+
+Coach:
+Name: Nikolai Borisov
+TC handle: null
+CF handle: null
+Achievements:
+
+Contestant 1:
+
+Name: Mikhail Krivonosov
+TC handle: mike_live
+CF handle: mike_live
+Achievements:
+Contestant 2:
+
+Name: Vladislav Epifanov
+TC handle: Kankuro
+CF handle: vepifanov
+Achievements:
+ACM ICPC silver medal (2011)
+RCC Winner (2012)
+GCJ Finalist (2011-2015)
+IOI Gold Medalist (2007, 2008)
+TCO Semifinalist (2011, 2012)
+CROC Championship 2nd (2016)
+IOI Silver Medalist (2009)
+RCC Finalist (2011, 2013-2015)
+FBHC Finalist (2012, 2013)
+Yandex.Algorithm Finalist (2013, 2015)
+VK Cup finalist (2015)
+CROC Championship finalist (2013)
+Zepto Code Rush 2nd (2015)
+Contestant 3:
+
+Name: Nikolay Kalinin
+TC handle: KalininN
+CF handle: KAN
+Achievements:
+IOI Gold Medalist (2013, 2014)
+RCC Finalist (2015)
+VK Cup finalist (2015)
+Zepto Code Rush 1st (2014)
+
+
+
+
+
+
+
+
+
+
+University: North South University
+Team: NSU BugLovers
+
+Coach:
+Name: Md Shazzad Hosain
+TC handle: null
+CF handle: null
+Achievements:
+
+Contestant 1:
+
+Name: Ahmad Faiyaz
+TC handle: faiyaz26
+CF handle: faiyaz26
+Achievements:
+Contestant 2:
+
+Name: Hasib Al Muhaimin
+TC handle: null
+CF handle: hasib
+Achievements:
+IOI Participant (2013-2015)
+Contestant 3:
+
+Name: Mohammad Samiul Islam
+TC handle: forthright48
+CF handle: forthright48
+Achievements:
+
+
+
+
+
+
+
+
+
+
+University: Northeast Normal University
+Team: Daedalus
+
+Coach:
+Name: Zhiguo Zhou
+TC handle: null
+CF handle: null
+Achievements:
+
+Contestant 1:
+
+Name: Chengyu Yang
+TC handle: null
+CF handle: null
+Achievements:
+Contestant 2:
+
+Name: Ligang Zhang
+TC handle: null
+CF handle: null
+Achievements:
+Contestant 3:
+
+Name: Miaoyang Li
+TC handle: null
+CF handle: null
+Achievements:
+
+
+
+
+
+
+
+
+
+
+University: Northeastern University (China)
+Team: NEU_I forgot it.
+
+Coach:
+Name: XiaoFeng Liu
+TC handle: null
+CF handle: null
+Achievements:
+
+Contestant 1:
+
+Name: Hengyu Liu
+TC handle: null
+CF handle: null
+Achievements:
+Contestant 2:
+
+Name: Han Wang
+TC handle: null
+CF handle: Cold.H
+Achievements:
+Contestant 3:
+
+Name: Haibin Xie
+TC handle: null
+CF handle: null
+Achievements:
+
+
+
+
+
+
+
+
+
+
+University: Northern (Arctic) Federal University
+Team: Northern (Arctic) FU 1
+
+Coach:
+Name: Kirill Butin
+TC handle: KirillB
+CF handle: KirillB
+Achievements:
+
+Contestant 1:
+
+Name: Ivan Popovich
+TC handle: NVAL
+CF handle: NVAL
+Achievements:
+Contestant 2:
+
+Name: Vladimir Dodin
+TC handle: null
+CF handle: null
+Achievements:
+Contestant 3:
+
+Name: Aleksey Chesnokov
+TC handle: null
+CF handle: CleRIC
+Achievements:
+
+
+
+
+
+
+
+
+
+
+University: Ohio State University
+Team: Future_Gazer
+
+Coach:
+Name: Suyi Wang
+TC handle: null
+CF handle: null
+Achievements:
+
+Contestant 1:
+
+Name: Te Zhang
+TC handle: zt5840
+CF handle: zt5840
+Achievements:
+Contestant 2:
+
+Name: Dingkang Wang
+TC handle: null
+CF handle: wdk
+Achievements:
+Contestant 3:
+
+Name: Jian Wang
+TC handle: null
+CF handle: BBbuff
+Achievements:
+
+
+
+
+
+
+
+
+
+
+University: Osaka University
+Team: chikOkU
+
+Coach:
+Name: Yasuaki Mitani
+TC handle: null
+CF handle: null
+Achievements:
+
+Contestant 1:
+
+Name: Yosuke Sameshima
+TC handle: null
+CF handle: null
+Achievements:
+Contestant 2:
+
+Name: Kazuma Mikami
+TC handle: kyuridenamida
+CF handle: kyuridenamida
+Achievements:
+Contestant 3:
+
+Name: Naohiro Kawamitsu
+TC handle: null
+CF handle: null
+Achievements:
+
+
+
+
+
+
+
+
+
+
+University: Peking University
+Team: Crawl
+
+Coach:
+Name: Guojie Luo
+TC handle: null
+CF handle: null
+Achievements:
+ACM ICPC gold medal as coach (2014)
+ACM ICPC silver medal as coach (2015)
+World Finals coach (2013)
+
+Contestant 1:
+
+Name: Xuanrun Zhang
+TC handle: null
+CF handle: null
+Achievements:
+Contestant 2:
+
+Name: Yudong Li
+TC handle: lydrainbowcat
+CF handle: lydrainbowcat
+Achievements:
+Contestant 3:
+
+Name: Yang Shen
+TC handle: sy2006
+CF handle: sy2006
+Achievements:
+IOI Gold Medalist (2014)
+
+
+
+
+
+
+
+
+
+
+University: Prince of Songkla University
+Team: FEDEX
+
+Coach:
+Name: Sangsuree Vasupongayya
+TC handle: null
+CF handle: null
+Achievements:
+
+Contestant 1:
+
+Name: Arif Waram
+TC handle: null
+CF handle: null
+Achievements:
+Contestant 2:
+
+Name: Napat Wongphan-ngam
+TC handle: null
+CF handle: null
+Achievements:
+Contestant 3:
+
+Name: Tanapol Anantachaiwanich
+TC handle: null
+CF handle: null
+Achievements:
+
+
+
+
+
+
+
+
+
+
+University: Princess Sumaya University for Technology
+Team: EarlGrey (PSUT)
+
+Coach:
+Name: Ashraf Ahmad
+TC handle: null
+CF handle: null
+Achievements:
+World Finals coach (2014)
+
+Contestant 1:
+
+Name: Abdullah Bahosain
+TC handle: null
+CF handle: AU.Bahosain
+Achievements:
+ACM ICPC Finalist (2014)
+Contestant 2:
+
+Name: Maram Tuffaha
+TC handle: null
+CF handle: null
+Achievements:
+Contestant 3:
+
+Name: Hasan Alhamsh
+TC handle: null
+CF handle: 2Nodes
+Achievements:
+ACM ICPC Finalist (2014)
+
+
+
+
+
+
+
+
+
+
+University: Radboud University
+Team: That empty teamname
+
+Coach:
+Name: Joshua Moerman
+TC handle: null
+CF handle: null
+Achievements:
+
+Contestant 1:
+
+Name: Thijs Miedema
+TC handle: null
+CF handle: null
+Achievements:
+Contestant 2:
+
+Name: David Venhoek
+TC handle: null
+CF handle: null
+Achievements:
+IOI Bronze Medalist (2008-2010)
+Contestant 3:
+
+Name: Bas Nieuwenhuizen
+TC handle: null
+CF handle: null
+Achievements:
+ACM ICPC Finalist (2013)
+IOI Silver Medalist (2010, 2011)
+
+
+
+
+
+
+
+
+
+
+University: Rice University
+Team: Rice Gray
+
+Coach:
+Name: John Greiner
+TC handle: null
+CF handle: null
+Achievements:
+World Finals coach (2006, 2015)
+
+Contestant 1:
+
+Name: Philip Taffet
+TC handle: null
+CF handle: null
+Achievements:
+ACM ICPC Finalist (2015)
+Contestant 2:
+
+Name: Jose Carlos Vera-Garza
+TC handle: null
+CF handle: null
+Achievements:
+ACM ICPC Finalist (2015)
+Contestant 3:
+
+Name: Visit Pataranutaporn
+TC handle: spnautilus
+CF handle: tuna_salad
+Achievements:
+IOI Gold Medalist (2009)
+IOI Bronze Medalist (2008)
+
+
+
+
+
+
+
+
+
+
+University: Saratov State University
+Team: Saratov SU Daemons
+
+Coach:
+Name: Michael Mirzayanov
+TC handle: Mike Mirzayanov
+CF handle: null
+Achievements:
+ACM ICPC silver medal (2002, 2003)
+ACM ICPC win as coach (2006)
+ACM ICPC gold medal as coach (2009)
+ACM ICPC silver medal as coach (2007, 2010, 2011)
+World Finals coach (2005, 2012-2015)
+GCJ Finalist (2005, 2006)
+TCO Semifinalist (2006, 2011)
+TCCC Semifinalist (2006)
+FBHC Finalist (2013)
+Kotlin Finalist (2014)
+
+Contestant 1:
+
+Name: Edvard Davtyan
+TC handle: EDvard
+CF handle: Edvard
+Achievements:
+ACM ICPC Finalist (2013)
+RCC Finalist (2011, 2015)
+VK Cup finalist (2012)
+ABBYY Cup finalist (2013)
+CROC Championship finalist (2016)
+Abbyy Cup finalist (2012)
+Contestant 2:
+
+Name: Danil Sagunov
+TC handle: null
+CF handle: null
+Achievements:
+Contestant 3:
+
+Name: Vitalii Kudasov
+TC handle: null
+CF handle: null
+Achievements:
+
+
+
+
+
+
+
+
+
+
+University: Shahid Beheshti University
+Team: In 1010101 We Trust!
+
+Coach:
+Name: Mohammadreza Haghpanah
+TC handle: null
+CF handle: null
+Achievements:
+ACM ICPC Finalist (2015)
+
+Contestant 1:
+
+Name: Amirhossein Shapoori
+TC handle: null
+CF handle: shamir0xe
+Achievements:
+Contestant 2:
+
+Name: Farzad Sharbafian
+TC handle: farzad.shbfn
+CF handle: farzad.shbfn
+Achievements:
+ACM ICPC Finalist (2015)
+Contestant 3:
+
+Name: Nima Shirvanian
+TC handle: null
+CF handle: null
+Achievements:
+ACM ICPC Finalist (2015)
+
+
+
+
+
+
+
+
+
+
+University: Shahjalal University of Science and Technology
+Team: DownToTheWire
+
+Coach:
+Name: Md Saiful Islam
+TC handle: null
+CF handle: null
+Achievements:
+World Finals coach (2015)
+
+Contestant 1:
+
+Name: Dhananjoy Biswas
+TC handle: Corei13
+CF handle: Corei13
+Achievements:
+ACM ICPC Finalist (2015)
+IOI Bronze Medalist (2012, 2013)
+Contestant 2:
+
+Name: Abdullah Al Maruf
+TC handle: null
+CF handle: PlausibleDeniability
+Achievements:
+ACM ICPC Finalist (2015)
+Contestant 3:
+
+Name: Sakibul Mowla
+TC handle: null
+CF handle: J-C
+Achievements:
+ACM ICPC Finalist (2015)
+
+
+
+
+
+
+
+
+
+
+University: Shanghai Jiao Tong University
+Team: Dreadnought
+
+Coach:
+Name: Yong Yu
+TC handle: null
+CF handle: null
+Achievements:
+ACM ICPC win as coach (2002, 2005, 2010)
+ACM ICPC gold medal as coach (2012, 2013)
+ACM ICPC silver medal as coach (2003, 2006, 2007, 2014)
+ACM ICPC bronze medal as coach (2000, 2001, 2015)
+World Finals coach (2004, 2008, 2009, 2011)
+
+Contestant 1:
+
+Name: Wenhan Huang
+TC handle: wenhanhuang
+CF handle: rowdark
+Achievements:
+ACM ICPC bronze medal (2015)
+Contestant 2:
+
+Name: Haobin Ni
+TC handle: OIerRobbin
+CF handle: TankEngineer
+Achievements:
+ACM ICPC silver medal (2014)
+FBHC Finalist (2015)
+Contestant 3:
+
+Name: Yanpei Liu
+TC handle: cvcvb_lyp
+CF handle: AngryBacon
+Achievements:
+ACM ICPC bronze medal (2015)
+FBHC Finalist (2015)
+
+
+
+
+
+
+
+
+
+
+University: Shanghai University
+Team: Wand Maker
+
+Coach:
+Name: Yunfu Shen
+TC handle: null
+CF handle: null
+Achievements:
+World Finals coach (2015)
+
+Contestant 1:
+
+Name: Yingning Gao
+TC handle: Curs0r
+CF handle: curs0r
+Achievements:
+Contestant 2:
+
+Name: Yi Xu
+TC handle: null
+CF handle: fraud
+Achievements:
+Contestant 3:
+
+Name: Jun Mei
+TC handle: shu_mj
+CF handle: shu_mj
+Achievements:
+ACM ICPC Finalist (2015)
+
+
+
+
+
+
+
+
+
+
+University: Sharif University of Technology
+Team: CrockPot
+
+Coach:
+Name: Kamran Bavar
+TC handle: null
+CF handle: null
+Achievements:
+World Finals coach (2007-2015)
+IOI Bronze Medalist (1995)
+
+Contestant 1:
+
+Name: Amir Keivan Mohtashami
+TC handle: snbk
+CF handle: matrix
+Achievements:
+IOI Silver Medalist (2015)
+Contestant 2:
+
+Name: Peyman Jabbarzade Ganje
+TC handle: JeBeK
+CF handle: JeBeK
+Achievements:
+IOI Bronze Medalist (2015)
+Contestant 3:
+
+Name: Ali Haghani
+TC handle: HFN
+CF handle: Haghani
+Achievements:
+IOI Gold Medalist (2015)
+
+
+
+
+
+
+
+
+
+
+University: South China University of Technology
+Team: SOX
+
+Coach:
+Name: Chuhua Xian
+TC handle: null
+CF handle: null
+Achievements:
+World Finals coach (2014)
+
+Contestant 1:
+
+Name: Xuyu Gui
+TC handle: nf001
+CF handle: nf001
+Achievements:
+ACM ICPC Finalist (2015)
+Contestant 2:
+
+Name: Jiaming Fang
+TC handle: null
+CF handle: null
+Achievements:
+Contestant 3:
+
+Name: Peizhen Hu
+TC handle: null
+CF handle: null
+Achievements:
+
+
+
+
+
+
+
+
+
+
+University: South Dakota School of Mines and Technology
+Team: SDSMT Hardrockers
+
+Coach:
+Name: Antonette Logar
+TC handle: null
+CF handle: null
+Achievements:
+World Finals coach (2013)
+
+Contestant 1:
+
+Name: Rachel Krohn
+TC handle: null
+CF handle: null
+Achievements:
+Contestant 2:
+
+Name: Daniel Andrus
+TC handle: null
+CF handle: null
+Achievements:
+Contestant 3:
+
+Name: Matthew Dyke
+TC handle: null
+CF handle: null
+Achievements:
+
+
+
+
+
+
+
+
+
+
+University: St. Petersburg Academic University
+Team: SPbAU 1 Generation Z
+
+Coach:
+Name: Sergey Kopeliovich
+TC handle: Burunduk1
+CF handle: Burunduk1
+Achievements:
+ACM ICPC gold medal (2009)
+ACM ICPC bronze medal (2008)
+World Finals coach (2015)
+GCJ 3rd (2010)
+TCO Finalist (2008)
+IOI Gold Medalist (2005, 2006)
+GCJ Finalist (2012)
+TCCC Semifinalist (2007)
+TCO Semifinalist (2012)
+RCC Finalist (2011, 2012, 2014, 2015)
+
+Contestant 1:
+
+Name: Egor Bogomolov
+TC handle: egor.bb
+CF handle: egor_bb
+Achievements:
+Contestant 2:
+
+Name: Petr Smirnov
+TC handle: ComradePetr
+CF handle: ComradePetr
+Achievements:
+Contestant 3:
+
+Name: Nikita Podguzov
+TC handle: Nikita.Podguzov
+CF handle: Nikitosh
+Achievements:
+
+
+
+
+
+
+
+
+
+
+University: St. Petersburg ITMO University
+Team: SPb ITMO University 1
+
+Coach:
+Name: Andrey Stankevich
+TC handle: andrewzta
+CF handle: andrewzta
+Achievements:
+ACM ICPC gold medal (2001)
+ACM ICPC silver medal (2000)
+ACM ICPC win as coach (2004, 2008, 2009, 2012, 2013, 2015)
+ACM ICPC gold medal as coach (2003, 2005, 2007)
+ACM ICPC bronze medal as coach (2014)
+World Finals coach (2002, 2006, 2010, 2011)
+GCJ 3rd (2006)
+TCO Finalist (2006, 2008, 2012)
+TCCC Finalist (2006)
+TCO Semifinalist (2007, 2009, 2013)
+GCJ Finalist (2005, 2008)
+FBHC Finalist (2011, 2014)
+
+Contestant 1:
+
+Name: Anton Kovsharov
+TC handle: antonkov
+CF handle: antonkov
+Achievements:
+Contestant 2:
+
+Name: Adam Bardashevich
+TC handle: subscriber
+CF handle: subscriber
+Achievements:
+ACM ICPC bronze medal (2014)
+VK Cup 2nd (2015)
+IOI Gold Medalist (2012)
+IOI Silver Medalist (2011)
+RCC Finalist (2014)
+CROC Championship finalist (2016)
+Abbyy Cup finalist (2012)
+Contestant 3:
+
+Name: Vladimir Smykalov
+TC handle: Enot
+CF handle: enot.1.10
+Achievements:
+VK Cup finalist (2015)
+Kotlin Finalist (2014)
+
+
+
+
+
+
+
+
+
+
+University: St. Petersburg State University
+Team: SPb SU 1: Base
+
+Coach:
+Name: Andrei Lopatin
+TC handle: null
+CF handle: null
+Achievements:
+ACM ICPC win as coach (2014)
+ACM ICPC silver medal as coach (2013)
+World Finals coach (2012, 2015)
+
+Contestant 1:
+
+Name: Stanislav Ershov
+TC handle: null
+CF handle: ershov.stanislav
+Achievements:
+CROC Championship finalist (2016)
+Contestant 2:
+
+Name: Igor Pyshkin
+TC handle: -XraY-
+CF handle: -XraY-
+Achievements:
+VK Cup finalist (2012, 2015)
+CROC Championship finalist (2016)
+Contestant 3:
+
+Name: Alexey Gordeev
+TC handle: Copymaster
+CF handle: Copymaster
+Achievements:
+ACM ICPC Finalist (2015)
+IOI Gold Medalist (2012)
+CROC Championship finalist (2013, 2016)
+
+
+
+
+
+
+
+
+
+
+University: Stanford University
+Team: Stanford Cardinal
+
+Coach:
+Name: Gerald Cain
+TC handle: null
+CF handle: null
+Achievements:
+ACM ICPC silver medal as coach (2002, 2008)
+ACM ICPC bronze medal as coach (2001)
+World Finals coach (1999, 2000, 2004, 2007, 2012-2015)
+
+Contestant 1:
+
+Name: Hubert Teo
+TC handle: null
+CF handle: null
+Achievements:
+Contestant 2:
+
+Name: Joshua Alman
+TC handle: null
+CF handle: null
+Achievements:
+Contestant 3:
+
+Name: Yuetong Wang
+TC handle: null
+CF handle: null
+Achievements:
+
+
+
+
+
+
+
+
+
+
+University: Taras Shevchenko National University of Kyiv
+Team: Flawless
+
+Coach:
+Name: Vitalii Bondarenko
+TC handle: null
+CF handle: null
+Achievements:
+ACM ICPC gold medal as coach (2010)
+ACM ICPC silver medal as coach (2013)
+World Finals coach (2009, 2011, 2014, 2015)
+IOI Bronze Medalist (1992)
+
+Contestant 1:
+
+Name: Roman Furko
+TC handle: null
+CF handle: Furko
+Achievements:
+ACM ICPC Finalist (2015)
+IOI Silver Medalist (2013)
+IOI Bronze Medalist (2012)
+Contestant 2:
+
+Name: Dmytro Ihnatenko
+TC handle: Fdg
+CF handle: Fdg
+Achievements:
+ACM ICPC Finalist (2015)
+Contestant 3:
+
+Name: Mykhailo Chornyi
+TC handle: null
+CF handle: null
+Achievements:
+
+
+
+
+
+
+
+
+
+
+University: The Chinese University of Hong Kong
+Team: Real Base
+
+Coach:
+Name: Siu On Chan
+TC handle: null
+CF handle: null
+Achievements:
+ACM ICPC Finalist (2003, 2006)
+
+Contestant 1:
+
+Name: On Yin Leung
+TC handle: scente
+CF handle: CantGetAnyACWhyAmISoWeak
+Achievements:
+Contestant 2:
+
+Name: Kam Chuen Tung
+TC handle: null
+CF handle: alex20030190
+Achievements:
+IOI Silver Medalist (2013-2015)
+Contestant 3:
+
+Name: Chun Yin Samspon Lee
+TC handle: abcsampson
+CF handle: Sampson
+Achievements:
+IOI Bronze Medalist (2012)
+IOI Participant (2013)
+
+
+
+
+
+
+
+
+
+
+University: The University of South Dakota
+Team: USD A
+
+Coach:
+Name: Doug Goodman
+TC handle: null
+CF handle: null
+Achievements:
+
+Contestant 1:
+
+Name: Mitchell Peterson
+TC handle: null
+CF handle: null
+Achievements:
+Contestant 2:
+
+Name: Ben Erickson
+TC handle: null
+CF handle: null
+Achievements:
+Contestant 3:
+
+Name: Kurtis Van Gent
+TC handle: null
+CF handle: null
+Achievements:
+
+
+
+
+
+
+
+
+
+
+University: The University of Tokyo
+Team: IIIlIIIllIIlIlIIllIlIllllllIII
+
+Coach:
+Name: Tomoyuki Kaneko
+TC handle: null
+CF handle: null
+Achievements:
+ACM ICPC gold medal as coach (2013, 2015)
+ACM ICPC silver medal as coach (2014)
+ACM ICPC bronze medal as coach (2012)
+World Finals coach (2009-2011)
+
+Contestant 1:
+
+Name: Shogo Murai
+TC handle: semiexp
+CF handle: semiexp
+Achievements:
+ACM ICPC gold medal (2015)
+IOI Gold Medalist (2010-2012)
+Contestant 2:
+
+Name: Shinya Shiroshita
+TC handle: phidnight
+CF handle: phidnight
+Achievements:
+IOI Silver Medalist (2011)
+Contestant 3:
+
+Name: Ikumi Hide
+TC handle: tozangezan
+CF handle: wolf_sothe
+Achievements:
+ACM ICPC silver medal (2014)
+IOI Silver Medalist (2012)
+FBHC Finalist (2015)
+
+
+
+
+
+
+
+
+
+
+University: The University of Western Australia
+Team: Off By Wonders
+
+Coach:
+Name: Tim French
+TC handle: null
+CF handle: null
+Achievements:
+
+Contestant 1:
+
+Name: Emma Krantz
+TC handle: null
+CF handle: null
+Achievements:
+Contestant 2:
+
+Name: Max Ward-Graham
+TC handle: null
+CF handle: null
+Achievements:
+Contestant 3:
+
+Name: Andrew Gozzard
+TC handle: null
+CF handle: gozzardam
+Achievements:
+
+
+
+
+
+
+
+
+
+
+University: Tianjin University
+Team: TJU_Thief_Master
+
+Coach:
+Name: Ruiguo Yu
+TC handle: null
+CF handle: null
+Achievements:
+World Finals coach (2008, 2009, 2011-2013)
+
+Contestant 1:
+
+Name: Tingle Zhou
+TC handle: null
+CF handle: null
+Achievements:
+Contestant 2:
+
+Name: Sheng Cao
+TC handle: null
+CF handle: null
+Achievements:
+Contestant 3:
+
+Name: Yibo Shi
+TC handle: wu6shen
+CF handle: wu6shen
+Achievements:
+
+
+
+
+
+
+
+
+
+
+University: Tishreen University
+Team: 4th FLOOR
+
+Coach:
+Name: Alaa Jarad
+TC handle: null
+CF handle: null
+Achievements:
+World Finals coach (2014, 2015)
+
+Contestant 1:
+
+Name: Sami Emad
+TC handle: null
+CF handle: samiemad
+Achievements:
+ACM ICPC Finalist (2015)
+Contestant 2:
+
+Name: Majd Ghada
+TC handle: null
+CF handle: majd.gda1
+Achievements:
+ACM ICPC Finalist (2015)
+Contestant 3:
+
+Name: Nodar Jarrar
+TC handle: null
+CF handle: nodar963
+Achievements:
+
+
+
+
+
+
+
+
+
+
+University: Tsinghua University
+Team: Wunderzeit
+
+Coach:
+Name: Xiaojun Wu
+TC handle: null
+CF handle: null
+Achievements:
+ACM ICPC gold medal as coach (2007, 2009, 2011, 2015)
+ACM ICPC silver medal as coach (2008, 2010)
+ACM ICPC bronze medal as coach (2013, 2014)
+World Finals coach (2004-2006, 2012)
+
+Contestant 1:
+
+Name: Qinshi Wang
+TC handle: bcip
+CF handle: s-quark
+Achievements:
+ACM ICPC bronze medal (2014)
+VK Cup 2nd (2012)
+TCO Semifinalist (2014)
+Yandex.Algorithm 3rd (2014)
+Yandex.Algorithm Finalist (2013)
+Contestant 2:
+
+Name: Hengjie Zhang
+TC handle: null
+CF handle: zhj
+Achievements:
+IOI Gold Medalist (2015)
+Contestant 3:
+
+Name: Honghua Dong
+TC handle: null
+CF handle: dhh1995
+Achievements:
+IOI Gold Medalist (2014)
+
+
+
+
+
+
+
+
+
+
+University: Universidad de Buenos Aires - FCEN
+Team: PUMMAS
+
+Coach:
+Name: Agustin Santiago Gutierrez
+TC handle: elsantodel90
+CF handle: elsantodel90
+Achievements:
+World Finals coach (2010, 2013-2015)
+ACM ICPC Finalist (2009, 2011)
+GCJ Finalist (2010)
+IOI Silver Medalist (2007)
+IOI Participant (2006)
+
+Contestant 1:
+
+Name: Sebastián Prillo
+TC handle: SebP
+CF handle: SebP
+Achievements:
+Contestant 2:
+
+Name: Alfredo Umfurer
+TC handle: Fredy10
+CF handle: fredy10
+Achievements:
+Contestant 3:
+
+Name: Miguel Maurizio
+TC handle: null
+CF handle: null
+Achievements:
+
+
+
+
+
+
+
+
+
+
+University: Universidad de Chile
+Team: Squash Masters
+
+Coach:
+Name: Camilo Garrido
+TC handle: null
+CF handle: null
+Achievements:
+
+Contestant 1:
+
+Name: Juan Pablo Paulsen Casanueva
+TC handle: null
+CF handle: null
+Achievements:
+Contestant 2:
+
+Name: Ronie Salgado
+TC handle: null
+CF handle: ronsaldo
+Achievements:
+Contestant 3:
+
+Name: Felipe Contreras
+TC handle: null
+CF handle: null
+Achievements:
+
+
+
+
+
+
+
+
+
+
+University: Universidad de La Habana
+Team: UH_REFRESH
+
+Coach:
+Name: Alfredo Somoza Moreno
+TC handle: null
+CF handle: null
+Achievements:
+World Finals coach (2011-2013, 2015)
+
+Contestant 1:
+
+Name: Norge Vizcay Zaldívar
+TC handle: null
+CF handle: null
+Achievements:
+Contestant 2:
+
+Name: Sandor Garcia
+TC handle: SandorGarcia
+CF handle: SandorGarcia
+Achievements:
+Contestant 3:
+
+Name: Abel Ramos
+TC handle: null
+CF handle: null
+Achievements:
+
+
+
+
+
+
+
+
+
+
+University: Universidad de los Andes, Colombia
+Team: Programators Mark II
+
+Coach:
+Name: Mario Sánchez
+TC handle: null
+CF handle: null
+Achievements:
+World Finals coach (2012)
+
+Contestant 1:
+
+Name: Emanuel Krivoy
+TC handle: null
+CF handle: null
+Achievements:
+ACM ICPC Finalist (2015)
+Contestant 2:
+
+Name: Santiago Ceron
+TC handle: null
+CF handle: null
+Achievements:
+ACM ICPC Finalist (2015)
+Contestant 3:
+
+Name: Rafael Mantilla
+TC handle: null
+CF handle: null
+Achievements:
+ACM ICPC Finalist (2015)
+IOI Silver Medalist (2011)
+IOI Bronze Medalist (2008-2010)
+IOI Participant (2007)
+
+
+
+
+
+
+
+
+
+
+University: Universidad de Oriente - Sede Antonio Maceo
+Team: Conquer & Divide
+
+Coach:
+Name: Eloy Rafael Oliveros Domínguez
+TC handle: null
+CF handle: null
+Achievements:
+
+Contestant 1:
+
+Name: Eduardo Pascual Aseff
+TC handle: null
+CF handle: epascual
+Achievements:
+Contestant 2:
+
+Name: Alexander Bestard Rivera
+TC handle: null
+CF handle: bestard
+Achievements:
+IOI Participant (2015)
+Contestant 3:
+
+Name: Aurora Gil Pons
+TC handle: null
+CF handle: null
+Achievements:
+
+
+
+
+
+
+
+
+
+
+University: Universidad Nacional de Colombia - Bogotá
+Team: UNDynamic
+
+Coach:
+Name: Diego Ivan Caballero Rodríguez
+TC handle: null
+CF handle: null
+Achievements:
+ACM ICPC Finalist (2013, 2015)
+
+Contestant 1:
+
+Name: Ivan Castellanos
+TC handle: ivancastel
+CF handle: ivancastel
+Achievements:
+Contestant 2:
+
+Name: Juan Felipe Baquero Vargas
+TC handle: null
+CF handle: null
+Achievements:
+Contestant 3:
+
+Name: Andres Felipe Cruz Salinas
+TC handle: null
+CF handle: null
+Achievements:
+
+
+
+
+
+
+
+
+
+
+University: Universidad Nacional de Ingeniería - FIIS
+Team: 1000KB
+
+Coach:
+Name: Rodolfo Moisés Mercado Gonzales
+TC handle: null
+CF handle: null
+Achievements:
+
+Contestant 1:
+
+Name: Victor Alin Cueva Llanos
+TC handle: null
+CF handle: null
+Achievements:
+Contestant 2:
+
+Name: Josué Andrés Julcarima Calle
+TC handle: null
+CF handle: null
+Achievements:
+Contestant 3:
+
+Name: Diego Mauricio Mansilla Mallqui
+TC handle: null
+CF handle: null
+Achievements:
+
+
+
+
+
+
+
+
+
+
+University: Universidad Nacional de Rosario
+Team: Caloventor en Dos
+
+Coach:
+Name: Leopoldo Taravilse
+TC handle: ltaravilse
+CF handle: ltaravilse
+Achievements:
+ACM ICPC Finalist (2010, 2012)
+
+Contestant 1:
+
+Name: Martín Villagra
+TC handle: martinv
+CF handle: martinv
+Achievements:
+ACM ICPC Finalist (2015)
+IOI Participant (2013)
+Contestant 2:
+
+Name: Pablo Zimmermann
+TC handle: karupayun
+CF handle: karupayun
+Achievements:
+ACM ICPC Finalist (2015)
+Contestant 3:
+
+Name: Mariano Crosetti
+TC handle: null
+CF handle: null
+Achievements:
+ACM ICPC Finalist (2015)
+
+
+
+
+
+
+
+
+
+
+University: Universidad Simón Bolívar
+Team: RAM
+
+Coach:
+Name: Ricardo Monascal
+TC handle: bulda.e.bien
+CF handle: bulda.e.bien
+Achievements:
+World Finals coach (2015)
+
+Contestant 1:
+
+Name: Mathias San Miguel
+TC handle: null
+CF handle: mathiassm
+Achievements:
+Contestant 2:
+
+Name: Rubmary Rojas
+TC handle: null
+CF handle: null
+Achievements:
+Contestant 3:
+
+Name: Augusto Hidalgo
+TC handle: pulgares
+CF handle: pulgares
+Achievements:
+
+
+
+
+
+
+
+
+
+
+University: Universidade de São Paulo
+Team: Sua mãe
+
+Coach:
+Name: Renzo Gomez
+TC handle: null
+CF handle: renzo1805
+Achievements:
+
+Contestant 1:
+
+Name: Giovana Delfino
+TC handle: gidelfino
+CF handle: gidelfino
+Achievements:
+Contestant 2:
+
+Name: Yan Couto
+TC handle: yancouto
+CF handle: ItsYanBitches
+Achievements:
+Contestant 3:
+
+Name: Gabriel Oliveira
+TC handle: gafeol
+CF handle: gafeol
+Achievements:
+
+
+
+
+
+
+
+
+
+
+University: Universidade de São Paulo - Campus de São Carlos
+Team: Bob
+
+Coach:
+Name: Bianca Madoka Shimizu Oe
+TC handle: bimaoe
+CF handle: bimaoe
+Achievements:
+ACM ICPC Finalist (2014)
+
+Contestant 1:
+
+Name: Tomás Raphael Rizzo Fonseca
+TC handle: null
+CF handle: null
+Achievements:
+Contestant 2:
+
+Name: Danilo Tedeschi
+TC handle: danft
+CF handle: danft
+Achievements:
+Contestant 3:
+
+Name: Bruno Sanches
+TC handle: bssanches
+CF handle: bssanches
+Achievements:
+
+
+
+
+
+
+
+
+
+
+University: Universidade Estadual de Campinas
+Team: BibleThump
+
+Coach:
+Name: Fábio Luiz Usberti
+TC handle: null
+CF handle: null
+Achievements:
+
+Contestant 1:
+
+Name: Ivan Henrique Petrin
+TC handle: ivanilos
+CF handle: ivanilos
+Achievements:
+Contestant 2:
+
+Name: Augusto dos Santos Morgan
+TC handle: null
+CF handle: null
+Achievements:
+Contestant 3:
+
+Name: Tiago Reis
+TC handle: tiagob.reis
+CF handle: tiagob.reis
+Achievements:
+
+
+
+
+
+
+
+
+
+
+University: Universidade Federal da Bahia
+Team: ROBÉRIO E SEUS TECLADOS
+
+Coach:
+Name: Mauricio Pamplona Segundo
+TC handle: null
+CF handle: null
+Achievements:
+
+Contestant 1:
+
+Name: Guilherme Bernal
+TC handle: null
+CF handle: lbguilherme
+Achievements:
+Contestant 2:
+
+Name: Roberto Caldeira
+TC handle: rsalesc
+CF handle: rsalesc
+Achievements:
+Contestant 3:
+
+Name: Jonathan Queiroz
+TC handle: johnjq
+CF handle: johnjq
+Achievements:
+
+
+
+
+
+
+
+
+
+
+University: Universidade Federal de Campina Grande
+Team: Abella e as feras
+
+Coach:
+Name: Rohit Gheyi
+TC handle: null
+CF handle: null
+Achievements:
+World Finals coach (2012, 2014, 2015)
+
+Contestant 1:
+
+Name: Manoel Lucas Urbano de Barros Lins
+TC handle: Manoel
+CF handle: Manoel
+Achievements:
+ACM ICPC Finalist (2015)
+Contestant 2:
+
+Name: Felipe Abella Cavalcante Mendonça de Souza
+TC handle: fsouza
+CF handle: fsouza
+Achievements:
+ACM ICPC Finalist (2012)
+IOI Gold Medalist (2011)
+IOI Silver Medalist (2009, 2010)
+Contestant 3:
+
+Name: Árysson Figueiredo
+TC handle: arysson
+CF handle: arysson
+Achievements:
+
+
+
+
+
+
+
+
+
+
+University: Universidade Federal de Pernambuco
+Team: Turing-indecisos
+
+Coach:
+Name: Katia Guimarães
+TC handle: null
+CF handle: null
+Achievements:
+World Finals coach (1999, 2002, 2004)
+
+Contestant 1:
+
+Name: Gustavo Stor
+TC handle: null
+CF handle: Godely
+Achievements:
+Contestant 2:
+
+Name: Mário Henrique da Silva
+TC handle: mhss
+CF handle: mhss
+Achievements:
+Contestant 3:
+
+Name: Duhan Caraciolo
+TC handle: dcms2
+CF handle: dcms2
+Achievements:
+
+
+
+
+
+
+
+
+
+
+University: Universitat Politècnica de Catalunya
+Team: Twelve seconds
+
+Coach:
+Name: Salvador Roura
+TC handle: null
+CF handle: null
+Achievements:
+World Finals coach (2004-2007, 2009, 2010, 2012-2015)
+
+Contestant 1:
+
+Name: Angel Garcia Gomez
+TC handle: null
+CF handle: null
+Achievements:
+ACM ICPC Finalist (2015)
+Contestant 2:
+
+Name: Ferran Alet
+TC handle: null
+CF handle: FerranAlet
+Achievements:
+ACM ICPC Finalist (2015)
+IOI Bronze Medalist (2011)
+IOI Participant (2010)
+Contestant 3:
+
+Name: Albert Martínez
+TC handle: albertnez
+CF handle: albertnez
+Achievements:
+
+
+
+
+
+
+
+
+
+
+University: University of Aizu
+Team: FinalZukky
+
+Coach:
+Name: Yutaka Watanobe
+TC handle: null
+CF handle: null
+Achievements:
+World Finals coach (2009)
+
+Contestant 1:
+
+Name: Takumi Yamashita
+TC handle: null
+CF handle: null
+Achievements:
+Contestant 2:
+
+Name: Kazuki Omomo
+TC handle: null
+CF handle: null
+Achievements:
+Contestant 3:
+
+Name: Tadamasa Yamaguchi
+TC handle: null
+CF handle: null
+Achievements:
+
+
+
+
+
+
+
+
+
+
+University: University of British Columbia
+Team: UBC+
+
+Coach:
+Name: Mushfiqur Rouf
+TC handle: null
+CF handle: null
+Achievements:
+ACM ICPC Finalist (2002, 2005)
+World Finals coach (2013)
+
+Contestant 1:
+
+Name: Brian Chau
+TC handle: null
+CF handle: null
+Achievements:
+Contestant 2:
+
+Name: Yuanchen Du
+TC handle: null
+CF handle: null
+Achievements:
+Contestant 3:
+
+Name: Hung li Chen
+TC handle: null
+CF handle: null
+Achievements:
+
+
+
+
+
+
+
+
+
+
+University: University of California at Berkeley
+Team: Berkeley Blue
+
+Coach:
+Name: Paul Hilfinger
+TC handle: null
+CF handle: null
+Achievements:
+ACM ICPC silver medal as coach (2015)
+ACM ICPC bronze medal as coach (1999)
+World Finals coach (2001-2003, 2009, 2014)
+
+Contestant 1:
+
+Name: Pasin Manurangsi
+TC handle: pasin30055
+CF handle: pasin30055
+Achievements:
+ACM ICPC Finalist (2012)
+IOI Gold Medalist (2010, 2011)
+IOI Silver Medalist (2009)
+Contestant 2:
+
+Name: Weiqiao Han
+TC handle: null
+CF handle: null
+Achievements:
+Contestant 3:
+
+Name: Alexander Dai
+TC handle: null
+CF handle: null
+Achievements:
+
+
+
+
+
+
+
+
+
+
+University: University of Cape Town
+Team: Amazingly Complicated Macros
+
+Coach:
+Name: Maria Keet
+TC handle: null
+CF handle: null
+Achievements:
+World Finals coach (2015)
+
+Contestant 1:
+
+Name: Robert Spencer
+TC handle: rspencer
+CF handle: rspencer
+Achievements:
+ACM ICPC Finalist (2015)
+IOI Bronze Medalist (2013)
+IOI Participant (2012)
+Contestant 2:
+
+Name: Robin Visser
+TC handle: null
+CF handle: rvisser
+Achievements:
+IOI Bronze Medalist (2015)
+Contestant 3:
+
+Name: Ashraf Moolla
+TC handle: null
+CF handle: null
+Achievements:
+IOI Participant (2012)
+
+
+
+
+
+
+
+
+
+
+University: University of Central Florida
+Team: UCF Knights
+
+Coach:
+Name: Ali Orooji
+TC handle: null
+CF handle: null
+Achievements:
+ACM ICPC bronze medal as coach (2001)
+World Finals coach (2000, 2002, 2004-2010, 2012-2015)
+
+Contestant 1:
+
+Name: Michael Kirsche
+TC handle: mkirsche
+CF handle: mkirsche
+Achievements:
+Contestant 2:
+
+Name: Stephen Royal
+TC handle: null
+CF handle: sroyal
+Achievements:
+ACM ICPC Finalist (2013)
+Contestant 3:
+
+Name: Evan Dorundo
+TC handle: null
+CF handle: null
+Achievements:
+ACM ICPC Finalist (2015)
+
+
+
+
+
+
+
+
+
+
+University: University of Chicago
+Team: Sufficiently Advanced Tech
+
+Coach:
+Name: Borja Sotomayor
+TC handle: null
+CF handle: null
+Achievements:
+World Finals coach (2009-2015)
+
+Contestant 1:
+
+Name: Scott Shi
+TC handle: null
+CF handle: null
+Achievements:
+Contestant 2:
+
+Name: Mihai Andreescu
+TC handle: null
+CF handle: mihai995
+Achievements:
+Contestant 3:
+
+Name: Nikolas Anderson
+TC handle: null
+CF handle: null
+Achievements:
+
+
+
+
+
+
+
+
+
+
+University: University of Electronic Science and Technology of China
+Team: UESTC_murasame
+
+Coach:
+Name: Peng Yang
+TC handle: null
+CF handle: null
+Achievements:
+World Finals coach (2012, 2014, 2015)
+
+Contestant 1:
+
+Name: Zhu He
+TC handle: null
+CF handle: Hezhu
+Achievements:
+Contestant 2:
+
+Name: SiRui Lin
+TC handle: null
+CF handle: null
+Achievements:
+Contestant 3:
+
+Name: Jianxiao Hu
+TC handle: hjx1212
+CF handle: hjx1212
+Achievements:
+
+
+
+
+
+
+
+
+
+
+University: University of Engineering and Technology - VNU
+Team: BYTE
+
+Coach:
+Name: Ho Phuong
+TC handle: null
+CF handle: null
+Achievements:
+World Finals coach (2015)
+
+Contestant 1:
+
+Name: Kien Nguyen Tien Trung
+TC handle: kien_coi_1997
+CF handle: kien_coi_1997
+Achievements:
+IOI Silver Medalist (2015)
+IOI Bronze Medalist (2014)
+Contestant 2:
+
+Name: Van Hanh Pham
+TC handle: skyvn97
+CF handle: skyvn97
+Achievements:
+IOI Gold Medalist (2015)
+Contestant 3:
+
+Name: Khanh Do Ngoc
+TC handle: happyboy99x
+CF handle: dnk
+Achievements:
+
+
+
+
+
+
+
+
+
+
+University: University of Helsinki
+Team: Game of Nolife
+
+Coach:
+Name: Antti Laaksonen
+TC handle: pllk
+CF handle: pllk
+Achievements:
+IOI Bronze Medalist (2006)
+IOI Participant (2005)
+
+Contestant 1:
+
+Name: Olli Hirviniemi
+TC handle: null
+CF handle: Gomhog
+Achievements:
+Contestant 2:
+
+Name: Otte Heinävaara
+TC handle: null
+CF handle: gtrrebel
+Achievements:
+Contestant 3:
+
+Name: Tuukka Korhonen
+TC handle: Laakeri
+CF handle: Laakeri
+Achievements:
+IOI Bronze Medalist (2015)
+
+
+
+
+
+
+
+
+
+
+University: University of Illinois at Urbana-Champaign
+Team: Poor Man's Shield
+
+Coach:
+Name: Uttam Thakore
+TC handle: null
+CF handle: null
+Achievements:
+World Finals coach (2015)
+
+Contestant 1:
+
+Name: Lan Dao
+TC handle: null
+CF handle: TiChuot97
+Achievements:
+Contestant 2:
+
+Name: Xin Gao
+TC handle: null
+CF handle: null
+Achievements:
+ACM ICPC Finalist (2015)
+Contestant 3:
+
+Name: Siwakorn Srisakaokul
+TC handle: null
+CF handle: NarakJung
+Achievements:
+
+
+
+
+
+
+
+
+
+
+University: University of Minnesota - Twin Cities
+Team: Benchwarmers
+
+Coach:
+Name: Luc Nelson
+TC handle: null
+CF handle: null
+Achievements:
+
+Contestant 1:
+
+Name: Lucas Knutson
+TC handle: null
+CF handle: null
+Achievements:
+ACM ICPC Finalist (2015)
+Contestant 2:
+
+Name: Hidenori Shinohara
+TC handle: HidenoriS
+CF handle: HidenoriS
+Achievements:
+ACM ICPC Finalist (2015)
+Contestant 3:
+
+Name: BatOrgil Batsaikhan
+TC handle: null
+CF handle: null
+Achievements:
+
+
+
+
+
+
+
+
+
+
+University: University of New South Wales
+Team: TheNorthernLine
+
+Coach:
+Name: Aleks Ignjatovic
+TC handle: null
+CF handle: null
+Achievements:
+World Finals coach (2014, 2015)
+
+Contestant 1:
+
+Name: Joshua Lau
+TC handle: Junkbot
+CF handle: junkbot
+Achievements:
+ACM ICPC Finalist (2015)
+IOI Silver Medalist (2012)
+IOI Participant (2013)
+Contestant 2:
+
+Name: Daaron Chiu
+TC handle: null
+CF handle: null
+Achievements:
+Contestant 3:
+
+Name: Austin Tankiang
+TC handle: SpiritsUnite
+CF handle: SpiritsUnite
+Achievements:
+IOI Participant (2013)
+
+
+
+
+
+
+
+
+
+
+University: University of North Carolina at Chapel Hill
+Team: Dayton Goliath Trees
+
+Coach:
+Name: Ketan Mayer-Patel
+TC handle: null
+CF handle: null
+Achievements:
+
+Contestant 1:
+
+Name: David Spencer
+TC handle: null
+CF handle: null
+Achievements:
+Contestant 2:
+
+Name: Dayton Ellwanger
+TC handle: null
+CF handle: null
+Achievements:
+Contestant 3:
+
+Name: Forrest Li
+TC handle: null
+CF handle: null
+Achievements:
+
+
+
+
+
+
+
+
+
+
+University: University of Southern California
+Team: USC Trojans
+
+Coach:
+Name: David Kempe
+TC handle: null
+CF handle: null
+Achievements:
+World Finals coach (2002, 2013-2015)
+ACM ICPC Finalist (1999)
+IOI Silver Medalist (1994)
+
+Contestant 1:
+
+Name: Yuehui Wang
+TC handle: null
+CF handle: windsfantasy6
+Achievements:
+Contestant 2:
+
+Name: Zekun Li
+TC handle: null
+CF handle: null
+Achievements:
+Contestant 3:
+
+Name: Ho Ching Justin Cheng
+TC handle: null
+CF handle: justindcheng
+Achievements:
+
+
+
+
+
+
+
+
+
+
+University: University of Utah
+Team: Uncompilables
+
+Coach:
+Name: Peter Jensen
+TC handle: null
+CF handle: null
+Achievements:
+World Finals coach (1999)
+
+Contestant 1:
+
+Name: Liam Machado
+TC handle: null
+CF handle: null
+Achievements:
+Contestant 2:
+
+Name: William Li
+TC handle: null
+CF handle: null
+Achievements:
+Contestant 3:
+
+Name: Samuel Zachary
+TC handle: null
+CF handle: null
+Achievements:
+
+
+
+
+
+
+
+
+
+
+University: University of Virginia
+Team: foo
+
+Coach:
+Name: Aaron Bloomfield
+TC handle: null
+CF handle: null
+Achievements:
+World Finals coach (2009-2011, 2013, 2014)
+
+Contestant 1:
+
+Name: Andrew Norton
+TC handle: null
+CF handle: null
+Achievements:
+Contestant 2:
+
+Name: Derek Morris
+TC handle: null
+CF handle: null
+Achievements:
+ACM ICPC Finalist (2013)
+Contestant 3:
+
+Name: Alec Grieser
+TC handle: null
+CF handle: null
+Achievements:
+
+
+
+
+
+
+
+
+
+
+University: University of Warsaw
+Team: Warsaw Eagles 2016
+
+Coach:
+Name: Jan Madey
+TC handle: null
+CF handle: null
+Achievements:
+ACM ICPC win as coach (2003, 2007)
+ACM ICPC gold medal as coach (2012)
+ACM ICPC silver medal as coach (2001, 2006, 2010, 2013, 2014)
+ACM ICPC bronze medal as coach (2004, 2009, 2015)
+World Finals coach (1999, 2000, 2002, 2005, 2008, 2011)
+
+Contestant 1:
+
+Name: Marek Sokołowski
+TC handle: null
+CF handle: null
+Achievements:
+Contestant 2:
+
+Name: Marcin Smulewicz
+TC handle: Marcin_smu
+CF handle: Marcin_smu
+Achievements:
+GCJ Finalist (2014)
+FBHC 3rd (2013)
+Contestant 3:
+
+Name: Wojciech Nadara
+TC handle: Swistakk
+CF handle: Swistakk
+Achievements:
+IOI Silver Medalist (2012)
+
+
+
+
+
+
+
+
+
+
+University: University of Waterloo
+Team: Waterloo Black
+
+Coach:
+Name: Troy Vasiga
+TC handle: null
+CF handle: null
+Achievements:
+World Finals coach (2015)
+
+Contestant 1:
+
+Name: Antonio Molina Lovett
+TC handle: null
+CF handle: null
+Achievements:
+Contestant 2:
+
+Name: Jacob Jackson
+TC handle: zxqfl
+CF handle: zxqfl
+Achievements:
+IOI Gold Medalist (2014, 2015)
+Contestant 3:
+
+Name: Yi Feng Huang
+TC handle: null
+CF handle: null
+Achievements:
+
+
+
+
+
+
+
+
+
+
+University: University of Wisconsin - Madison
+Team: SmileDog
+
+Coach:
+Name: Dieter van Melkebeek
+TC handle: null
+CF handle: null
+Achievements:
+World Finals coach (2003-2015)
+
+Contestant 1:
+
+Name: Krittisak Chaiyakul
+TC handle: null
+CF handle: toppykung
+Achievements:
+IOI Bronze Medalist (2013, 2014)
+Contestant 2:
+
+Name: Ingkarat Rak-amnouykit
+TC handle: null
+CF handle: Ingkarat
+Achievements:
+Contestant 3:
+
+Name: Songwong Tasneeyapant
+TC handle: null
+CF handle: name
+Achievements:
+
+
+
+
+
+
+
+
+
+
+University: University of Wroclaw
+Team: UWr1
+
+Coach:
+Name: Krzysztof Lorys
+TC handle: null
+CF handle: null
+Achievements:
+World Finals coach (2007, 2012-2015)
+
+Contestant 1:
+
+Name: Mateusz Gołębiewski
+TC handle: null
+CF handle: null
+Achievements:
+ACM ICPC Finalist (2015)
+Contestant 2:
+
+Name: Maciej Dulęba
+TC handle: null
+CF handle: null
+Achievements:
+ACM ICPC Finalist (2015)
+Contestant 3:
+
+Name: Bartłomiej Dudek
+TC handle: null
+CF handle: null
+Achievements:
+ACM ICPC Finalist (2015)
+IOI Silver Medalist (2012)
+
+
+
+
+
+
+
+
+
+
+University: University of Zagreb
+Team: Zagreb
+
+Coach:
+Name: Krešimir Malnar
+TC handle: null
+CF handle: null
+Achievements:
+ACM ICPC silver medal as coach (2008, 2014, 2015)
+
+Contestant 1:
+
+Name: Tonko Sabolčec
+TC handle: tonkosi
+CF handle: tonkosi
+Achievements:
+IOI Silver Medalist (2015)
+IOI Participant (2014)
+Contestant 2:
+
+Name: Mihael Liskij
+TC handle: Mihaell
+CF handle: Mihaell
+Achievements:
+IOI Bronze Medalist (2015)
+Contestant 3:
+
+Name: Ivan Lazarić
+TC handle: IvL
+CF handle: IvL
+Achievements:
+IOI Silver Medalist (2015)
+IOI Bronze Medalist (2013)
+
+
+
+
+
+
+
+
+
+
+University: Ural Federal University
+Team: Ural FU: Dandelion
+
+Coach:
+Name: Mikhail Rubinchik
+TC handle: rumi13
+CF handle: MikhailRubinchik
+Achievements:
+ACM ICPC bronze medal (2011)
+World Finals coach (2014)
+
+Contestant 1:
+
+Name: Nikita Sivukhin
+TC handle: Tosiambo
+CF handle: Umqra
+Achievements:
+IOI Gold Medalist (2014)
+VK Cup finalist (2015)
+CROC Championship finalist (2016)
+Contestant 2:
+
+Name: Alexey Danilyuk
+TC handle: Um_nik
+CF handle: Um_nik
+Achievements:
+VK Cup finalist (2015)
+CROC Championship finalist (2016)
+Wunder Fund Round 3rd (2016)
+Contestant 3:
+
+Name: Oleg Merkurev
+TC handle: Merkurev
+CF handle: Merkurev
+Achievements:
+ACM ICPC Finalist (2014)
+GCJ Finalist (2015)
+RCC Finalist (2013, 2015)
+FBHC Finalist (2014)
+Yandex.Algorithm Finalist (2014)
+VK Cup finalist (2015)
+CROC Championship finalist (2016)
+
+
+
+
+
+
+
+
+
+
+University: Utrecht University
+Team: Curiously recurring
+
+Coach:
+Name: Josse van Dobben de Bruyn
+TC handle: null
+CF handle: null
+Achievements:
+ACM ICPC Finalist (2013)
+
+Contestant 1:
+
+Name: Harry Smit
+TC handle: null
+CF handle: null
+Achievements:
+Contestant 2:
+
+Name: Ragnar Groot Koerkamp
+TC handle: null
+CF handle: Philae
+Achievements:
+Contestant 3:
+
+Name: Timon Knigge
+TC handle: null
+CF handle: null
+Achievements:
+
+
+
+
+
+
+
+
+
+
+University: Virginia Tech
+Team: Java the Hutt
+
+Coach:
+Name: Godmar Back
+TC handle: null
+CF handle: null
+Achievements:
+World Finals coach (2014, 2015)
+
+Contestant 1:
+
+Name: Dustin Pho
+TC handle: null
+CF handle: null
+Achievements:
+Contestant 2:
+
+Name: Christopher Wu
+TC handle: null
+CF handle: null
+Achievements:
+Contestant 3:
+
+Name: Peter Steele
+TC handle: null
+CF handle: null
+Achievements:
+
+
+
+
+
+
+
+
+
+
+University: Zaporizhzhya National Technical University
+Team: ZNTU_SetUp
+
+Coach:
+Name: Natalia Myronova
+TC handle: null
+CF handle: null
+Achievements:
+
+Contestant 1:
+
+Name: Yevhen Zadorozhnii
+TC handle: MrDindows
+CF handle: MrDindows
+Achievements:
+Contestant 2:
+
+Name: Andrii Bezsonov
+TC handle: 6eJIa9IzZzTeHb
+CF handle: 6eJIa9IzZzTeHb
+Achievements:
+Contestant 3:
+
+Name: Viktoriia Kosarenko
+TC handle: null
+CF handle: null
+Achievements:
+
+
+
+
+
+
+
+
+
+
+University: Zhejiang Normal University
+Team: NoPenalty
+
+Coach:
+Name: Jianmin Han
+TC handle: null
+CF handle: null
+Achievements:
+World Finals coach (2011)
+
+Contestant 1:
+
+Name: Jiaqi Zhuang
+TC handle: ZJiaQ
+CF handle: ZJiaQ
+Achievements:
+Contestant 2:
+
+Name: Yifan Ye
+TC handle: null
+CF handle: null
+Achievements:
+Contestant 3:
+
+Name: Sheng Qiu
+TC handle: null
+CF handle: null
+Achievements:
+
+
+
+
+
+
+
+
+
+
+University: Zhejiang University
+Team: Siunaus
+
+Coach:
+Name: Can Wang
+TC handle: null
+CF handle: null
+Achievements:
+ACM ICPC win as coach (2011)
+ACM ICPC silver medal as coach (2009)
+World Finals coach (2007, 2012-2015)
+
+Contestant 1:
+
+Name: Xiajun Wang
+TC handle: null
+CF handle: Yukine_Chris
+Achievements:
+Contestant 2:
+
+Name: Mengge Jin
+TC handle: null
+CF handle: null
+Achievements:
+Contestant 3:
+
+Name: Yueqi Zhao
+TC handle: Sfiction
+CF handle: sfiction
+Achievements:
+
+
+
+
+
+
+
+
+
+
+University: Zhongshan (Sun Yat-sen) University
+Team: SYSU_Braid
+
+Coach:
+Name: SongShan Guo
+TC handle: null
+CF handle: null
+Achievements:
+ACM ICPC silver medal as coach (2003, 2012)
+ACM ICPC bronze medal as coach (2001, 2004, 2010)
+World Finals coach (2005-2009, 2011, 2013, 2014)
+
+Contestant 1:
+
+Name: Zhengjie Xu
+TC handle: asklzxn2
+CF handle: asklzxn2
+Achievements:
+Contestant 2:
+
+Name: Jianchang Zhang
+TC handle: null
+CF handle: null
+Achievements:
+ACM ICPC Finalist (2014)
+Contestant 3:
+
+Name: Yanfen Ma
+TC handle: null
+CF handle: null
+Achievements:
+
+
+
+
+
+
+
+
+
+
