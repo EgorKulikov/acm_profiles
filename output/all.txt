@@ -1,5 +1,8 @@
 University: Aleppo University
 Team: Beginners
+Regionals:
+The 2015 Arab Collegiate Programming Contest, 2nd
+The 2015 Syrian Collegiate Programming Contest, 3rd
 
 Coach:
 Name: Souheil Khawatmi
@@ -31,13 +34,13 @@ Achievements:
 
 
 
-
-
-
-
-
+
 University: Alexandria University - Faculty of Engineering
 Team: New Folder
+Regionals:
+The 2015 Arab Collegiate Programming Contest, 1st
+The 2015 Egyptian Collegiate Programming Contest, 1st
+The 2015 Alexandria University Collegiate Programming Contest, 1st
 
 Coach:
 Name: Omar ElAzazy
@@ -70,13 +73,13 @@ Achievements:
 
 
 
-
-
-
-
-
+
 University: Arab Academy for Science and Technology (Alexandria)
 Team: No Ana Gai Aharag
+Regionals:
+The 2015 Arab Collegiate Programming Contest, 3rd
+The 2015 Egyptian Collegiate Programming Contest, 2nd
+The 2015 AAST (Alexandria) Collegiate Programming Contest, 2nd
 
 Coach:
 Name: Ahmed Salem
@@ -113,13 +116,12 @@ ACM ICPC Finalist (2015)
 
 
 
-
-
-
-
-
+
 University: Ateneo de Manila University
 Team: Fuchsia Moth
+Regionals:
+The 2015 ACM-ICPC Asia Singapore Regional Contest, 9th
+ACM ICPC Asia Singapore Preliminary Contest (Online), 7th
 
 Coach:
 Name: Vernon Gutierrez
@@ -150,14 +152,12 @@ Achievements:
 
 
 
-
-
-
-
-
+
 University: Beihang University
 Team: TheWaySoFar
 OpenCup: 87 (6)
+Regionals:
+The 2015 ACM-ICPC Asia Shenyang Regional Contest, 1st
 
 Coach:
 Name: You Song
@@ -192,14 +192,12 @@ ACM ICPC Finalist (2015)
 
 
 
-
-
-
-
-
+
 University: Beijing University of Posts and Telecommunications
 Team: heheda
 OpenCup: 80 (3)
+Regionals:
+The 2015 ACM-ICPC Asia Beijing Regional Contest, 19th
 
 Coach:
 Name: Ya Yang
@@ -230,14 +228,13 @@ Achievements:
 
 
 
-
-
-
-
-
+
 University: Belarusian State University
 Team: BelarusianSU1
 OpenCup: 34 (13)
+Regionals:
+The 2015 Northeastern Europe Regional Contest, 15th
+The 2015 Western Subregional Contest, 6th
 
 Coach:
 Name: Vladimir Kotov
@@ -273,14 +270,13 @@ Achievements:
 
 
 
-
-
-
-
-
+
 University: Belarusian State University of Informatics and Radioelectronics
 Team: Belarusian SUIR 2
 OpenCup: 24 (15)
+Regionals:
+The 2015 Northeastern Europe Regional Contest, 7th
+The 2015 Western Subregional Contest, 1st
 
 Coach:
 Name: Aliaksei Ropan
@@ -321,14 +317,13 @@ CROC Championship finalist (2016)
 
 
 
-
-
-
-
-
+
 University: Birla Institute of Technology & Science, Pilani Campus
 Team: stronglyConnected
 OpenCup: 57 (4)
+Regionals:
+The 2015 ACM-ICPC Asia Kolkata Regional Contest, 3rd
+Asia Kolkata First Round Online Programming Contest, 5th
 
 Coach:
 Name: Avinash Gautam
@@ -359,13 +354,12 @@ Achievements:
 
 
 
-
-
-
-
-
+
 University: British University in Egypt
 Team: Gotta Solve Em All
+Regionals:
+The 2015 Arab Collegiate Programming Contest, 5th
+The 2015 Egyptian Collegiate Programming Contest, 6th
 
 Coach:
 Name: Khaled Nagaty
@@ -396,13 +390,13 @@ Achievements:
 
 
 
-
-
-
-
-
+
 University: Cairo University - Faculty of Computers and Information
 Team: El Psy Congroo
+Regionals:
+The 2015 Arab Collegiate Programming Contest, 8th
+The 2015 Egyptian Collegiate Programming Contest, 7th
+The 2015 FCI-Cairo University Programming Contest, 1st
 
 Coach:
 Name: Mohamed Abd El-Wahab
@@ -435,13 +429,11 @@ Achievements:
 
 
 
-
-
-
-
-
+
 University: California Institute of Technology
 Team: Kiss a Wookiee
+Regionals:
+The 2015 Southern California Regional Contest, 1st
 
 Coach:
 Name: Donald Pinkston
@@ -472,13 +464,11 @@ Achievements:
 
 
 
-
-
-
-
-
+
 University: Carnegie Mellon University
 Team: CMU1
+Regionals:
+The 2015 East Central NA Regional Contest, 5th
 
 Coach:
 Name: Danny Sleator
@@ -512,14 +502,12 @@ IOI Participant (2014)
 
 
 
-
-
-
-
-
+
 University: Charles University in Prague
 Team: MFF
 OpenCup: 281 (3)
+Regionals:
+The 2015 Central Europe Regional Contest, 10th
 
 Coach:
 Name: Zdenek Dvorak
@@ -555,13 +543,11 @@ IOI Bronze Medalist (2012, 2013)
 
 
 
-
-
-
-
-
+
 University: Chulalongkorn University
 Team: CUCP Meow Meow :3
+Regionals:
+The 2015 ACM-ICPC Asia Jakarta Regional Contest, 13th
 
 Coach:
 Name: Athasit Surarerks
@@ -592,13 +578,11 @@ Achievements:
 
 
 
-
-
-
-
-
+
 University: Comenius University
 Team: Zelovoc svetla
+Regionals:
+The 2015 Central Europe Regional Contest, 4th
 
 Coach:
 Name: Michal Forišek
@@ -646,13 +630,11 @@ IOI Bronze Medalist (2011)
 
 
 
-
-
-
-
-
+
 University: Cornell University
 Team: snoopy fan club
+Regionals:
+The 2015 Greater NY Regional Contest, 1st
 
 Coach:
 Name: Daniel Fleischman
@@ -686,13 +668,12 @@ Achievements:
 
 
 
-
-
-
-
-
+
 University: Damascus University
 Team: Nitro++
+Regionals:
+The 2015 Arab Collegiate Programming Contest, 9th
+The 2015 Syrian Collegiate Programming Contest, 10th
 
 Coach:
 Name: Feras Al-Kassar
@@ -725,13 +706,12 @@ Achievements:
 
 
 
-
-
-
-
-
+
 University: Escuela Superior De Computo Instituto Politecnico Nacional
 Team: La Carabina del AC
+Regionals:
+The 2015 ACM-ICPC  Mexico and Central America Finals, 1st
+Gran Premio de Mexico & Centroamerica, 4th
 
 Coach:
 Name: Edgardo Adrian Franco Martinez
@@ -765,13 +745,11 @@ Achievements:
 
 
 
-
-
-
-
-
+
 University: ETH Zürich
 Team: rETHink
+Regionals:
+The 2015 Southwestern Europe Regional Contest, 2nd
 
 Coach:
 Name: Timon Gehr
@@ -807,14 +785,12 @@ IOI Participant (2012)
 
 
 
-
-
-
-
-
+
 University: Fudan University
 Team: Saga
 OpenCup: 44 (4)
+Regionals:
+The 2015 ACM-ICPC Asia Beijing Regional Contest, 4th
 
 Coach:
 Name: Weiwei Sun
@@ -848,13 +824,12 @@ Achievements:
 
 
 
-
-
-
-
-
+
 University: Harvard University
 Team: Harvard
+Regionals:
+The 2015 Northeast North America Regional Contest, 1st
+2015 Eastern (BOSPRE) Contest, 1st
 
 Coach:
 Name: Robert L. Walton
@@ -895,13 +870,12 @@ Looksery Cup 2nd (2015)
 
 
 
-
-
-
-
-
+
 University: Ho Chi Minh City University of Science
 Team: HCMUS - Shine
+Regionals:
+The 2015 ACM-ICPC Asia Hanoi Regional Contest, 2nd
+Vietnam National Programming Contest, 2nd
 
 Coach:
 Name: Nguyen Son Tung Pham
@@ -934,13 +908,11 @@ Achievements:
 
 
 
-
-
-
-
-
+
 University: Illinois Institute of Technology
 Team: Illinois Tech
+Regionals:
+The 2015 Mid-Central USA Regional Contest, 3rd
 
 Coach:
 Name: Gruia Calinescu
@@ -972,14 +944,13 @@ Achievements:
 
 
 
-
-
-
-
-
+
 University: Imperial College London
 Team: DoCThors
 OpenCup: 144 (3)
+Regionals:
+The 2015 Northwestern Europe Regional Contest, 2nd
+The 2015 UK & Ireland Programming Contest, 2nd
 
 Coach:
 Name: Christian Ledig
@@ -1013,13 +984,12 @@ Achievements:
 
 
 
-
-
-
-
-
+
 University: Indian Institute of Information Technology - Allahabad
 Team: Greed_for_Speed
+Regionals:
+The 2015 ACM-ICPC Asia Chennai Regional Contest, 3rd
+Asia Chennai First Round Online Programming Contest, 25th
 
 Coach:
 Name: Sanjai Singh
@@ -1050,13 +1020,12 @@ Achievements:
 
 
 
-
-
-
-
-
+
 University: Indian Institute of Technology - Bombay
 Team: ntm
+Regionals:
+The 2015 ACM-ICPC Asia Kolkata Regional Contest, 2nd
+Asia Kolkata First Round Online Programming Contest, 2nd
 
 Coach:
 Name: Sharat Chandran
@@ -1088,13 +1057,12 @@ Achievements:
 
 
 
-
-
-
-
-
+
 University: Indian Institute of Technology - Delhi
 Team: angle
+Regionals:
+The 2015 ACM-ICPC Asia Amritapuri Regional Contest, 1st
+Asia Amritapuri First Round Online Programming Contest, 5th
 
 Coach:
 Name: Mausam Mausam
@@ -1128,13 +1096,12 @@ Achievements:
 
 
 
-
-
-
-
-
+
 University: Indian Institute of Technology - Kanpur
 Team: FacelessMen
+Regionals:
+The 2015 ACM-ICPC Asia Kolkata Regional Contest, 1st
+Asia Kolkata First Round Online Programming Contest, 10th
 
 Coach:
 Name: Surender Baswana
@@ -1165,13 +1132,12 @@ Achievements:
 
 
 
-
-
-
-
-
+
 University: Indian Institute of Technology - Roorkee
 Team: 11Coders
+Regionals:
+The 2015 ACM-ICPC Asia Chennai Regional Contest, 2nd
+Asia Chennai First Round Online Programming Contest, 13th
 
 Coach:
 Name: Vinod Pankajakshan
@@ -1204,14 +1170,13 @@ Achievements:
 
 
 
-
-
-
-
-
+
 University: Innopolis University
 Team: Innopolis U Known
 OpenCup: 25 (16)
+Regionals:
+The 2015 Northeastern Europe Regional Contest, 13th
+The 2015 Southern Subregional Contest, 2nd
 
 Coach:
 Name: Alexey Maleev
@@ -1247,13 +1212,12 @@ CROC Championship finalist (2016)
 
 
 
-
-
-
-
-
+
 University: Instituto Tecnológico Autónomo de México
 Team: Los Románticos
+Regionals:
+The 2015 ACM-ICPC  Mexico and Central America Finals, 2nd
+Gran Premio de Mexico & Centroamerica, 2nd
 
 Coach:
 Name: Maria Fernanda Pineda Bonnin
@@ -1284,13 +1248,11 @@ Achievements:
 
 
 
-
-
-
-
-
+
 University: Iowa State University
 Team: Freelancers
+Regionals:
+The 2015 North Central NA Regional Contest, 4th
 
 Coach:
 Name: Simanta Mitra
@@ -1323,13 +1285,12 @@ Achievements:
 
 
 
-
-
-
-
-
+
 University: Islamic Azad University of Mashhad
 Team: Aspire
+Regionals:
+The 2015 ACM-ICPC Asia Lahore Regional Contest, 1st
+The 2015 ACM-ICPC Asia Lahore Online First Round Programming Contest, 1st
 
 Coach:
 Name: Reza Godaz
@@ -1360,13 +1321,12 @@ Achievements:
 
 
 
-
-
-
-
-
+
 University: ITESM Campus Monterrey
 Team: HaKings
+Regionals:
+The 2015 ACM-ICPC  Mexico and Central America Finals, 3rd
+Gran Premio de Mexico & Centroamerica, 3rd
 
 Coach:
 Name: Luis Humberto González
@@ -1399,14 +1359,12 @@ Achievements:
 
 
 
-
-
-
-
-
+
 University: Jagiellonian University in Krakow
 Team: Jagiellonian
 OpenCup: 133 (3)
+Regionals:
+The 2015 Central Europe Regional Contest, 3rd
 
 Coach:
 Name: Pawel Idziak
@@ -1440,13 +1398,12 @@ Achievements:
 
 
 
-
-
-
-
-
+
 University: Jahangirnagar University
 Team: JU_O(N^3)
+Regionals:
+The 2015 ACM-ICPC Asia Dhaka Regional Contest, 1st
+ACM-ICPC 2015 Asia Regional Dhaka Site Online Preliminary Contest, 1st
 
 Coach:
 Name: K M Akkas Ali
@@ -1478,13 +1435,12 @@ Achievements:
 
 
 
-
-
-
-
-
+
 University: KAIST
 Team: [A-Za-z0-9]+
+Regionals:
+The 2015 ACM-ICPC Asia Daejeon Regional Contest, 1st
+Asia Korea National First Round Programming Contest, 3rd
 
 Coach:
 Name: Taisook Han
@@ -1518,13 +1474,11 @@ Achievements:
 
 
 
-
-
-
-
-
+
 University: Kim Il Sung University
 Team: RNS
+Regionals:
+The 2015 ACM-ICPC Asia Shanghai Regional Contest, 3rd
 
 Coach:
 Name: Gwangbyol Jong
@@ -1555,13 +1509,11 @@ Achievements:
 
 
 
-
-
-
-
-
+
 University: Korea University
 Team: Opportunity
+Regionals:
+The 2015 ACM-ICPC Asia Singapore Regional Contest, 1st
 
 Coach:
 Name: Jin Young Choi
@@ -1597,13 +1549,11 @@ Achievements:
 
 
 
-
-
-
-
-
+
 University: Kyoto University
 Team: breakShot
+Regionals:
+The 2015 ACM-ICPC Asia Taipei Regional Contest, 3rd
 
 Coach:
 Name: Shoichi Nishimura
@@ -1635,14 +1585,13 @@ Achievements:
 
 
 
-
-
-
-
-
+
 University: Lviv National University
 Team: LNU Penguins
 OpenCup: 13 (15)
+Regionals:
+The 2015 Southeastern Europe Regional Contest, 2nd
+The 2015 All-Ukrainian Collegiate Programming Contest, 3rd
 
 Coach:
 Name: Vasyl Biletskyy
@@ -1680,13 +1629,12 @@ Achievements:
 
 
 
-
-
-
-
-
+
 University: Massachusetts Institute of Technology
 Team: MIT ZERO
+Regionals:
+The 2015 Northeast North America Regional Contest, 2nd
+2015 Eastern (BOSPRE) Contest, 2nd
 
 Coach:
 Name: Aleksandar Zlateski
@@ -1725,14 +1673,13 @@ MemSQL Start[c]UP 1st (2014)
 
 
 
-
-
-
-
-
+
 University: Moscow Aviation Institute
 Team: MAI #1
 OpenCup: 137 (15)
+Regionals:
+The 2015 Northeastern Europe Regional Contest, 22nd
+The 2015 Moscow Subregional Contest, 13th
 
 Coach:
 Name: Renat Gimadeev
@@ -1773,14 +1720,13 @@ Achievements:
 
 
 
-
-
-
-
-
+
 University: Moscow Engineering Physics Institute
 Team: MEPhI: Cupcakes
 OpenCup: 94 (7)
+Regionals:
+The 2015 Northeastern Europe Regional Contest, 17th
+The 2015 Moscow Subregional Contest, 5th
 
 Coach:
 Name: Vasily Astakhov
@@ -1814,14 +1760,13 @@ Achievements:
 
 
 
-
-
-
-
-
+
 University: Moscow Institute of Physics & Technology
 Team: MIPT: Jinotega
 OpenCup: 10 (16)
+Regionals:
+The 2015 Northeastern Europe Regional Contest, 3rd
+The 2015 Moscow Subregional Contest, 6th
 
 Coach:
 Name: Mikhail Tikhomirov
@@ -1864,14 +1809,13 @@ IOI Silver Medalist (2014)
 
 
 
-
-
-
-
-
+
 University: Moscow State University
 Team: Moscow SU Trinity
 OpenCup: 7 (16)
+Regionals:
+The 2015 Northeastern Europe Regional Contest, 4th
+The 2015 Moscow Subregional Contest, 2nd
 
 Coach:
 Name: Andrey Shestimerov
@@ -1909,13 +1853,11 @@ IOI Gold Medalist (2013)
 
 
 
-
-
-
-
-
+
 University: National Chiao Tung University
 Team: NCTU_Thor
+Regionals:
+The 2015 ACM-ICPC Asia Jakarta Regional Contest, 2nd
 
 Coach:
 Name: MinZheng Shieh
@@ -1946,14 +1888,12 @@ Achievements:
 
 
 
-
-
-
-
-
+
 University: National Taiwan University
 Team: bcw0x1bd2
 OpenCup: 39 (4)
+Regionals:
+The 2015 ACM-ICPC Asia Taipei Regional Contest, 2nd
 
 Coach:
 Name: Pu-Jen Cheng
@@ -1988,13 +1928,11 @@ Achievements:
 
 
 
-
-
-
-
-
+
 University: National University of Defense Technology
 Team: ALPC_Farewell
+Regionals:
+The 2015 ACM-ICPC Asia EC-FINAL Contest, 9th
 
 Coach:
 Name: Yuxing Peng
@@ -2030,13 +1968,12 @@ ACM ICPC Finalist (2015)
 
 
 
-
-
-
-
-
+
 University: National University of Singapore
 Team: RRwatameda
+Regionals:
+The 2015 ACM-ICPC Asia Singapore Regional Contest, 3rd
+ACM ICPC Asia Singapore Preliminary Contest (Online), 1st
 
 Coach:
 Name: Sun Teck Tan
@@ -2071,13 +2008,11 @@ ACM ICPC Finalist (2012, 2014)
 
 
 
-
-
-
-
-
+
 University: Ningbo University
 Team: what duang to eat dinner
+Regionals:
+The 2015 ACM-ICPC Asia Changchun Regional Contest, 2nd
 
 Coach:
 Name: Yefang Chen
@@ -2111,14 +2046,13 @@ Achievements:
 
 
 
-
-
-
-
-
+
 University: Nizhny Novgorod State University
 Team: Nizhny Novgorod SU 1
 OpenCup: 5 (16)
+Regionals:
+The 2015 Northeastern Europe Regional Contest, 6th
+The 2015 Southern Subregional Contest, 1st
 
 Coach:
 Name: Nikolai Borisov
@@ -2166,13 +2100,12 @@ Zepto Code Rush 1st (2014)
 
 
 
-
-
-
-
-
+
 University: North South University
 Team: NSU BugLovers
+Regionals:
+The 2015 ACM-ICPC Asia Dhaka Regional Contest, 3rd
+ACM-ICPC 2015 Asia Regional Dhaka Site Online Preliminary Contest, 2nd
 
 Coach:
 Name: Md Shazzad Hosain
@@ -2204,13 +2137,11 @@ Achievements:
 
 
 
-
-
-
-
-
+
 University: Northeast Normal University
 Team: Daedalus
+Regionals:
+The 2015 ACM-ICPC Asia Shenyang Regional Contest, 9th
 
 Coach:
 Name: Zhiguo Zhou
@@ -2241,14 +2172,12 @@ Achievements:
 
 
 
-
-
-
-
-
+
 University: Northeastern University (China)
 Team: NEU_I forgot it.
 OpenCup: 658 (1)
+Regionals:
+The 2015 ACM-ICPC Asia Changchun Regional Contest, 10th
 
 Coach:
 Name: XiaoFeng Liu
@@ -2279,14 +2208,13 @@ Achievements:
 
 
 
-
-
-
-
-
+
 University: Northern (Arctic) Federal University
 Team: Northern (Arctic) FU 1
 OpenCup: 130 (15)
+Regionals:
+The 2015 Northeastern Europe Regional Contest, 21st
+The 2015 Northern Subregional Contest, 11th
 
 Coach:
 Name: Kirill Butin
@@ -2317,13 +2245,11 @@ Achievements:
 
 
 
-
-
-
-
-
+
 University: Ohio State University
 Team: Future_Gazer
+Regionals:
+The 2015 East Central NA Regional Contest, 4th
 
 Coach:
 Name: Suyi Wang
@@ -2354,13 +2280,11 @@ Achievements:
 
 
 
-
-
-
-
-
+
 University: Osaka University
 Team: chikOkU
+Regionals:
+The 2015 ACM-ICPC Asia Daejeon Regional Contest, 2nd
 
 Coach:
 Name: Yasuaki Mitani
@@ -2391,13 +2315,11 @@ Achievements:
 
 
 
-
-
-
-
-
+
 University: Peking University
 Team: Crawl
+Regionals:
+The 2015 ACM-ICPC Asia Changchun Regional Contest, 1st
 
 Coach:
 Name: Guojie Luo
@@ -2432,13 +2354,11 @@ IOI Gold Medalist (2014)
 
 
 
-
-
-
-
-
+
 University: Prince of Songkla University
 Team: FEDEX
+Regionals:
+The 2015 ACM-ICPC Thailand Southern Programming Contest, 1st
 
 Coach:
 Name: Sangsuree Vasupongayya
@@ -2469,13 +2389,12 @@ Achievements:
 
 
 
-
-
-
-
-
+
 University: Princess Sumaya University for Technology
 Team: EarlGrey (PSUT)
+Regionals:
+The 2015 Arab Collegiate Programming Contest, 4th
+The 2015 Jordanian Collegiate Programming Contest, 1st
 
 Coach:
 Name: Ashraf Ahmad
@@ -2509,13 +2428,11 @@ ACM ICPC Finalist (2014)
 
 
 
-
-
-
-
-
+
 University: Radboud University
 Team: That empty teamname
+Regionals:
+The 2015 Northwestern Europe Regional Contest, 4th
 
 Coach:
 Name: Joshua Moerman
@@ -2549,13 +2466,11 @@ IOI Silver Medalist (2010, 2011)
 
 
 
-
-
-
-
-
+
 University: Rice University
 Team: Rice Gray
+Regionals:
+The 2015 South Central USA Regional Contest, 1st
 
 Coach:
 Name: John Greiner
@@ -2591,14 +2506,13 @@ IOI Bronze Medalist (2008)
 
 
 
-
-
-
-
-
+
 University: Saratov State University
 Team: Saratov SU Daemons
 OpenCup: 20 (16)
+Regionals:
+The 2015 Northeastern Europe Regional Contest, 9th
+The 2015 Southern Subregional Contest, 3rd
 
 Coach:
 Name: Michael Mirzayanov
@@ -2645,13 +2559,13 @@ Achievements:
 
 
 
-
-
-
-
-
+
 University: Shahid Beheshti University
 Team: In 1010101 We Trust!
+Regionals:
+The 2015 ACM-ICPC Asia Tehran Regional Contest, 2nd
+Asia  2015 Tehran - Internet Programming Contest, 0th
+Iran-Internet-PC-Sharif, 14th
 
 Coach:
 Name: Mohammadreza Haghpanah
@@ -2685,13 +2599,12 @@ ACM ICPC Finalist (2015)
 
 
 
-
-
-
-
-
+
 University: Shahjalal University of Science and Technology
 Team: DownToTheWire
+Regionals:
+The 2015 ACM-ICPC Asia Dhaka Regional Contest, 2nd
+ACM-ICPC 2015 Asia Regional Dhaka Site Online Preliminary Contest, 8th
 
 Coach:
 Name: Md Saiful Islam
@@ -2727,14 +2640,12 @@ ACM ICPC Finalist (2015)
 
 
 
-
-
-
-
-
+
 University: Shanghai Jiao Tong University
 Team: Dreadnought
 OpenCup: 3 (14)
+Regionals:
+The 2015 ACM-ICPC Asia Beijing Regional Contest, 1st
 
 Coach:
 Name: Yong Yu
@@ -2775,14 +2686,12 @@ FBHC Finalist (2015)
 
 
 
-
-
-
-
-
+
 University: Shanghai University
 Team: Wand Maker
 OpenCup: 288 (2)
+Regionals:
+The 2015 ACM-ICPC Asia Hefei Regional Contest, 10th
 
 Coach:
 Name: Yunfu Shen
@@ -2815,13 +2724,11 @@ ACM ICPC Finalist (2015)
 
 
 
-
-
-
-
-
+
 University: Sharif University of Technology
 Team: CrockPot
+Regionals:
+The 2015 ACM-ICPC Asia Tehran Regional Contest, 1st
 
 Coach:
 Name: Kamran Bavar
@@ -2857,13 +2764,11 @@ IOI Gold Medalist (2015)
 
 
 
-
-
-
-
-
+
 University: South China University of Technology
 Team: SOX
+Regionals:
+The 2015 ACM-ICPC Asia Changchun Regional Contest, 3rd
 
 Coach:
 Name: Chuhua Xian
@@ -2896,13 +2801,11 @@ Achievements:
 
 
 
-
-
-
-
-
+
 University: South Dakota School of Mines and Technology
 Team: SDSMT Hardrockers
+Regionals:
+The 2015 North Central NA Regional Contest, 9th
 
 Coach:
 Name: Antonette Logar
@@ -2934,14 +2837,13 @@ Achievements:
 
 
 
-
-
-
-
-
+
 University: St. Petersburg Academic University
 Team: SPbAU 1 Generation Z
 OpenCup: 41 (13)
+Regionals:
+The 2015 Northeastern Europe Regional Contest, 10th
+The 2015 Northern Subregional Contest, 6th
 
 Coach:
 Name: Sergey Kopeliovich
@@ -2982,14 +2884,13 @@ Achievements:
 
 
 
-
-
-
-
-
+
 University: St. Petersburg ITMO University
 Team: SPb ITMO University 1
 OpenCup: 9 (15)
+Regionals:
+The 2015 Northeastern Europe Regional Contest, 5th
+The 2015 Northern Subregional Contest, 1st
 
 Coach:
 Name: Andrey Stankevich
@@ -3041,14 +2942,13 @@ Kotlin Finalist (2014)
 
 
 
-
-
-
-
-
+
 University: St. Petersburg State University
 Team: SPb SU 1: Base
 OpenCup: 4 (16)
+Regionals:
+The 2015 Northeastern Europe Regional Contest, 2nd
+The 2015 Northern Subregional Contest, 2nd
 
 Coach:
 Name: Andrei Lopatin
@@ -3096,13 +2996,11 @@ CROC Championship finalist (2013, 2016)
 
 
 
-
-
-
-
-
+
 University: Stanford University
 Team: Stanford Cardinal
+Regionals:
+The 2015 Pacific Northwest Regional Contest, 2nd
 
 Coach:
 Name: Gerald Cain
@@ -3136,14 +3034,14 @@ Achievements:
 
 
 
-
-
-
-
-
+
 University: Taras Shevchenko National University of Kyiv
 Team: Flawless
 OpenCup: 29 (16)
+Regionals:
+The 2015 Southeastern Europe Regional Contest, 3rd
+The 2015 All-Ukrainian Collegiate Programming Contest, 1st
+The 2015 Ukraine Kiev Contest, 5th
 
 Coach:
 Name: Vitalii Bondarenko
@@ -3182,13 +3080,11 @@ Achievements:
 
 
 
-
-
-
-
-
+
 University: The Chinese University of Hong Kong
 Team: Real Base
+Regionals:
+The 2015 ACM-ICPC Asia Hefei Regional Contest, 2nd
 
 Coach:
 Name: Siu On Chan
@@ -3223,13 +3119,11 @@ IOI Participant (2013)
 
 
 
-
-
-
-
-
+
 University: The University of South Dakota
 Team: USD A
+Regionals:
+The 2015 North Central NA Regional Contest, 7th
 
 Coach:
 Name: Doug Goodman
@@ -3260,13 +3154,12 @@ Achievements:
 
 
 
-
-
-
-
-
+
 University: The University of Tokyo
 Team: IIIlIIIllIIlIlIIllIlIllllllIII
+Regionals:
+The 2015 ACM-ICPC Asia Tsukuba Regional Contest, 2nd
+Japan National On-Line First Round Contest, 2nd
 
 Coach:
 Name: Tomoyuki Kaneko
@@ -3307,13 +3200,12 @@ FBHC Finalist (2015)
 
 
 
-
-
-
-
-
+
 University: The University of Western Australia
 Team: Off By Wonders
+Regionals:
+South Pacific Regional Finals, 2nd
+ACM South Pacific Western Division, 4th
 
 Coach:
 Name: Tim French
@@ -3344,14 +3236,12 @@ Achievements:
 
 
 
-
-
-
-
-
+
 University: Tianjin University
 Team: TJU_Thief_Master
 OpenCup: 333 (2)
+Regionals:
+The 2015 ACM-ICPC Asia EC-FINAL Contest, 6th
 
 Coach:
 Name: Ruiguo Yu
@@ -3383,13 +3273,12 @@ Achievements:
 
 
 
-
-
-
-
-
+
 University: Tishreen University
 Team: 4th FLOOR
+Regionals:
+The 2015 Arab Collegiate Programming Contest, 6th
+The 2015 Syrian Collegiate Programming Contest, 8th
 
 Coach:
 Name: Alaa Jarad
@@ -3423,14 +3312,12 @@ Achievements:
 
 
 
-
-
-
-
-
+
 University: Tsinghua University
 Team: Wunderzeit
 OpenCup: 30 (3)
+Regionals:
+The 2015 ACM-ICPC Asia Shanghai Regional Contest, 1st
 
 Coach:
 Name: Xiaojun Wu
@@ -3472,13 +3359,11 @@ IOI Gold Medalist (2014)
 
 
 
-
-
-
-
-
+
 University: Universidad de Buenos Aires - FCEN
 Team: PUMMAS
+Regionals:
+The 2015 ACM-ICPC South America/South Finals, 2nd
 
 Coach:
 Name: Agustin Santiago Gutierrez
@@ -3514,13 +3399,11 @@ Achievements:
 
 
 
-
-
-
-
-
+
 University: Universidad de Chile
 Team: Squash Masters
+Regionals:
+The 2015 ACM-ICPC South America/South Finals, 9th
 
 Coach:
 Name: Camilo Garrido
@@ -3551,14 +3434,14 @@ Achievements:
 
 
 
-
-
-
-
-
+
 University: Universidad de La Habana
 Team: UH_REFRESH
 OpenCup: 234 (3)
+Regionals:
+The 2015 ACM-ICPC Caribbean Finals, 1st
+The 2015 ACM-ICPC Caribbean National Contests, 2nd
+The 2015 ACM-ICPC Caribbean Local Contests, 2nd
 
 Coach:
 Name: Alfredo Somoza Moreno
@@ -3590,13 +3473,12 @@ Achievements:
 
 
 
-
-
-
-
-
+
 University: Universidad de los Andes, Colombia
 Team: Programators Mark II
+Regionals:
+The 2015 ACM-ICPC South America-North Finals, 1st
+Colombia - XXIX Maraton Nacional de Programacion ACIS REDIS, 1st
 
 Coach:
 Name: Mario Sánchez
@@ -3634,13 +3516,13 @@ IOI Participant (2007)
 
 
 
-
-
-
-
-
+
 University: Universidad de Oriente - Sede Antonio Maceo
 Team: Conquer & Divide
+Regionals:
+The 2015 ACM-ICPC Caribbean Finals, 3rd
+The 2015 ACM-ICPC Caribbean National Contests, 3rd
+The 2015 ACM-ICPC Caribbean Local Contests, 4th
 
 Coach:
 Name: Eloy Rafael Oliveros Domínguez
@@ -3672,13 +3554,12 @@ Achievements:
 
 
 
-
-
-
-
-
+
 University: Universidad Nacional de Colombia - Bogotá
 Team: UNDynamic
+Regionals:
+The 2015 ACM-ICPC South America-North Finals, 4th
+Colombia - XXIX Maraton Nacional de Programacion ACIS REDIS, 2nd
 
 Coach:
 Name: Diego Ivan Caballero Rodríguez
@@ -3710,13 +3591,11 @@ Achievements:
 
 
 
-
-
-
-
-
+
 University: Universidad Nacional de Ingeniería - FIIS
 Team: 1000KB
+Regionals:
+The 2015 ACM-ICPC South America/South Finals, 3rd
 
 Coach:
 Name: Rodolfo Moisés Mercado Gonzales
@@ -3747,13 +3626,11 @@ Achievements:
 
 
 
-
-
-
-
-
+
 University: Universidad Nacional de Rosario
 Team: Caloventor en Dos
+Regionals:
+The 2015 ACM-ICPC South America/South Finals, 1st
 
 Coach:
 Name: Leopoldo Taravilse
@@ -3789,13 +3666,12 @@ ACM ICPC Finalist (2015)
 
 
 
-
-
-
-
-
+
 University: Universidad Simón Bolívar
 Team: RAM
+Regionals:
+The 2015 ACM-ICPC South America-North Finals, 2nd
+Venezuela Finals, 0th
 
 Coach:
 Name: Ricardo Monascal
@@ -3827,13 +3703,12 @@ Achievements:
 
 
 
-
-
-
-
-
+
 University: Universidade de São Paulo
 Team: Sua mãe
+Regionals:
+The 2015 ACM-ICPC South America/Brazil Finals, 5th
+South America/Brazil First Phase, 2nd
 
 Coach:
 Name: Renzo Gomez
@@ -3864,13 +3739,12 @@ Achievements:
 
 
 
-
-
-
-
-
+
 University: Universidade de São Paulo - Campus de São Carlos
 Team: Bob
+Regionals:
+The 2015 ACM-ICPC South America/Brazil Finals, 3rd
+South America/Brazil First Phase, 2nd
 
 Coach:
 Name: Bianca Madoka Shimizu Oe
@@ -3902,13 +3776,12 @@ Achievements:
 
 
 
-
-
-
-
-
+
 University: Universidade Estadual de Campinas
 Team: BibleThump
+Regionals:
+The 2015 ACM-ICPC South America/Brazil Finals, 7th
+South America/Brazil First Phase, 1st
 
 Coach:
 Name: Fábio Luiz Usberti
@@ -3939,13 +3812,12 @@ Achievements:
 
 
 
-
-
-
-
-
+
 University: Universidade Federal da Bahia
 Team: ROBÉRIO E SEUS TECLADOS
+Regionals:
+The 2015 ACM-ICPC South America/Brazil Finals, 4th
+South America/Brazil First Phase, 1st
 
 Coach:
 Name: Mauricio Pamplona Segundo
@@ -3976,14 +3848,13 @@ Achievements:
 
 
 
-
-
-
-
-
+
 University: Universidade Federal de Campina Grande
 Team: Abella e as feras
 OpenCup: 140 (9)
+Regionals:
+The 2015 ACM-ICPC South America/Brazil Finals, 2nd
+South America/Brazil First Phase, 1st
 
 Coach:
 Name: Rohit Gheyi
@@ -4019,13 +3890,12 @@ Achievements:
 
 
 
-
-
-
-
-
+
 University: Universidade Federal de Pernambuco
 Team: Turing-indecisos
+Regionals:
+The 2015 ACM-ICPC South America/Brazil Finals, 1st
+South America/Brazil First Phase, 2nd
 
 Coach:
 Name: Katia Guimarães
@@ -4057,13 +3927,11 @@ Achievements:
 
 
 
-
-
-
-
-
+
 University: Universitat Politècnica de Catalunya
 Team: Twelve seconds
+Regionals:
+The 2015 Southwestern Europe Regional Contest, 1st
 
 Coach:
 Name: Salvador Roura
@@ -4099,13 +3967,12 @@ Achievements:
 
 
 
-
-
-
-
-
+
 University: University of Aizu
 Team: FinalZukky
+Regionals:
+The 2015 ACM-ICPC Asia Tsukuba Regional Contest, 6th
+Japan National On-Line First Round Contest, 8th
 
 Coach:
 Name: Yutaka Watanobe
@@ -4137,13 +4004,11 @@ Achievements:
 
 
 
-
-
-
-
-
+
 University: University of British Columbia
 Team: UBC+
+Regionals:
+The 2015 Pacific Northwest Regional Contest, 18th
 
 Coach:
 Name: Mushfiqur Rouf
@@ -4176,13 +4041,11 @@ Achievements:
 
 
 
-
-
-
-
-
+
 University: University of California at Berkeley
 Team: Berkeley Blue
+Regionals:
+The 2015 Pacific Northwest Regional Contest, 9th
 
 Coach:
 Name: Paul Hilfinger
@@ -4219,13 +4082,11 @@ Achievements:
 
 
 
-
-
-
-
-
+
 University: University of Cape Town
 Team: Amazingly Complicated Macros
+Regionals:
+The 2015 South Africa Regional Contest, 1st
 
 Coach:
 Name: Maria Keet
@@ -4262,13 +4123,11 @@ IOI Participant (2012)
 
 
 
-
-
-
-
-
+
 University: University of Central Florida
 Team: UCF Knights
+Regionals:
+The 2015 Southeast USA Regional Contest, 1st
 
 Coach:
 Name: Ali Orooji
@@ -4303,13 +4162,12 @@ ACM ICPC Finalist (2015)
 
 
 
-
-
-
-
-
+
 University: University of Chicago
 Team: Sufficiently Advanced Tech
+Regionals:
+The 2015 Mid-Central USA Regional Contest, 2nd
+The 2015 University of Chicago Qualifying Contest, 1st
 
 Coach:
 Name: Borja Sotomayor
@@ -4341,13 +4199,11 @@ Achievements:
 
 
 
-
-
-
-
-
+
 University: University of Electronic Science and Technology of China
 Team: UESTC_murasame
+Regionals:
+The 2015 ACM-ICPC Asia EC-FINAL Contest, 5th
 
 Coach:
 Name: Peng Yang
@@ -4379,13 +4235,11 @@ Achievements:
 
 
 
-
-
-
-
-
+
 University: University of Engineering and Technology - VNU
 Team: BYTE
+Regionals:
+The 2015 ACM-ICPC Asia Phuket Regional Contest, 4th
 
 Coach:
 Name: Ho Phuong
@@ -4420,14 +4274,13 @@ Achievements:
 
 
 
-
-
-
-
-
+
 University: University of Helsinki
 Team: Game of Nolife
 OpenCup: 33 (11)
+Regionals:
+The 2015 Northwestern Europe Regional Contest, 1st
+The 2015 Nordic Collegiate Programming Contest, 2nd
 
 Coach:
 Name: Antti Laaksonen
@@ -4461,13 +4314,11 @@ IOI Bronze Medalist (2015)
 
 
 
-
-
-
-
-
+
 University: University of Illinois at Urbana-Champaign
 Team: Poor Man's Shield
+Regionals:
+The 2015 Mid-Central USA Regional Contest, 1st
 
 Coach:
 Name: Uttam Thakore
@@ -4500,13 +4351,11 @@ Achievements:
 
 
 
-
-
-
-
-
+
 University: University of Minnesota - Twin Cities
 Team: Benchwarmers
+Regionals:
+The 2015 North Central NA Regional Contest, 2nd
 
 Coach:
 Name: Luc Nelson
@@ -4539,13 +4388,12 @@ Achievements:
 
 
 
-
-
-
-
-
+
 University: University of New South Wales
 Team: TheNorthernLine
+Regionals:
+South Pacific Regional Finals, 1st
+ACM South Pacific Central Division, 1st
 
 Coach:
 Name: Aleks Ignjatovic
@@ -4581,13 +4429,11 @@ IOI Participant (2013)
 
 
 
-
-
-
-
-
+
 University: University of North Carolina at Chapel Hill
 Team: Dayton Goliath Trees
+Regionals:
+The 2015 Mid-Atlantic USA Regional Contest, 4th
 
 Coach:
 Name: Ketan Mayer-Patel
@@ -4618,13 +4464,11 @@ Achievements:
 
 
 
-
-
-
-
-
+
 University: University of Southern California
 Team: USC Trojans
+Regionals:
+The 2015 Southern California Regional Contest, 2nd
 
 Coach:
 Name: David Kempe
@@ -4658,13 +4502,11 @@ Achievements:
 
 
 
-
-
-
-
-
+
 University: University of Utah
 Team: Uncompilables
+Regionals:
+The 2015 Rocky Mountain Regional Contest, 1st
 
 Coach:
 Name: Peter Jensen
@@ -4696,13 +4538,11 @@ Achievements:
 
 
 
-
-
-
-
-
+
 University: University of Virginia
 Team: foo
+Regionals:
+The 2015 Mid-Atlantic USA Regional Contest, 1st
 
 Coach:
 Name: Aaron Bloomfield
@@ -4735,14 +4575,12 @@ Achievements:
 
 
 
-
-
-
-
-
+
 University: University of Warsaw
 Team: Warsaw Eagles 2016
 OpenCup: 16 (3)
+Regionals:
+The 2015 Central Europe Regional Contest, 1st
 
 Coach:
 Name: Jan Madey
@@ -4781,13 +4619,11 @@ IOI Silver Medalist (2012)
 
 
 
-
-
-
-
-
+
 University: University of Waterloo
 Team: Waterloo Black
+Regionals:
+The 2015 East Central NA Regional Contest, 1st
 
 Coach:
 Name: Troy Vasiga
@@ -4820,13 +4656,11 @@ Achievements:
 
 
 
-
-
-
-
-
+
 University: University of Wisconsin - Madison
 Team: SmileDog
+Regionals:
+The 2015 North Central NA Regional Contest, 1st
 
 Coach:
 Name: Dieter van Melkebeek
@@ -4859,14 +4693,12 @@ Achievements:
 
 
 
-
-
-
-
-
+
 University: University of Wroclaw
 Team: UWr1
 OpenCup: 31 (4)
+Regionals:
+The 2015 Central Europe Regional Contest, 2nd
 
 Coach:
 Name: Krzysztof Lorys
@@ -4902,14 +4734,12 @@ IOI Silver Medalist (2012)
 
 
 
-
-
-
-
-
+
 University: University of Zagreb
 Team: Zagreb
 OpenCup: 147 (2)
+Regionals:
+The 2015 Central Europe Regional Contest, 6th
 
 Coach:
 Name: Krešimir Malnar
@@ -4946,14 +4776,14 @@ IOI Bronze Medalist (2013)
 
 
 
-
-
-
-
-
+
 University: Ural Federal University
 Team: Ural FU: Dandelion
 OpenCup: 8 (16)
+Regionals:
+The 2015 Northeastern Europe Regional Contest, 1st
+The 2015 Eastern Subregional Contest, 1st
+Qualification Round of Eastern Subregion, 1st
 
 Coach:
 Name: Mikhail Rubinchik
@@ -4999,13 +4829,13 @@ CROC Championship finalist (2016)
 
 
 
-
-
-
-
-
+
 University: Utrecht University
 Team: Curiously recurring
+Regionals:
+The 2015 Northwestern Europe Regional Contest, 3rd
+The 2015 Benelux Algorithm Programming Contest, 0th
+The 2015 BAPC Preliminaries, 0th
 
 Coach:
 Name: Josse van Dobben de Bruyn
@@ -5037,13 +4867,11 @@ Achievements:
 
 
 
-
-
-
-
-
+
 University: Virginia Tech
 Team: Java the Hutt
+Regionals:
+The 2015 Mid-Atlantic USA Regional Contest, 2nd
 
 Coach:
 Name: Godmar Back
@@ -5075,14 +4903,14 @@ Achievements:
 
 
 
-
-
-
-
-
+
 University: Zaporizhzhya National Technical University
 Team: ZNTU_SetUp
 OpenCup: 102 (9)
+Regionals:
+The 2015 Southeastern Europe Regional Contest, 1st
+The 2015 All-Ukrainian Collegiate Programming Contest, 7th
+The 2015 Ukraine Southern Contest, 2nd
 
 Coach:
 Name: Natalia Myronova
@@ -5113,13 +4941,11 @@ Achievements:
 
 
 
-
-
-
-
-
+
 University: Zhejiang Normal University
 Team: NoPenalty
+Regionals:
+The 2015 ACM-ICPC Asia Beijing Regional Contest, 6th
 
 Coach:
 Name: Jianmin Han
@@ -5151,14 +4977,12 @@ Achievements:
 
 
 
-
-
-
-
-
+
 University: Zhejiang University
 Team: Siunaus
 OpenCup: 282 (2)
+Regionals:
+The 2015 ACM-ICPC Asia Beijing Regional Contest, 5th
 
 Coach:
 Name: Can Wang
@@ -5192,14 +5016,12 @@ Achievements:
 
 
 
-
-
-
-
-
+
 University: Zhongshan (Sun Yat-sen) University
 Team: SYSU_Braid
 OpenCup: 142 (3)
+Regionals:
+The 2015 ACM-ICPC Asia EC-FINAL Contest, 4th
 
 Coach:
 Name: SongShan Guo
@@ -5234,8 +5056,4 @@ Achievements:
 
 
 
-
-
-
-
-
+

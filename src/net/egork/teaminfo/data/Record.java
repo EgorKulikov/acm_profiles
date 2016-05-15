@@ -28,6 +28,10 @@ public class Record {
         if (team.getOpenCupPlace() != -1) {
             out.println(String.format("OpenCup: %d (%d)", team.getOpenCupPlace(), team.getOpenCupTimes()));
         }
+        out.println("Regionals:");
+        for (String s : team.getRegionals()) {
+            out.println(s);
+        }
         out.println();
         out.println("Coach:");
         printPerson(coach, out);
@@ -37,11 +41,6 @@ public class Record {
             printPerson(contestants[i], out);
             out.println();
         }
-        out.println();
-        out.println();
-        out.println();
-        out.println();
-        out.println();
         out.println();
         out.println();
         out.println();

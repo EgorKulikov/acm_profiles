@@ -79,6 +79,7 @@ public class GenerateInfo {
         PrintWriter out = new PrintWriter("output/all.txt");
         for (int i = 1; i <= 128; i++) {
             records[i].print(out);
+            out.println("\f");
         }
         out.close();
     }
