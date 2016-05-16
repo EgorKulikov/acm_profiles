@@ -65,7 +65,13 @@ public class WFData {
                 if ("Felipe Souza".equals(name) && year != 2012) {
                     continue;
                 }
+                if ("Thanh Trung Nguyen".equals(name)) {
+                    continue;
+                }
                 if ("Coach".equals(role)) {
+                    if ("Hao Wu".equals(name)) {
+                        continue;
+                    }
                     if (medal != null) {
                         if ("win".equals(medal)) {
                             persons.add(new Person().setName(name).addAchievement(new Achievement("ACM ICPC win as " +

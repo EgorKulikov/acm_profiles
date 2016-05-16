@@ -61,6 +61,7 @@ public class GenerateInfo {
     private static void readAltNames() throws Exception {
         BufferedReader reader = new BufferedReader(new FileReader("input/possible.cvs"));
         String s;
+        reader.readLine();
         while ((s = reader.readLine()) != null) {
             String[] tokens = s.split("#");
             for (int i = 1; i <= 128; i++) {
@@ -156,7 +157,6 @@ public class GenerateInfo {
                 if (record.coach.isSamePerson(person)) {
                     record.coach.updateFrom(person);
                     coachFound = true;
-                    break;
                 }
             }
             if (coachFound) {
@@ -169,7 +169,6 @@ public class GenerateInfo {
                     if (contestant.isSamePerson(person)) {
                         contestant.updateFrom(person);
                         found = true;
-                        break;
                     }
                 }
                 if (found) {

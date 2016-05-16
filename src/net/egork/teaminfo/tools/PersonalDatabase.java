@@ -92,6 +92,9 @@ public class PersonalDatabase {
     private static void add(String filename, boolean moreSkipableThanYouThink) throws Exception {
         List<Person> persons = Utils.readList(filename, Person.class);
         for (Person person : persons) {
+            Person remake = new Person();
+            remake.updateFrom(person);
+            person = remake;
             if (!moreSkipableThanYouThink && person.getCfHandle() != null && byCf.get(person.getCfHandle()) == null) {
                 person.setCfHandle(null);
             }
