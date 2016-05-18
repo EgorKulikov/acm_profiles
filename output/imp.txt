@@ -1,0 +1,1226 @@
+University: Belarusian State University 15-0-1-2-1-0
+Team: BelarusianSU1
+OpenCup: 34 (13)
+Regionals:
+The 2015 Northeastern Europe Regional Contest, 15th
+The 2015 Western Subregional Contest, 6th
+
+Coach:
+Name: Vladimir Kotov
+TC handle: 
+CF handle: 
+Achievements:
+ACM ICPC gold medal as coach (2004)
+ACM ICPC silver medal as coach (2012, 2013)
+ACM ICPC bronze medal as coach (2008)
+World Finals coach (1999, 2000, 2002, 2003, 2005, 2007, 2009-2011, 2014, 2015)
+
+Contestant 1:
+Name: Pavel Shaftsialevich
+TC handle: shef2318
+CF handle: shef_2318
+Achievements:
+
+Contestant 2:
+Name: Kanstantsin Sokal
+TC handle: Kostya_by
+CF handle: kostya_by
+Achievements:
+IOI Silver Medalist (2013)
+
+Contestant 3:
+Name: Aliaksei Paliyevits
+TC handle: IFLED
+CF handle: IFLED
+Achievements:
+
+
+
+
+
+
+University: Belarusian State University of Informatics and Radioelectronics 2-0-0-0-1-0
+Team: Belarusian SUIR 2
+OpenCup: 24 (15)
+Regionals:
+The 2015 Northeastern Europe Regional Contest, 7th
+The 2015 Western Subregional Contest, 1st
+
+Coach:
+Name: Aliaksei Ropan
+TC handle: aropan
+CF handle: aropan
+Achievements:
+ACM ICPC bronze medal (2012)
+World Finals coach (2015)
+TCO Semifinalist (2013)
+RCC Finalist (2012, 2015)
+IOI Bronze Medalist (2008)
+CROC Championship finalist (2013)
+
+Contestant 1:
+Name: Aliaksei Vistiazh
+TC handle: AlexVistyazh
+CF handle: netman
+Achievements:
+IOI Silver Medalist (2014)
+IOI Bronze Medalist (2015)
+CROC Championship finalist (2016)
+
+Contestant 2:
+Name: Andrei Sobal
+TC handle: teleport
+CF handle: teleport
+Achievements:
+
+Contestant 3:
+Name: Andrei Valchok
+TC handle: avolchek
+CF handle: andrew.volchek
+Achievements:
+RCC Finalist (2015)
+CROC Championship finalist (2016)
+
+
+
+
+
+
+University: Harvard University 14-1-2-3-3-1
+Team: Harvard
+Regionals:
+The 2015 Northeast North America Regional Contest, 1st
+2015 Eastern (BOSPRE) Contest, 1st
+
+Coach:
+Name: Robert L. Walton
+TC handle: 
+CF handle: 
+Achievements:
+ACM ICPC silver medal as coach (2012)
+ACM ICPC bronze medal as coach (2004)
+World Finals coach (2007, 2015)
+
+Contestant 1:
+Name: Calvin Deng
+TC handle: dnkywin
+CF handle: dnkywin
+Achievements:
+ACM ICPC Finalist (2015)
+IOI Silver Medalist (2013)
+
+Contestant 2:
+Name: Johnny Ho
+TC handle: random.johnnyh
+CF handle: random.johnnyh
+Achievements:
+ACM ICPC Finalist (2015)
+IOI Gold Medalist (2011, 2012)
+IOI Silver Medalist (2013)
+
+Contestant 3:
+Name: Scott Wu
+TC handle: scott_wu
+CF handle: scott_wu
+Achievements:
+IOI Gold Medalist (2012-2014)
+TCO Semifinalist (2015)
+FBHC Finalist (2016)
+Looksery Cup 2nd (2015)
+
+
+
+
+
+
+University: Innopolis University 0-0-0-0-0-0
+Team: Innopolis U Known
+OpenCup: 25 (16)
+Regionals:
+The 2015 Northeastern Europe Regional Contest, 13th
+The 2015 Southern Subregional Contest, 2nd
+
+Coach:
+Name: Alexey Maleev
+TC handle: 
+CF handle: 
+Achievements:
+
+Contestant 1:
+Name: Aleksandr Mashrabov
+TC handle: AMashrabov
+CF handle: map
+Achievements:
+ACM ICPC Finalist (2014)
+RCC Finalist (2014)
+VK Cup finalist (2015)
+CROC Championship finalist (2016)
+
+Contestant 2:
+Name: Sergey Kiyan
+TC handle: sokian
+CF handle: sokian
+Achievements:
+CROC Championship finalist (2016)
+
+Contestant 3:
+Name: Evgeny Savinov
+TC handle: 
+CF handle: savinov
+Achievements:
+CROC Championship finalist (2016)
+
+
+
+
+
+
+University: Lviv National University 3-0-1-0-0-0
+Team: LNU Penguins
+OpenCup: 13 (15)
+Regionals:
+The 2015 Southeastern Europe Regional Contest, 2nd
+The 2015 All-Ukrainian Collegiate Programming Contest, 3rd
+
+Coach:
+Name: Vasyl Biletskyy
+TC handle: 
+CF handle: 
+Achievements:
+ACM ICPC gold medal (2008)
+ACM ICPC gold medal as coach (2008)
+World Finals coach (2011, 2015)
+
+Contestant 1:
+Name: Roman Bilyi
+TC handle: Deretin
+CF handle: RomaWhite
+Achievements:
+ACM ICPC Finalist (2015)
+RCC Finalist (2014, 2015)
+
+Contestant 2:
+Name: Vitalii Herasymiv
+TC handle: 
+CF handle: witua
+Achievements:
+ACM ICPC Finalist (2015)
+IOI Silver Medalist (2012)
+
+Contestant 3:
+Name: Taras Savitskyi
+TC handle: Trumen
+CF handle: Trumen
+Achievements:
+
+
+
+
+
+
+University: Massachusetts Institute of Technology 20-0-3-5-3-6
+Team: MIT ZERO
+Regionals:
+The 2015 Northeast North America Regional Contest, 2nd
+2015 Eastern (BOSPRE) Contest, 2nd
+
+Coach:
+Name: Aleksandar Zlateski
+TC handle: 
+CF handle: 
+Achievements:
+World Finals coach (2010-2013)
+IOI Silver Medalist (2002)
+IOI Bronze Medalist (2001, 2003)
+
+Contestant 1:
+Name: Steven Hao
+TC handle: aceofdiamonds
+CF handle: stevenkplus
+Achievements:
+IOI Gold Medalist (2014)
+IOI Silver Medalist (2013)
+
+Contestant 2:
+Name: Brian Chen
+TC handle: betaveros
+CF handle: betaveros
+Achievements:
+GCJ Finalist (2015)
+IOI Gold Medalist (2014)
+
+Contestant 3:
+Name: Andrew He
+TC handle: ecnerwal
+CF handle: ecnerwal
+Achievements:
+IOI Gold Medalist (2014, 2015)
+TCO Semifinalist (2015)
+MemSQL Start[c]UP 1st (2014)
+
+
+
+
+
+
+University: Moscow Aviation Institute 2-0-0-0-0-0
+Team: MAI #1
+OpenCup: 137 (15)
+Regionals:
+The 2015 Northeastern Europe Regional Contest, 22nd
+The 2015 Moscow Subregional Contest, 13th
+
+Coach:
+Name: Renat Gimadeev
+TC handle: ariacas
+CF handle: zeliboba
+Achievements:
+ACM ICPC gold medal (2012)
+ACM ICPC Finalist (2011)
+FBHC Finalist (2013)
+RCC Finalist (2015)
+CROC Championship finalist (2016)
+Yandex.Algorithm finalist (2011)
+
+Contestant 1:
+Name: Timofey Yushchenko
+TC handle: Timus1712
+CF handle: Timus
+Achievements:
+ACM ICPC Finalist (2015)
+
+Contestant 2:
+Name: Aleksei Safronov
+TC handle: yarrr
+CF handle: yarrr
+Achievements:
+ACM ICPC Finalist (2013)
+RCC Finalist (2012)
+CROC Championship finalist (2016)
+
+Contestant 3:
+Name: Oleg Mingalev
+TC handle: shhdup
+CF handle: shhdup
+Achievements:
+
+
+
+
+
+
+University: Moscow Engineering Physics Institute 0-0-0-0-0-0
+Team: MEPhI: Cupcakes
+OpenCup: 94 (7)
+Regionals:
+The 2015 Northeastern Europe Regional Contest, 17th
+The 2015 Moscow Subregional Contest, 5th
+
+Coach:
+Name: Vasily Astakhov
+TC handle: ST_Vasily
+CF handle: 
+Achievements:
+ACM ICPC bronze medal (2011)
+ACM ICPC Finalist (2009)
+
+Contestant 1:
+Name: Arslan Urtashev
+TC handle: Avitella
+CF handle: Avitella
+Achievements:
+ABBYY Cup finalist (2013)
+
+Contestant 2:
+Name: Vladislav Bidzilya
+TC handle: Bdzl
+CF handle: bdzl
+Achievements:
+
+Contestant 3:
+Name: Alexander Minakov
+TC handle: Elshiko
+CF handle: Elshiko
+Achievements:
+
+
+
+
+
+
+University: Moscow Institute of Physics & Technology 6-0-1-0-0-0
+Team: MIPT: Jinotega
+OpenCup: 10 (16)
+Regionals:
+The 2015 Northeastern Europe Regional Contest, 3rd
+The 2015 Moscow Subregional Contest, 6th
+
+Coach:
+Name: Mikhail Tikhomirov
+TC handle: Endagorion
+CF handle: Endagorion
+Achievements:
+TCO Finalist (2014)
+TCO Semifinalist (2015)
+RCC Finalist (2014, 2015)
+VK Cup finalist (2015)
+CROC Championship finalist (2013)
+
+Contestant 1:
+Name: Ivan Smirnov
+TC handle: ifsmirnov
+CF handle: ifsmirnov
+Achievements:
+VK Cup finalist (2015)
+CROC Championship finalist (2013, 2016)
+
+Contestant 2:
+Name: Artsem Zhuk
+TC handle: Arterm
+CF handle: Arterm
+Achievements:
+RCC Finalist (2014)
+VK Cup finalist (2015)
+CROC Championship finalist (2016)
+Kotlin Finalist (2014)
+
+Contestant 3:
+Name: Konstantin Semenov
+TC handle: zemen
+CF handle: zemen
+Achievements:
+IOI Gold Medalist (2013)
+IOI Silver Medalist (2014)
+RCC Finalist (2015)
+
+
+
+
+
+
+University: Moscow State University 20-0-5-1-7-2
+Team: Moscow SU Trinity
+OpenCup: 7 (16)
+Regionals:
+The 2015 Northeastern Europe Regional Contest, 4th
+The 2015 Moscow Subregional Contest, 2nd
+
+Coach:
+Name: Andrey Shestimerov
+TC handle: 
+CF handle: 
+Achievements:
+
+Contestant 1:
+Name: Alexey Shlyunkin
+TC handle: sankear
+CF handle: sankear
+Achievements:
+RCC Finalist (2014, 2015)
+CROC Championship finalist (2013)
+Abbyy Cup finalist (2012)
+
+Contestant 2:
+Name: Maxim Akhmedov
+TC handle: Zlobober
+CF handle: Zlobober
+Achievements:
+IOI Gold Medalist (2012)
+RCC Finalist (2014, 2015)
+FBHC Finalist (2016)
+CROC Championship finalist (2016)
+
+Contestant 3:
+Name: Dmitriy Gorbunov
+TC handle: malcolm734
+CF handle: malcolm
+Achievements:
+IOI Gold Medalist (2013)
+
+
+
+
+
+
+University: National Taiwan University 18-0-3-2-2-1
+Team: bcw0x1bd2
+OpenCup: 39 (4)
+Regionals:
+The 2015 ACM-ICPC Asia Taipei Regional Contest, 2nd
+
+Coach:
+Name: Pu-Jen Cheng
+TC handle: 
+CF handle: 
+Achievements:
+ACM ICPC gold medal as coach (2010, 2013, 2014)
+World Finals coach (2008, 2009, 2011, 2012, 2015)
+
+Contestant 1:
+Name: Cheng-Min Chiang
+TC handle: bobogei81123
+CF handle: bobogei81123
+Achievements:
+IOI Silver Medalist (2012)
+
+Contestant 2:
+Name: Kai-Chi Huang
+TC handle: kevin00050
+CF handle: step5
+Achievements:
+GCJ Finalist (2015)
+IOI Gold Medalist (2013)
+
+Contestant 3:
+Name: Han Chung Wang
+TC handle: hanhan0912
+CF handle: darkhh
+Achievements:
+IOI Participant (2013)
+
+
+
+
+
+
+University: Nizhny Novgorod State University 6-0-0-1-0-0
+Team: Nizhny Novgorod SU 1
+OpenCup: 5 (16)
+Regionals:
+The 2015 Northeastern Europe Regional Contest, 6th
+The 2015 Southern Subregional Contest, 1st
+
+Coach:
+Name: Nikolai Borisov
+TC handle: 
+CF handle: 
+Achievements:
+
+Contestant 1:
+Name: Mikhail Krivonosov
+TC handle: mike_live
+CF handle: mike_live
+Achievements:
+
+Contestant 2:
+Name: Vladislav Epifanov
+TC handle: Kankuro
+CF handle: vepifanov
+Achievements:
+ACM ICPC silver medal (2011)
+TCO 3rd (2015)
+RCC Winner (2012)
+GCJ Finalist (2011-2015)
+IOI Gold Medalist (2007, 2008)
+TCO Semifinalist (2011, 2012)
+CROC Championship 2nd (2016)
+IOI Silver Medalist (2009)
+RCC Finalist (2011, 2013-2015)
+FBHC Finalist (2012, 2013)
+Yandex.Algorithm Finalist (2013, 2015)
+VK Cup finalist (2015)
+CROC Championship finalist (2013)
+Zepto Code Rush 2nd (2015)
+
+Contestant 3:
+Name: Nikolay Kalinin
+TC handle: KalininN
+CF handle: KAN
+Achievements:
+IOI Gold Medalist (2013, 2014)
+FBHC Finalist (2016)
+RCC Finalist (2015)
+VK Cup finalist (2015)
+Zepto Code Rush 1st (2014)
+
+
+
+
+
+
+University: Northern (Arctic) Federal University 0-0-0-0-0-0
+Team: Northern (Arctic) FU 1
+OpenCup: 130 (15)
+Regionals:
+The 2015 Northeastern Europe Regional Contest, 21st
+The 2015 Northern Subregional Contest, 11th
+
+Coach:
+Name: Kirill Butin
+TC handle: KirillB
+CF handle: KirillB
+Achievements:
+
+Contestant 1:
+Name: Ivan Popovich
+TC handle: NVAL
+CF handle: NVAL
+Achievements:
+
+Contestant 2:
+Name: Vladimir Dodin
+TC handle: 
+CF handle: 
+Achievements:
+
+Contestant 3:
+Name: Aleksey Chesnokov
+TC handle: [CleRIC]
+CF handle: CleRIC
+Achievements:
+
+
+
+
+
+
+University: Peking University 11-0-1-1-1-1
+Team: Crawl
+Regionals:
+The 2015 ACM-ICPC Asia Changchun Regional Contest, 1st
+
+Coach:
+Name: Guojie Luo
+TC handle: 
+CF handle: 
+Achievements:
+ACM ICPC gold medal as coach (2014)
+ACM ICPC silver medal as coach (2015)
+World Finals coach (2013)
+
+Contestant 1:
+Name: Xuanrun Zhang
+TC handle: 
+CF handle: 
+Achievements:
+
+Contestant 2:
+Name: Yudong Li
+TC handle: lydrainbowcat
+CF handle: lydrainbowcat
+Achievements:
+
+Contestant 3:
+Name: Yang Shen
+TC handle: sy2006
+CF handle: sy2006
+Achievements:
+IOI Gold Medalist (2014)
+
+
+
+
+
+
+University: Saratov State University 12-1-2-5-0-2
+Team: Saratov SU Daemons
+OpenCup: 20 (16)
+Regionals:
+The 2015 Northeastern Europe Regional Contest, 9th
+The 2015 Southern Subregional Contest, 3rd
+
+Coach:
+Name: Michael Mirzayanov
+TC handle: Mike Mirzayanov
+CF handle: 
+Achievements:
+ACM ICPC silver medal (2002, 2003)
+ACM ICPC win as coach (2006)
+ACM ICPC gold medal as coach (2009)
+ACM ICPC silver medal as coach (2007, 2010, 2011)
+World Finals coach (2005, 2012-2015)
+GCJ Finalist (2005, 2006)
+TCO Semifinalist (2006, 2011)
+TCCC Semifinalist (2006)
+FBHC Finalist (2013)
+Kotlin Finalist (2014)
+
+Contestant 1:
+Name: Edvard Davtyan
+TC handle: homo_sapiens
+CF handle: Edvard
+Achievements:
+ACM ICPC Finalist (2013)
+RCC Finalist (2011, 2015)
+VK Cup finalist (2012)
+ABBYY Cup finalist (2013)
+CROC Championship finalist (2016)
+Abbyy Cup finalist (2012)
+
+Contestant 2:
+Name: Danil Sagunov
+TC handle: dans
+CF handle: dans
+Achievements:
+RCC Finalist (2015)
+CROC Championship finalist (2016)
+
+Contestant 3:
+Name: Vitalii Kudasov
+TC handle: kuviman
+CF handle: kuviman
+Achievements:
+ACM ICPC Finalist (2014)
+
+
+
+
+
+
+University: Shanghai Jiao Tong University 18-3-5-4-3-6
+Team: Dreadnought
+OpenCup: 3 (14)
+Regionals:
+The 2015 ACM-ICPC Asia Beijing Regional Contest, 1st
+
+Coach:
+Name: Yong Yu
+TC handle: 
+CF handle: 
+Achievements:
+ACM ICPC win as coach (2002, 2005, 2010)
+ACM ICPC gold medal as coach (2012, 2013)
+ACM ICPC silver medal as coach (2003, 2006, 2007, 2014)
+ACM ICPC bronze medal as coach (2000, 2001, 2015)
+World Finals coach (2004, 2008, 2009, 2011)
+
+Contestant 1:
+Name: Wenhan Huang
+TC handle: wenhanhuang
+CF handle: rowdark
+Achievements:
+ACM ICPC bronze medal (2015)
+GCJ Finalist (2015)
+
+Contestant 2:
+Name: Haobin Ni
+TC handle: OIerRobbin
+CF handle: TankEngineer
+Achievements:
+ACM ICPC silver medal (2014)
+GCJ Finalist (2015)
+FBHC Finalist (2015)
+
+Contestant 3:
+Name: Yanpei Liu
+TC handle: cvcvb_lyp
+CF handle: AngryBacon
+Achievements:
+ACM ICPC bronze medal (2015)
+GCJ Finalist (2015)
+FBHC Finalist (2015)
+Yandex.Algorithm Finalist (2015)
+
+
+
+
+
+
+University: St. Petersburg Academic University 2-0-0-0-0-0
+Team: SPbAU 1 Generation Z
+OpenCup: 41 (13)
+Regionals:
+The 2015 Northeastern Europe Regional Contest, 10th
+The 2015 Northern Subregional Contest, 6th
+
+Coach:
+Name: Sergey Kopeliovich
+TC handle: Burunduk1
+CF handle: Burunduk1
+Achievements:
+ACM ICPC gold medal (2009)
+ACM ICPC bronze medal (2008)
+World Finals coach (2015)
+GCJ 3rd (2010)
+TCO Finalist (2008)
+IOI Gold Medalist (2005, 2006)
+GCJ Finalist (2012)
+TCCC Semifinalist (2007)
+TCO Semifinalist (2012)
+RCC Finalist (2011, 2012, 2014, 2015)
+
+Contestant 1:
+Name: Egor Bogomolov
+TC handle: egor.bb
+CF handle: egor_bb
+Achievements:
+
+Contestant 2:
+Name: Petr Smirnov
+TC handle: ComradePetr
+CF handle: ComradePetr
+Achievements:
+
+Contestant 3:
+Name: Nikita Podguzov
+TC handle: Nikita.Podguzov
+CF handle: Nikitosh
+Achievements:
+
+
+
+
+
+
+University: St. Petersburg ITMO University 20-6-11-1-1-6
+Team: SPb ITMO University 1
+OpenCup: 9 (15)
+Regionals:
+The 2015 Northeastern Europe Regional Contest, 5th
+The 2015 Northern Subregional Contest, 1st
+
+Coach:
+Name: Andrey Stankevich
+TC handle: andrewzta
+CF handle: andrewzta
+Achievements:
+ACM ICPC gold medal (2001)
+ACM ICPC silver medal (2000)
+ACM ICPC win as coach (2004, 2008, 2009, 2012, 2013, 2015)
+ACM ICPC gold medal as coach (2003, 2005, 2007)
+ACM ICPC bronze medal as coach (2014)
+World Finals coach (2002, 2006, 2010, 2011)
+GCJ 3rd (2006)
+TCO Finalist (2006, 2008, 2012)
+TCCC Finalist (2006)
+TCO Semifinalist (2007, 2009, 2013)
+GCJ Finalist (2005, 2008)
+FBHC Finalist (2011, 2014)
+
+Contestant 1:
+Name: Anton Kovsharov
+TC handle: antonkov
+CF handle: antonkov
+Achievements:
+
+Contestant 2:
+Name: Adam Bardashevich
+TC handle: subscriber
+CF handle: subscriber
+Achievements:
+ACM ICPC bronze medal (2014)
+VK Cup 2nd (2015)
+IOI Gold Medalist (2012)
+TCO Semifinalist (2015)
+IOI Silver Medalist (2011)
+RCC Finalist (2014)
+CROC Championship finalist (2016)
+Abbyy Cup finalist (2012)
+
+Contestant 3:
+Name: Vladimir Smykalov
+TC handle: Enot
+CF handle: enot.1.10
+Achievements:
+VK Cup finalist (2015)
+Kotlin Finalist (2014)
+
+
+
+
+
+
+University: St. Petersburg State University 18-3-6-3-3-4
+Team: SPb SU 1: Base
+OpenCup: 4 (16)
+Regionals:
+The 2015 Northeastern Europe Regional Contest, 2nd
+The 2015 Northern Subregional Contest, 2nd
+
+Coach:
+Name: Andrei Lopatin
+TC handle: KOTEHOK
+CF handle: KOTEHOK
+Achievements:
+ACM ICPC win (2000, 2001)
+ACM ICPC win as coach (2014)
+ACM ICPC gold medal as coach (2009, 2011)
+ACM ICPC silver medal as coach (2006, 2010, 2013)
+ACM ICPC bronze medal as coach (2008)
+World Finals coach (2003-2005, 2007, 2012, 2015)
+GCJ Finalist (2008)
+TCCC Semifinalist (2006)
+TCO Semifinalist (2008)
+IOI Silver Medalist (1997, 1998)
+RCC Finalist (2012)
+
+Contestant 1:
+Name: Stanislav Ershov
+TC handle: ErshovStanislav
+CF handle: ershov.stanislav
+Achievements:
+CROC Championship finalist (2016)
+
+Contestant 2:
+Name: Igor Pyshkin
+TC handle: -XraY-
+CF handle: -XraY-
+Achievements:
+VK Cup finalist (2012, 2015)
+Yandex.Algorithm Finalist (2015)
+CROC Championship finalist (2016)
+
+Contestant 3:
+Name: Alexey Gordeev
+TC handle: Copymaster
+CF handle: Copymaster
+Achievements:
+ACM ICPC Finalist (2015)
+IOI Gold Medalist (2012)
+CROC Championship finalist (2013, 2016)
+
+
+
+
+
+
+University: Stanford University 18-0-1-3-1-1
+Team: Stanford Cardinal
+Regionals:
+The 2015 Pacific Northwest Regional Contest, 2nd
+
+Coach:
+Name: Gerald Cain
+TC handle: 
+CF handle: 
+Achievements:
+ACM ICPC silver medal as coach (2002, 2008)
+ACM ICPC bronze medal as coach (2001)
+World Finals coach (1999, 2000, 2004, 2007, 2012-2015)
+
+Contestant 1:
+Name: Hubert Teo
+TC handle: 
+CF handle: craftomaniac
+Achievements:
+
+Contestant 2:
+Name: Joshua Alman
+TC handle: firebat03
+CF handle: 
+Achievements:
+
+Contestant 3:
+Name: Yuetong Wang
+TC handle: superpear
+CF handle: superpear
+Achievements:
+
+
+
+
+
+
+University: Taras Shevchenko National University of Kyiv 9-0-1-1-1-0
+Team: Flawless
+OpenCup: 29 (16)
+Regionals:
+The 2015 Southeastern Europe Regional Contest, 3rd
+The 2015 All-Ukrainian Collegiate Programming Contest, 1st
+The 2015 Ukraine Kiev Contest, 5th
+
+Coach:
+Name: Vitalii Bondarenko
+TC handle: 
+CF handle: 
+Achievements:
+ACM ICPC gold medal as coach (2010)
+ACM ICPC silver medal as coach (2013)
+World Finals coach (2009, 2011, 2014, 2015)
+IOI Bronze Medalist (1992)
+
+Contestant 1:
+Name: Roman Furko
+TC handle: Roma1995
+CF handle: Furko
+Achievements:
+ACM ICPC Finalist (2015)
+IOI Silver Medalist (2013)
+IOI Bronze Medalist (2012)
+
+Contestant 2:
+Name: Dmytro Ihnatenko
+TC handle: Fdg
+CF handle: Fdg
+Achievements:
+ACM ICPC Finalist (2015)
+Yandex.Algorithm Finalist (2015)
+
+Contestant 3:
+Name: Mykhailo Chornyi
+TC handle: mgch
+CF handle: mgch
+Achievements:
+
+
+
+
+
+
+University: The University of Tokyo 13-0-2-1-2-1
+Team: IIIlIIIllIIlIlIIllIlIllllllIII
+Regionals:
+The 2015 ACM-ICPC Asia Tsukuba Regional Contest, 2nd
+Japan National On-Line First Round Contest, 2nd
+
+Coach:
+Name: Tomoyuki Kaneko
+TC handle: 
+CF handle: 
+Achievements:
+ACM ICPC gold medal as coach (2013, 2015)
+ACM ICPC silver medal as coach (2014)
+ACM ICPC bronze medal as coach (2012)
+World Finals coach (2009-2011)
+
+Contestant 1:
+Name: Shogo Murai
+TC handle: semiexp
+CF handle: semiexp
+Achievements:
+ACM ICPC gold medal (2015)
+IOI Gold Medalist (2010-2012)
+GCJ Finalist (2015)
+
+Contestant 2:
+Name: Shinya Shiroshita
+TC handle: phidnight
+CF handle: phidnight
+Achievements:
+IOI Silver Medalist (2011)
+
+Contestant 3:
+Name: Ikumi Hide
+TC handle: tozangezan
+CF handle: wolf_sothe
+Achievements:
+ACM ICPC silver medal (2014)
+IOI Silver Medalist (2012)
+FBHC Finalist (2015)
+
+
+
+
+
+
+University: Tsinghua University 18-0-4-6-3-5
+Team: Wunderzeit
+OpenCup: 30 (3)
+Regionals:
+The 2015 ACM-ICPC Asia Shanghai Regional Contest, 1st
+
+Coach:
+Name: Xiaojun Wu
+TC handle: 
+CF handle: 
+Achievements:
+ACM ICPC gold medal as coach (2007, 2009, 2011, 2015)
+ACM ICPC silver medal as coach (2008, 2010)
+ACM ICPC bronze medal as coach (2013, 2014)
+World Finals coach (2004-2006, 2012)
+
+Contestant 1:
+Name: Qinshi Wang
+TC handle: bcip
+CF handle: s-quark
+Achievements:
+ACM ICPC bronze medal (2014)
+VK Cup 2nd (2012)
+TCO Semifinalist (2014)
+Yandex.Algorithm 3rd (2014)
+Yandex.Algorithm Finalist (2013)
+
+Contestant 2:
+Name: Hengjie Zhang
+TC handle: zhj1997
+CF handle: zhj
+Achievements:
+IOI Gold Medalist (2015)
+
+Contestant 3:
+Name: Honghua Dong
+TC handle: dhh1995_
+CF handle: dhh1995
+Achievements:
+IOI Gold Medalist (2014)
+
+
+
+
+
+
+University: University of Warsaw 21-2-3-5-4-2
+Team: Warsaw Eagles 2016
+OpenCup: 16 (3)
+Regionals:
+The 2015 Central Europe Regional Contest, 1st
+
+Coach:
+Name: Jan Madey
+TC handle: 
+CF handle: 
+Achievements:
+ACM ICPC win as coach (2003, 2007)
+ACM ICPC gold medal as coach (2012)
+ACM ICPC silver medal as coach (2001, 2006, 2010, 2013, 2014)
+ACM ICPC bronze medal as coach (2004, 2009, 2015)
+World Finals coach (1999, 2000, 2002, 2005, 2008, 2011)
+
+Contestant 1:
+Name: Marek Sokołowski
+TC handle: mnbvmar
+CF handle: mnbvmar
+Achievements:
+FBHC Finalist (2015)
+
+Contestant 2:
+Name: Marcin Smulewicz
+TC handle: Marcin_smu
+CF handle: Marcin_smu
+Achievements:
+GCJ Finalist (2014)
+FBHC 3rd (2013)
+
+Contestant 3:
+Name: Wojciech Nadara
+TC handle: Swistakk
+CF handle: Swistakk
+Achievements:
+IOI Silver Medalist (2012)
+
+
+
+
+
+
+University: University of Wroclaw 8-0-0-1-0-0
+Team: UWr1
+OpenCup: 31 (4)
+Regionals:
+The 2015 Central Europe Regional Contest, 2nd
+
+Coach:
+Name: Krzysztof Lorys
+TC handle: 
+CF handle: 
+Achievements:
+World Finals coach (2007, 2012-2015)
+
+Contestant 1:
+Name: Mateusz Gołębiewski
+TC handle: 
+CF handle: matix2267
+Achievements:
+ACM ICPC Finalist (2015)
+
+Contestant 2:
+Name: Maciej Dulęba
+TC handle: Solaris3
+CF handle: Solaris
+Achievements:
+ACM ICPC Finalist (2015)
+
+Contestant 3:
+Name: Bartłomiej Dudek
+TC handle: bardek
+CF handle: bardek
+Achievements:
+ACM ICPC Finalist (2015)
+IOI Silver Medalist (2012)
+
+
+
+
+
+
+University: Ural Federal University 12-0-0-0-3-0
+Team: Ural FU: Dandelion
+OpenCup: 8 (16)
+Regionals:
+The 2015 Northeastern Europe Regional Contest, 1st
+The 2015 Eastern Subregional Contest, 1st
+Qualification Round of Eastern Subregion, 1st
+
+Coach:
+Name: Mikhail Rubinchik
+TC handle: rumi13
+CF handle: MikhailRubinchik
+Achievements:
+ACM ICPC bronze medal (2011)
+World Finals coach (2014)
+
+Contestant 1:
+Name: Nikita Sivukhin
+TC handle: Tosiambo
+CF handle: Umqra
+Achievements:
+IOI Gold Medalist (2014)
+VK Cup finalist (2015)
+CROC Championship finalist (2016)
+
+Contestant 2:
+Name: Alexey Danilyuk
+TC handle: Um_nik
+CF handle: Um_nik
+Achievements:
+Yandex.Algorithm Finalsit (2015)
+RCC Finalist (2015)
+VK Cup finalist (2015)
+CROC Championship finalist (2016)
+Wunder Fund Round 3rd (2016)
+
+Contestant 3:
+Name: Oleg Merkurev
+TC handle: Merkurev
+CF handle: Merkurev
+Achievements:
+ACM ICPC Finalist (2014)
+GCJ Finalist (2015)
+FBHC Finalist (2014, 2016)
+RCC Finalist (2013, 2015)
+Yandex.Algorithm Finalist (2014)
+VK Cup finalist (2015)
+CROC Championship finalist (2016)
+
+
+
+
+
+
+University: Zaporizhzhya National Technical University 0-0-0-0-0-0
+Team: ZNTU_SetUp
+OpenCup: 102 (9)
+Regionals:
+The 2015 Southeastern Europe Regional Contest, 1st
+The 2015 All-Ukrainian Collegiate Programming Contest, 7th
+The 2015 Ukraine Southern Contest, 2nd
+
+Coach:
+Name: Natalia Myronova
+TC handle: 
+CF handle: 
+Achievements:
+
+Contestant 1:
+Name: Yevhen Zadorozhnii
+TC handle: MrDindows
+CF handle: MrDindows
+Achievements:
+
+Contestant 2:
+Name: Andrii Bezsonov
+TC handle: 6eJIa9IzZzTeHb
+CF handle: 6eJIa9IzZzTeHb
+Achievements:
+
+Contestant 3:
+Name: Viktoriia Kosarenko
+TC handle: 
+CF handle: Life_is_good
+Achievements:
+
+
+
+
+
+

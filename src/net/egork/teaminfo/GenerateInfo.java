@@ -95,12 +95,23 @@ public class GenerateInfo {
     }
 
     private static void saveHRForm() throws Exception {
+        BufferedReader reader = new BufferedReader(new FileReader("input/important.txt"));
+        Set<String> important = new HashSet<>();
+        String s;
+        while ((s = reader.readLine()) != null) {
+            important.add(s);
+        }
+        PrintWriter outImp = new PrintWriter("output/imp.txt");
         PrintWriter out = new PrintWriter("output/all.txt");
         for (int i = 1; i <= 128; i++) {
             records[i].print(out);
             out.println("\f");
+            if (important.contains(records[i].university.getFullName())) {
+                records[i].print(outImp);
+            }
         }
         out.close();
+        outImp.close();
     }
 
     private static void readRegionalChamps() throws Exception {
