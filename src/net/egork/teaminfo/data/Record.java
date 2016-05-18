@@ -1,5 +1,8 @@
 package net.egork.teaminfo.data;
 
+import com.fasterxml.jackson.annotation.JsonCreator;
+import com.fasterxml.jackson.annotation.JsonProperty;
+
 import java.io.PrintWriter;
 
 /**
@@ -12,7 +15,8 @@ public class Record {
     public final Person coach;
     public final Person[] contestants = new Person[3];
 
-    public Record(int id) {
+    @JsonCreator
+    public Record(@JsonProperty("id") int id) {
         this.id = id;
         university = new University();
         team = new Team();
@@ -23,7 +27,9 @@ public class Record {
     }
 
     public void print(PrintWriter out) {
-        out.println("University: " + university.getFullName());
+        out.println("University: " + university.getFullName() + " " + university.getAppearances() + "-" +
+        university.getWins() + "-" + university.getGold() + "-" + university.getSilver() + "-" + university.getBronze() +
+        "-" + university.getRegionalChampionships());
         out.println("Team: " + team.getName());
         if (team.getOpenCupPlace() != -1) {
             out.println(String.format("OpenCup: %d (%d)", team.getOpenCupPlace(), team.getOpenCupTimes()));

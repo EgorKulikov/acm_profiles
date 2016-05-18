@@ -7,9 +7,7 @@ import net.egork.teaminfo.data.Record;
 import org.apache.commons.logging.Log;
 import org.apache.commons.logging.LogFactory;
 
-import java.io.File;
-import java.io.IOException;
-import java.io.PrintWriter;
+import java.io.*;
 import java.util.*;
 
 /**
@@ -33,6 +31,7 @@ public class PersonalDatabase {
         }
         add("input/topcoder.json");
         log.info("TopCoder Processed");
+        addSnarkCorrection();
         add("input/corrections.json");
         if (Boolean.getBoolean("reloadCodeforcesAchievements")) {
             CodeforcesUser.addCodeforcesAchievements();
@@ -57,6 +56,24 @@ public class PersonalDatabase {
         linkTcCf();
         saveDatabase();
         log.info("Database created");
+    }
+
+    private static void addSnarkCorrection() throws Exception {
+        BufferedReader reader = new BufferedReader(new FileReader("input/add.csv"));
+        String s;
+        List<Person> persons = new ArrayList<>();
+        while ((s = reader.readLine()) != null) {
+            String[] tokens = s.split(";");
+            Person person = new Person().setName(tokens[0]);
+            if (tokens.length >= 2 && !tokens[1].isEmpty()) {
+                person.setCfHandle(tokens[1]);
+            }
+            if (tokens.length >= 3 && !tokens[2].isEmpty()) {
+                person.setTcHandle(tokens[2]);
+            }
+            persons.add(person);
+        }
+        add(false, persons);
     }
 
     private static void linkTcCf() {
@@ -89,13 +106,17 @@ public class PersonalDatabase {
         add(filename, false);
     }
 
-    private static void add(String filename, boolean moreSkipableThanYouThink) throws Exception {
+    private static void add(String filename, boolean ninetyThreePercentMoreSkipableThanYouThink) throws Exception {
         List<Person> persons = Utils.readList(filename, Person.class);
+        add(ninetyThreePercentMoreSkipableThanYouThink, persons);
+    }
+
+    private static void add(boolean ninetyThreePercentMoreSkipableThanYouThink, List<Person> persons) {
         for (Person person : persons) {
             Person remake = new Person();
             remake.updateFrom(person);
             person = remake;
-            if (!moreSkipableThanYouThink && person.getCfHandle() != null && byCf.get(person.getCfHandle()) == null) {
+            if (!ninetyThreePercentMoreSkipableThanYouThink && person.getCfHandle() != null && byCf.get(person.getCfHandle()) == null) {
                 person.setCfHandle(null);
             }
             boolean good = true;
@@ -122,7 +143,7 @@ public class PersonalDatabase {
                 good = false;
             }
             if (!good) {
-                if (!moreSkipableThanYouThink) {
+                if (!ninetyThreePercentMoreSkipableThanYouThink) {
                     String message = "Something fishy with " + person.getName() + " " + person.getTcHandle() + " " + person.getCfHandle() + " " + person.getAltNames();
                     for (Person other : incompatible) {
                         message += ";" + other.getName() + " " + other.getTcHandle() + " " + other.getCfHandle() + " " + other.getAltNames();

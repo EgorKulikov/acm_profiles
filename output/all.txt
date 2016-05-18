@@ -1,4 +1,4 @@
-University: Aleppo University
+University: Aleppo University 0-0-0-0-0-0
 Team: Beginners
 Regionals:
 The 2015 Arab Collegiate Programming Contest, 2nd
@@ -35,7 +35,7 @@ Achievements:
 
 
 
-University: Alexandria University - Faculty of Engineering
+University: Alexandria University - Faculty of Engineering 4-0-0-0-0-1
 Team: New Folder
 Regionals:
 The 2015 Arab Collegiate Programming Contest, 1st
@@ -58,7 +58,7 @@ Achievements:
 
 Contestant 2:
 Name: Essam AlNaggar
-TC handle: 
+TC handle: taki_77
 CF handle: naggar
 Achievements:
 
@@ -74,7 +74,7 @@ Achievements:
 
 
 
-University: Arab Academy for Science and Technology (Alexandria)
+University: Arab Academy for Science and Technology (Alexandria) 4-0-0-0-0-1
 Team: No Ana Gai Aharag
 Regionals:
 The 2015 Arab Collegiate Programming Contest, 3rd
@@ -117,7 +117,7 @@ ACM ICPC Finalist (2015)
 
 
 
-University: Ateneo de Manila University
+University: Ateneo de Manila University 2-0-0-0-0-0
 Team: Fuchsia Moth
 Regionals:
 The 2015 ACM-ICPC Asia Singapore Regional Contest, 9th
@@ -153,7 +153,7 @@ Achievements:
 
 
 
-University: Beihang University
+University: Beihang University 2-0-0-0-0-0
 Team: TheWaySoFar
 OpenCup: 87 (6)
 Regionals:
@@ -193,7 +193,7 @@ ACM ICPC Finalist (2015)
 
 
 
-University: Beijing University of Posts and Telecommunications
+University: Beijing University of Posts and Telecommunications 5-0-0-0-0-0
 Team: heheda
 OpenCup: 80 (3)
 Regionals:
@@ -229,7 +229,7 @@ Achievements:
 
 
 
-University: Belarusian State University
+University: Belarusian State University 15-0-1-2-1-0
 Team: BelarusianSU1
 OpenCup: 34 (13)
 Regionals:
@@ -271,7 +271,7 @@ Achievements:
 
 
 
-University: Belarusian State University of Informatics and Radioelectronics
+University: Belarusian State University of Informatics and Radioelectronics 2-0-0-0-1-0
 Team: Belarusian SUIR 2
 OpenCup: 24 (15)
 Regionals:
@@ -319,7 +319,7 @@ CROC Championship finalist (2016)
 
 
 
-University: Birla Institute of Technology & Science, Pilani Campus
+University: Birla Institute of Technology & Science, Pilani Campus 0-0-0-0-0-0
 Team: stronglyConnected
 OpenCup: 57 (4)
 Regionals:
@@ -356,7 +356,7 @@ Achievements:
 
 
 
-University: British University in Egypt
+University: British University in Egypt 0-0-0-0-0-1
 Team: Gotta Solve Em All
 Regionals:
 The 2015 Arab Collegiate Programming Contest, 5th
@@ -392,7 +392,7 @@ Achievements:
 
 
 
-University: Cairo University - Faculty of Computers and Information
+University: Cairo University - Faculty of Computers and Information 10-0-0-0-0-0
 Team: El Psy Congroo
 Regionals:
 The 2015 Arab Collegiate Programming Contest, 8th
@@ -421,7 +421,7 @@ Achievements:
 
 Contestant 3:
 Name: Mohammed Magdy
-TC handle: 
+TC handle: electro_rage
 CF handle: Baby_Steps
 Achievements:
 
@@ -431,7 +431,7 @@ Achievements:
 
 
 
-University: California Institute of Technology
+University: California Institute of Technology 16-0-0-2-3-1
 Team: Kiss a Wookiee
 Regionals:
 The 2015 Southern California Regional Contest, 1st
@@ -466,7 +466,7 @@ Achievements:
 
 
 
-University: Carnegie Mellon University
+University: Carnegie Mellon University 18-0-0-0-2-1
 Team: CMU1
 Regionals:
 The 2015 East Central NA Regional Contest, 5th
@@ -493,7 +493,7 @@ Achievements:
 
 Contestant 3:
 Name: Xinyu Wu
-TC handle: 
+TC handle: wxy.xinyu
 CF handle: WuxinyuJason
 Achievements:
 IOI Participant (2014)
@@ -504,7 +504,7 @@ IOI Participant (2014)
 
 
 
-University: Charles University in Prague
+University: Charles University in Prague 7-1-1-1-2-0
 Team: MFF
 OpenCup: 281 (3)
 Regionals:
@@ -545,7 +545,7 @@ IOI Bronze Medalist (2012, 2013)
 
 
 
-University: Chulalongkorn University
+University: Chulalongkorn University 0-0-0-0-0-0
 Team: CUCP Meow Meow :3
 Regionals:
 The 2015 ACM-ICPC Asia Jakarta Regional Contest, 13th
@@ -580,7 +580,7 @@ Achievements:
 
 
 
-University: Comenius University
+University: Comenius University 10-0-1-0-2-0
 Team: Zelovoc svetla
 Regionals:
 The 2015 Central Europe Regional Contest, 4th
@@ -632,7 +632,7 @@ IOI Bronze Medalist (2011)
 
 
 
-University: Cornell University
+University: Cornell University 10-0-0-0-0-0
 Team: snoopy fan club
 Regionals:
 The 2015 Greater NY Regional Contest, 1st
@@ -647,7 +647,7 @@ ACM ICPC Finalist (2006, 2007)
 
 Contestant 1:
 Name: Victor Reis
-TC handle: 
+TC handle: victoreis021
 CF handle: victoreis
 Achievements:
 ACM ICPC Finalist (2015)
@@ -670,7 +670,7 @@ Achievements:
 
 
 
-University: Damascus University
+University: Damascus University 0-0-0-0-0-0
 Team: Nitro++
 Regionals:
 The 2015 Arab Collegiate Programming Contest, 9th
@@ -708,7 +708,7 @@ Achievements:
 
 
 
-University: Escuela Superior De Computo Instituto Politecnico Nacional
+University: Escuela Superior De Computo Instituto Politecnico Nacional 3-0-0-0-0-0
 Team: La Carabina del AC
 Regionals:
 The 2015 ACM-ICPC  Mexico and Central America Finals, 1st
@@ -747,7 +747,7 @@ Achievements:
 
 
 
-University: ETH Zürich
+University: ETH Zürich 4-0-0-0-0-0
 Team: rETHink
 Regionals:
 The 2015 Southwestern Europe Regional Contest, 2nd
@@ -787,7 +787,7 @@ IOI Participant (2012)
 
 
 
-University: Fudan University
+University: Fudan University 14-0-0-1-2-0
 Team: Saga
 OpenCup: 44 (4)
 Regionals:
@@ -816,7 +816,7 @@ ACM ICPC Finalist (2014)
 
 Contestant 3:
 Name: Jinyue Su
-TC handle: 
+TC handle: sujinyue
 CF handle: Phronesis
 Achievements:
 
@@ -826,7 +826,7 @@ Achievements:
 
 
 
-University: Harvard University
+University: Harvard University 14-1-2-3-3-1
 Team: Harvard
 Regionals:
 The 2015 Northeast North America Regional Contest, 1st
@@ -874,7 +874,7 @@ Looksery Cup 2nd (2015)
 
 
 
-University: Ho Chi Minh City University of Science
+University: Ho Chi Minh City University of Science 3-0-0-0-0-0
 Team: HCMUS - Shine
 Regionals:
 The 2015 ACM-ICPC Asia Hanoi Regional Contest, 2nd
@@ -889,20 +889,20 @@ World Finals coach (2014)
 
 Contestant 1:
 Name: Yen Thanh Le
-TC handle: 
+TC handle: binhminh410
 CF handle: yenthanh.t7
 Achievements:
 ACM ICPC Finalist (2014)
 
 Contestant 2:
 Name: Viet Khoi Pham
-TC handle: 
+TC handle: pvkhoi
 CF handle: 
 Achievements:
 
 Contestant 3:
 Name: Minh Bao Truong
-TC handle: 
+TC handle: tmbao
 CF handle: _TMB_
 Achievements:
 
@@ -912,7 +912,7 @@ Achievements:
 
 
 
-University: Illinois Institute of Technology
+University: Illinois Institute of Technology 3-0-0-0-0-0
 Team: Illinois Tech
 Regionals:
 The 2015 Mid-Central USA Regional Contest, 3rd
@@ -926,13 +926,13 @@ World Finals coach (2004, 2005, 2012)
 
 Contestant 1:
 Name: Andrei Dumitru
-TC handle: 
-CF handle: 
+TC handle: dumitruandrei
+CF handle: andreidumitru
 Achievements:
 
 Contestant 2:
 Name: Todor Markov
-TC handle: 
+TC handle: mTogop
 CF handle: Togop
 Achievements:
 
@@ -948,7 +948,7 @@ Achievements:
 
 
 
-University: Imperial College London
+University: Imperial College London 0-0-0-0-0-0
 Team: DoCThors
 OpenCup: 144 (3)
 Regionals:
@@ -988,7 +988,7 @@ Achievements:
 
 
 
-University: Indian Institute of Information Technology - Allahabad
+University: Indian Institute of Information Technology - Allahabad 1-0-0-0-0-0
 Team: Greed_for_Speed
 Regionals:
 The 2015 ACM-ICPC Asia Chennai Regional Contest, 3rd
@@ -1008,13 +1008,13 @@ Achievements:
 
 Contestant 2:
 Name: Mettu Shiva Reddy
-TC handle: 
+TC handle: shivar31
 CF handle: shiva_r31
 Achievements:
 
 Contestant 3:
 Name: Man Mohan Mishra
-TC handle: 
+TC handle: m_17
 CF handle: m17
 Achievements:
 
@@ -1024,7 +1024,7 @@ Achievements:
 
 
 
-University: Indian Institute of Technology - Bombay
+University: Indian Institute of Technology - Bombay 7-0-0-0-0-0
 Team: ntm
 Regionals:
 The 2015 ACM-ICPC Asia Kolkata Regional Contest, 2nd
@@ -1045,7 +1045,7 @@ Achievements:
 
 Contestant 2:
 Name: Nikhil Vyas
-TC handle: 
+TC handle: nikhil_vyas
 CF handle: nikhilvyas
 Achievements:
 
@@ -1061,7 +1061,7 @@ Achievements:
 
 
 
-University: Indian Institute of Technology - Delhi
+University: Indian Institute of Technology - Delhi 4-0-0-0-0-0
 Team: angle
 Regionals:
 The 2015 ACM-ICPC Asia Amritapuri Regional Contest, 1st
@@ -1075,25 +1075,24 @@ Achievements:
 
 Contestant 1:
 Name: Kunal Singhal
-TC handle: 
-CF handle: 
+TC handle: knsn1994
+CF handle: knsn
 Achievements:
 ACM ICPC Finalist (2015)
 IOI Participant (2012)
 
 Contestant 2:
 Name: Satwant Rana
-TC handle: 
+TC handle: satwant123
 CF handle: TheTerminalGuy
 Achievements:
 ACM ICPC Finalist (2015)
 
 Contestant 3:
 Name: Yash Kumar Bansal
-TC handle: yashkumar18
-CF handle: yashkumar18
+TC handle: yash_15
+CF handle: yash_15
 Achievements:
-ACM ICPC Finalist (2011)
 
 
 
@@ -1101,7 +1100,7 @@ ACM ICPC Finalist (2011)
 
 
 
-University: Indian Institute of Technology - Kanpur
+University: Indian Institute of Technology - Kanpur 4-0-0-0-0-0
 Team: FacelessMen
 Regionals:
 The 2015 ACM-ICPC Asia Kolkata Regional Contest, 1st
@@ -1115,7 +1114,7 @@ Achievements:
 
 Contestant 1:
 Name: Atanu Chakraborty
-TC handle: 
+TC handle: shinigami_ryuk
 CF handle: alecsyde
 Achievements:
 
@@ -1137,7 +1136,7 @@ Achievements:
 
 
 
-University: Indian Institute of Technology - Roorkee
+University: Indian Institute of Technology - Roorkee 3-0-0-0-0-0
 Team: 11Coders
 Regionals:
 The 2015 ACM-ICPC Asia Chennai Regional Contest, 2nd
@@ -1152,7 +1151,7 @@ World Finals coach (2014, 2015)
 
 Contestant 1:
 Name: Aman Kumar Kedia
-TC handle: 
+TC handle: amankedia94
 CF handle: amankedia1994
 Achievements:
 ACM ICPC Finalist (2015)
@@ -1175,7 +1174,7 @@ Achievements:
 
 
 
-University: Innopolis University
+University: Innopolis University 0-0-0-0-0-0
 Team: Innopolis U Known
 OpenCup: 25 (16)
 Regionals:
@@ -1218,7 +1217,7 @@ CROC Championship finalist (2016)
 
 
 
-University: Instituto Tecnológico Autónomo de México
+University: Instituto Tecnológico Autónomo de México 0-0-0-0-0-0
 Team: Los Románticos
 Regionals:
 The 2015 ACM-ICPC  Mexico and Central America Finals, 2nd
@@ -1232,14 +1231,15 @@ Achievements:
 
 Contestant 1:
 Name: Freddy Román Cepeda
-TC handle: 
-CF handle: 
+TC handle: frcepeda
+CF handle: frcepeda
 Achievements:
+IOI Participant (2012)
 
 Contestant 2:
 Name: Diego Terán Ríos
 TC handle: 
-CF handle: 
+CF handle: diegoteran
 Achievements:
 
 Contestant 3:
@@ -1254,7 +1254,7 @@ Achievements:
 
 
 
-University: Iowa State University
+University: Iowa State University 7-0-0-0-0-0
 Team: Freelancers
 Regionals:
 The 2015 North Central NA Regional Contest, 4th
@@ -1291,7 +1291,7 @@ Achievements:
 
 
 
-University: Islamic Azad University of Mashhad
+University: Islamic Azad University of Mashhad 0-0-0-0-0-0
 Team: Aspire
 Regionals:
 The 2015 ACM-ICPC Asia Lahore Regional Contest, 1st
@@ -1311,7 +1311,7 @@ Achievements:
 
 Contestant 2:
 Name: Reza Kakhki
-TC handle: 
+TC handle: rezakakhiki
 CF handle: Elk-Cloner
 Achievements:
 
@@ -1327,7 +1327,7 @@ Achievements:
 
 
 
-University: ITESM Campus Monterrey
+University: ITESM Campus Monterrey 0-0-0-0-0-0
 Team: HaKings
 Regionals:
 The 2015 ACM-ICPC  Mexico and Central America Finals, 3rd
@@ -1342,14 +1342,14 @@ World Finals coach (2009, 2015)
 
 Contestant 1:
 Name: Alfredo Altamirano Montealvo
-TC handle: 
+TC handle: Alfredo_AM
 CF handle: fredy.altamirano
 Achievements:
 ACM ICPC Finalist (2015)
 
 Contestant 2:
 Name: Diego Emilio Gutierrez Yepiz
-TC handle: 
+TC handle: diego627
 CF handle: Diego1149
 Achievements:
 
@@ -1365,7 +1365,7 @@ Achievements:
 
 
 
-University: Jagiellonian University in Krakow
+University: Jagiellonian University in Krakow 9-0-1-0-2-0
 Team: Jagiellonian
 OpenCup: 133 (3)
 Regionals:
@@ -1405,7 +1405,7 @@ FBHC Finalist (2016)
 
 
 
-University: Jahangirnagar University
+University: Jahangirnagar University 1-0-0-0-0-0
 Team: JU_O(N^3)
 Regionals:
 The 2015 ACM-ICPC Asia Dhaka Regional Contest, 1st
@@ -1433,7 +1433,7 @@ Achievements:
 
 Contestant 3:
 Name: Niloy Datta
-TC handle: 
+TC handle: NiloyDatta
 CF handle: ndatta
 Achievements:
 
@@ -1443,7 +1443,7 @@ Achievements:
 
 
 
-University: KAIST
+University: KAIST 13-0-0-0-2-0
 Team: [A-Za-z0-9]+
 Regionals:
 The 2015 ACM-ICPC Asia Daejeon Regional Contest, 1st
@@ -1486,7 +1486,7 @@ Achievements:
 
 
 
-University: Kim Il Sung University
+University: Kim Il Sung University 0-0-0-0-0-0
 Team: RNS
 Regionals:
 The 2015 ACM-ICPC Asia Shanghai Regional Contest, 3rd
@@ -1521,7 +1521,7 @@ Achievements:
 
 
 
-University: Korea University
+University: Korea University 3-0-0-0-1-0
 Team: Opportunity
 Regionals:
 The 2015 ACM-ICPC Asia Singapore Regional Contest, 1st
@@ -1563,7 +1563,7 @@ ACM ICPC Finalist (2012)
 
 
 
-University: Kyoto University
+University: Kyoto University 13-0-0-0-2-0
 Team: breakShot
 Regionals:
 The 2015 ACM-ICPC Asia Taipei Regional Contest, 3rd
@@ -1583,8 +1583,8 @@ Achievements:
 
 Contestant 2:
 Name: Kazuki Takise
-TC handle: 
-CF handle: 
+TC handle: takise
+CF handle: takise
 Achievements:
 
 Contestant 3:
@@ -1599,7 +1599,7 @@ Achievements:
 
 
 
-University: Lviv National University
+University: Lviv National University 3-0-1-0-0-0
 Team: LNU Penguins
 OpenCup: 13 (15)
 Regionals:
@@ -1634,7 +1634,7 @@ IOI Silver Medalist (2012)
 Contestant 3:
 Name: Taras Savitskyi
 TC handle: Trumen
-CF handle: Taras_Savitskiy
+CF handle: Trumen
 Achievements:
 
 
@@ -1643,7 +1643,7 @@ Achievements:
 
 
 
-University: Massachusetts Institute of Technology
+University: Massachusetts Institute of Technology 20-0-3-5-3-6
 Team: MIT ZERO
 Regionals:
 The 2015 Northeast North America Regional Contest, 2nd
@@ -1689,7 +1689,7 @@ MemSQL Start[c]UP 1st (2014)
 
 
 
-University: Moscow Aviation Institute
+University: Moscow Aviation Institute 2-0-0-0-0-0
 Team: MAI #1
 OpenCup: 137 (15)
 Regionals:
@@ -1710,7 +1710,7 @@ Yandex.Algorithm finalist (2011)
 
 Contestant 1:
 Name: Timofey Yushchenko
-TC handle: 
+TC handle: Timus1712
 CF handle: Timus
 Achievements:
 ACM ICPC Finalist (2015)
@@ -1736,7 +1736,7 @@ Achievements:
 
 
 
-University: Moscow Engineering Physics Institute
+University: Moscow Engineering Physics Institute 0-0-0-0-0-0
 Team: MEPhI: Cupcakes
 OpenCup: 94 (7)
 Regionals:
@@ -1776,7 +1776,7 @@ Achievements:
 
 
 
-University: Moscow Institute of Physics & Technology
+University: Moscow Institute of Physics & Technology 6-0-1-0-0-0
 Team: MIPT: Jinotega
 OpenCup: 10 (16)
 Regionals:
@@ -1827,7 +1827,7 @@ RCC Finalist (2015)
 
 
 
-University: Moscow State University
+University: Moscow State University 20-0-5-1-7-2
 Team: Moscow SU Trinity
 OpenCup: 7 (16)
 Regionals:
@@ -1872,7 +1872,7 @@ IOI Gold Medalist (2013)
 
 
 
-University: National Chiao Tung University
+University: National Chiao Tung University 5-0-0-0-0-0
 Team: NCTU_Thor
 Regionals:
 The 2015 ACM-ICPC Asia Jakarta Regional Contest, 2nd
@@ -1907,7 +1907,7 @@ Achievements:
 
 
 
-University: National Taiwan University
+University: National Taiwan University 18-0-3-2-2-1
 Team: bcw0x1bd2
 OpenCup: 39 (4)
 Regionals:
@@ -1939,7 +1939,7 @@ IOI Gold Medalist (2013)
 Contestant 3:
 Name: Han Chung Wang
 TC handle: hanhan0912
-CF handle: 
+CF handle: darkhh
 Achievements:
 IOI Participant (2013)
 
@@ -1949,7 +1949,7 @@ IOI Participant (2013)
 
 
 
-University: National University of Defense Technology
+University: National University of Defense Technology 5-0-0-0-0-0
 Team: ALPC_Farewell
 Regionals:
 The 2015 ACM-ICPC Asia EC-FINAL Contest, 9th
@@ -1963,7 +1963,7 @@ World Finals coach (2010, 2012, 2015)
 
 Contestant 1:
 Name: Zheng Qin
-TC handle: 
+TC handle: clavichord
 CF handle: clavichord93
 Achievements:
 ACM ICPC Finalist (2015)
@@ -1988,7 +1988,7 @@ ACM ICPC Finalist (2015)
 
 
 
-University: National University of Singapore
+University: National University of Singapore 0-0-0-0-0-0
 Team: RRwatameda
 Regionals:
 The 2015 ACM-ICPC Asia Singapore Regional Contest, 3rd
@@ -2028,7 +2028,7 @@ FBHC Finalist (2016)
 
 
 
-University: Ningbo University
+University: Ningbo University 0-0-0-0-0-0
 Team: what duang to eat dinner
 Regionals:
 The 2015 ACM-ICPC Asia Changchun Regional Contest, 2nd
@@ -2066,7 +2066,7 @@ Achievements:
 
 
 
-University: Nizhny Novgorod State University
+University: Nizhny Novgorod State University 6-0-0-1-0-0
 Team: Nizhny Novgorod SU 1
 OpenCup: 5 (16)
 Regionals:
@@ -2122,7 +2122,7 @@ Zepto Code Rush 1st (2014)
 
 
 
-University: North South University
+University: North South University 3-0-0-0-0-0
 Team: NSU BugLovers
 Regionals:
 The 2015 ACM-ICPC Asia Dhaka Regional Contest, 3rd
@@ -2142,7 +2142,7 @@ Achievements:
 
 Contestant 2:
 Name: Hasib Al Muhaimin
-TC handle: 
+TC handle: hasib.mo
 CF handle: hasib
 Achievements:
 IOI Participant (2013-2015)
@@ -2159,7 +2159,7 @@ Achievements:
 
 
 
-University: Northeast Normal University
+University: Northeast Normal University 1-0-0-0-0-0
 Team: Daedalus
 Regionals:
 The 2015 ACM-ICPC Asia Shenyang Regional Contest, 9th
@@ -2184,8 +2184,8 @@ Achievements:
 
 Contestant 3:
 Name: Miaoyang Li
-TC handle: 
-CF handle: 
+TC handle: Lee_vincent
+CF handle: Lee_vincent
 Achievements:
 
 
@@ -2194,7 +2194,7 @@ Achievements:
 
 
 
-University: Northeastern University (China)
+University: Northeastern University (China) 0-0-0-0-0-0
 Team: NEU_I forgot it.
 OpenCup: 658 (1)
 Regionals:
@@ -2230,7 +2230,7 @@ Achievements:
 
 
 
-University: Northern (Arctic) Federal University
+University: Northern (Arctic) Federal University 0-0-0-0-0-0
 Team: Northern (Arctic) FU 1
 OpenCup: 130 (15)
 Regionals:
@@ -2257,7 +2257,7 @@ Achievements:
 
 Contestant 3:
 Name: Aleksey Chesnokov
-TC handle: 
+TC handle: [CleRIC]
 CF handle: CleRIC
 Achievements:
 
@@ -2267,7 +2267,7 @@ Achievements:
 
 
 
-University: Ohio State University
+University: Ohio State University 0-0-0-0-0-0
 Team: Future_Gazer
 Regionals:
 The 2015 East Central NA Regional Contest, 4th
@@ -2302,7 +2302,7 @@ Achievements:
 
 
 
-University: Osaka University
+University: Osaka University 0-0-0-0-0-0
 Team: chikOkU
 Regionals:
 The 2015 ACM-ICPC Asia Daejeon Regional Contest, 2nd
@@ -2337,7 +2337,7 @@ Achievements:
 
 
 
-University: Peking University
+University: Peking University 11-0-1-1-1-1
 Team: Crawl
 Regionals:
 The 2015 ACM-ICPC Asia Changchun Regional Contest, 1st
@@ -2376,7 +2376,7 @@ IOI Gold Medalist (2014)
 
 
 
-University: Prince of Songkla University
+University: Prince of Songkla University 0-0-0-0-0-0
 Team: FEDEX
 Regionals:
 The 2015 ACM-ICPC Thailand Southern Programming Contest, 1st
@@ -2411,7 +2411,7 @@ Achievements:
 
 
 
-University: Princess Sumaya University for Technology
+University: Princess Sumaya University for Technology 1-0-0-0-0-0
 Team: EarlGrey (PSUT)
 Regionals:
 The 2015 Arab Collegiate Programming Contest, 4th
@@ -2426,7 +2426,7 @@ World Finals coach (2014)
 
 Contestant 1:
 Name: Abdullah Bahosain
-TC handle: 
+TC handle: bahosain889
 CF handle: AU.Bahosain
 Achievements:
 ACM ICPC Finalist (2014)
@@ -2439,7 +2439,7 @@ Achievements:
 
 Contestant 3:
 Name: Hasan Alhamsh
-TC handle: 
+TC handle: Hasan0540
 CF handle: 2Nodes
 Achievements:
 ACM ICPC Finalist (2014)
@@ -2450,7 +2450,7 @@ ACM ICPC Finalist (2014)
 
 
 
-University: Radboud University
+University: Radboud University 0-0-0-0-0-0
 Team: That empty teamname
 Regionals:
 The 2015 Northwestern Europe Regional Contest, 4th
@@ -2469,7 +2469,7 @@ Achievements:
 
 Contestant 2:
 Name: David Venhoek
-TC handle: 
+TC handle: davidv1992
 CF handle: 
 Achievements:
 IOI Bronze Medalist (2008-2010)
@@ -2489,7 +2489,7 @@ IOI Silver Medalist (2010, 2011)
 
 
 
-University: Rice University
+University: Rice University 6-0-0-0-0-0
 Team: Rice Gray
 Regionals:
 The 2015 South Central USA Regional Contest, 1st
@@ -2529,7 +2529,7 @@ IOI Bronze Medalist (2008)
 
 
 
-University: Saratov State University
+University: Saratov State University 12-1-2-5-0-2
 Team: Saratov SU Daemons
 OpenCup: 20 (16)
 Regionals:
@@ -2585,7 +2585,7 @@ ACM ICPC Finalist (2014)
 
 
 
-University: Shahid Beheshti University
+University: Shahid Beheshti University 2-0-0-0-0-0
 Team: In 1010101 We Trust!
 Regionals:
 The 2015 ACM-ICPC Asia Tehran Regional Contest, 2nd
@@ -2626,7 +2626,7 @@ ACM ICPC Finalist (2015)
 
 
 
-University: Shahjalal University of Science and Technology
+University: Shahjalal University of Science and Technology 4-0-0-0-0-0
 Team: DownToTheWire
 Regionals:
 The 2015 ACM-ICPC Asia Dhaka Regional Contest, 2nd
@@ -2649,14 +2649,14 @@ IOI Bronze Medalist (2012, 2013)
 
 Contestant 2:
 Name: Abdullah Al Maruf
-TC handle: 
+TC handle: maruf_0011
 CF handle: PlausibleDeniability
 Achievements:
 ACM ICPC Finalist (2015)
 
 Contestant 3:
 Name: Sakibul Mowla
-TC handle: 
+TC handle: sakib_sust
 CF handle: J-C
 Achievements:
 ACM ICPC Finalist (2015)
@@ -2667,7 +2667,7 @@ ACM ICPC Finalist (2015)
 
 
 
-University: Shanghai Jiao Tong University
+University: Shanghai Jiao Tong University 18-3-5-4-3-6
 Team: Dreadnought
 OpenCup: 3 (14)
 Regionals:
@@ -2717,7 +2717,7 @@ Yandex.Algorithm Finalist (2015)
 
 
 
-University: Shanghai University
+University: Shanghai University 5-0-0-0-0-0
 Team: Wand Maker
 OpenCup: 288 (2)
 Regionals:
@@ -2755,7 +2755,7 @@ ACM ICPC Finalist (2015)
 
 
 
-University: Sharif University of Technology
+University: Sharif University of Technology 16-0-0-1-0-0
 Team: CrockPot
 Regionals:
 The 2015 ACM-ICPC Asia Tehran Regional Contest, 1st
@@ -2798,7 +2798,7 @@ IOI Gold Medalist (2015)
 
 
 
-University: South China University of Technology
+University: South China University of Technology 4-0-0-0-1-0
 Team: SOX
 Regionals:
 The 2015 ACM-ICPC Asia Changchun Regional Contest, 3rd
@@ -2820,13 +2820,13 @@ ACM ICPC Finalist (2015)
 Contestant 2:
 Name: Jiaming Fang
 TC handle: 
-CF handle: 
+CF handle: chanme
 Achievements:
 
 Contestant 3:
 Name: Peizhen Hu
 TC handle: 
-CF handle: 
+CF handle: yiku
 Achievements:
 
 
@@ -2835,7 +2835,7 @@ Achievements:
 
 
 
-University: South Dakota School of Mines and Technology
+University: South Dakota School of Mines and Technology 4-0-0-0-0-0
 Team: SDSMT Hardrockers
 Regionals:
 The 2015 North Central NA Regional Contest, 9th
@@ -2871,7 +2871,7 @@ Achievements:
 
 
 
-University: St. Petersburg Academic University
+University: St. Petersburg Academic University 2-0-0-0-0-0
 Team: SPbAU 1 Generation Z
 OpenCup: 41 (13)
 Regionals:
@@ -2918,7 +2918,7 @@ Achievements:
 
 
 
-University: St. Petersburg ITMO University
+University: St. Petersburg ITMO University 20-6-11-1-1-6
 Team: SPb ITMO University 1
 OpenCup: 9 (15)
 Regionals:
@@ -2977,7 +2977,7 @@ Kotlin Finalist (2014)
 
 
 
-University: St. Petersburg State University
+University: St. Petersburg State University 18-3-6-3-3-4
 Team: SPb SU 1: Base
 OpenCup: 4 (16)
 Regionals:
@@ -3032,7 +3032,7 @@ CROC Championship finalist (2013, 2016)
 
 
 
-University: Stanford University
+University: Stanford University 18-0-1-3-1-1
 Team: Stanford Cardinal
 Regionals:
 The 2015 Pacific Northwest Regional Contest, 2nd
@@ -3049,19 +3049,19 @@ World Finals coach (1999, 2000, 2004, 2007, 2012-2015)
 Contestant 1:
 Name: Hubert Teo
 TC handle: 
-CF handle: 
+CF handle: craftomaniac
 Achievements:
 
 Contestant 2:
 Name: Joshua Alman
-TC handle: 
+TC handle: firebat03
 CF handle: 
 Achievements:
 
 Contestant 3:
 Name: Yuetong Wang
-TC handle: 
-CF handle: 
+TC handle: superpear
+CF handle: superpear
 Achievements:
 
 
@@ -3070,7 +3070,7 @@ Achievements:
 
 
 
-University: Taras Shevchenko National University of Kyiv
+University: Taras Shevchenko National University of Kyiv 9-0-1-1-1-0
 Team: Flawless
 OpenCup: 29 (16)
 Regionals:
@@ -3117,7 +3117,7 @@ Achievements:
 
 
 
-University: The Chinese University of Hong Kong
+University: The Chinese University of Hong Kong 13-0-0-1-1-0
 Team: Real Base
 Regionals:
 The 2015 ACM-ICPC Asia Hefei Regional Contest, 2nd
@@ -3156,7 +3156,7 @@ IOI Participant (2013)
 
 
 
-University: The University of South Dakota
+University: The University of South Dakota 0-0-0-0-0-0
 Team: USD A
 Regionals:
 The 2015 North Central NA Regional Contest, 7th
@@ -3191,7 +3191,7 @@ Achievements:
 
 
 
-University: The University of Tokyo
+University: The University of Tokyo 13-0-2-1-2-1
 Team: IIIlIIIllIIlIlIIllIlIllllllIII
 Regionals:
 The 2015 ACM-ICPC Asia Tsukuba Regional Contest, 2nd
@@ -3238,7 +3238,7 @@ FBHC Finalist (2015)
 
 
 
-University: The University of Western Australia
+University: The University of Western Australia 2-0-0-0-0-1
 Team: Off By Wonders
 Regionals:
 South Pacific Regional Finals, 2nd
@@ -3252,19 +3252,19 @@ Achievements:
 
 Contestant 1:
 Name: Emma Krantz
-TC handle: 
-CF handle: 
+TC handle: unmercifulfish
+CF handle: Unmercifulfish
 Achievements:
 
 Contestant 2:
 Name: Max Ward-Graham
-TC handle: 
-CF handle: 
+TC handle: maxhwardg
+CF handle: YouCantHandleMe
 Achievements:
 
 Contestant 3:
 Name: Andrew Gozzard
-TC handle: 
+TC handle: gozzarda
 CF handle: gozzardam
 Achievements:
 
@@ -3274,7 +3274,7 @@ Achievements:
 
 
 
-University: Tianjin University
+University: Tianjin University 5-0-0-0-0-0
 Team: TJU_Thief_Master
 OpenCup: 333 (2)
 Regionals:
@@ -3311,7 +3311,7 @@ Achievements:
 
 
 
-University: Tishreen University
+University: Tishreen University 3-0-0-0-0-0
 Team: 4th FLOOR
 Regionals:
 The 2015 Arab Collegiate Programming Contest, 6th
@@ -3333,7 +3333,7 @@ ACM ICPC Finalist (2015)
 
 Contestant 2:
 Name: Majd Ghada
-TC handle: 
+TC handle: majdghda
 CF handle: majd.gda1
 Achievements:
 ACM ICPC Finalist (2015)
@@ -3350,7 +3350,7 @@ Achievements:
 
 
 
-University: Tsinghua University
+University: Tsinghua University 18-0-4-6-3-5
 Team: Wunderzeit
 OpenCup: 30 (3)
 Regionals:
@@ -3379,7 +3379,7 @@ Yandex.Algorithm Finalist (2013)
 
 Contestant 2:
 Name: Hengjie Zhang
-TC handle: 
+TC handle: zhj1997
 CF handle: zhj
 Achievements:
 IOI Gold Medalist (2015)
@@ -3397,7 +3397,7 @@ IOI Gold Medalist (2014)
 
 
 
-University: Universidad de Buenos Aires - FCEN
+University: Universidad de Buenos Aires - FCEN 15-0-0-0-2-8
 Team: PUMMAS
 Regionals:
 The 2015 ACM-ICPC South America/South Finals, 2nd
@@ -3437,7 +3437,7 @@ Achievements:
 
 
 
-University: Universidad de Chile
+University: Universidad de Chile 3-0-0-0-0-0
 Team: Squash Masters
 Regionals:
 The 2015 ACM-ICPC South America/South Finals, 9th
@@ -3472,7 +3472,7 @@ Achievements:
 
 
 
-University: Universidad de La Habana
+University: Universidad de La Habana 4-0-0-0-0-0
 Team: UH_REFRESH
 OpenCup: 234 (3)
 Regionals:
@@ -3511,7 +3511,7 @@ Achievements:
 
 
 
-University: Universidad de los Andes, Colombia
+University: Universidad de los Andes, Colombia 4-0-0-0-0-0
 Team: Programators Mark II
 Regionals:
 The 2015 ACM-ICPC South America-North Finals, 1st
@@ -3540,8 +3540,8 @@ ACM ICPC Finalist (2015)
 
 Contestant 3:
 Name: Rafael Mantilla
-TC handle: 
-CF handle: 
+TC handle: rjmantilla
+CF handle: rjmantilla
 Achievements:
 ACM ICPC Finalist (2015)
 IOI Silver Medalist (2011)
@@ -3554,7 +3554,7 @@ IOI Participant (2007)
 
 
 
-University: Universidad de Oriente - Sede Antonio Maceo
+University: Universidad de Oriente - Sede Antonio Maceo 2-0-0-0-0-0
 Team: Conquer & Divide
 Regionals:
 The 2015 ACM-ICPC Caribbean Finals, 3rd
@@ -3592,7 +3592,7 @@ Achievements:
 
 
 
-University: Universidad Nacional de Colombia - Bogotá
+University: Universidad Nacional de Colombia - Bogotá 6-0-0-0-0-0
 Team: UNDynamic
 Regionals:
 The 2015 ACM-ICPC South America-North Finals, 4th
@@ -3613,14 +3613,14 @@ Achievements:
 
 Contestant 2:
 Name: Juan Felipe Baquero Vargas
-TC handle: 
-CF handle: 
+TC handle: Jfcowboy
+CF handle: cowboy
 Achievements:
 
 Contestant 3:
 Name: Andres Felipe Cruz Salinas
 TC handle: 
-CF handle: 
+CF handle: afcruzs
 Achievements:
 
 
@@ -3629,7 +3629,7 @@ Achievements:
 
 
 
-University: Universidad Nacional de Ingeniería - FIIS
+University: Universidad Nacional de Ingeniería - FIIS 1-0-0-0-0-0
 Team: 1000KB
 Regionals:
 The 2015 ACM-ICPC South America/South Finals, 3rd
@@ -3664,7 +3664,7 @@ Achievements:
 
 
 
-University: Universidad Nacional de Rosario
+University: Universidad Nacional de Rosario 0-0-0-0-0-0
 Team: Caloventor en Dos
 Regionals:
 The 2015 ACM-ICPC South America/South Finals, 1st
@@ -3704,7 +3704,7 @@ ACM ICPC Finalist (2015)
 
 
 
-University: Universidad Simón Bolívar
+University: Universidad Simón Bolívar 5-0-0-0-0-0
 Team: RAM
 Regionals:
 The 2015 ACM-ICPC South America-North Finals, 2nd
@@ -3741,7 +3741,7 @@ Achievements:
 
 
 
-University: Universidade de São Paulo
+University: Universidade de São Paulo 11-0-0-0-1-1
 Team: Sua mãe
 Regionals:
 The 2015 ACM-ICPC South America/Brazil Finals, 5th
@@ -3777,7 +3777,7 @@ Achievements:
 
 
 
-University: Universidade de São Paulo - Campus de São Carlos
+University: Universidade de São Paulo - Campus de São Carlos 1-0-0-0-0-0
 Team: Bob
 Regionals:
 The 2015 ACM-ICPC South America/Brazil Finals, 3rd
@@ -3814,7 +3814,7 @@ Achievements:
 
 
 
-University: Universidade Estadual de Campinas
+University: Universidade Estadual de Campinas 10-0-0-0-0-0
 Team: BibleThump
 Regionals:
 The 2015 ACM-ICPC South America/Brazil Finals, 7th
@@ -3850,7 +3850,7 @@ Achievements:
 
 
 
-University: Universidade Federal da Bahia
+University: Universidade Federal da Bahia 0-0-0-0-0-0
 Team: ROBÉRIO E SEUS TECLADOS
 Regionals:
 The 2015 ACM-ICPC South America/Brazil Finals, 4th
@@ -3886,7 +3886,7 @@ Achievements:
 
 
 
-University: Universidade Federal de Campina Grande
+University: Universidade Federal de Campina Grande 3-0-0-0-0-1
 Team: Abella e as feras
 OpenCup: 140 (9)
 Regionals:
@@ -3928,7 +3928,7 @@ Achievements:
 
 
 
-University: Universidade Federal de Pernambuco
+University: Universidade Federal de Pernambuco 10-0-0-0-0-1
 Team: Turing-indecisos
 Regionals:
 The 2015 ACM-ICPC South America/Brazil Finals, 1st
@@ -3943,7 +3943,7 @@ World Finals coach (1999, 2002, 2004)
 
 Contestant 1:
 Name: Gustavo Stor
-TC handle: 
+TC handle: GustavoStor
 CF handle: Godely
 Achievements:
 
@@ -3965,7 +3965,7 @@ Achievements:
 
 
 
-University: Universitat Politècnica de Catalunya
+University: Universitat Politècnica de Catalunya 10-0-0-0-0-0
 Team: Twelve seconds
 Regionals:
 The 2015 Southwestern Europe Regional Contest, 1st
@@ -3979,7 +3979,7 @@ World Finals coach (2004-2007, 2009, 2010, 2012-2015)
 
 Contestant 1:
 Name: Angel Garcia Gomez
-TC handle: 
+TC handle: angargo93
 CF handle: angargo
 Achievements:
 ACM ICPC Finalist (2015)
@@ -4005,7 +4005,7 @@ Achievements:
 
 
 
-University: University of Aizu
+University: University of Aizu 1-0-0-0-0-0
 Team: FinalZukky
 Regionals:
 The 2015 ACM-ICPC Asia Tsukuba Regional Contest, 6th
@@ -4020,8 +4020,8 @@ World Finals coach (2009)
 
 Contestant 1:
 Name: Takumi Yamashita
-TC handle: 
-CF handle: 
+TC handle: sate3saku3
+CF handle: sate
 Achievements:
 
 Contestant 2:
@@ -4032,7 +4032,7 @@ Achievements:
 
 Contestant 3:
 Name: Tadamasa Yamaguchi
-TC handle: 
+TC handle: dohatsutsu
 CF handle: 
 Achievements:
 
@@ -4042,7 +4042,7 @@ Achievements:
 
 
 
-University: University of British Columbia
+University: University of British Columbia 9-0-0-0-0-0
 Team: UBC+
 Regionals:
 The 2015 Pacific Northwest Regional Contest, 18th
@@ -4064,7 +4064,7 @@ Achievements:
 Contestant 2:
 Name: Yuanchen Du
 TC handle: 
-CF handle: 
+CF handle: danield7
 Achievements:
 
 Contestant 3:
@@ -4079,7 +4079,7 @@ Achievements:
 
 
 
-University: University of California at Berkeley
+University: University of California at Berkeley 11-0-1-2-2-1
 Team: Berkeley Blue
 Regionals:
 The 2015 Pacific Northwest Regional Contest, 9th
@@ -4104,14 +4104,14 @@ IOI Silver Medalist (2009)
 
 Contestant 2:
 Name: Weiqiao Han
-TC handle: 
+TC handle: weiqiaohan
 CF handle: 
 Achievements:
 
 Contestant 3:
 Name: Alexander Dai
-TC handle: 
-CF handle: 
+TC handle: yzyzyzyz
+CF handle: yzyz
 Achievements:
 
 
@@ -4120,7 +4120,7 @@ Achievements:
 
 
 
-University: University of Cape Town
+University: University of Cape Town 12-0-0-0-0-6
 Team: Amazingly Complicated Macros
 Regionals:
 The 2015 South Africa Regional Contest, 1st
@@ -4161,7 +4161,7 @@ IOI Participant (2012)
 
 
 
-University: University of Central Florida
+University: University of Central Florida 20-0-0-0-2-0
 Team: UCF Knights
 Regionals:
 The 2015 Southeast USA Regional Contest, 1st
@@ -4182,7 +4182,7 @@ Achievements:
 
 Contestant 2:
 Name: Stephen Royal
-TC handle: 
+TC handle: quill5990
 CF handle: sroyal
 Achievements:
 ACM ICPC Finalist (2013)
@@ -4200,7 +4200,7 @@ ACM ICPC Finalist (2015)
 
 
 
-University: University of Chicago
+University: University of Chicago 9-0-0-0-0-0
 Team: Sufficiently Advanced Tech
 Regionals:
 The 2015 Mid-Central USA Regional Contest, 2nd
@@ -4237,7 +4237,7 @@ Achievements:
 
 
 
-University: University of Electronic Science and Technology of China
+University: University of Electronic Science and Technology of China 7-0-0-0-0-0
 Team: UESTC_murasame
 Regionals:
 The 2015 ACM-ICPC Asia EC-FINAL Contest, 5th
@@ -4251,14 +4251,14 @@ World Finals coach (2012, 2014, 2015)
 
 Contestant 1:
 Name: Zhu He
-TC handle: 
+TC handle: Herzu
 CF handle: Hezhu
 Achievements:
 
 Contestant 2:
 Name: SiRui Lin
 TC handle: 
-CF handle: 
+CF handle: _Lelouch_Vi_Britannia_
 Achievements:
 
 Contestant 3:
@@ -4273,7 +4273,7 @@ Achievements:
 
 
 
-University: University of Engineering and Technology - VNU
+University: University of Engineering and Technology - VNU 4-0-0-0-0-0
 Team: BYTE
 Regionals:
 The 2015 ACM-ICPC Asia Phuket Regional Contest, 4th
@@ -4312,7 +4312,7 @@ Achievements:
 
 
 
-University: University of Helsinki
+University: University of Helsinki 2-0-0-0-0-0
 Team: Game of Nolife
 OpenCup: 33 (11)
 Regionals:
@@ -4352,7 +4352,7 @@ IOI Bronze Medalist (2015)
 
 
 
-University: University of Illinois at Urbana-Champaign
+University: University of Illinois at Urbana-Champaign 9-0-0-0-0-0
 Team: Poor Man's Shield
 Regionals:
 The 2015 Mid-Central USA Regional Contest, 1st
@@ -4366,7 +4366,7 @@ World Finals coach (2015)
 
 Contestant 1:
 Name: Lan Dao
-TC handle: 
+TC handle: tichuot
 CF handle: TiChuot97
 Achievements:
 
@@ -4379,7 +4379,7 @@ ACM ICPC Finalist (2015)
 
 Contestant 3:
 Name: Siwakorn Srisakaokul
-TC handle: 
+TC handle: ping128
 CF handle: NarakJung
 Achievements:
 
@@ -4389,7 +4389,7 @@ Achievements:
 
 
 
-University: University of Minnesota - Twin Cities
+University: University of Minnesota - Twin Cities 7-0-0-0-0-0
 Team: Benchwarmers
 Regionals:
 The 2015 North Central NA Regional Contest, 2nd
@@ -4403,7 +4403,7 @@ Achievements:
 Contestant 1:
 Name: Lucas Knutson
 TC handle: 
-CF handle: 
+CF handle: GoldenGopher
 Achievements:
 ACM ICPC Finalist (2015)
 
@@ -4426,7 +4426,7 @@ Achievements:
 
 
 
-University: University of New South Wales
+University: University of New South Wales 11-0-0-1-0-10
 Team: TheNorthernLine
 Regionals:
 South Pacific Regional Finals, 1st
@@ -4467,7 +4467,7 @@ IOI Participant (2013)
 
 
 
-University: University of North Carolina at Chapel Hill
+University: University of North Carolina at Chapel Hill 1-0-0-0-0-0
 Team: Dayton Goliath Trees
 Regionals:
 The 2015 Mid-Atlantic USA Regional Contest, 4th
@@ -4486,7 +4486,7 @@ Achievements:
 
 Contestant 2:
 Name: Dayton Ellwanger
-TC handle: 
+TC handle: daytonellwanger
 CF handle: 
 Achievements:
 
@@ -4502,7 +4502,7 @@ Achievements:
 
 
 
-University: University of Southern California
+University: University of Southern California 4-0-0-0-0-0
 Team: USC Trojans
 Regionals:
 The 2015 Southern California Regional Contest, 2nd
@@ -4540,7 +4540,7 @@ Achievements:
 
 
 
-University: University of Utah
+University: University of Utah 4-0-0-0-0-0
 Team: Uncompilables
 Regionals:
 The 2015 Rocky Mountain Regional Contest, 1st
@@ -4555,19 +4555,19 @@ World Finals coach (1999)
 Contestant 1:
 Name: Liam Machado
 TC handle: 
-CF handle: 
+CF handle: quake0
 Achievements:
 
 Contestant 2:
 Name: William Li
 TC handle: 
-CF handle: 
+CF handle: williamjli
 Achievements:
 
 Contestant 3:
 Name: Samuel Zachary
 TC handle: 
-CF handle: 
+CF handle: sazzach
 Achievements:
 
 
@@ -4576,7 +4576,7 @@ Achievements:
 
 
 
-University: University of Virginia
+University: University of Virginia 8-0-0-0-0-0
 Team: foo
 Regionals:
 The 2015 Mid-Atlantic USA Regional Contest, 1st
@@ -4613,7 +4613,7 @@ Achievements:
 
 
 
-University: University of Warsaw
+University: University of Warsaw 21-2-3-5-4-2
 Team: Warsaw Eagles 2016
 OpenCup: 16 (3)
 Regionals:
@@ -4658,7 +4658,7 @@ IOI Silver Medalist (2012)
 
 
 
-University: University of Waterloo
+University: University of Waterloo 22-2-7-2-6-2
 Team: Waterloo Black
 Regionals:
 The 2015 East Central NA Regional Contest, 1st
@@ -4696,7 +4696,7 @@ IOI Bronze Medalist (2013)
 
 
 
-University: University of Wisconsin - Madison
+University: University of Wisconsin - Madison 14-0-0-0-0-0
 Team: SmileDog
 Regionals:
 The 2015 North Central NA Regional Contest, 1st
@@ -4733,7 +4733,7 @@ Achievements:
 
 
 
-University: University of Wroclaw
+University: University of Wroclaw 8-0-0-1-0-0
 Team: UWr1
 OpenCup: 31 (4)
 Regionals:
@@ -4755,7 +4755,7 @@ ACM ICPC Finalist (2015)
 
 Contestant 2:
 Name: Maciej Dulęba
-TC handle: 
+TC handle: Solaris3
 CF handle: Solaris
 Achievements:
 ACM ICPC Finalist (2015)
@@ -4774,7 +4774,7 @@ IOI Silver Medalist (2012)
 
 
 
-University: University of Zagreb
+University: University of Zagreb 3-0-0-3-0-0
 Team: Zagreb
 OpenCup: 147 (2)
 Regionals:
@@ -4816,7 +4816,7 @@ IOI Bronze Medalist (2013)
 
 
 
-University: Ural Federal University
+University: Ural Federal University 12-0-0-0-3-0
 Team: Ural FU: Dandelion
 OpenCup: 8 (16)
 Regionals:
@@ -4871,7 +4871,7 @@ CROC Championship finalist (2016)
 
 
 
-University: Utrecht University
+University: Utrecht University 0-0-0-0-0-0
 Team: Curiously recurring
 Regionals:
 The 2015 Northwestern Europe Regional Contest, 3rd
@@ -4909,7 +4909,7 @@ Achievements:
 
 
 
-University: Virginia Tech
+University: Virginia Tech 18-0-1-1-1-1
 Team: Java the Hutt
 Regionals:
 The 2015 Mid-Atlantic USA Regional Contest, 2nd
@@ -4945,7 +4945,7 @@ Achievements:
 
 
 
-University: Zaporizhzhya National Technical University
+University: Zaporizhzhya National Technical University 0-0-0-0-0-0
 Team: ZNTU_SetUp
 OpenCup: 102 (9)
 Regionals:
@@ -4983,7 +4983,7 @@ Achievements:
 
 
 
-University: Zhejiang Normal University
+University: Zhejiang Normal University 1-0-0-0-0-0
 Team: NoPenalty
 Regionals:
 The 2015 ACM-ICPC Asia Beijing Regional Contest, 6th
@@ -5003,7 +5003,7 @@ Achievements:
 
 Contestant 2:
 Name: Yifan Ye
-TC handle: 
+TC handle: lovemaster
 CF handle: love_master
 Achievements:
 
@@ -5019,7 +5019,7 @@ Achievements:
 
 
 
-University: Zhejiang University
+University: Zhejiang University 4-0-0-0-0-1
 Team: Siunaus
 OpenCup: 282 (2)
 Regionals:
@@ -5058,7 +5058,7 @@ Achievements:
 
 
 
-University: Zhongshan (Sun Yat-sen) University
+University: Zhongshan (Sun Yat-sen) University 15-0-0-2-3-0
 Team: SYSU_Braid
 OpenCup: 142 (3)
 Regionals:
@@ -5081,15 +5081,15 @@ Achievements:
 
 Contestant 2:
 Name: Jianchang Zhang
-TC handle: 
-CF handle: 
+TC handle: wodesuck
+CF handle: wodesuck
 Achievements:
 ACM ICPC Finalist (2014)
 
 Contestant 3:
 Name: Yanfen Ma
 TC handle: 
-CF handle: 
+CF handle: mayf3
 Achievements:
 
 
