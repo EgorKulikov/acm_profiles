@@ -1634,7 +1634,7 @@ IOI Silver Medalist (2012)
 Contestant 3:
 Name: Taras Savitskyi
 TC handle: Trumen
-CF handle: Trumen
+CF handle: Taras_Savitskiy
 Achievements:
 
 

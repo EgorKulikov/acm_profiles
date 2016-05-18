@@ -210,7 +210,7 @@ IOI Silver Medalist (2012)
 Contestant 3:
 Name: Taras Savitskyi
 TC handle: Trumen
-CF handle: Trumen
+CF handle: Taras_Savitskiy
 Achievements:
 
 
@@ -1087,6 +1087,43 @@ TC handle: Swistakk
 CF handle: Swistakk
 Achievements:
 IOI Silver Medalist (2012)
+
+
+
+
+
+
+University: University of Waterloo 22-2-7-2-6-2
+Team: Waterloo Black
+Regionals:
+The 2015 East Central NA Regional Contest, 1st
+
+Coach:
+Name: Troy Vasiga
+TC handle: 
+CF handle: 
+Achievements:
+World Finals coach (2015)
+
+Contestant 1:
+Name: Antonio Molina Lovett
+TC handle: 
+CF handle: y0105w49
+Achievements:
+
+Contestant 2:
+Name: Jacob Jackson
+TC handle: zxqfl
+CF handle: zxqfl
+Achievements:
+IOI Gold Medalist (2014, 2015)
+
+Contestant 3:
+Name: Yi Feng Huang
+TC handle: azneye
+CF handle: azneyes
+Achievements:
+IOI Bronze Medalist (2013)
 
 
 
