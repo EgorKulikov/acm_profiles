@@ -1634,7 +1634,7 @@ IOI Silver Medalist (2012)
 Contestant 3:
 Name: Taras Savitskyi
 TC handle: Trumen
-CF handle: Taras_Savitskiy
+CF handle: Trumen
 Achievements:
 
 
@@ -1971,7 +1971,7 @@ ACM ICPC Finalist (2015)
 Contestant 2:
 Name: Hao Wu
 TC handle: 
-CF handle: mempast
+CF handle: qwdqkh1
 Achievements:
 ACM ICPC Finalist (2015)
 
