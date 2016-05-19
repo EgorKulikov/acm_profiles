@@ -421,7 +421,7 @@ Achievements:
 
 Contestant 3:
 Name: Mohammed Magdy
-TC handle: electro_rage
+TC handle: electro__rage
 CF handle: Baby_Steps
 Achievements:
 
@@ -1311,7 +1311,7 @@ Achievements:
 
 Contestant 2:
 Name: Reza Kakhki
-TC handle: rezakakhiki
+TC handle: rezakakhki
 CF handle: Elk-Cloner
 Achievements:
 
