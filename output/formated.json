@@ -25,7 +25,7 @@
       "coach":{
          "name":"Akleh Majd",
          "altNames":[
-
+            "Majd Akleh"
          ],
          "tcRating":-1,
          "cfRating":-1,
@@ -37,7 +37,7 @@
          {
             "name":"Zakour Marsil",
             "altNames":[
-
+               "Marsil Zakour"
             ],
             "tcRating":-1,
             "cfHandle":"programmer_m",
@@ -63,7 +63,7 @@
          {
             "name":"Hakki Malek",
             "altNames":[
-
+               "Malek Hakki"
             ],
             "tcRating":-1,
             "cfRating":-1,
@@ -122,18 +122,21 @@
          {
             "name":"Hegazi Ahmed Salem Ezzat Salem",
             "altNames":[
-
+               "Ahmed Salem Ezzat Salem Hegazi"
             ],
             "tcRating":-1,
             "cfRating":-1,
             "achievements":[
-
+               {
+                  "achievement":"World Finals coach (2016)",
+                  "priority":1001
+               }
             ]
          },
          {
             "name":"Ghallab Walid",
             "altNames":[
-
+               "Walid Ghallab"
             ],
             "tcRating":-1,
             "cfRating":-1,
@@ -209,7 +212,7 @@
          {
             "name":"Rashid M M Harun Ur",
             "altNames":[
-
+               "M M Harun Ur Rashid"
             ],
             "tcRating":-1,
             "cfRating":-1,
@@ -220,12 +223,20 @@
          {
             "name":"Mollik Tanmoy",
             "altNames":[
-
+               "Tanmoy Mollik",
+               "tonmoy mollik",
+               "mollik tonmoy"
             ],
-            "tcRating":-1,
-            "cfRating":-1,
+            "tcHandle":"triploblastic",
+            "tcId":"23138918",
+            "tcRating":1366,
+            "cfHandle":"triploblastic",
+            "cfRating":2066,
             "achievements":[
-
+               {
+                  "achievement":"IOI Participant (2014)",
+                  "priority":11
+               }
             ]
          }
       ]
@@ -256,19 +267,22 @@
       "coach":{
          "name":"Song You",
          "altNames":[
-
+            "You Song"
          ],
          "tcRating":-1,
          "cfRating":-1,
          "achievements":[
-
+            {
+               "achievement":"World Finals coach (2013, 2015)",
+               "priority":1002
+            }
          ]
       },
       "contestants":[
          {
             "name":"Liu Ziyuan",
             "altNames":[
-
+               "Ziyuan Liu"
             ],
             "tcRating":-1,
             "cfRating":-1,
@@ -332,7 +346,7 @@
       "coach":{
          "name":"Chen Jiehao",
          "altNames":[
-
+            "Jiehao Chen"
          ],
          "tcRating":-1,
          "cfRating":-1,
@@ -344,7 +358,7 @@
          {
             "name":"Ma Xinyu",
             "altNames":[
-
+               "Xinyu Ma"
             ],
             "tcRating":-1,
             "cfHandle":"SparkOO7",
@@ -356,7 +370,7 @@
          {
             "name":"Huan Chengying",
             "altNames":[
-
+               "Chengying Huan"
             ],
             "tcRating":-1,
             "cfRating":-1,
@@ -367,7 +381,7 @@
          {
             "name":"Sun Ying",
             "altNames":[
-
+               "Ying Sun"
             ],
             "tcRating":-1,
             "cfRating":-1,
@@ -403,12 +417,15 @@
       "coach":{
          "name":"Feng Su",
          "altNames":[
-
+            "Su Feng"
          ],
          "tcRating":-1,
          "cfRating":-1,
          "achievements":[
-
+            {
+               "achievement":"World Finals coach (2014, 2015)",
+               "priority":1002
+            }
          ]
       },
       "contestants":[
@@ -429,12 +446,15 @@
          {
             "name":"He Weiqiang",
             "altNames":[
-
+               "Weiqiang He"
             ],
             "tcRating":-1,
             "cfRating":-1,
             "achievements":[
-
+               {
+                  "achievement":"ACM ICPC Finalist (2015)",
+                  "priority":1001
+               }
             ]
          },
          {
@@ -479,19 +499,22 @@
       "coach":{
          "name":"Yang Ya",
          "altNames":[
-
+            "Ya Yang"
          ],
          "tcRating":-1,
          "cfRating":-1,
          "achievements":[
-
+            {
+               "achievement":"World Finals coach (2016)",
+               "priority":1001
+            }
          ]
       },
       "contestants":[
          {
             "name":"Tang Tianxiao",
             "altNames":[
-
+               "Tianxiao Tang"
             ],
             "tcRating":-1,
             "cfRating":-1,
@@ -502,7 +525,7 @@
          {
             "name":"Ren Qiyu",
             "altNames":[
-
+               "Qiyu Ren"
             ],
             "tcRating":-1,
             "cfRating":-1,
@@ -513,12 +536,15 @@
          {
             "name":"Cui Hao",
             "altNames":[
-
+               "Hao Cui"
             ],
             "tcRating":-1,
             "cfRating":-1,
             "achievements":[
-
+               {
+                  "achievement":"ACM ICPC Finalist (1999, 2000)",
+                  "priority":1002
+               }
             ]
          }
       ]
@@ -549,13 +575,42 @@
       "coach":{
          "name":"Ropan Aliaksei",
          "altNames":[
-
+            "Aliaksei Ropan",
+            "Alexey Ropan",
+            "Aleksey Ropan",
+            "Ropan Aleksey"
          ],
-         "tcRating":-1,
-         "cfRating":-1,
+         "tcHandle":"aropan",
+         "tcId":"22710905",
+         "tcRating":2117,
+         "cfHandle":"aropan",
+         "cfRating":2359,
          "twitterHandle":"aropan",
          "achievements":[
-
+            {
+               "achievement":"ACM ICPC bronze medal (2012)",
+               "priority":4001
+            },
+            {
+               "achievement":"World Finals coach (2015, 2016)",
+               "priority":1002
+            },
+            {
+               "achievement":"TCO Semifinalist (2013)",
+               "priority":51
+            },
+            {
+               "achievement":"RCC Finalist (2012, 2015)",
+               "priority":27
+            },
+            {
+               "achievement":"IOI Bronze Medalist (2008)",
+               "priority":21
+            },
+            {
+               "achievement":"CROC Championship finalist (2013)",
+               "priority":16
+            }
          ]
       },
       "contestants":[
@@ -581,23 +636,62 @@
          {
             "name":"Valchok Andrei",
             "altNames":[
-               "Valchok Andrey"
+               "Valchok Andrey",
+               "Andrei Valchok",
+               "Andrey Volchek",
+               "Andrey Valchok",
+               "Volchek Andrey"
             ],
-            "tcRating":-1,
-            "cfRating":-1,
+            "tcHandle":"avolchek",
+            "tcId":"23177398",
+            "tcRating":1950,
+            "cfHandle":"andrew.volchek",
+            "cfRating":2673,
             "achievements":[
-
+               {
+                  "achievement":"ACM ICPC Finalist (2016)",
+                  "priority":1001
+               },
+               {
+                  "achievement":"RCC Finalist (2015)",
+                  "priority":26
+               },
+               {
+                  "achievement":"CROC Championship finalist (2016)",
+                  "priority":16
+               }
             ]
          },
          {
             "name":"Vistiazh Aliaksei",
             "altNames":[
-
+               "Aliaksei Vistiazh",
+               "Alexey Vistyazh",
+               "Alex Vistyazh",
+               "Vistyazh Alex"
             ],
-            "tcRating":-1,
-            "cfRating":-1,
+            "tcHandle":"AlexVistyazh",
+            "tcId":"23136526",
+            "tcRating":2101,
+            "cfHandle":"netman",
+            "cfRating":2336,
             "achievements":[
-
+               {
+                  "achievement":"ACM ICPC Finalist (2016)",
+                  "priority":1001
+               },
+               {
+                  "achievement":"IOI Silver Medalist (2014)",
+                  "priority":31
+               },
+               {
+                  "achievement":"IOI Bronze Medalist (2015)",
+                  "priority":21
+               },
+               {
+                  "achievement":"CROC Championship finalist (2016)",
+                  "priority":16
+               }
             ]
          }
       ]
@@ -628,7 +722,7 @@
       "coach":{
          "name":"Jingga Felix",
          "altNames":[
-
+            "Felix Jingga"
          ],
          "tcRating":-1,
          "cfRating":-1,
@@ -641,7 +735,7 @@
          {
             "name":"Darmawan Albert",
             "altNames":[
-
+               "Albert Darmawan"
             ],
             "tcRating":-1,
             "cfRating":-1,
@@ -652,10 +746,12 @@
          {
             "name":"Yosef Rafael Herman",
             "altNames":[
-
+               "Rafael Herman Yosef",
+               "Herman Yosef Rafael"
             ],
             "tcRating":-1,
-            "cfRating":-1,
+            "cfHandle":"rafaelherman",
+            "cfRating":1685,
             "achievements":[
 
             ]
@@ -797,7 +893,7 @@
       "coach":{
          "name":"Gallagher Dave",
          "altNames":[
-
+            "Dave Gallagher"
          ],
          "tcRating":-1,
          "cfRating":-1,
@@ -809,18 +905,21 @@
          {
             "name":"Smith Timothy",
             "altNames":[
-
+               "Timothy Smith"
             ],
             "tcRating":-1,
             "cfRating":-1,
             "achievements":[
-
+               {
+                  "achievement":"ACM ICPC Finalist (2012, 2015)",
+                  "priority":1002
+               }
             ]
          },
          {
             "name":"Harold Nathan",
             "altNames":[
-
+               "Nathan Harold"
             ],
             "tcRating":-1,
             "cfRating":-1,
@@ -831,7 +930,7 @@
          {
             "name":"Easterday Jonathan",
             "altNames":[
-
+               "Jonathan Easterday"
             ],
             "tcRating":-1,
             "cfRating":-1,
@@ -868,19 +967,22 @@
       "coach":{
          "name":"Krishnan Narayan Kumar",
          "altNames":[
-
+            "Narayan Kumar Krishnan"
          ],
          "tcRating":-1,
          "cfRating":-1,
          "achievements":[
-
+            {
+               "achievement":"World Finals coach (2012, 2013)",
+               "priority":1002
+            }
          ]
       },
       "contestants":[
          {
             "name":"Sevekari Anish Prasad",
             "altNames":[
-
+               "Anish Prasad Sevekari"
             ],
             "tcRating":-1,
             "cfRating":-1,
@@ -947,12 +1049,15 @@
       "coach":{
          "name":"Surarerks Athasit",
          "altNames":[
-
+            "Athasit Surarerks"
          ],
          "tcRating":-1,
          "cfRating":-1,
          "achievements":[
-
+            {
+               "achievement":"World Finals coach (2016)",
+               "priority":1001
+            }
          ]
       },
       "contestants":[
@@ -974,7 +1079,7 @@
          {
             "name":"Saittagaroon Thanapat",
             "altNames":[
-
+               "Thanapat Saittagaroon"
             ],
             "tcRating":-1,
             "cfRating":-1,
@@ -985,7 +1090,7 @@
          {
             "name":"Chraroenchitseriwong Phirasit",
             "altNames":[
-
+               "Phirasit Chraroenchitseriwong"
             ],
             "tcRating":-1,
             "cfRating":-1,
@@ -1063,7 +1168,7 @@
          {
             "name":"Ristache Dragos-Florian",
             "altNames":[
-
+               "Dragos-Florian Ristache"
             ],
             "tcRating":-1,
             "cfRating":-1,
@@ -1129,6 +1234,7 @@
          {
             "name":"Sryheni Said",
             "altNames":[
+               "Said Sryheni",
                "Saeed Sryhini",
                "Sryhini Saeed"
             ],
@@ -1142,7 +1248,7 @@
          {
             "name":"Gafer Ahmad",
             "altNames":[
-
+               "Ahmad Gafer"
             ],
             "tcRating":-1,
             "cfRating":-1,
@@ -1178,7 +1284,7 @@
       "coach":{
          "name":"Muthu Rahul",
          "altNames":[
-
+            "Rahul Muthu"
          ],
          "tcRating":-1,
          "cfRating":-1,
@@ -1260,7 +1366,7 @@
       "coach":{
          "name":"Barral Hadrien",
          "altNames":[
-
+            "Hadrien Barral"
          ],
          "tcRating":-1,
          "cfRating":-1,
@@ -1289,7 +1395,9 @@
          {
             "name":"Bocquet Rafaël",
             "altNames":[
-               "Bocquet Rafael"
+               "Bocquet Rafael",
+               "Rafaël Bocquet",
+               "Rafael Bocquet"
             ],
             "tcRating":-1,
             "cfRating":-1,
@@ -1300,7 +1408,9 @@
          {
             "name":"Courant Nathanaël",
             "altNames":[
-               "Courant Nathanael"
+               "Courant Nathanael",
+               "Nathanaël Courant",
+               "Nathanael Courant"
             ],
             "tcRating":-1,
             "cfRating":-1,
@@ -1336,19 +1446,27 @@
       "coach":{
          "name":"Kapfhammer Johannes",
          "altNames":[
-
+            "Johannes Kapfhammer"
          ],
          "tcRating":-1,
          "cfRating":-1,
          "twitterHandle":"icpchammer",
          "achievements":[
-
+            {
+               "achievement":"ACM ICPC Finalist (2014, 2016)",
+               "priority":1002
+            },
+            {
+               "achievement":"IOI Participant (2012, 2013)",
+               "priority":12
+            }
          ]
       },
       "contestants":[
          {
             "name":"Rutschmann Daniel",
             "altNames":[
+               "Daniel Rutschmann",
                "daniel rutschmann",
                "rutschmann daniel"
             ],
@@ -1362,12 +1480,19 @@
          {
             "name":"Grubić Demjan",
             "altNames":[
-
+               "Demjan Grubić"
             ],
             "tcRating":-1,
             "cfRating":-1,
             "achievements":[
-
+               {
+                  "achievement":"ACM ICPC Finalist (2016)",
+                  "priority":1001
+               },
+               {
+                  "achievement":"IOI Participant (2012)",
+                  "priority":11
+               }
             ]
          },
          {
@@ -1419,7 +1544,9 @@
       "coach":{
          "name":"Alcantara Juárez Manuel",
          "altNames":[
-            "Alcantara Juarez Manuel"
+            "Alcantara Juarez Manuel",
+            "Manuel Alcantara Juárez",
+            "Manuel Alcantara Juarez"
          ],
          "tcRating":-1,
          "cfRating":-1,
@@ -1431,7 +1558,7 @@
          {
             "name":"Ley Flores Santiago",
             "altNames":[
-
+               "Santiago Ley Flores"
             ],
             "tcRating":-1,
             "cfRating":-1,
@@ -1442,7 +1569,9 @@
          {
             "name":"Fernández Hidalgo Jorge",
             "altNames":[
-               "Fernandez Hidalgo Jorge"
+               "Fernandez Hidalgo Jorge",
+               "Jorge Fernández Hidalgo",
+               "Jorge Fernandez Hidalgo"
             ],
             "tcRating":-1,
             "cfRating":-1,
@@ -1453,7 +1582,9 @@
          {
             "name":"Chacón Ochoa Luis Enrique",
             "altNames":[
-               "Chacon Ochoa Luis Enrique"
+               "Chacon Ochoa Luis Enrique",
+               "Luis Enrique Chacón Ochoa",
+               "Luis Enrique Chacon Ochoa"
             ],
             "tcRating":-1,
             "cfRating":-1,
@@ -1489,7 +1620,7 @@
       "coach":{
          "name":"Abd El-Mohsen Hassan Ahmed",
          "altNames":[
-
+            "Ahmed Abd El-Mohsen Hassan"
          ],
          "tcHandle":"ahmed0mohsen",
          "tcRating":-1,
@@ -1497,13 +1628,17 @@
          "cfRating":-1,
          "twitterHandle":"xamohsen",
          "achievements":[
-
+            {
+               "achievement":"ACM ICPC Finalist (2015)",
+               "priority":1001
+            }
          ]
       },
       "contestants":[
          {
             "name":"Swalem Khaled",
             "altNames":[
+               "Khaled Swalem",
                "Khaled KEE",
                "KEE Khaled"
             ],
@@ -1534,7 +1669,7 @@
          {
             "name":"ElRashidy Nour",
             "altNames":[
-
+               "Nour ElRashidy"
             ],
             "tcRating":-1,
             "cfRating":-1,
@@ -1593,6 +1728,7 @@
          {
             "name":"Yosri Yehia Ahmed Noureldin",
             "altNames":[
+               "Noureldin Yosri Yehia Ahmed",
                "Noureldin Yosri",
                "Yosri Noureldin"
             ],
@@ -1607,7 +1743,7 @@
          {
             "name":"Zain Mohamed",
             "altNames":[
-
+               "Mohamed Zain"
             ],
             "tcRating":-1,
             "cfRating":-1,
@@ -1658,19 +1794,26 @@
       "coach":{
          "name":"Sun Weiwei",
          "altNames":[
-
+            "Weiwei Sun"
          ],
          "tcRating":-1,
          "cfRating":-1,
          "achievements":[
-
+            {
+               "achievement":"ACM ICPC bronze medal as coach (2016)",
+               "priority":2001
+            },
+            {
+               "achievement":"World Finals coach (2012-2015)",
+               "priority":1004
+            }
          ]
       },
       "contestants":[
          {
             "name":"Ma Zhihao",
             "altNames":[
-
+               "Zhihao Ma"
             ],
             "tcRating":-1,
             "cfRating":-1,
@@ -1693,7 +1836,7 @@
          {
             "name":"Gao Xi",
             "altNames":[
-
+               "Xi Gao"
             ],
             "tcRating":-1,
             "cfRating":-1,
@@ -1729,19 +1872,22 @@
       "coach":{
          "name":"Fu Yanggeng",
          "altNames":[
-
+            "Yanggeng Fu"
          ],
          "tcRating":-1,
          "cfRating":-1,
          "achievements":[
-
+            {
+               "achievement":"World Finals coach (2015)",
+               "priority":1001
+            }
          ]
       },
       "contestants":[
          {
             "name":"Guo Xiaodong",
             "altNames":[
-
+               "Xiaodong Guo"
             ],
             "tcRating":-1,
             "cfRating":-1,
@@ -1752,10 +1898,13 @@
          {
             "name":"Zhuo Yifan",
             "altNames":[
-
+               "Yifan Zhuo",
+               "zhuo yifan",
+               "yifan zhuo"
             ],
             "tcRating":-1,
-            "cfRating":-1,
+            "cfHandle":"joyfun",
+            "cfRating":2086,
             "achievements":[
 
             ]
@@ -1763,7 +1912,7 @@
          {
             "name":"Zou Peng",
             "altNames":[
-
+               "Peng Zou"
             ],
             "tcRating":-1,
             "cfRating":-1,
@@ -1799,21 +1948,24 @@
       "coach":{
          "name":"Abdennadher Slim",
          "altNames":[
-
+            "Slim Abdennadher"
          ],
          "tcRating":-1,
          "cfRating":-1,
          "achievements":[
-
+            {
+               "achievement":"World Finals coach (2009, 2011, 2015)",
+               "priority":1003
+            }
          ]
       },
       "contestants":[
          {
             "name":"Ahmed Mohamed",
             "altNames":[
+               "Mohamed Ahmed",
                "Mohamed Atef",
-               "Atef Mohamed",
-               "Mohamed Ahmed"
+               "Atef Mohamed"
             ],
             "tcHandle":"eagle93",
             "tcId":"23049587",
@@ -1839,7 +1991,7 @@
          {
             "name":"Nasser Mohamed",
             "altNames":[
-
+               "Mohamed Nasser"
             ],
             "tcRating":-1,
             "cfRating":-1,
@@ -1875,18 +2027,23 @@
       "coach":{
          "name":"LIU Chunying",
          "altNames":[
-
+            "Chunying LIU",
+            "Chunying Liu"
          ],
          "tcRating":-1,
          "cfRating":-1,
          "achievements":[
-
+            {
+               "achievement":"World Finals coach (2010, 2011, 2015)",
+               "priority":1003
+            }
          ]
       },
       "contestants":[
          {
             "name":"CHEN Songyang",
             "altNames":[
+               "Songyang CHEN",
                "Songyang Chen",
                "Chen Songyang"
             ],
@@ -1900,6 +2057,7 @@
          {
             "name":"CHEN Peng",
             "altNames":[
+               "Peng CHEN",
                "peng chen",
                "chen peng"
             ],
@@ -1913,6 +2071,7 @@
          {
             "name":"NAN Lihao",
             "altNames":[
+               "Lihao NAN",
                "lihao nan",
                "nan lihao"
             ],
@@ -1951,30 +2110,39 @@
       "coach":{
          "name":"Ramakrishnan Ganesh",
          "altNames":[
-
+            "Ganesh Ramakrishnan"
          ],
          "tcRating":-1,
          "cfRating":-1,
          "achievements":[
-
+            {
+               "achievement":"World Finals coach (2015)",
+               "priority":1001
+            }
          ]
       },
       "contestants":[
          {
             "name":"Chippada Venkateswara Rao",
             "altNames":[
-
+               "Venkateswara Rao Chippada",
+               "Venkateswara Rao Ch",
+               "Ch Venkateswara Rao"
             ],
             "tcRating":-1,
-            "cfRating":-1,
+            "cfHandle":"venkat82",
+            "cfRating":1924,
             "achievements":[
-
+               {
+                  "achievement":"ACM ICPC Finalist (2016)",
+                  "priority":1001
+               }
             ]
          },
          {
             "name":"Khan Mohammed Owais",
             "altNames":[
-
+               "Mohammed Owais Khan"
             ],
             "tcRating":-1,
             "cfRating":-1,
@@ -2028,12 +2196,15 @@
       "coach":{
          "name":"Srivastava Abhishek",
          "altNames":[
-
+            "Abhishek Srivastava"
          ],
          "tcRating":-1,
          "cfRating":-1,
          "achievements":[
-
+            {
+               "achievement":"World Finals coach (2013, 2014)",
+               "priority":1002
+            }
          ]
       },
       "contestants":[
@@ -2054,6 +2225,7 @@
          {
             "name":"Saxena Utkarsh",
             "altNames":[
+               "Utkarsh Saxena",
                "UTKARSH SAXENA",
                "SAXENA UTKARSH"
             ],
@@ -2069,6 +2241,7 @@
          {
             "name":"Shah Harshil",
             "altNames":[
+               "Harshil Shah",
                "HARSHIL SHAH",
                "SHAH HARSHIL"
             ],
@@ -2107,7 +2280,7 @@
       "coach":{
          "name":"Nandakumar Satyadev",
          "altNames":[
-
+            "Satyadev Nandakumar"
          ],
          "tcRating":-1,
          "cfRating":-1,
@@ -2188,7 +2361,7 @@
       "coach":{
          "name":"Gamboa Rafael",
          "altNames":[
-
+            "Rafael Gamboa"
          ],
          "tcRating":-1,
          "cfRating":-1,
@@ -2200,37 +2373,60 @@
          {
             "name":"Román Cepeda Freddy",
             "altNames":[
-               "Roman Cepeda Freddy"
+               "Roman Cepeda Freddy",
+               "Freddy Román Cepeda",
+               "Freddy Roman Cepeda",
+               "Freddy Roman",
+               "Roman Freddy"
             ],
-            "tcRating":-1,
-            "cfRating":-1,
+            "tcHandle":"frcepeda",
+            "tcId":"22915046",
+            "tcRating":1823,
+            "cfHandle":"frcepeda",
+            "cfRating":2015,
             "twitterHandle":"frcepeda",
             "achievements":[
-
+               {
+                  "achievement":"ACM ICPC Finalist (2016)",
+                  "priority":1001
+               },
+               {
+                  "achievement":"IOI Participant (2012)",
+                  "priority":11
+               }
             ]
          },
          {
             "name":"Espinosa Ruiz Demian",
             "altNames":[
-
+               "Demian Espinosa Ruiz"
             ],
             "tcRating":-1,
             "cfRating":-1,
             "twitterHandle":"DemianEspinosaR",
             "achievements":[
-
+               {
+                  "achievement":"ACM ICPC Finalist (2016)",
+                  "priority":1001
+               }
             ]
          },
          {
             "name":"Terán Ríos Diego",
             "altNames":[
-               "Teran Rios Diego"
+               "Teran Rios Diego",
+               "Diego Terán Ríos",
+               "Diego Teran Rios"
             ],
             "tcRating":-1,
-            "cfRating":-1,
+            "cfHandle":"diegoteran",
+            "cfRating":1588,
             "twitterHandle":"DiegoTe_94",
             "achievements":[
-
+               {
+                  "achievement":"ACM ICPC Finalist (2016)",
+                  "priority":1001
+               }
             ]
          }
       ]
@@ -2261,7 +2457,7 @@
       "coach":{
          "name":"VADDARAHALLI NARASIMHA MOORTHY MURALIDHARA",
          "altNames":[
-
+            "MURALIDHARA VADDARAHALLI NARASIMHA MOORTHY"
          ],
          "tcRating":-1,
          "cfRating":-1,
@@ -2273,6 +2469,7 @@
          {
             "name":"Komini Babu Shyam",
             "altNames":[
+               "Shyam Komini Babu",
                "Shyam KB",
                "KB Shyam"
             ],
@@ -2286,7 +2483,7 @@
          {
             "name":"Dokania Simran",
             "altNames":[
-
+               "Simran Dokania"
             ],
             "tcRating":-1,
             "cfHandle":"sim3995",
@@ -2337,12 +2534,15 @@
       "coach":{
          "name":"Choppella Venkatesh",
          "altNames":[
-
+            "Venkatesh Choppella"
          ],
          "tcRating":-1,
          "cfRating":-1,
          "achievements":[
-
+            {
+               "achievement":"World Finals coach (2014, 2015)",
+               "priority":1002
+            }
          ]
       },
       "contestants":[
@@ -2414,30 +2614,36 @@
       "coach":{
          "name":"Mitra Simanta",
          "altNames":[
-
+            "Simanta Mitra"
          ],
          "tcRating":-1,
          "cfRating":-1,
          "achievements":[
-
+            {
+               "achievement":"World Finals coach (2009, 2012, 2014-2016)",
+               "priority":1005
+            }
          ]
       },
       "contestants":[
          {
             "name":"Zhang Yuxiang",
             "altNames":[
-
+               "Yuxiang Zhang"
             ],
             "tcRating":-1,
             "cfRating":-1,
             "achievements":[
-
+               {
+                  "achievement":"ACM ICPC Finalist (2016)",
+                  "priority":1001
+               }
             ]
          },
          {
             "name":"Gottshall Ian",
             "altNames":[
-
+               "Ian Gottshall"
             ],
             "tcRating":-1,
             "cfRating":-1,
@@ -2448,7 +2654,7 @@
          {
             "name":"Perin Jacob",
             "altNames":[
-
+               "Jacob Perin"
             ],
             "tcRating":-1,
             "cfRating":-1,
@@ -2484,12 +2690,19 @@
       "coach":{
          "name":"Idziak Pawel",
          "altNames":[
-
+            "Pawel Idziak"
          ],
          "tcRating":-1,
          "cfRating":-1,
          "achievements":[
-
+            {
+               "achievement":"ACM ICPC bronze medal as coach (2011, 2013)",
+               "priority":2002
+            },
+            {
+               "achievement":"World Finals coach (2009, 2012, 2014-2016)",
+               "priority":1005
+            }
          ]
       },
       "contestants":[
@@ -2569,12 +2782,15 @@
       "coach":{
          "name":"Uddin Mohammad Shorif",
          "altNames":[
-
+            "Mohammad Shorif Uddin"
          ],
          "tcRating":-1,
          "cfRating":-1,
          "achievements":[
-
+            {
+               "achievement":"World Finals coach (2015)",
+               "priority":1001
+            }
          ]
       },
       "contestants":[
@@ -2599,6 +2815,7 @@
          {
             "name":"Khatri Bir Bahadur",
             "altNames":[
+               "Bir Bahadur Khatri",
                "Bir Bahadur khatri",
                "khatri Bir Bahadur"
             ],
@@ -2614,7 +2831,7 @@
          {
             "name":"Sohel Md Sahedul Islam",
             "altNames":[
-
+               "Md Sahedul Islam Sohel"
             ],
             "tcHandle":"https://www.topcoder.com/members/sahedsohel/",
             "tcRating":-1,
@@ -2652,12 +2869,15 @@
       "coach":{
          "name":"Shin Sung Yong",
          "altNames":[
-
+            "Sung Yong Shin"
          ],
          "tcRating":-1,
          "cfRating":-1,
          "achievements":[
-
+            {
+               "achievement":"World Finals coach (2013)",
+               "priority":1001
+            }
          ]
       },
       "contestants":[
@@ -2735,7 +2955,7 @@
       "coach":{
          "name":"Takada Shingo",
          "altNames":[
-
+            "Shingo Takada"
          ],
          "tcRating":-1,
          "cfRating":-1,
@@ -2747,6 +2967,7 @@
          {
             "name":"Nikaido Kento",
             "altNames":[
+               "Kento Nikaido",
                "Kent Nikaido",
                "Nikaido Kent"
             ],
@@ -2770,7 +2991,7 @@
          {
             "name":"Niwa Naoya",
             "altNames":[
-
+               "Naoya Niwa"
             ],
             "tcRating":-1,
             "cfRating":-1,
@@ -2781,7 +3002,7 @@
          {
             "name":"Ohkubo Tetsui",
             "altNames":[
-
+               "Tetsui Ohkubo"
             ],
             "tcRating":-1,
             "cfRating":-1,
@@ -2949,12 +3170,33 @@
       "coach":{
          "name":"Herasymiv Vitalii",
          "altNames":[
-
+            "Vitalii Herasymiv",
+            "Vitaly Herasymiv",
+            "Vitaliy Herasymiv",
+            "Herasymiv Vitaliy"
          ],
-         "tcRating":-1,
-         "cfRating":-1,
+         "tcHandle":"Witaliy",
+         "tcId":"22823691",
+         "tcRating":2197,
+         "cfHandle":"witua",
+         "cfRating":2434,
          "achievements":[
-
+            {
+               "achievement":"ACM ICPC bronze medal (2016)",
+               "priority":4001
+            },
+            {
+               "achievement":"ACM ICPC Finalist (2015)",
+               "priority":1001
+            },
+            {
+               "achievement":"IOI Silver Medalist (2012)",
+               "priority":31
+            },
+            {
+               "achievement":"VK Cup finalist (2016)",
+               "priority":26
+            }
          ]
       },
       "contestants":[
@@ -2978,7 +3220,7 @@
          {
             "name":"Radiuk Volodymyr",
             "altNames":[
-
+               "Volodymyr Radiuk"
             ],
             "tcRating":-1,
             "cfRating":-1,
@@ -3029,24 +3271,51 @@
       "coach":{
          "name":"Zlateski Aleksandar",
          "altNames":[
-
+            "Aleksandar Zlateski"
          ],
          "tcRating":-1,
          "cfRating":-1,
          "achievements":[
-
+            {
+               "achievement":"ACM ICPC silver medal as coach (2016)",
+               "priority":3001
+            },
+            {
+               "achievement":"World Finals coach (2010-2013)",
+               "priority":1004
+            },
+            {
+               "achievement":"IOI Silver Medalist (2002)",
+               "priority":31
+            },
+            {
+               "achievement":"IOI Bronze Medalist (2001, 2003)",
+               "priority":22
+            }
          ]
       },
       "contestants":[
          {
             "name":"Xu Haoran",
             "altNames":[
-
+               "Haoran Xu",
+               "Lemon Xu",
+               "Xu Lemon"
             ],
-            "tcRating":-1,
-            "cfRating":-1,
+            "tcHandle":"sillycross",
+            "tcId":"23056829",
+            "tcRating":1786,
+            "cfHandle":"sillycross",
+            "cfRating":2426,
             "achievements":[
-
+               {
+                  "achievement":"ACM ICPC bronze medal (2015)",
+                  "priority":4001
+               },
+               {
+                  "achievement":"IOI Gold Medalist (2013)",
+                  "priority":51
+               }
             ]
          },
          {
@@ -3127,7 +3396,7 @@
       "coach":{
          "name":"Best Darcy",
          "altNames":[
-
+            "Darcy Best"
          ],
          "tcHandle":"MathCrusader",
          "tcId":"40052679",
@@ -3135,7 +3404,10 @@
          "cfHandle":"MathCrusader",
          "cfRating":2176,
          "achievements":[
-
+            {
+               "achievement":"ACM ICPC Finalist (2013, 2014)",
+               "priority":1002
+            }
          ]
       },
       "contestants":[
@@ -3156,7 +3428,7 @@
          {
             "name":"Chow Xin Wei",
             "altNames":[
-
+               "Xin Wei Chow"
             ],
             "tcHandle":"xwchow",
             "tcId":"40043567",
@@ -3209,8 +3481,8 @@
       "coach":{
          "name":"Tikhomirov Mikhail",
          "altNames":[
-            "Michael Tikhomirov",
-            "Mikhail Tikhomirov"
+            "Mikhail Tikhomirov",
+            "Michael Tikhomirov"
          ],
          "tcHandle":"Endagorion",
          "tcId":"22681902",
@@ -3307,8 +3579,8 @@
          {
             "name":"Zhuk Artsem",
             "altNames":[
-               "Artem Zhuk",
-               "Artsem Zhuk"
+               "Artsem Zhuk",
+               "Artem Zhuk"
             ],
             "tcHandle":"Arterm",
             "tcId":"23043978",
@@ -3366,19 +3638,23 @@
       "coach":{
          "name":"Shestimerov Andrey",
          "altNames":[
-
+            "Andrey Shestimerov"
          ],
          "tcRating":-1,
          "cfRating":-1,
          "twitterHandle":"vrandik",
          "achievements":[
-
+            {
+               "achievement":"World Finals coach (2016)",
+               "priority":1001
+            }
          ]
       },
       "contestants":[
          {
             "name":"Kupliakov Denis",
             "altNames":[
+               "Denis Kupliakov",
                "Denis Kuplyakov",
                "Kuplyakov Denis"
             ],
@@ -3451,7 +3727,7 @@
       "coach":{
          "name":"Keliher Liam",
          "altNames":[
-
+            "Liam Keliher"
          ],
          "tcRating":-1,
          "cfRating":-1,
@@ -3463,7 +3739,7 @@
          {
             "name":"Stairs Micah",
             "altNames":[
-
+               "Micah Stairs"
             ],
             "tcRating":-1,
             "cfRating":-1,
@@ -3475,7 +3751,7 @@
          {
             "name":"Fiset William",
             "altNames":[
-
+               "William Fiset"
             ],
             "tcRating":-1,
             "cfRating":-1,
@@ -3486,7 +3762,7 @@
          {
             "name":"Lidbetter Thomas",
             "altNames":[
-
+               "Thomas Lidbetter"
             ],
             "tcRating":-1,
             "cfRating":-1,
@@ -3522,7 +3798,7 @@
       "coach":{
          "name":"Basavaraju Manu",
          "altNames":[
-
+            "Manu Basavaraju"
          ],
          "tcRating":-1,
          "cfRating":-1,
@@ -3534,7 +3810,7 @@
          {
             "name":"Sahoo Prabhu",
             "altNames":[
-
+               "Prabhu Sahoo"
             ],
             "tcRating":-1,
             "cfRating":-1,
@@ -3559,7 +3835,7 @@
          {
             "name":"Ghaturle Yogesh",
             "altNames":[
-
+               "Yogesh Ghaturle"
             ],
             "tcRating":-1,
             "cfHandle":"yogeshg39",
@@ -3641,6 +3917,7 @@
             "name":"Kashin Andrei",
             "altNames":[
                "Kashin Andrey",
+               "Andrei Kashin",
                "Andrey Kashin"
             ],
             "tcRating":-1,
@@ -3678,25 +3955,40 @@
       "coach":{
          "name":"Cheng Pu-Jen",
          "altNames":[
-
+            "Pu-Jen Cheng"
          ],
          "tcRating":-1,
          "cfRating":-1,
          "achievements":[
-
+            {
+               "achievement":"ACM ICPC gold medal as coach (2010, 2013, 2014)",
+               "priority":4003
+            },
+            {
+               "achievement":"World Finals coach (2009, 2011, 2012, 2015, 2016)",
+               "priority":1005
+            }
          ]
       },
       "contestants":[
          {
             "name":"Wang Han Chung",
             "altNames":[
-
+               "Han Chung Wang",
+               "HANCHUNG Wang",
+               "Wang HANCHUNG"
             ],
-            "tcRating":-1,
-            "cfRating":-1,
+            "tcHandle":"hanhan0912",
+            "tcId":"22935818",
+            "tcRating":1815,
+            "cfHandle":"darkhh",
+            "cfRating":2158,
             "twitterHandle":"hanhan_w",
             "achievements":[
-
+               {
+                  "achievement":"ACM ICPC Finalist (2016)",
+                  "priority":1001
+               }
             ]
          },
          {
@@ -3774,24 +4066,33 @@
       "coach":{
          "name":"Tan Sun Teck",
          "altNames":[
-
+            "Sun Teck Tan"
          ],
          "tcRating":-1,
          "cfRating":-1,
          "achievements":[
-
+            {
+               "achievement":"World Finals coach (2015, 2016)",
+               "priority":1002
+            }
          ]
       },
       "contestants":[
          {
             "name":"Mudzakir Muhammad Rais Fathin",
             "altNames":[
-
+               "Muhammad Rais Fathin Mudzakir"
             ],
-            "tcRating":-1,
-            "cfRating":-1,
+            "tcHandle":"rais.fathin38",
+            "tcId":"23031909",
+            "tcRating":1626,
+            "cfHandle":"rais.fathin38",
+            "cfRating":2126,
             "achievements":[
-
+               {
+                  "achievement":"IOI Bronze Medalist (2014)",
+                  "priority":21
+               }
             ]
          },
          {
@@ -3820,12 +4121,19 @@
          {
             "name":"Hermawan Agus Sentosa",
             "altNames":[
-
+               "Agus Sentosa Hermawan",
+               "Sentosa Hermawan Agus"
             ],
-            "tcRating":-1,
-            "cfRating":-1,
+            "tcHandle":"aguss787",
+            "tcId":"23131256",
+            "tcRating":1494,
+            "cfHandle":"aguss787",
+            "cfRating":2122,
             "achievements":[
-
+               {
+                  "achievement":"IOI Silver Medalist (2015)",
+                  "priority":31
+               }
             ]
          }
       ]
@@ -3856,36 +4164,45 @@
       "coach":{
          "name":"Liu Xiaofeng",
          "altNames":[
-
+            "Xiaofeng Liu"
          ],
          "tcRating":-1,
          "cfRating":-1,
          "twitterHandle":"zarcoder",
          "achievements":[
-
+            {
+               "achievement":"World Finals coach (2016)",
+               "priority":1001
+            }
          ]
       },
       "contestants":[
          {
             "name":"Xie Haibin",
             "altNames":[
-
+               "Haibin Xie"
             ],
             "tcRating":-1,
             "cfRating":-1,
             "achievements":[
-
+               {
+                  "achievement":"ACM ICPC Finalist (2016)",
+                  "priority":1001
+               }
             ]
          },
          {
             "name":"Liu Hengyu",
             "altNames":[
-
+               "Hengyu Liu"
             ],
             "tcRating":-1,
             "cfRating":-1,
             "achievements":[
-
+               {
+                  "achievement":"ACM ICPC Finalist (2016)",
+                  "priority":1001
+               }
             ]
          },
          {
@@ -3928,19 +4245,22 @@
       "coach":{
          "name":"Trajcevski Goce",
          "altNames":[
-
+            "Goce Trajcevski"
          ],
          "tcRating":-1,
          "cfRating":-1,
          "achievements":[
-
+            {
+               "achievement":"World Finals coach (2015)",
+               "priority":1001
+            }
          ]
       },
       "contestants":[
          {
             "name":"Feng Yiding",
             "altNames":[
-
+               "Yiding Feng"
             ],
             "tcRating":-1,
             "cfRating":-1,
@@ -3951,7 +4271,7 @@
          {
             "name":"Zhang Ruohong",
             "altNames":[
-
+               "Ruohong Zhang"
             ],
             "tcRating":-1,
             "cfRating":-1,
@@ -4074,7 +4394,7 @@
          {
             "name":"Vishnevskii Roman",
             "altNames":[
-
+               "Roman Vishnevskii"
             ],
             "tcRating":-1,
             "cfRating":-1,
@@ -4110,13 +4430,24 @@
       "coach":{
          "name":"Luo Guojie",
          "altNames":[
-
+            "Guojie Luo"
          ],
          "tcRating":-1,
          "cfRating":-1,
          "twitterHandle":"lowerbound",
          "achievements":[
-
+            {
+               "achievement":"ACM ICPC gold medal as coach (2014)",
+               "priority":4001
+            },
+            {
+               "achievement":"ACM ICPC silver medal as coach (2015)",
+               "priority":3001
+            },
+            {
+               "achievement":"World Finals coach (2013, 2016)",
+               "priority":1002
+            }
          ]
       },
       "contestants":[
@@ -4158,7 +4489,7 @@
          {
             "name":"Guo Tiankui",
             "altNames":[
-
+               "Tiankui Guo"
             ],
             "tcRating":-1,
             "cfRating":-1,
@@ -4194,8 +4525,8 @@
       "coach":{
          "name":"Rubinchik Mikhail",
          "altNames":[
-            "Michael Rubinchik",
-            "Mikhail Rubinchik"
+            "Mikhail Rubinchik",
+            "Michael Rubinchik"
          ],
          "tcHandle":"rumi13",
          "tcId":"22707426",
@@ -4246,8 +4577,8 @@
          {
             "name":"Mayorov Mikhail",
             "altNames":[
-               "Michael Mayorov",
-               "Mikhail Mayorov"
+               "Mikhail Mayorov",
+               "Michael Mayorov"
             ],
             "tcHandle":"2rf",
             "tcId":"22777715",
@@ -4336,12 +4667,15 @@
          {
             "name":"Filev Valeriy",
             "altNames":[
-
+               "Valeriy Filev"
             ],
             "tcRating":-1,
             "cfRating":-1,
             "achievements":[
-
+               {
+                  "achievement":"ACM ICPC Finalist (2014)",
+                  "priority":1001
+               }
             ]
          },
          {
@@ -4400,7 +4734,7 @@
       "coach":{
          "name":"Rebedea Traian",
          "altNames":[
-
+            "Traian Rebedea"
          ],
          "tcRating":-1,
          "cfRating":-1,
@@ -4412,6 +4746,7 @@
          {
             "name":"Popa Stefan Adrian",
             "altNames":[
+               "Stefan Adrian Popa",
                "Stefan Popa",
                "Popa Stefan"
             ],
@@ -4427,7 +4762,7 @@
          {
             "name":"Visan Radu Silviu",
             "altNames":[
-
+               "Radu Silviu Visan"
             ],
             "tcRating":-1,
             "cfRating":-1,
@@ -4438,7 +4773,7 @@
          {
             "name":"Banu Cristian",
             "altNames":[
-
+               "Cristian Banu"
             ],
             "tcRating":-1,
             "cfRating":-1,
@@ -4474,19 +4809,24 @@
       "coach":{
          "name":"Peña Jesús",
          "altNames":[
-            "Pena Jesus"
+            "Pena Jesus",
+            "Jesús Peña",
+            "Jesus Pena"
          ],
          "tcRating":-1,
          "cfRating":-1,
          "achievements":[
-
+            {
+               "achievement":"ACM ICPC Finalist (2011, 2012)",
+               "priority":1002
+            }
          ]
       },
       "contestants":[
          {
             "name":"Luyo Carbonero Paul",
             "altNames":[
-
+               "Paul Luyo Carbonero"
             ],
             "tcHandle":"Lucas97",
             "tcId":"40042234",
@@ -4502,6 +4842,7 @@
             "name":"Espino Jesús",
             "altNames":[
                "Espino Jesus",
+               "Jesús Espino",
                "Jesus Espino"
             ],
             "tcHandle":"Jael860",
@@ -4516,6 +4857,7 @@
          {
             "name":"Horruitiner Mendoza Rodrigo Manuel",
             "altNames":[
+               "Rodrigo Manuel Horruitiner Mendoza",
                "Rodrigo Horruitiner",
                "Horruitiner Rodrigo"
             ],
@@ -4556,7 +4898,7 @@
       "coach":{
          "name":"Solis Hector",
          "altNames":[
-
+            "Hector Solis"
          ],
          "tcRating":-1,
          "cfRating":-1,
@@ -4568,18 +4910,21 @@
          {
             "name":"Schneider Eric",
             "altNames":[
-
+               "Eric Schneider"
             ],
             "tcRating":-1,
             "cfRating":-1,
             "achievements":[
-
+               {
+                  "achievement":"ACM ICPC Finalist (2015)",
+                  "priority":1001
+               }
             ]
          },
          {
             "name":"Petrova Kalina",
             "altNames":[
-
+               "Kalina Petrova"
             ],
             "tcRating":-1,
             "cfRating":-1,
@@ -4590,7 +4935,7 @@
          {
             "name":"Xu Victor",
             "altNames":[
-
+               "Victor Xu"
             ],
             "tcRating":-1,
             "cfRating":-1,
@@ -4651,6 +4996,7 @@
          {
             "name":"Muravjev Vyacheslav",
             "altNames":[
+               "Vyacheslav Muravjev",
                "Slava (Vyacheslav) Muravjev",
                "Muravjev Slava (Vyacheslav)"
             ],
@@ -4703,12 +5049,51 @@
       "coach":{
          "name":"Mirzayanov Michael",
          "altNames":[
-            "Mirzayanov Mikhail"
+            "Mirzayanov Mikhail",
+            "Michael Mirzayanov",
+            "Mikhail Mirzayanov"
          ],
-         "tcRating":-1,
+         "tcHandle":"Mike Mirzayanov",
+         "tcId":"308953",
+         "tcRating":2028,
          "cfRating":-1,
          "achievements":[
-
+            {
+               "achievement":"ACM ICPC silver medal (2002, 2003)",
+               "priority":6002
+            },
+            {
+               "achievement":"ACM ICPC gold medal as coach (2009)",
+               "priority":4001
+            },
+            {
+               "achievement":"ACM ICPC silver medal as coach (2010, 2011)",
+               "priority":3002
+            },
+            {
+               "achievement":"World Finals coach (2012-2016)",
+               "priority":1005
+            },
+            {
+               "achievement":"GCJ Finalist (2005, 2006)",
+               "priority":52
+            },
+            {
+               "achievement":"TCO Semifinalist (2006, 2011)",
+               "priority":52
+            },
+            {
+               "achievement":"TCCC Semifinalist (2006)",
+               "priority":51
+            },
+            {
+               "achievement":"FBHC Finalist (2013)",
+               "priority":26
+            },
+            {
+               "achievement":"Kotlin Finalist (2014)",
+               "priority":16
+            }
          ]
       },
       "contestants":[
@@ -4739,7 +5124,7 @@
          {
             "name":"Ripinen Alexey",
             "altNames":[
-
+               "Alexey Ripinen"
             ],
             "tcRating":-1,
             "cfRating":-1,
@@ -4775,20 +5160,23 @@
       "coach":{
          "name":"Yeom Heon Young",
          "altNames":[
-
+            "Heon Young Yeom"
          ],
          "tcRating":-1,
          "cfRating":-1,
          "achievements":[
-
+            {
+               "achievement":"World Finals coach (2010-2012, 2015)",
+               "priority":1004
+            }
          ]
       },
       "contestants":[
          {
             "name":"Choi Seokhwan",
             "altNames":[
-               "Seokwan Choi",
-               "Seokhwan Choi"
+               "Seokhwan Choi",
+               "Seokwan Choi"
             ],
             "tcHandle":"sukh1222",
             "tcId":"40032894",
@@ -4809,6 +5197,7 @@
          {
             "name":"Jo Seunghyeon",
             "altNames":[
+               "Seunghyeon Jo",
                "Sunghyeon Jo",
                "SeungHyun Joe",
                "Joe SeungHyun"
@@ -4880,7 +5269,7 @@
       "coach":{
          "name":"Vahidi-Asl Mojtaba",
          "altNames":[
-
+            "Mojtaba Vahidi-Asl"
          ],
          "tcRating":-1,
          "cfRating":-1,
@@ -4966,19 +5355,38 @@
       "coach":{
          "name":"Yu Yong",
          "altNames":[
-
+            "Yong Yu"
          ],
          "tcRating":-1,
          "cfRating":-1,
          "achievements":[
-
+            {
+               "achievement":"ACM ICPC win as coach (2010)",
+               "priority":5001
+            },
+            {
+               "achievement":"ACM ICPC gold medal as coach (2012, 2013, 2016)",
+               "priority":4003
+            },
+            {
+               "achievement":"ACM ICPC silver medal as coach (2014)",
+               "priority":3001
+            },
+            {
+               "achievement":"ACM ICPC bronze medal as coach (2015)",
+               "priority":2001
+            },
+            {
+               "achievement":"World Finals coach (2011)",
+               "priority":1001
+            }
          ]
       },
       "contestants":[
          {
             "name":"Qiu Wenda",
             "altNames":[
-
+               "Wenda Qiu"
             ],
             "tcRating":-1,
             "cfRating":-1,
@@ -5002,7 +5410,7 @@
          {
             "name":"Li Wenhao",
             "altNames":[
-
+               "Wenhao Li"
             ],
             "tcRating":-1,
             "cfRating":-1,
@@ -5038,19 +5446,23 @@
       "coach":{
          "name":"Shen Yunfu",
          "altNames":[
-
+            "Yunfu Shen"
          ],
          "tcRating":-1,
          "cfRating":-1,
          "twitterHandle":"yfshen",
          "achievements":[
-
+            {
+               "achievement":"World Finals coach (2015, 2016)",
+               "priority":1002
+            }
          ]
       },
       "contestants":[
          {
             "name":"CHEN Liangbo",
             "altNames":[
+               "Liangbo CHEN",
                "GAUSS_CLB"
             ],
             "tcHandle":"gauss",
@@ -5123,12 +5535,19 @@
       "coach":{
          "name":"Bavar Kamran",
          "altNames":[
-
+            "Kamran Bavar"
          ],
          "tcRating":-1,
          "cfRating":-1,
          "achievements":[
-
+            {
+               "achievement":"World Finals coach (2009-2016)",
+               "priority":1008
+            },
+            {
+               "achievement":"IOI Bronze Medalist (1995)",
+               "priority":21
+            }
          ]
       },
       "contestants":[
@@ -5160,13 +5579,30 @@
          {
             "name":"Jabbarzade Ganje Peyman",
             "altNames":[
-
+               "Peyman Jabbarzade Ganje",
+               "Peyman Jabbarzade",
+               "peyman jabbarzade",
+               "jabbarzade peyman"
             ],
-            "tcRating":-1,
-            "cfRating":-1,
+            "tcHandle":"JeBeK",
+            "tcId":"40012054",
+            "tcRating":2038,
+            "cfHandle":"JeBeK",
+            "cfRating":2273,
             "twitterHandle":"p_JeBeK",
             "achievements":[
-
+               {
+                  "achievement":"ACM ICPC Finalist (2016)",
+                  "priority":1001
+               },
+               {
+                  "achievement":"Bayan Finalist (2015)",
+                  "priority":26
+               },
+               {
+                  "achievement":"IOI Bronze Medalist (2015)",
+                  "priority":21
+               }
             ]
          },
          {
@@ -5226,19 +5662,22 @@
       "coach":{
          "name":"Xian Chuhua",
          "altNames":[
-
+            "Chuhua Xian"
          ],
          "tcRating":-1,
          "cfRating":-1,
          "achievements":[
-
+            {
+               "achievement":"World Finals coach (2014, 2016)",
+               "priority":1002
+            }
          ]
       },
       "contestants":[
          {
             "name":"Zhang Jingwei",
             "altNames":[
-
+               "Jingwei Zhang"
             ],
             "tcRating":-1,
             "cfRating":-1,
@@ -5249,7 +5688,7 @@
          {
             "name":"Lv Wenjian",
             "altNames":[
-
+               "Wenjian Lv"
             ],
             "tcRating":-1,
             "cfRating":-1,
@@ -5260,7 +5699,7 @@
          {
             "name":"Cai Zhenkun",
             "altNames":[
-
+               "Zhenkun Cai"
             ],
             "tcRating":-1,
             "cfRating":-1,
@@ -5296,7 +5735,7 @@
       "coach":{
          "name":"Pyeatt Larry",
          "altNames":[
-
+            "Larry Pyeatt"
          ],
          "tcRating":-1,
          "cfRating":-1,
@@ -5308,18 +5747,22 @@
          {
             "name":"Dyke Matthew",
             "altNames":[
-
+               "Matthew Dyke"
             ],
             "tcRating":-1,
             "cfRating":-1,
             "achievements":[
-
+               {
+                  "achievement":"ACM ICPC Finalist (2016)",
+                  "priority":1001
+               }
             ]
          },
          {
             "name":"Iverson Alexander",
             "altNames":[
-               "Iverson Aleksandr"
+               "Iverson Aleksandr",
+               "Alexander Iverson"
             ],
             "tcRating":-1,
             "cfRating":-1,
@@ -5330,7 +5773,7 @@
          {
             "name":"Schallenkamp Matthew",
             "altNames":[
-
+               "Matthew Schallenkamp"
             ],
             "tcRating":-1,
             "cfRating":-1,
@@ -5485,20 +5928,72 @@
       "coach":{
          "name":"Stankevich Andrey",
          "altNames":[
-
+            "Andrey Stankevich",
+            "Andrew Stankevich",
+            "Stankevich Andrew"
          ],
-         "tcRating":-1,
-         "cfRating":-1,
+         "tcHandle":"andrewzta",
+         "tcId":"11829284",
+         "tcRating":2475,
+         "cfHandle":"andrewzta",
+         "cfRating":2539,
          "achievements":[
-
+            {
+               "achievement":"ACM ICPC gold medal (2001)",
+               "priority":8001
+            },
+            {
+               "achievement":"ACM ICPC silver medal (2000)",
+               "priority":6001
+            },
+            {
+               "achievement":"ACM ICPC win as coach (2009, 2012, 2013, 2015)",
+               "priority":5004
+            },
+            {
+               "achievement":"ACM ICPC silver medal as coach (2016)",
+               "priority":3001
+            },
+            {
+               "achievement":"ACM ICPC bronze medal as coach (2014)",
+               "priority":2001
+            },
+            {
+               "achievement":"World Finals coach (2010, 2011)",
+               "priority":1002
+            },
+            {
+               "achievement":"GCJ 3rd (2006)",
+               "priority":101
+            },
+            {
+               "achievement":"TCO Finalist (2006, 2008, 2012)",
+               "priority":78
+            },
+            {
+               "achievement":"TCCC Finalist (2006)",
+               "priority":76
+            },
+            {
+               "achievement":"TCO Semifinalist (2007, 2009, 2013)",
+               "priority":53
+            },
+            {
+               "achievement":"GCJ Finalist (2005, 2008)",
+               "priority":52
+            },
+            {
+               "achievement":"FBHC Finalist (2011, 2014)",
+               "priority":27
+            }
          ]
       },
       "contestants":[
          {
             "name":"Zban Ilya",
             "altNames":[
-               "Ilya Zban'",
-               "Ilya Zban"
+               "Ilya Zban",
+               "Ilya Zban'"
             ],
             "tcHandle":"izban",
             "tcId":"23021261",
@@ -5620,8 +6115,8 @@
          "name":"Lopatin Andrei",
          "altNames":[
             "Lopatin Andrey",
-            "Andrey Lopatin",
             "Andrei Lopatin",
+            "Andrey Lopatin",
             "Andrei Lopatine",
             "Andrey Lopatine"
          ],
@@ -5731,6 +6226,7 @@
          {
             "name":"Sayranov Aydar",
             "altNames":[
+               "Aydar Sayranov",
                "Aidar Sayranov",
                "Sayranov Aidar"
             ],
@@ -5740,6 +6236,10 @@
             "cfHandle":"aid",
             "cfRating":2936,
             "achievements":[
+               {
+                  "achievement":"ACM ICPC Finalist (2015)",
+                  "priority":1001
+               },
                {
                   "achievement":"RCC Finalist (2015, 2016)",
                   "priority":27
@@ -5782,13 +6282,28 @@
       "coach":{
          "name":"Bondarenko Vitalii",
          "altNames":[
-
+            "Vitalii Bondarenko"
          ],
          "tcRating":-1,
          "cfRating":-1,
          "twitterHandle":"VitaliiB",
          "achievements":[
-
+            {
+               "achievement":"ACM ICPC gold medal as coach (2010)",
+               "priority":4001
+            },
+            {
+               "achievement":"ACM ICPC silver medal as coach (2013)",
+               "priority":3001
+            },
+            {
+               "achievement":"World Finals coach (2009, 2011, 2014-2016)",
+               "priority":1005
+            },
+            {
+               "achievement":"IOI Bronze Medalist (1992)",
+               "priority":21
+            }
          ]
       },
       "contestants":[
@@ -5814,8 +6329,8 @@
          {
             "name":"Zdomskyi Ivan",
             "altNames":[
-               "Ivan Zdomsky",
-               "Ivan Zdomskyi"
+               "Ivan Zdomskyi",
+               "Ivan Zdomsky"
             ],
             "tcHandle":"ballon",
             "tcId":"23004552",
@@ -5894,7 +6409,7 @@
          {
             "name":"Nasr Omar",
             "altNames":[
-
+               "Omar Nasr"
             ],
             "tcRating":-1,
             "cfRating":-1,
@@ -5905,7 +6420,7 @@
          {
             "name":"Khairalla Youssef",
             "altNames":[
-
+               "Youssef Khairalla"
             ],
             "tcRating":-1,
             "cfRating":-1,
@@ -5916,6 +6431,7 @@
          {
             "name":"Girgis Bishoy Boshra Labib",
             "altNames":[
+               "Bishoy Boshra Labib Girgis",
                "Bishoy Labib",
                "Labib Bishoy"
             ],
@@ -5954,24 +6470,41 @@
       "coach":{
          "name":"Chan Siu On",
          "altNames":[
-
+            "Siu On Chan"
          ],
          "tcRating":-1,
          "cfRating":-1,
          "achievements":[
-
+            {
+               "achievement":"ACM ICPC Finalist (2003, 2006)",
+               "priority":1002
+            },
+            {
+               "achievement":"World Finals coach (2016)",
+               "priority":1001
+            }
          ]
       },
       "contestants":[
          {
             "name":"Tung Kam Chuen",
             "altNames":[
-
+               "Kam Chuen Tung",
+               "Alex Tung",
+               "Tung Alex"
             ],
             "tcRating":-1,
-            "cfRating":-1,
+            "cfHandle":"alex20030190",
+            "cfRating":2655,
             "achievements":[
-
+               {
+                  "achievement":"ACM ICPC Finalist (2016)",
+                  "priority":1001
+               },
+               {
+                  "achievement":"IOI Silver Medalist (2013-2015)",
+                  "priority":33
+               }
             ]
          },
          {
@@ -6042,47 +6575,59 @@
       "coach":{
          "name":"Goodman Doug",
          "altNames":[
-
+            "Doug Goodman"
          ],
          "tcRating":-1,
          "cfRating":-1,
          "achievements":[
-
+            {
+               "achievement":"World Finals coach (2016)",
+               "priority":1001
+            }
          ]
       },
       "contestants":[
          {
             "name":"Peterson Mitchell",
             "altNames":[
-
+               "Mitchell Peterson"
             ],
             "tcRating":-1,
             "cfRating":-1,
             "achievements":[
-
+               {
+                  "achievement":"ACM ICPC Finalist (2016)",
+                  "priority":1001
+               }
             ]
          },
          {
             "name":"Van Gent Kurtis",
             "altNames":[
-
+               "Kurtis Van Gent"
             ],
             "tcRating":-1,
             "cfRating":-1,
             "achievements":[
-
+               {
+                  "achievement":"ACM ICPC Finalist (2016)",
+                  "priority":1001
+               }
             ]
          },
          {
             "name":"Erickson Ben",
             "altNames":[
-
+               "Ben Erickson"
             ],
             "tcRating":-1,
             "cfRating":-1,
             "twitterHandle":"eric1743",
             "achievements":[
-
+               {
+                  "achievement":"ACM ICPC Finalist (2016)",
+                  "priority":1001
+               }
             ]
          }
       ]
@@ -6113,19 +6658,22 @@
       "coach":{
          "name":"Vouga Etienne",
          "altNames":[
-
+            "Etienne Vouga"
          ],
          "tcRating":-1,
          "cfRating":-1,
          "achievements":[
-
+            {
+               "achievement":"ACM ICPC Finalist (2006)",
+               "priority":1001
+            }
          ]
       },
       "contestants":[
          {
             "name":"Chockchowwat Supawit",
             "altNames":[
-
+               "Supawit Chockchowwat"
             ],
             "tcRating":-1,
             "cfRating":-1,
@@ -6136,7 +6684,7 @@
          {
             "name":"Richer Brian",
             "altNames":[
-
+               "Brian Richer"
             ],
             "tcRating":-1,
             "cfRating":-1,
@@ -6147,7 +6695,7 @@
          {
             "name":"Meed Alex",
             "altNames":[
-
+               "Alex Meed"
             ],
             "tcRating":-1,
             "cfRating":-1,
@@ -6183,12 +6731,27 @@
       "coach":{
          "name":"Kaneko Tomoyuki",
          "altNames":[
-
+            "Tomoyuki Kaneko"
          ],
          "tcRating":-1,
          "cfRating":-1,
          "achievements":[
-
+            {
+               "achievement":"ACM ICPC gold medal as coach (2013, 2015)",
+               "priority":4002
+            },
+            {
+               "achievement":"ACM ICPC silver medal as coach (2014)",
+               "priority":3001
+            },
+            {
+               "achievement":"ACM ICPC bronze medal as coach (2012)",
+               "priority":2001
+            },
+            {
+               "achievement":"World Finals coach (2009-2011, 2016)",
+               "priority":1004
+            }
          ]
       },
       "contestants":[
@@ -6212,12 +6775,15 @@
          {
             "name":"Kasaura Kazumi",
             "altNames":[
-
+               "Kazumi Kasaura"
             ],
             "tcRating":-1,
             "cfRating":-1,
             "achievements":[
-
+               {
+                  "achievement":"IOI Silver Medalist (2012)",
+                  "priority":31
+               }
             ]
          },
          {
@@ -6286,7 +6852,7 @@
          {
             "name":"Hasan Fudail",
             "altNames":[
-
+               "Fudail Hasan"
             ],
             "tcRating":-1,
             "cfRating":-1,
@@ -6297,7 +6863,7 @@
          {
             "name":"Ali Zeinalabeedin",
             "altNames":[
-
+               "Zeinalabeedin Ali"
             ],
             "tcRating":-1,
             "cfHandle":"ZieiN",
@@ -6309,6 +6875,7 @@
          {
             "name":"Khaddour Anas",
             "altNames":[
+               "Anas Khaddour",
                "anas khaddour",
                "khaddour anas"
             ],
@@ -6347,7 +6914,7 @@
       "coach":{
          "name":"Abul Osman",
          "altNames":[
-
+            "Osman Abul"
          ],
          "tcRating":-1,
          "cfRating":-1,
@@ -6388,6 +6955,7 @@
          {
             "name":"Kirez Mustafa Erdem",
             "altNames":[
+               "Mustafa Erdem Kirez",
                "Erdem Kirez",
                "Kirez Erdem"
             ],
@@ -6427,7 +6995,7 @@
       "coach":{
          "name":"Isozuka Kenta",
          "altNames":[
-
+            "Kenta Isozuka"
          ],
          "tcRating":-1,
          "cfRating":-1,
@@ -6465,7 +7033,7 @@
          {
             "name":"Katsumata Hiroki",
             "altNames":[
-
+               "Hiroki Katsumata"
             ],
             "tcRating":-1,
             "cfRating":-1,
@@ -6476,6 +7044,7 @@
          {
             "name":"Do Ngoc Khanh",
             "altNames":[
+               "Ngoc Khanh Do",
                "Khanh Do Ngoc"
             ],
             "tcHandle":"happyboy99x",
@@ -6484,7 +7053,10 @@
             "cfHandle":"dnk",
             "cfRating":2243,
             "achievements":[
-
+               {
+                  "achievement":"ACM ICPC Finalist (2016)",
+                  "priority":1001
+               }
             ]
          }
       ]
@@ -6559,7 +7131,7 @@
          {
             "name":"Kuzivanov Nicolay",
             "altNames":[
-
+               "Nicolay Kuzivanov"
             ],
             "tcRating":-1,
             "cfRating":-1,
@@ -6595,20 +7167,35 @@
       "coach":{
          "name":"Wu Xiaojun",
          "altNames":[
-
+            "Xiaojun Wu"
          ],
          "tcRating":-1,
          "cfRating":-1,
          "achievements":[
-
+            {
+               "achievement":"ACM ICPC gold medal as coach (2009, 2011, 2015)",
+               "priority":4003
+            },
+            {
+               "achievement":"ACM ICPC silver medal as coach (2010)",
+               "priority":3001
+            },
+            {
+               "achievement":"ACM ICPC bronze medal as coach (2013, 2014)",
+               "priority":2002
+            },
+            {
+               "achievement":"World Finals coach (2012, 2016)",
+               "priority":1002
+            }
          ]
       },
       "contestants":[
          {
             "name":"Chen Lijie",
             "altNames":[
-               "LiJie Chen",
-               "Lijie Chen"
+               "Lijie Chen",
+               "LiJie Chen"
             ],
             "tcHandle":"On Codeforces: @CFTable:WJMZBMR:",
             "tcRating":-1,
@@ -6728,7 +7315,9 @@
       "coach":{
          "name":"Chávez María",
          "altNames":[
-            "Chavez Maria"
+            "Chavez Maria",
+            "María Chávez",
+            "Maria Chavez"
          ],
          "tcRating":-1,
          "cfRating":-1,
@@ -6740,7 +7329,9 @@
          {
             "name":"Domínguez Ángel",
             "altNames":[
-               "Dominguez Angel"
+               "Dominguez Angel",
+               "Ángel Domínguez",
+               "Angel Dominguez"
             ],
             "tcRating":-1,
             "cfRating":-1,
@@ -6752,6 +7343,7 @@
             "name":"Tapia José",
             "altNames":[
                "Tapia Jose",
+               "José Tapia",
                "Jose Tapia"
             ],
             "tcRating":-1,
@@ -6764,7 +7356,7 @@
          {
             "name":"De La Fuente Jimenez Victor Hugo Antonio",
             "altNames":[
-
+               "Victor Hugo Antonio De La Fuente Jimenez"
             ],
             "tcRating":-1,
             "cfRating":-1,
@@ -6800,8 +7392,8 @@
       "coach":{
          "name":"Gutierrez Agustin Santiago",
          "altNames":[
-            "Agustin Gutierrez",
             "Agustin Santiago Gutierrez",
+            "Agustin Gutierrez",
             "Agustín Santiago Gutiérrez"
          ],
          "tcHandle":"elsantodel90",
@@ -6853,12 +7445,18 @@
          {
             "name":"Maurizio Miguel",
             "altNames":[
-
+               "Miguel Maurizio"
             ],
-            "tcRating":-1,
-            "cfRating":-1,
+            "tcHandle":"miguelmaurizio",
+            "tcId":"23043536",
+            "tcRating":1439,
+            "cfHandle":"miguelmaurizio",
+            "cfRating":1996,
             "achievements":[
-
+               {
+                  "achievement":"ACM ICPC Finalist (2016)",
+                  "priority":1001
+               }
             ]
          },
          {
@@ -6908,33 +7506,41 @@
       "coach":{
          "name":"Perez Jorge",
          "altNames":[
-
+            "Jorge Perez"
          ],
          "tcRating":-1,
          "cfRating":-1,
          "twitterHandle":"perez",
          "achievements":[
-
+            {
+               "achievement":"World Finals coach (2013, 2014)",
+               "priority":1002
+            }
          ]
       },
       "contestants":[
          {
             "name":"Paulsen Casanueva Juan Pablo",
             "altNames":[
-
+               "Juan Pablo Paulsen Casanueva"
             ],
             "tcRating":-1,
             "cfHandle":"JPaulsen",
             "cfRating":-1,
             "twitterHandle":"JotaPePaulsen",
             "achievements":[
-
+               {
+                  "achievement":"ACM ICPC Finalist (2016)",
+                  "priority":1001
+               }
             ]
          },
          {
             "name":"Valdés Javier",
             "altNames":[
-               "Valdes Javier"
+               "Valdes Javier",
+               "Javier Valdés",
+               "Javier Valdes"
             ],
             "tcRating":-1,
             "cfRating":-1,
@@ -6983,18 +7589,22 @@
       "coach":{
          "name":"Somoza Moreno Alfredo",
          "altNames":[
-
+            "Alfredo Somoza Moreno"
          ],
          "tcRating":-1,
          "cfRating":-1,
          "achievements":[
-
+            {
+               "achievement":"World Finals coach (2011-2013, 2015, 2016)",
+               "priority":1005
+            }
          ]
       },
       "contestants":[
          {
             "name":"Cruz Cruz Ariel",
             "altNames":[
+               "Ariel Cruz Cruz",
                "Ariel Cruz",
                "Cruz Ariel"
             ],
@@ -7009,18 +7619,22 @@
          {
             "name":"Fornet Fornes Marcelo",
             "altNames":[
-
+               "Marcelo Fornet Fornes"
             ],
             "tcRating":-1,
             "cfRating":-1,
             "achievements":[
-
+               {
+                  "achievement":"ACM ICPC Finalist (2015)",
+                  "priority":1001
+               }
             ]
          },
          {
             "name":"Pérez Torres Eloy",
             "altNames":[
                "Perez Torres Eloy",
+               "Eloy Pérez Torres",
                "Eloy Perez Torres"
             ],
             "tcHandle":"blacktools",
@@ -7076,6 +7690,8 @@
             "name":"Guerra Carmenate José",
             "altNames":[
                "Guerra Carmenate Jose",
+               "José Guerra Carmenate",
+               "Jose Guerra Carmenate",
                "Joseph Guerra",
                "Guerra Joseph"
             ],
@@ -7142,7 +7758,7 @@
       "coach":{
          "name":"BLANCO COCA LETICIA",
          "altNames":[
-
+            "LETICIA BLANCO COCA"
          ],
          "tcRating":-1,
          "cfRating":-1,
@@ -7154,7 +7770,7 @@
          {
             "name":"Cardona Siles Alex",
             "altNames":[
-
+               "Alex Cardona Siles"
             ],
             "tcRating":-1,
             "cfRating":-1,
@@ -7166,7 +7782,7 @@
          {
             "name":"Ojeda Jorge Javier Eduardo",
             "altNames":[
-
+               "Javier Eduardo Ojeda Jorge"
             ],
             "tcRating":-1,
             "cfRating":-1,
@@ -7178,7 +7794,7 @@
          {
             "name":"Diaz Iturry Miguel",
             "altNames":[
-
+               "Miguel Diaz Iturry"
             ],
             "tcRating":-1,
             "cfRating":-1,
@@ -7215,7 +7831,9 @@
       "coach":{
          "name":"Caballero Rodríguez Diego Ivan",
          "altNames":[
-            "Caballero Rodriguez Diego Ivan"
+            "Caballero Rodriguez Diego Ivan",
+            "Diego Ivan Caballero Rodríguez",
+            "Diego Ivan Caballero Rodriguez"
          ],
          "tcHandle":"DiegoCR",
          "tcId":"23006375",
@@ -7223,7 +7841,14 @@
          "cfHandle":"DiegoCR",
          "cfRating":2041,
          "achievements":[
-
+            {
+               "achievement":"ACM ICPC Finalist (2013, 2015)",
+               "priority":1002
+            },
+            {
+               "achievement":"World Finals coach (2016)",
+               "priority":1001
+            }
          ]
       },
       "contestants":[
@@ -7231,6 +7856,8 @@
             "name":"Silva Velosa Jaime Andrés",
             "altNames":[
                "Silva Velosa Jaime Andres",
+               "Jaime Andrés Silva Velosa",
+               "Jaime Andres Silva Velosa",
                "Jaime Silva",
                "Silva Jaime"
             ],
@@ -7241,6 +7868,10 @@
             "cfRating":1755,
             "twitterHandle":"silvavelosa",
             "achievements":[
+               {
+                  "achievement":"ACM ICPC Finalist (2014)",
+                  "priority":1001
+               },
                {
                   "achievement":"IOI Bronze Medalist (2011, 2013)",
                   "priority":22
@@ -7254,6 +7885,7 @@
          {
             "name":"Zuluaga Mora Christian Mauricio",
             "altNames":[
+               "Christian Mauricio Zuluaga Mora",
                "Christian Zuluaga",
                "Zuluaga Christian"
             ],
@@ -7264,6 +7896,10 @@
             "cfRating":1663,
             "twitterHandle":"chriszulu17",
             "achievements":[
+               {
+                  "achievement":"ACM ICPC Finalist (2013)",
+                  "priority":1001
+               },
                {
                   "achievement":"IOI Participant (2008-2010)",
                   "priority":13
@@ -7337,6 +7973,8 @@
             "name":"Hunicken Berardo Matías José",
             "altNames":[
                "Hunicken Berardo Matias Jose",
+               "Matías José Hunicken Berardo",
+               "Matias Jose Hunicken Berardo",
                "Matías Hunicken",
                "Matias Hunicken",
                "Hunicken Matías",
@@ -7354,7 +7992,7 @@
          {
             "name":"Ferroni Rivetti Luis",
             "altNames":[
-
+               "Luis Ferroni Rivetti"
             ],
             "tcRating":-1,
             "cfHandle":"Vladislao",
@@ -7423,7 +8061,7 @@
          {
             "name":"Diaz Ivan",
             "altNames":[
-
+               "Ivan Diaz"
             ],
             "tcRating":-1,
             "cfRating":-1,
@@ -7434,18 +8072,21 @@
          {
             "name":"Redigonda Maximiliano",
             "altNames":[
-
+               "Maximiliano Redigonda"
             ],
             "tcRating":-1,
             "cfRating":-1,
             "achievements":[
-
+               {
+                  "achievement":"IOI Participant (2015, 2016)",
+                  "priority":12
+               }
             ]
          },
          {
             "name":"Morris Esquivel Brian",
             "altNames":[
-
+               "Brian Morris Esquivel"
             ],
             "tcRating":-1,
             "cfHandle":"NBrimix",
@@ -7519,13 +8160,16 @@
          {
             "name":"Rojas Rubmary",
             "altNames":[
-
+               "Rubmary Rojas"
             ],
             "tcRating":-1,
             "cfRating":-1,
             "twitterHandle":"RubmaryR",
             "achievements":[
-
+               {
+                  "achievement":"ACM ICPC Finalist (2016)",
+                  "priority":1001
+               }
             ]
          },
          {
@@ -7571,31 +8215,44 @@
       "coach":{
          "name":"Usberti Fábio Luiz",
          "altNames":[
-            "Usberti Fabio Luiz"
+            "Usberti Fabio Luiz",
+            "Fábio Luiz Usberti",
+            "Fabio Luiz Usberti"
          ],
          "tcRating":-1,
          "cfRating":-1,
          "twitterHandle":"fusberti",
          "achievements":[
-
+            {
+               "achievement":"World Finals coach (2016)",
+               "priority":1001
+            }
          ]
       },
       "contestants":[
          {
             "name":"Pratti Dadalto Arthur",
             "altNames":[
-
+               "Arthur Pratti Dadalto"
             ],
             "tcRating":-1,
-            "cfRating":-1,
+            "cfHandle":"arthurpd",
+            "cfRating":2012,
             "achievements":[
-
+               {
+                  "achievement":"IOI Silver Medalist (2014)",
+                  "priority":31
+               },
+               {
+                  "achievement":"IOI Bronze Medalist (2015)",
+                  "priority":21
+               }
             ]
          },
          {
             "name":"de Souza Ataide Matheus",
             "altNames":[
-
+               "Matheus de Souza Ataide"
             ],
             "tcRating":-1,
             "cfRating":-1,
@@ -7606,6 +8263,7 @@
          {
             "name":"Bueno Andrade Guilherme",
             "altNames":[
+               "Guilherme Bueno Andrade",
                "Guilherme Andrade",
                "Andrade Guilherme"
             ],
@@ -7644,13 +8302,16 @@
       "coach":{
          "name":"Pamplona Segundo Mauricio",
          "altNames":[
-
+            "Mauricio Pamplona Segundo"
          ],
          "tcRating":-1,
          "cfRating":-1,
          "twitterHandle":"mps_ufba",
          "achievements":[
-
+            {
+               "achievement":"World Finals coach (2016)",
+               "priority":1001
+            }
          ]
       },
       "contestants":[
@@ -7675,7 +8336,7 @@
          {
             "name":"Caldeira Roberto",
             "altNames":[
-
+               "Roberto Caldeira"
             ],
             "tcHandle":"rsalesc",
             "tcId":"40083883",
@@ -7683,7 +8344,10 @@
             "cfHandle":"rsalesc",
             "cfRating":-1,
             "achievements":[
-
+               {
+                  "achievement":"ACM ICPC Finalist (2016)",
+                  "priority":1001
+               }
             ]
          },
          {
@@ -7730,20 +8394,23 @@
       "coach":{
          "name":"Gheyi Rohit",
          "altNames":[
-
+            "Rohit Gheyi"
          ],
          "tcRating":-1,
          "cfRating":-1,
          "twitterHandle":"rohitgheyi",
          "achievements":[
-
+            {
+               "achievement":"World Finals coach (2012, 2014-2016)",
+               "priority":1004
+            }
          ]
       },
       "contestants":[
          {
             "name":"Andrade de Almeida Victor",
             "altNames":[
-
+               "Victor Andrade de Almeida"
             ],
             "tcRating":-1,
             "cfRating":-1,
@@ -7754,18 +8421,21 @@
          {
             "name":"de Matos Figueredo Lucas",
             "altNames":[
-
+               "Lucas de Matos Figueredo"
             ],
             "tcRating":-1,
             "cfRating":-1,
             "achievements":[
-
+               {
+                  "achievement":"ACM ICPC Finalist (2015)",
+                  "priority":1001
+               }
             ]
          },
          {
             "name":"Silva Santos Ordan",
             "altNames":[
-
+               "Ordan Silva Santos"
             ],
             "tcRating":-1,
             "cfHandle":"http://codeforces.com/profile/ordan",
@@ -7802,7 +8472,7 @@
       "coach":{
          "name":"Costa Roberto",
          "altNames":[
-
+            "Roberto Costa"
          ],
          "tcRating":-1,
          "cfHandle":"1413",
@@ -7815,7 +8485,7 @@
          {
             "name":"de Carvalho Pinto Thiago",
             "altNames":[
-
+               "Thiago de Carvalho Pinto"
             ],
             "tcRating":-1,
             "cfRating":-1,
@@ -7827,7 +8497,9 @@
          {
             "name":"Paula Fúlvio Abrahão",
             "altNames":[
-               "Paula Fulvio Abrahao"
+               "Paula Fulvio Abrahao",
+               "Fúlvio Abrahão Paula",
+               "Fulvio Abrahao Paula"
             ],
             "tcRating":-1,
             "cfHandle":"http://codeforces.com/profile/fulvioabrahao",
@@ -7840,6 +8512,8 @@
             "name":"Júnior José Wagner de Andrade",
             "altNames":[
                "Junior Jose Wagner de Andrade",
+               "José Wagner de Andrade Júnior",
+               "Jose Wagner de Andrade Junior",
                "Júnior Andrade",
                "Junior Andrade",
                "Andrade Júnior",
@@ -7883,12 +8557,17 @@
       "coach":{
          "name":"Guimarães Katia",
          "altNames":[
-            "Guimaraes Katia"
+            "Guimaraes Katia",
+            "Katia Guimarães",
+            "Katia Guimaraes"
          ],
          "tcRating":-1,
          "cfRating":-1,
          "achievements":[
-
+            {
+               "achievement":"World Finals coach (2016)",
+               "priority":1001
+            }
          ]
       },
       "contestants":[
@@ -7913,6 +8592,7 @@
          {
             "name":"Almeida Pereira de Lima Lucas",
             "altNames":[
+               "Lucas Almeida Pereira de Lima",
                "Lucas Lima",
                "Lima Lucas"
             ],
@@ -7974,7 +8654,9 @@
       "coach":{
          "name":"Medeiros Sérgio",
          "altNames":[
-            "Medeiros Sergio"
+            "Medeiros Sergio",
+            "Sérgio Medeiros",
+            "Sergio Medeiros"
          ],
          "tcRating":-1,
          "cfRating":-1,
@@ -7987,6 +8669,7 @@
             "name":"Duarte Hélio",
             "altNames":[
                "Duarte Helio",
+               "Hélio Duarte",
                "Helio Duarte"
             ],
             "tcRating":-1,
@@ -8013,7 +8696,7 @@
          {
             "name":"Calheiros Railton",
             "altNames":[
-
+               "Railton Calheiros"
             ],
             "tcRating":-1,
             "cfRating":-1,
@@ -8139,12 +8822,15 @@
       "coach":{
          "name":"Watanobe Yutaka",
          "altNames":[
-
+            "Yutaka Watanobe"
          ],
          "tcRating":-1,
          "cfRating":-1,
          "achievements":[
-
+            {
+               "achievement":"World Finals coach (2009, 2016)",
+               "priority":1002
+            }
          ]
       },
       "contestants":[
@@ -8166,25 +8852,36 @@
          {
             "name":"Yamaguchi Tadamasa",
             "altNames":[
-
+               "Tadamasa Yamaguchi"
             ],
-            "tcRating":-1,
+            "tcHandle":"dohatsutsu",
+            "tcId":"23293877",
+            "tcRating":1492,
             "cfRating":-1,
             "twitterHandle":"dohatsutsu",
             "achievements":[
-
+               {
+                  "achievement":"ACM ICPC Finalist (2016)",
+                  "priority":1001
+               }
             ]
          },
          {
             "name":"Yamashita Takumi",
             "altNames":[
-
+               "Takumi Yamashita"
             ],
-            "tcRating":-1,
-            "cfRating":-1,
+            "tcHandle":"sate3saku3",
+            "tcId":"23020366",
+            "tcRating":1426,
+            "cfHandle":"sate",
+            "cfRating":1675,
             "twitterHandle":"public_sate",
             "achievements":[
-
+               {
+                  "achievement":"ACM ICPC Finalist (2016)",
+                  "priority":1001
+               }
             ]
          }
       ]
@@ -8215,19 +8912,22 @@
       "coach":{
          "name":"Friggstad Zachary",
          "altNames":[
-
+            "Zachary Friggstad"
          ],
          "tcRating":-1,
          "cfRating":-1,
          "achievements":[
-
+            {
+               "achievement":"ACM ICPC bronze medal (2006)",
+               "priority":4001
+            }
          ]
       },
       "contestants":[
          {
             "name":"Redshaw Morgan",
             "altNames":[
-
+               "Morgan Redshaw"
             ],
             "tcRating":-1,
             "cfRating":-1,
@@ -8238,7 +8938,7 @@
          {
             "name":"Tang Yunpeng",
             "altNames":[
-
+               "Yunpeng Tang"
             ],
             "tcRating":-1,
             "cfRating":-1,
@@ -8249,7 +8949,7 @@
          {
             "name":"Weninger Noah",
             "altNames":[
-
+               "Noah Weninger"
             ],
             "tcRating":-1,
             "cfRating":-1,
@@ -8285,19 +8985,22 @@
       "coach":{
          "name":"Liu Paul",
          "altNames":[
-
+            "Paul Liu"
          ],
          "tcRating":-1,
          "cfRating":-1,
          "achievements":[
-
+            {
+               "achievement":"ACM ICPC Finalist (2013)",
+               "priority":1001
+            }
          ]
       },
       "contestants":[
          {
             "name":"Chiu Jason",
             "altNames":[
-
+               "Jason Chiu"
             ],
             "tcRating":-1,
             "cfRating":-1,
@@ -8308,19 +9011,25 @@
          {
             "name":"Du Yuanchen",
             "altNames":[
-
+               "Yuanchen Du",
+               "Daniel Du",
+               "Du Daniel"
             ],
             "tcRating":-1,
-            "cfRating":-1,
+            "cfHandle":"danield7",
+            "cfRating":1747,
             "achievements":[
-
+               {
+                  "achievement":"ACM ICPC Finalist (2016)",
+                  "priority":1001
+               }
             ]
          },
          {
             "name":"Siaudzionis Lucca",
             "altNames":[
-               "Lucca Morais de Arruda Siaudzionis",
-               "Lucca Siaudzionis"
+               "Lucca Siaudzionis",
+               "Lucca Morais de Arruda Siaudzionis"
             ],
             "tcHandle":"luccasiau",
             "tcId":"23039784",
@@ -8384,23 +9093,31 @@
          {
             "name":"Velea Alexandru",
             "altNames":[
-               "Velea Aleksandru"
+               "Velea Aleksandru",
+               "Alexandru Velea",
+               "Aleksandru Velea"
             ],
             "tcRating":-1,
             "cfRating":-1,
             "achievements":[
-
+               {
+                  "achievement":"IOI Silver Medalist (2014, 2015)",
+                  "priority":32
+               }
             ]
          },
          {
             "name":"Posdarascu Eugenie Daniel",
             "altNames":[
-
+               "Eugenie Daniel Posdarascu"
             ],
             "tcRating":-1,
             "cfRating":-1,
             "achievements":[
-
+               {
+                  "achievement":"ACM ICPC Finalist (2016)",
+                  "priority":1001
+               }
             ]
          },
          {
@@ -8443,19 +9160,26 @@
       "coach":{
          "name":"Hilfinger Paul",
          "altNames":[
-
+            "Paul Hilfinger"
          ],
          "tcRating":-1,
          "cfRating":-1,
          "achievements":[
-
+            {
+               "achievement":"ACM ICPC silver medal as coach (2015)",
+               "priority":3001
+            },
+            {
+               "achievement":"World Finals coach (2009, 2014, 2016)",
+               "priority":1003
+            }
          ]
       },
       "contestants":[
          {
             "name":"Vakil Keyhan",
             "altNames":[
-
+               "Keyhan Vakil"
             ],
             "tcRating":-1,
             "cfRating":-1,
@@ -8480,7 +9204,7 @@
          {
             "name":"Chen Ruichao",
             "altNames":[
-
+               "Ruichao Chen"
             ],
             "tcRating":-1,
             "cfRating":-1,
@@ -8516,19 +9240,22 @@
       "coach":{
          "name":"Pattis Richard",
          "altNames":[
-
+            "Richard Pattis"
          ],
          "tcRating":-1,
          "cfRating":-1,
          "achievements":[
-
+            {
+               "achievement":"World Finals coach (2014)",
+               "priority":1001
+            }
          ]
       },
       "contestants":[
          {
             "name":"Krongapiradee Waitaya",
             "altNames":[
-
+               "Waitaya Krongapiradee"
             ],
             "tcHandle":"wyte_sk133",
             "tcId":"23004077",
@@ -8542,7 +9269,7 @@
          {
             "name":"Chen Liangjian",
             "altNames":[
-
+               "Liangjian Chen"
             ],
             "tcRating":-1,
             "cfRating":-1,
@@ -8590,7 +9317,7 @@
       "coach":{
          "name":"Qian Walter",
          "altNames":[
-
+            "Walter Qian"
          ],
          "tcRating":-1,
          "cfRating":-1,
@@ -8628,7 +9355,7 @@
          {
             "name":"Li Jerry",
             "altNames":[
-
+               "Jerry Li"
             ],
             "tcRating":-1,
             "cfRating":-1,
@@ -8664,25 +9391,31 @@
       "coach":{
          "name":"Keet Maria",
          "altNames":[
-
+            "Maria Keet"
          ],
          "tcRating":-1,
          "cfRating":-1,
          "achievements":[
-
+            {
+               "achievement":"World Finals coach (2015, 2016)",
+               "priority":1002
+            }
          ]
       },
       "contestants":[
          {
             "name":"Davies Kieren",
             "altNames":[
-
+               "Kieren Davies"
             ],
             "tcRating":-1,
             "cfRating":-1,
             "twitterHandle":"kierendavies",
             "achievements":[
-
+               {
+                  "achievement":"ACM ICPC Finalist (2014)",
+                  "priority":1001
+               }
             ]
          },
          {
@@ -8708,7 +9441,7 @@
          {
             "name":"Paterson-Jones Guy",
             "altNames":[
-
+               "Guy Paterson-Jones"
             ],
             "tcRating":-1,
             "cfRating":-1,
@@ -8744,12 +9477,15 @@
       "coach":{
          "name":"Orooji Ali",
          "altNames":[
-
+            "Ali Orooji"
          ],
          "tcRating":-1,
          "cfRating":-1,
          "achievements":[
-
+            {
+               "achievement":"World Finals coach (2009, 2010, 2012-2016)",
+               "priority":1007
+            }
          ]
       },
       "contestants":[
@@ -8768,7 +9504,8 @@
          {
             "name":"Coleman Alexander",
             "altNames":[
-               "Coleman Aleksandr"
+               "Coleman Aleksandr",
+               "Alexander Coleman"
             ],
             "tcRating":-1,
             "cfRating":-1,
@@ -8780,7 +9517,7 @@
          {
             "name":"Linge Joshua",
             "altNames":[
-
+               "Joshua Linge"
             ],
             "tcRating":-1,
             "cfRating":-1,
@@ -8816,7 +9553,7 @@
       "coach":{
          "name":"Adhikary Tamal",
          "altNames":[
-
+            "Tamal Adhikary"
          ],
          "tcRating":-1,
          "cfRating":-1,
@@ -8852,7 +9589,7 @@
          {
             "name":"Zahin Sabit Anwar",
             "altNames":[
-
+               "Sabit Anwar Zahin"
             ],
             "tcRating":-1,
             "cfRating":-1,
@@ -8888,7 +9625,7 @@
       "coach":{
          "name":"Yang Peng",
          "altNames":[
-
+            "Peng Yang"
          ],
          "tcRating":-1,
          "cfRating":-1,
@@ -8896,6 +9633,10 @@
             {
                "achievement":"ACM ICPC bronze medal (2008)",
                "priority":4001
+            },
+            {
+               "achievement":"World Finals coach (2012, 2014-2016)",
+               "priority":1004
             }
          ]
       },
@@ -8921,7 +9662,7 @@
          {
             "name":"Wang Yetao",
             "altNames":[
-
+               "Yetao Wang"
             ],
             "tcRating":-1,
             "cfRating":-1,
@@ -8932,7 +9673,7 @@
          {
             "name":"Lin Weibo",
             "altNames":[
-
+               "Weibo Lin"
             ],
             "tcRating":-1,
             "cfRating":-1,
@@ -8968,12 +9709,15 @@
       "coach":{
          "name":"Phuong Ho Dac",
          "altNames":[
-
+            "Ho Dac Phuong"
          ],
          "tcRating":-1,
          "cfRating":-1,
          "achievements":[
-
+            {
+               "achievement":"World Finals coach (2015, 2016)",
+               "priority":1002
+            }
          ]
       },
       "contestants":[
@@ -8997,8 +9741,8 @@
             "tcHandle":"nhatminh98",
             "tcId":"23287768",
             "tcRating":1940,
-            "cfHandle":"nhatminh98",
-            "cfRating":1733,
+            "cfHandle":"minh141198",
+            "cfRating":2210,
             "twitterHandle":"nhatminh1411",
             "achievements":[
                {
@@ -9149,20 +9893,23 @@
       "coach":{
          "name":"Thakore Uttam",
          "altNames":[
-
+            "Uttam Thakore"
          ],
          "tcRating":-1,
          "cfRating":-1,
          "twitterHandle":"UIUC2016ICPC",
          "achievements":[
-
+            {
+               "achievement":"World Finals coach (2015, 2016)",
+               "priority":1002
+            }
          ]
       },
       "contestants":[
          {
             "name":"Fan Yewen",
             "altNames":[
-
+               "Yewen Fan"
             ],
             "tcRating":-1,
             "cfRating":-1,
@@ -9173,7 +9920,7 @@
          {
             "name":"Li Tong",
             "altNames":[
-
+               "Tong Li"
             ],
             "tcRating":-1,
             "cfRating":-1,
@@ -9184,7 +9931,7 @@
          {
             "name":"Zhang Yuting",
             "altNames":[
-
+               "Yuting Zhang"
             ],
             "tcRating":-1,
             "cfRating":-1,
@@ -9220,12 +9967,15 @@
       "coach":{
          "name":"Arnicans Guntis",
          "altNames":[
-
+            "Guntis Arnicans"
          ],
          "tcRating":-1,
          "cfRating":-1,
          "achievements":[
-
+            {
+               "achievement":"World Finals coach (2012, 2014)",
+               "priority":1002
+            }
          ]
       },
       "contestants":[
@@ -9244,7 +9994,7 @@
          {
             "name":"Kuznecovs Andrejs",
             "altNames":[
-
+               "Andrejs Kuznecovs"
             ],
             "tcRating":-1,
             "cfRating":-1,
@@ -9255,12 +10005,28 @@
          {
             "name":"Zajakins Aleksejs",
             "altNames":[
-
+               "Aleksejs Zajakins",
+               "Alexey Zayakin",
+               "Zayakin Alexey"
             ],
-            "tcRating":-1,
-            "cfRating":-1,
+            "tcHandle":"Alex_2oo8",
+            "tcId":"23052468",
+            "tcRating":2318,
+            "cfHandle":"Alex_2oo8",
+            "cfRating":2904,
             "achievements":[
-
+               {
+                  "achievement":"IOI Gold Medalist (2015)",
+                  "priority":51
+               },
+               {
+                  "achievement":"IOI Silver Medalist (2013, 2014)",
+                  "priority":32
+               },
+               {
+                  "achievement":"VK Cup finalist (2016)",
+                  "priority":26
+               }
             ]
          }
       ]
@@ -9291,7 +10057,7 @@
       "coach":{
          "name":"Khan Nabeel",
          "altNames":[
-
+            "Nabeel Khan"
          ],
          "tcRating":-1,
          "cfRating":-1,
@@ -9303,7 +10069,7 @@
          {
             "name":"Khan Awab Ahmad",
             "altNames":[
-
+               "Awab Ahmad Khan"
             ],
             "tcRating":-1,
             "cfRating":-1,
@@ -9327,7 +10093,7 @@
          {
             "name":"Ali Syed Zeshan",
             "altNames":[
-
+               "Syed Zeshan Ali"
             ],
             "tcRating":-1,
             "cfRating":-1,
@@ -9364,19 +10130,22 @@
       "coach":{
          "name":"Hajiaghayi Mohammadtaghi",
          "altNames":[
-
+            "Mohammadtaghi Hajiaghayi"
          ],
          "tcRating":-1,
          "cfRating":-1,
          "achievements":[
-
+            {
+               "achievement":"World Finals coach (2011, 2013-2015)",
+               "priority":1004
+            }
          ]
       },
       "contestants":[
          {
             "name":"Tan Shuhao",
             "altNames":[
-
+               "Shuhao Tan"
             ],
             "tcRating":-1,
             "cfRating":-1,
@@ -9388,7 +10157,7 @@
          {
             "name":"Yami Hadi",
             "altNames":[
-
+               "Hadi Yami"
             ],
             "tcRating":-1,
             "cfRating":-1,
@@ -9399,7 +10168,7 @@
          {
             "name":"Derakhshan Mahsa",
             "altNames":[
-
+               "Mahsa Derakhshan"
             ],
             "tcRating":-1,
             "cfRating":-1,
@@ -9435,19 +10204,26 @@
       "coach":{
          "name":"Compton Kevin",
          "altNames":[
-
+            "Kevin Compton"
          ],
          "tcRating":-1,
          "cfRating":-1,
          "achievements":[
-
+            {
+               "achievement":"ACM ICPC gold medal as coach (2011)",
+               "priority":4001
+            },
+            {
+               "achievement":"World Finals coach (2010, 2014, 2015)",
+               "priority":1003
+            }
          ]
       },
       "contestants":[
          {
             "name":"Fenner Nathan",
             "altNames":[
-
+               "Nathan Fenner"
             ],
             "tcRating":-1,
             "cfRating":-1,
@@ -9458,7 +10234,7 @@
          {
             "name":"Wang Tianci",
             "altNames":[
-
+               "Tianci Wang"
             ],
             "tcRating":-1,
             "cfRating":-1,
@@ -9469,7 +10245,7 @@
          {
             "name":"Fenner Curtis",
             "altNames":[
-
+               "Curtis Fenner"
             ],
             "tcRating":-1,
             "cfRating":-1,
@@ -9505,12 +10281,15 @@
       "coach":{
          "name":"Ignjatovic Aleks",
          "altNames":[
-
+            "Aleks Ignjatovic"
          ],
          "tcRating":-1,
          "cfRating":-1,
          "achievements":[
-
+            {
+               "achievement":"World Finals coach (2014-2016)",
+               "priority":1003
+            }
          ]
       },
       "contestants":[
@@ -9531,7 +10310,7 @@
          {
             "name":"Huda Mohammad",
             "altNames":[
-
+               "Mohammad Huda"
             ],
             "tcRating":-1,
             "cfRating":-1,
@@ -9582,7 +10361,7 @@
       "coach":{
          "name":"Hu Nick",
          "altNames":[
-
+            "Nick Hu"
          ],
          "tcRating":-1,
          "cfRating":-1,
@@ -9595,7 +10374,7 @@
          {
             "name":"Lee Sauyon",
             "altNames":[
-
+               "Sauyon Lee"
             ],
             "tcRating":-1,
             "cfRating":-1,
@@ -9606,7 +10385,7 @@
          {
             "name":"Jianu Mihail",
             "altNames":[
-
+               "Mihail Jianu"
             ],
             "tcRating":-1,
             "cfRating":-1,
@@ -9617,12 +10396,20 @@
          {
             "name":"Venev Hristo",
             "altNames":[
-
+               "Hristo Venev"
             ],
             "tcRating":-1,
-            "cfRating":-1,
+            "cfHandle":"mustrumr",
+            "cfRating":1690,
             "achievements":[
-
+               {
+                  "achievement":"IOI Gold Medalist (2013-2016)",
+                  "priority":54
+               },
+               {
+                  "achievement":"IOI Silver Medalist (2012)",
+                  "priority":31
+               }
             ]
          }
       ]
@@ -9653,7 +10440,7 @@
       "coach":{
          "name":"Khanna Sanjeev",
          "altNames":[
-
+            "Sanjeev Khanna"
          ],
          "tcRating":-1,
          "cfRating":-1,
@@ -9665,7 +10452,7 @@
          {
             "name":"Tokanov Arman",
             "altNames":[
-
+               "Arman Tokanov"
             ],
             "tcRating":-1,
             "cfRating":-1,
@@ -9676,7 +10463,7 @@
          {
             "name":"Ornelas Vargas Rodrigo",
             "altNames":[
-
+               "Rodrigo Ornelas Vargas"
             ],
             "tcRating":-1,
             "cfRating":-1,
@@ -9687,7 +10474,7 @@
          {
             "name":"Chin Zhan Xiong",
             "altNames":[
-
+               "Zhan Xiong Chin"
             ],
             "tcRating":-1,
             "cfRating":-1,
@@ -9730,19 +10517,26 @@
       "coach":{
          "name":"Stefankovic Daniel",
          "altNames":[
-
+            "Daniel Stefankovic"
          ],
          "tcRating":-1,
          "cfRating":-1,
          "achievements":[
-
+            {
+               "achievement":"World Finals coach (2010)",
+               "priority":1001
+            },
+            {
+               "achievement":"IOI Gold Medalist (1993)",
+               "priority":51
+            }
          ]
       },
       "contestants":[
          {
             "name":"Rubery Daniel",
             "altNames":[
-
+               "Daniel Rubery"
             ],
             "tcRating":-1,
             "cfRating":-1,
@@ -9754,7 +10548,7 @@
          {
             "name":"Polansky Zachary",
             "altNames":[
-
+               "Zachary Polansky"
             ],
             "tcRating":-1,
             "cfRating":-1,
@@ -9804,6 +10598,7 @@
       "coach":{
          "name":"Shapori Amirhossein",
          "altNames":[
+            "Amirhossein Shapori",
             "Amirhossein Shapoori",
             "Shapoori Amirhossein"
          ],
@@ -9815,6 +10610,10 @@
          "twitterHandle":"shamir0xe",
          "achievements":[
             {
+               "achievement":"ACM ICPC Finalist (2016)",
+               "priority":1001
+            },
+            {
                "achievement":"Bayan Finalist (2015)",
                "priority":26
             }
@@ -9824,6 +10623,7 @@
          {
             "name":"Bateni Abtin",
             "altNames":[
+               "Abtin Bateni",
                "abtin bateni",
                "bateni abtin"
             ],
@@ -9838,7 +10638,7 @@
          {
             "name":"Hosseini Shayan",
             "altNames":[
-
+               "Shayan Hosseini"
             ],
             "tcRating":-1,
             "cfRating":-1,
@@ -9850,7 +10650,7 @@
          {
             "name":"RahimiDanesh Navid",
             "altNames":[
-
+               "Navid RahimiDanesh"
             ],
             "tcRating":-1,
             "cfRating":-1,
@@ -9886,19 +10686,22 @@
       "coach":{
          "name":"Nemenzo Fidel",
          "altNames":[
-
+            "Fidel Nemenzo"
          ],
          "tcRating":-1,
          "cfRating":-1,
          "achievements":[
-
+            {
+               "achievement":"World Finals coach (2010)",
+               "priority":1001
+            }
          ]
       },
       "contestants":[
          {
             "name":"Karaan Marco Vincenzo",
             "altNames":[
-
+               "Marco Vincenzo Karaan"
             ],
             "tcRating":-1,
             "cfRating":-1,
@@ -9909,7 +10712,7 @@
          {
             "name":"Jose Williard Joshua",
             "altNames":[
-
+               "Williard Joshua Jose"
             ],
             "tcRating":-1,
             "cfRating":-1,
@@ -9957,18 +10760,34 @@
       "coach":{
          "name":"Madey Jan",
          "altNames":[
-
+            "Jan Madey"
          ],
          "tcRating":-1,
          "cfRating":-1,
          "achievements":[
-
+            {
+               "achievement":"ACM ICPC gold medal as coach (2012)",
+               "priority":4001
+            },
+            {
+               "achievement":"ACM ICPC silver medal as coach (2010, 2013, 2014, 2016)",
+               "priority":3004
+            },
+            {
+               "achievement":"ACM ICPC bronze medal as coach (2009, 2015)",
+               "priority":2002
+            },
+            {
+               "achievement":"World Finals coach (2011)",
+               "priority":1001
+            }
          ]
       },
       "contestants":[
          {
             "name":"Sokołowski Marek",
             "altNames":[
+               "Marek Sokołowski",
                "Marek Sokolowski",
                "Sokolowski Marek"
             ],
@@ -9978,6 +10797,10 @@
             "cfHandle":"mnbvmar",
             "cfRating":2872,
             "achievements":[
+               {
+                  "achievement":"ACM ICPC silver medal (2016)",
+                  "priority":6001
+               },
                {
                   "achievement":"GCJ Finalist (2016)",
                   "priority":51
@@ -10066,12 +10889,19 @@
       "coach":{
          "name":"Vasiga Troy",
          "altNames":[
-
+            "Troy Vasiga"
          ],
          "tcRating":-1,
          "cfRating":-1,
          "achievements":[
-
+            {
+               "achievement":"ACM ICPC bronze medal as coach (2016)",
+               "priority":2001
+            },
+            {
+               "achievement":"World Finals coach (2015)",
+               "priority":1001
+            }
          ]
       },
       "contestants":[
@@ -10101,6 +10931,7 @@
          {
             "name":"Li Yi Kuan",
             "altNames":[
+               "Yi Kuan Li",
                "Yikuan Li",
                "Timothy Li",
                "Li Timothy"
@@ -10174,12 +11005,15 @@
       "coach":{
          "name":"van Melkebeek Dieter",
          "altNames":[
-
+            "Dieter van Melkebeek"
          ],
          "tcRating":-1,
          "cfRating":-1,
          "achievements":[
-
+            {
+               "achievement":"World Finals coach (2009-2016)",
+               "priority":1008
+            }
          ]
       },
       "contestants":[
@@ -10260,12 +11094,19 @@
       "coach":{
          "name":"Loryś Krzysztof",
          "altNames":[
-
+            "Krzysztof Loryś"
          ],
          "tcRating":-1,
          "cfRating":-1,
          "achievements":[
-
+            {
+               "achievement":"ACM ICPC bronze medal as coach (2016)",
+               "priority":2001
+            },
+            {
+               "achievement":"World Finals coach (2015)",
+               "priority":1001
+            }
          ]
       },
       "contestants":[
@@ -10287,7 +11128,7 @@
          {
             "name":"Łowicki Michał",
             "altNames":[
-
+               "Michał Łowicki"
             ],
             "tcRating":-1,
             "cfRating":-1,
@@ -10338,13 +11179,22 @@
       "coach":{
          "name":"Malnar Krešimir",
          "altNames":[
-            "Malnar Kresimir"
+            "Malnar Kresimir",
+            "Krešimir Malnar",
+            "Kresimir Malnar"
          ],
          "tcRating":-1,
          "cfRating":-1,
          "twitterHandle":"kresimirmalnar",
          "achievements":[
-
+            {
+               "achievement":"ACM ICPC silver medal as coach (2014, 2015)",
+               "priority":3002
+            },
+            {
+               "achievement":"World Finals coach (2016)",
+               "priority":1001
+            }
          ]
       },
       "contestants":[
@@ -10365,23 +11215,37 @@
          {
             "name":"Balunović Mislav",
             "altNames":[
-
+               "Mislav Balunović",
+               "Mislav Balunovic",
+               "Balunovic Mislav"
             ],
             "tcRating":-1,
-            "cfRating":-1,
+            "cfHandle":"mislav",
+            "cfRating":2368,
             "achievements":[
-
+               {
+                  "achievement":"IOI Silver Medalist (2013, 2014)",
+                  "priority":32
+               }
             ]
          },
          {
             "name":"Bradač Domagoj",
             "altNames":[
-
+               "Domagoj Bradač",
+               "Domagoj Bradach",
+               "Bradach Domagoj"
             ],
-            "tcRating":-1,
-            "cfRating":-1,
+            "tcHandle":"dbradac",
+            "tcId":"40178661",
+            "tcRating":2176,
+            "cfHandle":"DBradac",
+            "cfRating":2522,
             "achievements":[
-
+               {
+                  "achievement":"IOI Silver Medalist (2015, 2016)",
+                  "priority":32
+               }
             ]
          }
       ]
@@ -10412,8 +11276,8 @@
       "coach":{
          "name":"Rubinchik Mikhail",
          "altNames":[
-            "Michael Rubinchik",
-            "Mikhail Rubinchik"
+            "Mikhail Rubinchik",
+            "Michael Rubinchik"
          ],
          "tcHandle":"rumi13",
          "tcId":"22707426",
@@ -10463,7 +11327,7 @@
          {
             "name":"Kungurtsev Aleksei",
             "altNames":[
-
+               "Aleksei Kungurtsev"
             ],
             "tcRating":-1,
             "cfRating":-1,
@@ -10499,7 +11363,7 @@
       "coach":{
          "name":"Mitsa Oleksandr",
          "altNames":[
-
+            "Oleksandr Mitsa"
          ],
          "tcRating":-1,
          "cfRating":-1,
@@ -10511,18 +11375,39 @@
          {
             "name":"Nagin Sergii",
             "altNames":[
-
+               "Sergii Nagin",
+               "Sergiy Nagin",
+               "Serj Nagin",
+               "Nagin Serj"
             ],
-            "tcRating":-1,
-            "cfRating":-1,
+            "tcHandle":"Sereja",
+            "tcId":"22928704",
+            "tcRating":2282,
+            "cfHandle":"Sereja",
+            "cfRating":2310,
             "achievements":[
-
+               {
+                  "achievement":"IOI Gold Medalist (2012)",
+                  "priority":51
+               },
+               {
+                  "achievement":"IOI Silver Medalist (2011)",
+                  "priority":31
+               },
+               {
+                  "achievement":"RCC Finalist (2013, 2014)",
+                  "priority":27
+               },
+               {
+                  "achievement":"IOI Participant (2010)",
+                  "priority":11
+               }
             ]
          },
          {
             "name":"Novokhatskyi Taras",
             "altNames":[
-
+               "Taras Novokhatskyi"
             ],
             "tcRating":-1,
             "cfRating":-1,
@@ -10533,7 +11418,7 @@
          {
             "name":"Bobyk Yehor",
             "altNames":[
-
+               "Yehor Bobyk"
             ],
             "tcRating":-1,
             "cfRating":-1,
@@ -10569,7 +11454,7 @@
       "coach":{
          "name":"Tumasonis Vladas",
          "altNames":[
-
+            "Vladas Tumasonis"
          ],
          "tcRating":-1,
          "cfRating":-1,
@@ -10581,7 +11466,9 @@
          {
             "name":"Traškevičius Vytautas",
             "altNames":[
-               "Traskevičius Vytautas"
+               "Traskevičius Vytautas",
+               "Vytautas Traškevičius",
+               "Vytautas Traskevičius"
             ],
             "tcRating":-1,
             "cfRating":-1,
@@ -10615,6 +11502,7 @@
          {
             "name":"Klimavičius Justas",
             "altNames":[
+               "Justas Klimavičius",
                "Justas Klimavicius",
                "Klimavicius Justas"
             ],
@@ -10653,12 +11541,15 @@
       "coach":{
          "name":"Back Godmar",
          "altNames":[
-
+            "Godmar Back"
          ],
          "tcRating":-1,
          "cfRating":-1,
          "achievements":[
-
+            {
+               "achievement":"World Finals coach (2014-2016)",
+               "priority":1003
+            }
          ]
       },
       "contestants":[
@@ -10682,7 +11573,7 @@
          {
             "name":"Katkov Andriy",
             "altNames":[
-
+               "Andriy Katkov"
             ],
             "tcRating":-1,
             "cfRating":-1,
@@ -10693,12 +11584,18 @@
          {
             "name":"Steele Peter",
             "altNames":[
-
+               "Peter Steele"
             ],
-            "tcRating":-1,
-            "cfRating":-1,
+            "tcHandle":"PeterASteele",
+            "tcId":"40277784",
+            "tcRating":1371,
+            "cfHandle":"PeterASteele",
+            "cfRating":1974,
             "achievements":[
-
+               {
+                  "achievement":"ACM ICPC Finalist (2016)",
+                  "priority":1001
+               }
             ]
          }
       ]
@@ -10729,7 +11626,7 @@
       "coach":{
          "name":"Cosgrove Dennis",
          "altNames":[
-
+            "Dennis Cosgrove"
          ],
          "tcRating":-1,
          "cfRating":-1,
@@ -10741,7 +11638,7 @@
          {
             "name":"Heil Sam",
             "altNames":[
-
+               "Sam Heil"
             ],
             "tcRating":-1,
             "cfHandle":"VietaFan",
@@ -10753,7 +11650,7 @@
          {
             "name":"Chao Pengning",
             "altNames":[
-
+               "Pengning Chao"
             ],
             "tcRating":-1,
             "cfRating":-1,
@@ -10764,7 +11661,7 @@
          {
             "name":"Woodson Joseph",
             "altNames":[
-
+               "Joseph Woodson"
             ],
             "tcRating":-1,
             "cfRating":-1,
@@ -10800,19 +11697,22 @@
       "coach":{
          "name":"Dong Wenyong",
          "altNames":[
-
+            "Wenyong Dong"
          ],
          "tcRating":-1,
          "cfRating":-1,
          "achievements":[
-
+            {
+               "achievement":"World Finals coach (2009-2012)",
+               "priority":1004
+            }
          ]
       },
       "contestants":[
          {
             "name":"Li Jianren",
             "altNames":[
-
+               "Jianren Li"
             ],
             "tcRating":-1,
             "cfRating":-1,
@@ -10823,7 +11723,7 @@
          {
             "name":"Lu Jinghao",
             "altNames":[
-
+               "Jinghao Lu"
             ],
             "tcRating":-1,
             "cfRating":-1,
@@ -10834,6 +11734,7 @@
          {
             "name":"Chen Yaolin",
             "altNames":[
+               "Yaolin Chen",
                "Indestinee Chen",
                "Chen Indestinee"
             ],
@@ -10968,12 +11869,23 @@
       "coach":{
          "name":"Wang Can",
          "altNames":[
-
+            "Can Wang"
          ],
          "tcRating":-1,
          "cfRating":-1,
          "achievements":[
-
+            {
+               "achievement":"ACM ICPC win as coach (2011)",
+               "priority":5001
+            },
+            {
+               "achievement":"ACM ICPC silver medal as coach (2009)",
+               "priority":3001
+            },
+            {
+               "achievement":"World Finals coach (2012-2016)",
+               "priority":1005
+            }
          ]
       },
       "contestants":[
@@ -11012,13 +11924,17 @@
          {
             "name":"Jin Mengge",
             "altNames":[
-
+               "Mengge Jin"
             ],
             "tcRating":-1,
-            "cfRating":-1,
+            "cfHandle":"J.T.J.L.",
+            "cfRating":2264,
             "twitterHandle":"JTJLever",
             "achievements":[
-
+               {
+                  "achievement":"ACM ICPC Finalist (2016)",
+                  "priority":1001
+               }
             ]
          }
       ]

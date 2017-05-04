@@ -71,22 +71,23 @@ public class GenerateInfo {
                 break;
             }
             String[] data = line.split("~", -1);
-            String role = data[4];
+            String role = data[6];
             if (role.contains("Team: Coach") || role.equals("Team: Contestant")) {
                 Person person = new Person();
                 person.setName(data[0]);
-                if (!data[5].isEmpty()) {
-                    person.setTwitterHandle(data[5]);
-                }
+                person.addAltName(data[1] + " " + data[2]);
                 if (!data[7].isEmpty()) {
-                    person.setCfHandle(convertHandle(data[7]));
+                    person.setTwitterHandle(data[7]);
                 }
-                if (!data[6].isEmpty()) {
-                    person.setTcHandle(convertHandle(data[6]));
+                if (!data[9].isEmpty()) {
+                    person.setCfHandle(convertHandle(data[9]));
+                }
+                if (!data[8].isEmpty()) {
+                    person.setTcHandle(convertHandle(data[8]));
                 }
                 boolean found = false;
                 for (int i = 1; i <= TEAM_NUM; i++) {
-                    if (data[3].equals(records[i].university.getShortName())) {
+                    if (data[5].equals(records[i].university.getShortName())) {
                         found = true;
                         if (role.contains("Team: Coach")) {
                             if (records[i].coach.getName() == null) {
@@ -113,7 +114,7 @@ public class GenerateInfo {
                     }
                 }
                 if (!found) {
-                    log.error("University not found " + data[3]);
+                    log.error("University not found " + data[5]);
                 }
             }
         }
