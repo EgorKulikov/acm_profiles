@@ -38,7 +38,7 @@ public class WFData {
             medals.put(tokens[0].trim() + " " + tokens[1], tokens[2]);
         }
         List<Person> persons = new ArrayList<>();
-        for (int year = 1999; year <= 2015; year++) {
+        for (int year = 1999; year <= 2016; year++) {
             String page = loadPage("https://icpc.baylor.edu/worldfinals/teams/" + year);
             int index;
             String team = null;

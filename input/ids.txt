@@ -1,71 +1,64 @@
 ﻿
-Aleppo University
-Alexandria University - Faculty of Engineering
+Al-Baath University
 Arab Academy for Science and Technology (Alexandria)
-Ateneo de Manila University
+Bangladesh University of Engineering and Technology
 Beihang University
+Beijing Institute of Technology
+Beijing Normal University
 Beijing University of Posts and Telecommunications
-Belarusian State University
 Belarusian State University of Informatics and Radioelectronics
-Birla Institute of Technology & Science, Pilani Campus
-British University in Egypt
+Bina Nusantara University
 Cairo University - Faculty of Computers and Information
-California Institute of Technology
-Carnegie Mellon University
-Charles University in Prague
+Cedarville University
+Chennai Mathematical Institute
 Chulalongkorn University
-Comenius University
 Cornell University
 Damascus University
-Escuela Superior De Computo Instituto Politecnico Nacional
+Dhirubhai Ambani Institute of Information and Communication Technology, Gandhinagar
+École Normale Supérieure de Paris
 ETH Zürich
+Facultad de Ciencias-Universidad Nacional Autónoma de México
+Faculty of Computer and Information Sciences, Ain Shams University
+Faculty of Engineering (at Shoubra), Benha University
 Fudan University
-Harvard University
-Ho Chi Minh City University of Science
-Illinois Institute of Technology
-Imperial College London
-Indian Institute of Information Technology - Allahabad
+Fuzhou University
+German University in Cairo
+Hangzhou Dianzi University
 Indian Institute of Technology - Bombay
-Indian Institute of Technology - Delhi
+Indian Institute of Technology - Indore
 Indian Institute of Technology - Kanpur
-Indian Institute of Technology - Roorkee
-Innopolis University
 Instituto Tecnológico Autónomo de México
+International Institute of Information Technology - Bangalore
+International Institute of Information Technology - Hyderabad
 Iowa State University
-Islamic Azad University of Mashhad
-ITESM Campus Monterrey
 Jagiellonian University in Krakow
 Jahangirnagar University
 KAIST
-Kim Il Sung University
-Korea University
-Kyoto University
+Keio University
+KTH - Royal Institute of Technology
 Lviv National University
 Massachusetts Institute of Technology
-Moscow Aviation Institute
-Moscow Engineering Physics Institute
+Monash University
 Moscow Institute of Physics & Technology
 Moscow State University
-National Chiao Tung University
+Mount Allison University
+National Institute of Technology, Karnataka
+National Research University Higher School of Economics
 National Taiwan University
-National University of Defense Technology
 National University of Singapore
-Ningbo University
-Nizhny Novgorod State University
-North South University
-Northeast Normal University
 Northeastern University (China)
-Northern (Arctic) Federal University
-Ohio State University
-Osaka University
+Northwestern University
+Novosibirsk State University
 Peking University
-Prince of Songkla University
-Princess Sumaya University for Technology
-Radboud University
-Rice University
+Perm State University
+Petrozavodsk State University
+POLITEHNICA University of Bucharest
+Pontificia Universidad Católica del Perú - FCI
+Princeton University
+Samara National Research University
 Saratov State University
+Seoul National University
 Shahid Beheshti University
-Shahjalal University of Science and Technology
 Shanghai Jiao Tong University
 Shanghai University
 Sharif University of Technology
@@ -74,56 +67,68 @@ South Dakota School of Mines and Technology
 St. Petersburg Academic University
 St. Petersburg ITMO University
 St. Petersburg State University
-Stanford University
 Taras Shevchenko National University of Kyiv
+The American University in Cairo
 The Chinese University of Hong Kong
 The University of South Dakota
+The University of Texas at Austin
 The University of Tokyo
-The University of Western Australia
-Tianjin University
 Tishreen University
+TOBB University of Economics and Technology
+Tokyo Institute of Technology
+Tomsk Polytechnic University
 Tsinghua University
+Universidad Autónoma de Nuevo Leon
 Universidad de Buenos Aires - FCEN
 Universidad de Chile
 Universidad de La Habana
-Universidad de los Andes, Colombia
-Universidad de Oriente - Sede Antonio Maceo
+Universidad de Pinar del Río
+Universidad Mayor de San Simon - Sistemas
 Universidad Nacional de Colombia - Bogotá
-Universidad Nacional de Ingeniería - FIIS
+Universidad Nacional de Córdoba - FaMAF
 Universidad Nacional de Rosario
 Universidad Simón Bolívar
-Universidade de São Paulo
-Universidade de São Paulo - Campus de São Carlos
 Universidade Estadual de Campinas
 Universidade Federal da Bahia
 Universidade Federal de Campina Grande
+Universidade Federal de Itajubá - Campus Itajubá
 Universidade Federal de Pernambuco
-Universitat Politècnica de Catalunya
+Universidade Federal do Rio Grande do Norte
+Universitas Indonesia
 University of Aizu
+University of Alberta
 University of British Columbia
+University of Bucharest
 University of California at Berkeley
+University of California Irvine
+University of California Los Angeles
 University of Cape Town
 University of Central Florida
-University of Chicago
+University of Dhaka
 University of Electronic Science and Technology of China
 University of Engineering and Technology - VNU
 University of Helsinki
 University of Illinois at Urbana-Champaign
-University of Minnesota - Twin Cities
+University of Latvia
+University of Management and Technology
+University of Maryland
+University of Michigan at Ann Arbor
 University of New South Wales
-University of North Carolina at Chapel Hill
-University of Southern California
-University of Utah
-University of Virginia
+University of Oxford
+University of Pennsylvania
+University of Rochester
+University of Tehran
+University of the Philippines - Diliman
 University of Warsaw
 University of Waterloo
 University of Wisconsin - Madison
 University of Wroclaw
 University of Zagreb
 Ural Federal University
-Utrecht University
+Uzhgorod National University
+Vilnius University
 Virginia Tech
-Zaporizhzhya National Technical University
-Zhejiang Normal University
+Washington University in St. Louis
+Wuhan University
+Yerevan State University
 Zhejiang University
-Zhongshan (Sun Yat-sen) University

@@ -1,5 +1,7 @@
 package net.egork.teaminfo.tools;
 
+import net.egork.teaminfo.GenerateInfo;
+
 import java.io.PrintWriter;
 
 import static net.egork.teaminfo.Utils.loadPage;
@@ -9,8 +11,8 @@ import static net.egork.teaminfo.Utils.loadPage;
  */
 public class ProfileDownloader {
     public static void main(String... args) throws Exception {
-        String page = loadPage("http://myicpc.icpcnews.com/World-Finals-2016/teams");
-        for (int i = 1; i <= 128; i++) {
+        String page = loadPage("http://myicpc.icpcnews.com/World-Finals-2017/teams");
+        for (int i = 1; i <= GenerateInfo.TEAM_NUM; i++) {
             int index = page.indexOf("Team profile");
             String before = page.substring(0, index);
             page = page.substring(index + 1);

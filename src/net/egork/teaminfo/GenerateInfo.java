@@ -13,13 +13,13 @@ import org.apache.commons.logging.LogFactory;
 import java.io.*;
 import java.util.*;
 
-import static com.sun.xml.internal.bind.v2.util.EditDistance.editDistance;
 import static net.egork.teaminfo.Utils.*;
 
 /**
  * @author egor@egork.net
  */
 public class GenerateInfo {
+    public static final int TEAM_NUM = 133;
     private static Log log = LogFactory.getLog(GenerateInfo.class);
 
     static {
@@ -34,28 +34,95 @@ public class GenerateInfo {
         }
     }
 
-    static Record[] records = new Record[129];
+    static Record[] records = new Record[TEAM_NUM + 1];
 
     public static void main(String[] args) throws Exception {
         //Getting ready
         init();
-        readIds();
-        readMyICPC();
+        readPersons();
+//        readIds();
+//        readMyICPC();
 
         //Teams
-        readShortNames();
+//        readShortNames();
         readSnark();
         readRegionalChamps();
         readOpenCup();
 
-        readAltNames();
+//        readAltNames();
 
         //Personal
         readPersonalDatabase();
 
         saveResults();
-        saveRepeatFinalists();
-        saveHRForm();
+//        saveRepeatFinalists();
+//        saveHRForm();
+    }
+
+    private static void readPersons() throws IOException {
+        BufferedReader reader = new BufferedReader(new FileReader("input/persons_data.csv"));
+
+        int coach = 0;
+        int contestant = 0;
+
+        while (true) {
+            String line = reader.readLine();
+            if (line == null) {
+                break;
+            }
+            String[] data = line.split("~", -1);
+            String role = data[4];
+            if (role.contains("Team: Coach") || role.equals("Team: Contestant")) {
+                Person person = new Person();
+                person.setName(data[0]);
+                if (!data[5].isEmpty()) {
+                    person.setTwitterHandle(data[5]);
+                }
+                if (!data[7].isEmpty()) {
+                    person.setCfHandle(convertHandle(data[7]));
+                }
+                if (!data[6].isEmpty()) {
+                    person.setTcHandle(convertHandle(data[6]));
+                }
+                boolean found = false;
+                for (int i = 1; i <= TEAM_NUM; i++) {
+                    if (data[3].equals(records[i].university.getShortName())) {
+                        found = true;
+                        if (role.contains("Team: Coach")) {
+                            if (records[i].coach.getName() == null) {
+                                records[i].coach.updateFrom(person);
+                                coach++;
+                            } else {
+                                log.error("2 coaches for " + records[i].university.getFullName());
+                            }
+                        } else {
+                            boolean saved = false;
+                            for (int j = 0; j < 3; j++) {
+                                if (records[i].contestants[j].getName() == null) {
+                                    records[i].contestants[j].updateFrom(person);
+                                    saved = true;
+                                    contestant++;
+                                    break;
+                                }
+                            }
+                            if (!saved) {
+                                log.error("4 contestants for " + records[i].university.getFullName());
+                            }
+                        }
+                        break;
+                    }
+                }
+                if (!found) {
+                    log.error("University not found " + data[3]);
+                }
+            }
+        }
+
+        log.info("Persons done, " + coach + "/133 coaches, " + contestant + "/399 contestants");
+    }
+
+    private static String convertHandle(String handle) {
+        return handle.substring(handle.lastIndexOf('-') + 1);
     }
 
     private static void readAltNames() throws Exception {
@@ -64,7 +131,7 @@ public class GenerateInfo {
         reader.readLine();
         while ((s = reader.readLine()) != null) {
             String[] tokens = s.split("#");
-            for (int i = 1; i <= 128; i++) {
+            for (int i = 1; i <= TEAM_NUM; i++) {
                 for (int j = 0; j < 3; j++) {
                     if (records[i].contestants[j].getName().equals(tokens[0])) {
                         records[i].contestants[j].addAltName(tokens[1]);
@@ -80,7 +147,7 @@ public class GenerateInfo {
         while ((s = reader.readLine()) != null) {
             String[] tokens = s.split(";");
             boolean found = false;
-            for (int i = 1; i <= 128; i++) {
+            for (int i = 1; i <= TEAM_NUM; i++) {
                 Record record = records[i];
                 if (record.university.getFullName().equals(tokens[0])) {
                     record.team.setOpenCupPlace(Integer.parseInt(tokens[1]));
@@ -103,7 +170,7 @@ public class GenerateInfo {
         }
         PrintWriter outImp = new PrintWriter("output/imp.txt");
         PrintWriter out = new PrintWriter("output/all.txt");
-        for (int i = 1; i <= 128; i++) {
+        for (int i = 1; i <= TEAM_NUM; i++) {
             records[i].print(out);
             out.println("\f");
             if (important.contains(records[i].university.getFullName())) {
@@ -118,7 +185,7 @@ public class GenerateInfo {
         BufferedReader reader = new BufferedReader(new FileReader("input/regional_champs.txt"));
         String s;
         while ((s = reader.readLine()) != null) {
-            for (int i = 1; i <= 128; i++) {
+            for (int i = 1; i <= TEAM_NUM; i++) {
                 University university = records[i].university;
                 if (university.getFullName().equals(s)) {
                     university.setRegionalChampionships(university.getRegionalChampionships() + 1);
@@ -130,7 +197,7 @@ public class GenerateInfo {
 
     private static void saveRepeatFinalists() throws Exception {
         PrintWriter out = new PrintWriter("repeat.cvs");
-        for (int i = 1; i <= 128; i++) {
+        for (int i = 1; i <= TEAM_NUM; i++) {
             Record record = records[i];
             List<String> good = new ArrayList<>();
             for (Person person : record.contestants) {
@@ -161,7 +228,7 @@ public class GenerateInfo {
         List<Person> persons = Utils.readList("input/database.json", Person.class);
         int coachesFound = 0;
         int participantsFound = 0;
-        for (int i = 1; i <= 128; i++) {
+        for (int i = 1; i <= TEAM_NUM; i++) {
             Record record = records[i];
             boolean coachFound = false;
             for (Person person : persons) {
@@ -189,7 +256,7 @@ public class GenerateInfo {
             }
         }
         out.close();
-        for (int i = 1; i <= 128; i++) {
+        for (int i = 1; i <= TEAM_NUM; i++) {
             Record record = records[i];
             record.coach.compressAchievements();
             for (Person contestant : record.contestants) {
@@ -197,8 +264,8 @@ public class GenerateInfo {
             }
         }
         log.info("Personal info integrated");
-        log.info("Coaches: " + coachesFound + "/128 found");
-        log.info("Participants: " + participantsFound + "/384 found");
+        log.info("Coaches: " + coachesFound + "/133 found");
+        log.info("Participants: " + participantsFound + "/399 found");
     }
 
     private static void readSnark() throws Exception {
@@ -214,7 +281,7 @@ public class GenerateInfo {
             String[] tokens = s.split("#");
             map.put(tokens[0], tokens[1]);
         }
-        for (int i = 1; i <= 128; i++) {
+        for (int i = 1; i <= TEAM_NUM; i++) {
             boolean found = false;
             for (University university : universities) {
                 if (sameUniversity(records[i].university, university, map)) {
@@ -240,18 +307,18 @@ public class GenerateInfo {
     }
 
     private static void readShortNames() throws Exception {
-        University[] universities = new University[128];
+        University[] universities = new University[TEAM_NUM];
         BufferedReader reader = new BufferedReader(new FileReader("input/short.cvs"));
-        for (int i = 0; i < 128; i++) {
+        for (int i = 0; i < TEAM_NUM; i++) {
             String[] tokens = reader.readLine().split(";");
             universities[i] = new University();
             universities[i].setFullName(tokens[0]);
             universities[i].setShortName(tokens[1]);
             universities[i].setHashTag(tokens[2]);
         }
-        for (int i = 1; i <= 128; i++) {
+        for (int i = 1; i <= TEAM_NUM; i++) {
             boolean found = false;
-            for (int j = 0; j < 128; j++) {
+            for (int j = 0; j < TEAM_NUM; j++) {
                 if (Objects.equals(universities[j].getFullName(), records[i].university.getFullName())) {
                     records[i].university.updateFrom(universities[j]);
                     found = true;
@@ -269,8 +336,8 @@ public class GenerateInfo {
         if (Boolean.getBoolean("reloadTeamProfiles")) {
             ProfileDownloader.main();
         }
-        Record[] pageRecords = new Record[129];
-        for (int i = 1; i <= 128; i++) {
+        Record[] pageRecords = new Record[TEAM_NUM + 1];
+        for (int i = 1; i <= TEAM_NUM; i++) {
             String page = readPage("input/pages/" + i);
             pageRecords[i] = new Record(i);
             page = page.substring(page.indexOf("<div id=\"pageTitle\""));
@@ -341,9 +408,9 @@ public class GenerateInfo {
             }
             pageRecords[i].team.setRegionals(regionalResults);
         }
-        for (int i = 1; i <= 128; i++) {
+        for (int i = 1; i <= TEAM_NUM; i++) {
             boolean found = false;
-            for (int j = 1; j <= 128; j++) {
+            for (int j = 1; j <= TEAM_NUM; j++) {
                 if (pageRecords[j] != null &&
                         Objects.equals(pageRecords[j].university.getFullName(), records[i].university.getFullName())) {
                     records[i].university.updateFrom(pageRecords[j].university);
@@ -361,7 +428,7 @@ public class GenerateInfo {
                 log.error("No page for " + records[i].university.getFullName());
             }
         }
-        for (int i = 1; i <= 128; i++) {
+        for (int i = 1; i <= TEAM_NUM; i++) {
             if (pageRecords[i] != null) {
                 log.error("No match for " + pageRecords[i].university.getFullName());
             }
@@ -371,7 +438,7 @@ public class GenerateInfo {
 
     private static void saveResults() throws Exception {
         PrintWriter out = new PrintWriter("output/all.cvs");
-        for (int i = 1; i <= 128; i++) {
+        for (int i = 1; i <= TEAM_NUM; i++) {
             Utils.mapper.writeValue(new File("output/" + i + ".json"), records[i]);
             out.println(records[i].university.getFullName());
             for (int j = 0; j < 3; j++) {
@@ -379,14 +446,14 @@ public class GenerateInfo {
                 out.println(contestant.getName() + ";" + (contestant.getCfHandle() != null ? contestant.getCfHandle() : "") + ";" + (contestant.getTcHandle() != null ? contestant.getTcHandle() : ""));
             }
         }
-        Utils.mapper.writeValue(new File("output/all.json"), Arrays.asList(Arrays.copyOfRange(records, 1, 129)));
+        Utils.mapper.writeValue(new File("output/all.json"), Arrays.asList(Arrays.copyOfRange(records, 1, TEAM_NUM + 1)));
         out.close();
     }
 
     private static void readIds() throws Exception {
         BufferedReader reader = new BufferedReader(new FileReader("input/ids.txt"));
         reader.readLine();
-        for (int i = 1; i <= 128; i++) {
+        for (int i = 1; i <= TEAM_NUM; i++) {
             University university = new University();
             university.setFullName(reader.readLine());
             records[i].university.updateFrom(university);
@@ -394,10 +461,30 @@ public class GenerateInfo {
         log.info("ids loaded");
     }
 
-    private static void init() {
-        for (int i = 1; i <= 128; i++) {
+    private static void init() throws IOException {
+        BufferedReader reader = new BufferedReader(new FileReader("input/teamdata.csv"));
+        for (int i = 1; i <= TEAM_NUM; i++) {
             records[i] = new Record(i);
+            String[] data = reader.readLine().split("~");
+            records[i].university.setMyIcpcId(data[1]);
+            records[i].university.setRegion(getRegionById(data[2]));
+            records[i].team.setName(data[3]);
+            records[i].university.setFullName(data[4]);
+            records[i].university.setShortName(data[5]);
+            records[i].university.setUrl(data[6]);
         }
         log.info("Init done");
+    }
+
+    private static String getRegionById(String regionId) {
+        switch (regionId) {
+            case "11742": return "Asia";
+            case "11735": return "Europe";
+            case "11737": return "Africa and the Middle East";
+            case "11738": return "North America";
+            case "11744": return "Latin America";
+            case "11743": return "South Pacific";
+            default: throw new RuntimeException();
+        }
     }
 }

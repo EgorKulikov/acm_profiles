@@ -13,7 +13,7 @@ import static net.egork.teaminfo.Utils.*;
  */
 public class SnarkRaw {
     public static void main(String...args) throws Exception {
-        String page = loadPage("http://finals.snarknews.info/index.cgi?data=stat/uniall&year=2015&class=final2015");
+        String page = loadPage("http://finals.snarknews.info/index.cgi?data=stat/uniall&year=2016&class=final2016");
         page = page.substring(page.indexOf("<th>University</th>"));
         page = page.substring(0, page.indexOf("</table>"));
         int index;
@@ -31,7 +31,7 @@ public class SnarkRaw {
             int gold = 0;
             int silver = 0;
             int bronze = 0;
-            for (int i = 3; i <= 26; i++) {
+            for (int i = 3; i <= 27; i++) {
                 if ("-".equals(tokens[i])) {
                     continue;
                 }
