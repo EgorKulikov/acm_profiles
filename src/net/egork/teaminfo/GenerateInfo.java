@@ -157,14 +157,14 @@ public class GenerateInfo {
                     if (data[5].equals(records[i].university.getShortName())) {
                         found = true;
                         if (role.contains("Team: Coach")) {
-                            if (records[i].coach.isCompatible(person)) {
+                            if (Utils.samePerson(records[i].coach, person)) {
                                 records[i].coach.updateFrom(person);
                                 coach++;
                             }
                         } else {
                             boolean saved = false;
                             for (int j = 0; j < 3; j++) {
-                                if (records[i].contestants[j].isCompatible(person)) {
+                                if (Utils.samePerson(records[i].contestants[j], person)) {
                                     records[i].contestants[j].updateFrom(person);
                                     saved = true;
                                     contestant++;
@@ -400,6 +400,7 @@ public class GenerateInfo {
             ProfileDownloader.main();
         }
         Record[] pageRecords = new Record[TEAM_NUM + 1];
+        PrintWriter badHashes = new PrintWriter("output/bad_hash_tag.txt");
         for (int i = 1; i <= TEAM_NUM; i++) {
             String page = readPage("input/pages/" + i);
             pageRecords[i] = new Record(i);
@@ -417,6 +418,7 @@ public class GenerateInfo {
             pageRecords[i].coach.setName(coachName);
             page = page.substring(index);
             page = page.substring(page.indexOf("<h4>"));
+            page = page.substring(page.indexOf("Contestants"));
             page = page.substring(page.indexOf("<td>") + 4);
             page = page.substring(page.indexOf(">") + 1);
             index = page.indexOf("</a>");
@@ -470,7 +472,17 @@ public class GenerateInfo {
                 regionalResults.add(regName + ", " + place + appropriateEnd(Integer.parseInt(place)));
             }
             pageRecords[i].team.setRegionals(regionalResults);
+            page = readPage("input/pages/" + i + "s");
+            page = page.substring(page.indexOf("Tweet about #"));
+            page = page.substring(13);
+            String hashTag = page.substring(0, page.indexOf("#")).trim();
+            if (hashTag.isEmpty()) {
+                log.error("No hashtag for " + pageRecords[i].university.getFullName());
+                badHashes.println(pageRecords[i].university.getFullName());
+            }
+            pageRecords[i].university.setHashTag(hashTag);
         }
+        badHashes.close();
         for (int i = 1; i <= TEAM_NUM; i++) {
             boolean found = false;
             for (int j = 1; j <= TEAM_NUM; j++) {

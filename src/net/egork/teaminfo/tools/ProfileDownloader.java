@@ -18,9 +18,16 @@ public class ProfileDownloader {
             page = page.substring(index + 1);
             int href = before.lastIndexOf("href=\"");
             before = before.substring(href + 6);
-            String link = "http://myicpc.icpcnews.com" + before.substring(0, before.indexOf("\""));
+            String end = before.substring(0, before.indexOf("\""));
+            end = end.substring(0, end.indexOf("/profile"));
+            String link = "http://myicpc.icpcnews.com" + end;
             String content = loadPage(link);
             PrintWriter out = new PrintWriter("input/pages/" + i);
+            out.print(content);
+            out.close();
+            link = "http://myicpc.icpcnews.com" + end + "/social";
+            content = loadPage(link);
+            out = new PrintWriter("input/pages/" + i + "s");
             out.print(content);
             out.close();
             System.out.println(i + " ready!");
