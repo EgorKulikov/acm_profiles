@@ -39,9 +39,9 @@ public class GenerateInfo {
     public static void main(String[] args) throws Exception {
         //Getting ready
         init();
-        readPersons();
 //        readIds();
-//        readMyICPC();
+        readMyICPC();
+        readPersons();
 
         //Teams
 //        readShortNames();
@@ -55,8 +55,75 @@ public class GenerateInfo {
         readPersonalDatabase();
 
         saveResults();
+        saveRatings();
 //        saveRepeatFinalists();
 //        saveHRForm();
+    }
+
+    private static void saveRatings() throws FileNotFoundException {
+        NavigableSet<Person> contestantsTC = new TreeSet<>((o1, o2) -> {
+            if (o1.getTcRating() != o2.getTcRating()) {
+                return o2.getTcRating() - o1.getTcRating();
+            }
+            return o1.getTcHandle().compareTo(o2.getTcHandle());
+        });
+        NavigableSet<Person> contestantsAndCoachesTC = new TreeSet<>((o1, o2) -> {
+            if (o1.getTcRating() != o2.getTcRating()) {
+                return o2.getTcRating() - o1.getTcRating();
+            }
+            return o1.getTcHandle().compareTo(o2.getTcHandle());
+        });
+        NavigableSet<Person> contestantsCF = new TreeSet<>((o1, o2) -> {
+            if (o1.getCfRating() != o2.getCfRating()) {
+                return o2.getCfRating() - o1.getCfRating();
+            }
+            return o1.getCfHandle().compareTo(o2.getCfHandle());
+        });
+        NavigableSet<Person> contestantsAndCoachesCF = new TreeSet<>((o1, o2) -> {
+            if (o1.getCfRating() != o2.getCfRating()) {
+                return o2.getCfRating() - o1.getCfRating();
+            }
+            return o1.getCfHandle().compareTo(o2.getCfHandle());
+        });
+        for (int i = 1; i <= TEAM_NUM; i++) {
+            Person coach = records[i].coach;
+            if (coach.getTcRating() != -1) {
+                contestantsAndCoachesTC.add(coach);
+            }
+            if (coach.getCfRating() != -1) {
+                contestantsAndCoachesCF.add(coach);
+            }
+            for (Person contestant : records[i].contestants) {
+                if (contestant.getTcRating() != -1) {
+                    contestantsTC.add(contestant);
+                    contestantsAndCoachesTC.add(contestant);
+                }
+                if (contestant.getCfRating() != -1) {
+                    contestantsCF.add(contestant);
+                    contestantsAndCoachesCF.add(contestant);
+                }
+            }
+        }
+        PrintWriter pw = new PrintWriter("output/contestants_cf.csv");
+        for (Person person : contestantsCF) {
+            pw.println(person.getName() + ";" + person.getCfHandle() + ";" + person.getCfRating());
+        }
+        pw.close();
+        pw = new PrintWriter("output/contestants_and_coaches_cf.csv");
+        for (Person person : contestantsAndCoachesCF) {
+            pw.println(person.getName() + ";" + person.getCfHandle() + ";" + person.getCfRating());
+        }
+        pw.close();
+        pw = new PrintWriter("output/contestants_and_coaches_tc.csv");
+        for (Person person : contestantsAndCoachesTC) {
+            pw.println(person.getName() + ";" + person.getTcHandle() + ";" + person.getTcRating());
+        }
+        pw.close();
+        pw = new PrintWriter("output/contestants_tc.csv");
+        for (Person person : contestantsTC) {
+            pw.println(person.getName() + ";" + person.getTcHandle() + ";" + person.getTcRating());
+        }
+        pw.close();
     }
 
     private static void readPersons() throws IOException {
@@ -90,24 +157,19 @@ public class GenerateInfo {
                     if (data[5].equals(records[i].university.getShortName())) {
                         found = true;
                         if (role.contains("Team: Coach")) {
-                            if (records[i].coach.getName() == null) {
+                            if (records[i].coach.isCompatible(person)) {
                                 records[i].coach.updateFrom(person);
                                 coach++;
-                            } else {
-                                log.error("2 coaches for " + records[i].university.getFullName());
                             }
                         } else {
                             boolean saved = false;
                             for (int j = 0; j < 3; j++) {
-                                if (records[i].contestants[j].getName() == null) {
+                                if (records[i].contestants[j].isCompatible(person)) {
                                     records[i].contestants[j].updateFrom(person);
                                     saved = true;
                                     contestant++;
                                     break;
                                 }
-                            }
-                            if (!saved) {
-                                log.error("4 contestants for " + records[i].university.getFullName());
                             }
                         }
                         break;

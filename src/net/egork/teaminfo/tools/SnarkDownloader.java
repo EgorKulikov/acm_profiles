@@ -7,10 +7,9 @@ import org.apache.commons.logging.Log;
 import org.apache.commons.logging.LogFactory;
 
 import java.io.File;
-import java.io.PrintWriter;
 import java.util.*;
 
-import static net.egork.teaminfo.Utils.*;
+import static net.egork.teaminfo.Utils.loadPage;
 
 /**
  * @author egor@egork.net
@@ -31,7 +30,6 @@ public class SnarkDownloader {
         skipable.add("Codeforces powered tournaments");
         skipable.add("International Olympiad in Informatics");
         skipable.add("ACM International Collegiate Programming Contest");
-        skipable.add("SnarkNews Series");
 
         add("Russian Code Cup Finalist", "RCC Finalist", 25);
         add("TopCoder Open Runner-Up", "TCO 2nd", 105);
