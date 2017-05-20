@@ -43,6 +43,12 @@ public class TopCoderDownloader {
             if (++count % 100 == 0) {
                 log.info(count + " processed");
             }
+            if (person.getTcHandle().equals("eagle93")) {
+                continue;
+            }
+            if (person.getTcHandle().equals("Vytautas")) {
+                continue;
+            }
             persons.add(person);
         }
         Utils.mapper.writeValue(new File("input/topcoder.json"), persons);

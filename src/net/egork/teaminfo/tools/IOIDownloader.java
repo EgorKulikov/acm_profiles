@@ -68,6 +68,7 @@ public class IOIDownloader {
                     person.addAchievement(new Achievement("IOI Participant", Integer.parseInt(year), 10));
                 }
             }
+            person.setIoiID(id);
             persons.add(person);
             if (++count % 100 == 0) {
                 log.info(count + " processed");

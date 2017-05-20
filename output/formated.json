@@ -42,7 +42,8 @@
                "Hakki Malek"
             ],
             "tcRating":-1,
-            "cfRating":-1,
+            "cfHandle":"thedarkness901",
+            "cfRating":1485,
             "achievements":[
 
             ]
@@ -50,11 +51,13 @@
          {
             "name":"Marsil Zakour",
             "altNames":[
-               "Zakour Marsil"
+               "Zakour Marsil",
+               "marcil zakour",
+               "zakour marcil"
             ],
             "tcRating":-1,
             "cfHandle":"programmer_m",
-            "cfRating":-1,
+            "cfRating":1873,
             "achievements":[
 
             ]
@@ -128,36 +131,71 @@
          {
             "name":"Ahmed Salem Ezzat Salem Hegazi",
             "altNames":[
-               "Hegazi Ahmed Salem Ezzat Salem"
+               "Hegazi Ahmed Salem Ezzat Salem",
+               "Ahmed Salem",
+               "Ahmed Salem Ezzat",
+               "Salem Ahmed"
             ],
-            "tcRating":-1,
-            "cfRating":-1,
+            "tcHandle":"mrtempo",
+            "tcId":"22692048",
+            "tcRating":1863,
+            "cfHandle":"mrtempo",
+            "cfRating":2140,
+            "ioiID":"67",
             "achievements":[
                {
                   "achievement":"World Finals coach (2016)",
                   "priority":1001
+               },
+               {
+                  "achievement":"ACM ICPC Finalist (2013)",
+                  "priority":1001
+               },
+               {
+                  "achievement":"IOI Bronze Medalist (2008, 2009, 2011)",
+                  "priority":23
+               },
+               {
+                  "achievement":"IOI Participant (2010)",
+                  "priority":11
                }
             ]
          },
          {
             "name":"Youssef Salama",
             "altNames":[
-               "Salama Youssef"
+               "Salama Youssef",
+               "Yousef Ibrahim Salama",
+               "Yousef Salama",
+               "Salama Yousef"
             ],
             "tcRating":-1,
-            "cfHandle":"youssseeef",
+            "cfHandle":"Yousef_Salama",
             "cfRating":1403,
+            "ioiID":"2766",
             "achievements":[
-
+               {
+                  "achievement":"IOI Silver Medalist (2015)",
+                  "priority":31
+               },
+               {
+                  "achievement":"IOI Bronze Medalist (2012, 2013)",
+                  "priority":22
+               }
             ]
          },
          {
             "name":"Walid Ghallab",
             "altNames":[
-               "Ghallab Walid"
+               "Ghallab Walid",
+               "Walid Amin",
+               "Amin Walid"
             ],
-            "tcRating":-1,
-            "cfRating":-1,
+            "tcHandle":"Walid_Amin",
+            "tcId":"40201003",
+            "tcRating":1153,
+            "cfHandle":"Walid_Amin",
+            "cfRating":1964,
             "achievements":[
 
             ]
@@ -207,10 +245,15 @@
          {
             "name":"M M Harun Ur Rashid",
             "altNames":[
-               "Rashid M M Harun Ur"
+               "Rashid M M Harun Ur",
+               "M. M. Harun-Ur-Rashid",
+               "Harun-Ur-Rashid M. M."
             ],
-            "tcRating":-1,
-            "cfRating":-1,
+            "tcHandle":"Honour_00",
+            "tcId":"23179616",
+            "tcRating":1313,
+            "cfHandle":"Honour_00",
+            "cfRating":2050,
             "achievements":[
 
             ]
@@ -226,7 +269,8 @@
             "tcId":"23138918",
             "tcRating":1366,
             "cfHandle":"triploblastic",
-            "cfRating":2066,
+            "cfRating":2095,
+            "ioiID":"5026",
             "achievements":[
                {
                   "achievement":"IOI Participant (2014)",
@@ -292,9 +336,9 @@
             "altNames":[
                "Li Zhouyang"
             ],
-            "tcHandle":"constory",
-            "tcId":"23329838",
-            "tcRating":1306,
+            "tcHandle":"constroy",
+            "tcId":"23194926",
+            "tcRating":1582,
             "cfHandle":"constory",
             "cfRating":1988,
             "achievements":[
@@ -307,7 +351,8 @@
                "Liu Ziyuan"
             ],
             "tcRating":-1,
-            "cfRating":-1,
+            "cfHandle":"braveTester",
+            "cfRating":1906,
             "achievements":[
 
             ]
@@ -318,7 +363,8 @@
                "Tang Jingzhe"
             ],
             "tcHandle":"tangjz",
-            "tcRating":-1,
+            "tcId":"23141126",
+            "tcRating":1614,
             "cfHandle":"skywalkert",
             "cfRating":2135,
             "twitterHandle":"ElizurTaylor",
@@ -382,7 +428,8 @@
                "Huan Chengying"
             ],
             "tcRating":-1,
-            "cfRating":-1,
+            "cfHandle":"huantwofat",
+            "cfRating":2145,
             "achievements":[
 
             ]
@@ -393,7 +440,8 @@
                "Sun Ying"
             ],
             "tcRating":-1,
-            "cfRating":-1,
+            "cfHandle":"iblacksun",
+            "cfRating":2016,
             "achievements":[
 
             ]
@@ -462,7 +510,7 @@
             "tcId":"40421038",
             "tcRating":1364,
             "cfHandle":"zhuaiballl",
-            "cfRating":1883,
+            "cfRating":1887,
             "achievements":[
 
             ]
@@ -472,8 +520,11 @@
             "altNames":[
                "He Weiqiang"
             ],
-            "tcRating":-1,
-            "cfRating":-1,
+            "tcHandle":"hwq1352249",
+            "tcId":"23309458",
+            "tcRating":1219,
+            "cfHandle":"hwq1352249",
+            "cfRating":2012,
             "achievements":[
                {
                   "achievement":"ACM ICPC Finalist (2015)",
@@ -541,10 +592,7 @@
             "tcRating":-1,
             "cfRating":-1,
             "achievements":[
-               {
-                  "achievement":"ACM ICPC Finalist (1999, 2000)",
-                  "priority":1002
-               }
+
             ]
          },
          {
@@ -553,7 +601,8 @@
                "Ren Qiyu"
             ],
             "tcRating":-1,
-            "cfRating":-1,
+            "cfHandle":"r_clover",
+            "cfRating":1737,
             "achievements":[
 
             ]
@@ -599,6 +648,7 @@
          "cfHandle":"aropan",
          "cfRating":2359,
          "twitterHandle":"aropan",
+         "ioiID":"145",
          "achievements":[
             {
                "achievement":"ACM ICPC bronze medal (2012)",
@@ -639,7 +689,8 @@
             "tcId":"23136526",
             "tcRating":2101,
             "cfHandle":"netman",
-            "cfRating":2336,
+            "cfRating":2230,
+            "ioiID":"5028",
             "achievements":[
                {
                   "achievement":"ACM ICPC Finalist (2016)",
@@ -670,7 +721,7 @@
             "tcId":"23176438",
             "tcRating":1640,
             "cfHandle":"teleport",
-            "cfRating":2375,
+            "cfRating":2352,
             "achievements":[
                {
                   "achievement":"ACM ICPC Finalist (2016)",
@@ -691,7 +742,7 @@
             "tcId":"23177398",
             "tcRating":1950,
             "cfHandle":"andrew.volchek",
-            "cfRating":2673,
+            "cfRating":2567,
             "achievements":[
                {
                   "achievement":"ACM ICPC Finalist (2016)",
@@ -754,7 +805,7 @@
             ],
             "tcRating":-1,
             "cfHandle":"rafaelherman",
-            "cfRating":1685,
+            "cfRating":1667,
             "achievements":[
 
             ]
@@ -765,9 +816,10 @@
                "Wijaya Willson"
             ],
             "tcHandle":"whyzker",
-            "tcRating":-1,
+            "tcId":"23036434",
+            "tcRating":1414,
             "cfHandle":"whyzker",
-            "cfRating":1723,
+            "cfRating":1732,
             "twitterHandle":"willsen0123",
             "achievements":[
 
@@ -779,7 +831,8 @@
                "Darmawan Albert"
             ],
             "tcRating":-1,
-            "cfRating":-1,
+            "cfHandle":"darmawanalbert",
+            "cfRating":1436,
             "achievements":[
 
             ]
@@ -843,11 +896,11 @@
             ],
             "tcRating":-1,
             "cfHandle":"ahmedhamed",
-            "cfRating":1800,
+            "cfRating":1912,
             "achievements":[
                {
-                  "achievement":"ACM ICPC Finalist (2002, 2015)",
-                  "priority":1002
+                  "achievement":"ACM ICPC Finalist (2015)",
+                  "priority":1001
                }
             ]
          },
@@ -856,11 +909,11 @@
             "altNames":[
                "Yasser Mohammad"
             ],
-            "tcHandle":"mohammad_yasser",
+            "tcHandle":"Mohammad_Yasser",
             "tcId":"23265219",
-            "tcRating":1425,
+            "tcRating":1354,
             "cfHandle":"Mohammad_Yasser",
-            "cfRating":1774,
+            "cfRating":1896,
             "achievements":[
                {
                   "achievement":"ACM ICPC Finalist (2016)",
@@ -877,7 +930,7 @@
             "tcId":"23010351",
             "tcRating":1415,
             "cfHandle":"khairy",
-            "cfRating":1778,
+            "cfRating":1620,
             "twitterHandle":"m_5airy",
             "achievements":[
 
@@ -952,10 +1005,7 @@
             "tcRating":-1,
             "cfRating":-1,
             "achievements":[
-               {
-                  "achievement":"ACM ICPC Finalist (2012, 2015)",
-                  "priority":1002
-               }
+
             ]
          }
       ]
@@ -1009,7 +1059,8 @@
             "tcId":"40065078",
             "tcRating":1924,
             "cfHandle":"rajat1603",
-            "cfRating":2386,
+            "cfRating":2520,
+            "ioiID":"5921",
             "achievements":[
                {
                   "achievement":"IOI Silver Medalist (2016)",
@@ -1037,7 +1088,8 @@
                "Sevekari Anish Prasad"
             ],
             "tcRating":-1,
-            "cfRating":-1,
+            "cfHandle":"andyseve",
+            "cfRating":1524,
             "achievements":[
 
             ]
@@ -1091,6 +1143,7 @@
             "tcRating":-1,
             "cfHandle":"jumpwmk",
             "cfRating":1689,
+            "ioiID":"6023",
             "achievements":[
                {
                   "achievement":"IOI Bronze Medalist (2016)",
@@ -1112,12 +1165,18 @@
          {
             "name":"Phirasit Chraroenchitseriwong",
             "altNames":[
-               "Chraroenchitseriwong Phirasit"
+               "Chraroenchitseriwong Phirasit",
+               "Phirasit Charoenchitseriwong"
             ],
             "tcRating":-1,
-            "cfRating":-1,
+            "cfHandle":"phirasit",
+            "cfRating":2345,
+            "ioiID":"5774",
             "achievements":[
-
+               {
+                  "achievement":"IOI Silver Medalist (2015, 2016)",
+                  "priority":32
+               }
             ]
          }
       ]
@@ -1151,11 +1210,9 @@
          "altNames":[
             "Reis Victor"
          ],
-         "tcHandle":"victoreis021",
-         "tcId":"23328877",
-         "tcRating":1255,
+         "tcRating":-1,
          "cfHandle":"victoreis",
-         "cfRating":1910,
+         "cfRating":1850,
          "achievements":[
             {
                "achievement":"ACM ICPC Finalist (2015, 2016)",
@@ -1167,10 +1224,15 @@
          {
             "name":"Dragos-Florian Ristache",
             "altNames":[
-               "Ristache Dragos-Florian"
+               "Ristache Dragos-Florian",
+               "Dragos Ristache",
+               "Ristache Dragos"
             ],
-            "tcRating":-1,
-            "cfRating":-1,
+            "tcHandle":"MKLOL",
+            "tcId":"22932098",
+            "tcRating":1821,
+            "cfHandle":"MKLOL",
+            "cfRating":2274,
             "achievements":[
 
             ]
@@ -1180,9 +1242,11 @@
             "altNames":[
                "Tamas Ioana-Maria"
             ],
-            "tcRating":-1,
+            "tcHandle":"timics",
+            "tcId":"23147346",
+            "tcRating":1544,
             "cfHandle":"timics23",
-            "cfRating":2017,
+            "cfRating":2043,
             "achievements":[
 
             ]
@@ -1246,10 +1310,13 @@
          {
             "name":"Ahmad Gafer",
             "altNames":[
-               "Gafer Ahmad"
+               "Gafer Ahmad",
+               "Ahmed Gafer",
+               "Gafer Ahmed"
             ],
             "tcRating":-1,
-            "cfRating":-1,
+            "cfHandle":"Ahmed",
+            "cfRating":1990,
             "achievements":[
 
             ]
@@ -1277,7 +1344,7 @@
             "tcId":"40094424",
             "tcRating":1369,
             "cfHandle":"Mhammad1",
-            "cfRating":332,
+            "cfRating":49,
             "achievements":[
 
             ]
@@ -1344,12 +1411,9 @@
             "tcId":"40084271",
             "tcRating":1428,
             "cfHandle":"yashkumar18",
-            "cfRating":1827,
+            "cfRating":1949,
             "achievements":[
-               {
-                  "achievement":"ACM ICPC Finalist (2011)",
-                  "priority":1001
-               }
+
             ]
          },
          {
@@ -1424,8 +1488,11 @@
                "Bocquet Rafaël",
                "Bocquet Rafael"
             ],
-            "tcRating":-1,
-            "cfRating":-1,
+            "tcHandle":"RafbillFr",
+            "tcId":"23169412",
+            "tcRating":1770,
+            "cfHandle":"Rafbill",
+            "cfRating":2403,
             "achievements":[
 
             ]
@@ -1440,6 +1507,7 @@
             "tcRating":1235,
             "cfHandle":"Akulen",
             "cfRating":1982,
+            "ioiID":"5079",
             "achievements":[
                {
                   "achievement":"IOI Participant (2014)",
@@ -1481,6 +1549,7 @@
          "tcRating":-1,
          "cfRating":-1,
          "twitterHandle":"icpchammer",
+         "ioiID":"2839",
          "achievements":[
             {
                "achievement":"ACM ICPC Finalist (2014, 2016)",
@@ -1500,9 +1569,10 @@
             ],
             "tcHandle":"m.raszyk",
             "tcId":"23320569",
-            "tcRating":1879,
+            "tcRating":1973,
             "cfHandle":"m.raszyk",
-            "cfRating":2167,
+            "cfRating":2136,
+            "ioiID":"3014",
             "achievements":[
                {
                   "achievement":"ACM ICPC Finalist (2015)",
@@ -1517,10 +1587,16 @@
          {
             "name":"Demjan Grubić",
             "altNames":[
-               "Grubić Demjan"
+               "Grubić Demjan",
+               "Demjan Grubic",
+               "Grubic Demjan"
             ],
-            "tcRating":-1,
-            "cfRating":-1,
+            "tcHandle":"Demjan",
+            "tcId":"22742309",
+            "tcRating":1506,
+            "cfHandle":"Demjan",
+            "cfRating":1888,
+            "ioiID":"2779",
             "achievements":[
                {
                   "achievement":"ACM ICPC Finalist (2016)",
@@ -1605,10 +1681,13 @@
             "altNames":[
                "Jorge Fernandez Hidalgo",
                "Fernández Hidalgo Jorge",
-               "Fernandez Hidalgo Jorge"
+               "Fernandez Hidalgo Jorge",
+               "Jorge Fernandez",
+               "Fernandez Jorge"
             ],
             "tcRating":-1,
-            "cfRating":-1,
+            "cfHandle":"Jefe",
+            "cfRating":1991,
             "achievements":[
 
             ]
@@ -1678,7 +1757,7 @@
             ],
             "tcRating":-1,
             "cfHandle":"TsunamiNextYear",
-            "cfRating":2226,
+            "cfRating":2213,
             "achievements":[
                {
                   "achievement":"ACM ICPC Finalist (2015)",
@@ -1689,10 +1768,15 @@
          {
             "name":"Nour ElRashidy",
             "altNames":[
-               "ElRashidy Nour"
+               "ElRashidy Nour",
+               "Nour El-Rashidy",
+               "El-Rashidy Nour"
             ],
-            "tcRating":-1,
-            "cfRating":-1,
+            "tcHandle":"NourElRashidy",
+            "tcId":"23285549",
+            "tcRating":1467,
+            "cfHandle":"NourElRashidy",
+            "cfRating":2025,
             "achievements":[
 
             ]
@@ -1706,9 +1790,9 @@
             ],
             "tcHandle":"khaledkee",
             "tcId":"40090239",
-            "tcRating":1733,
+            "tcRating":1799,
             "cfHandle":"khaledkee",
-            "cfRating":2197,
+            "cfRating":2175,
             "achievements":[
 
             ]
@@ -1772,9 +1856,11 @@
                "Noureldin Yosri",
                "Yosri Noureldin"
             ],
-            "tcRating":-1,
+            "tcHandle":"Noureldin2022",
+            "tcId":"23194274",
+            "tcRating":1408,
             "cfHandle":"Noureldin",
-            "cfRating":2080,
+            "cfRating":1835,
             "twitterHandle":"noureldin_yosri",
             "achievements":[
 
@@ -1789,7 +1875,7 @@
             "tcId":"23290886",
             "tcRating":1045,
             "cfHandle":"MahmoudSayed",
-            "cfRating":1603,
+            "cfRating":1499,
             "twitterHandle":"m_sayed15",
             "achievements":[
 
@@ -1798,10 +1884,13 @@
          {
             "name":"Mohamed Zain",
             "altNames":[
-               "Zain Mohamed"
+               "Zain Mohamed",
+               "Mohamed Fayed",
+               "Fayed Mohamed"
             ],
             "tcRating":-1,
-            "cfRating":-1,
+            "cfHandle":"MohamedZain",
+            "cfRating":1975,
             "achievements":[
 
             ]
@@ -1857,7 +1946,8 @@
                "Ma Zhihao"
             ],
             "tcRating":-1,
-            "cfRating":-1,
+            "cfHandle":"SakurakoujiRuna",
+            "cfRating":2041,
             "achievements":[
 
             ]
@@ -1868,7 +1958,8 @@
                "Gao Xi"
             ],
             "tcRating":-1,
-            "cfRating":-1,
+            "cfHandle":"t90tank",
+            "cfRating":2172,
             "achievements":[
 
             ]
@@ -1880,7 +1971,7 @@
             ],
             "tcRating":-1,
             "cfHandle":"tun",
-            "cfRating":2421,
+            "cfRating":2450,
             "achievements":[
 
             ]
@@ -1932,7 +2023,8 @@
                "Guo Xiaodong"
             ],
             "tcRating":-1,
-            "cfRating":-1,
+            "cfHandle":"NUOUN",
+            "cfRating":1944,
             "achievements":[
 
             ]
@@ -1943,7 +2035,8 @@
                "Zou Peng"
             ],
             "tcRating":-1,
-            "cfRating":-1,
+            "cfHandle":"Y_UME",
+            "cfRating":2430,
             "achievements":[
 
             ]
@@ -2023,8 +2116,11 @@
             "altNames":[
                "Nasser Mohamed"
             ],
-            "tcRating":-1,
-            "cfRating":-1,
+            "tcHandle":"MedoN11_",
+            "tcId":"40197613",
+            "tcRating":1388,
+            "cfHandle":"MedoN11",
+            "cfRating":1532,
             "achievements":[
 
             ]
@@ -2036,11 +2132,9 @@
                "Mohamed Atef",
                "Atef Mohamed"
             ],
-            "tcHandle":"eagle93",
-            "tcId":"23049587",
-            "tcRating":1545,
-            "cfHandle":"eagle93",
-            "cfRating":1550,
+            "tcRating":-1,
+            "cfHandle":"Badry",
+            "cfRating":1730,
             "achievements":[
 
             ]
@@ -2118,10 +2212,12 @@
          {
             "name":"Lihao Nan",
             "altNames":[
-
+               "lihao nan",
+               "nan lihao"
             ],
             "tcRating":-1,
-            "cfRating":-1,
+            "cfHandle":"LIBERATOR",
+            "cfRating":2350,
             "achievements":[
 
             ]
@@ -2209,7 +2305,8 @@
                "Khan Mohammed Owais"
             ],
             "tcRating":-1,
-            "cfRating":-1,
+            "cfHandle":"sensei11",
+            "cfRating":2043,
             "achievements":[
 
             ]
@@ -2281,7 +2378,7 @@
             ],
             "tcRating":-1,
             "cfHandle":"harshil",
-            "cfRating":2020,
+            "cfRating":2026,
             "achievements":[
 
             ]
@@ -2346,9 +2443,9 @@
             ],
             "tcHandle":"shinigami_ryuk",
             "tcId":"23330187",
-            "tcRating":1972,
+            "tcRating":2024,
             "cfHandle":"alecsyde",
-            "cfRating":2528,
+            "cfRating":2285,
             "achievements":[
                {
                   "achievement":"ACM ICPC Finalist (2016)",
@@ -2362,8 +2459,8 @@
                "Grover Sahil"
             ],
             "tcRating":-1,
-            "cfHandle":"kryptox",
-            "cfRating":1663,
+            "cfHandle":"sahilgrover",
+            "cfRating":1600,
             "achievements":[
                {
                   "achievement":"ACM ICPC Finalist (2016)",
@@ -2378,7 +2475,7 @@
             ],
             "tcRating":-1,
             "cfHandle":"TerryMcGinnis",
-            "cfRating":2000,
+            "cfRating":1934,
             "achievements":[
 
             ]
@@ -2435,8 +2532,9 @@
             "tcId":"22915046",
             "tcRating":1823,
             "cfHandle":"frcepeda",
-            "cfRating":2015,
+            "cfRating":1953,
             "twitterHandle":"frcepeda",
+            "ioiID":"2775",
             "achievements":[
                {
                   "achievement":"ACM ICPC Finalist (2016)",
@@ -2469,10 +2567,13 @@
          {
             "name":"Demian Espinosa Ruiz",
             "altNames":[
-               "Espinosa Ruiz Demian"
+               "Espinosa Ruiz Demian",
+               "Demian Espinosa",
+               "Espinosa Demian"
             ],
             "tcRating":-1,
-            "cfRating":-1,
+            "cfHandle":"demianespinosar",
+            "cfRating":1462,
             "twitterHandle":"DemianEspinosaR",
             "achievements":[
                {
@@ -2537,7 +2638,7 @@
             "altNames":[
                "Paliwal Aditya"
             ],
-            "tcHandle":"VastoLorde95",
+            "tcHandle":"vastolorde95",
             "tcId":"40086572",
             "tcRating":1351,
             "cfHandle":"VastoLorde95",
@@ -2771,7 +2872,7 @@
             ],
             "tcRating":-1,
             "cfHandle":"zaj",
-            "cfRating":2123,
+            "cfRating":2126,
             "achievements":[
                {
                   "achievement":"ACM ICPC Finalist (2016)",
@@ -2784,9 +2885,11 @@
             "altNames":[
                "Hlembotskyi Vladyslav"
             ],
-            "tcRating":-1,
+            "tcHandle":"nobik",
+            "tcId":"23062219",
+            "tcRating":1482,
             "cfHandle":"Nobik_Glem",
-            "cfRating":2400,
+            "cfRating":2457,
             "achievements":[
 
             ]
@@ -2798,9 +2901,9 @@
             ],
             "tcHandle":"krismaz",
             "tcId":"40136338",
-            "tcRating":2240,
+            "tcRating":2178,
             "cfHandle":"krismaz",
-            "cfRating":2688,
+            "cfRating":2494,
             "achievements":[
                {
                   "achievement":"ACM ICPC Finalist (2016)",
@@ -2874,12 +2977,15 @@
          {
             "name":"Md Sahedul Islam Sohel",
             "altNames":[
-               "Sohel Md Sahedul Islam"
+               "Sohel Md Sahedul Islam",
+               "Md. Sahedul Islam Sohel",
+               "Sahedul Islam Sohel Md."
             ],
-            "tcHandle":"https://www.topcoder.com/members/sahedsohel/",
-            "tcRating":-1,
-            "cfHandle":"http://codeforces.com/profile/sahedsohel",
-            "cfRating":-1,
+            "tcHandle":"sahedsohel",
+            "tcId":"23305191",
+            "tcRating":1627,
+            "cfHandle":"sahedsohel",
+            "cfRating":1884,
             "achievements":[
 
             ]
@@ -2895,7 +3001,7 @@
             "tcId":"23095663",
             "tcRating":1660,
             "cfHandle":"khatribiru",
-            "cfRating":1828,
+            "cfRating":1776,
             "achievements":[
 
             ]
@@ -2949,7 +3055,7 @@
             ],
             "tcRating":-1,
             "cfHandle":"OnionPringles",
-            "cfRating":2588,
+            "cfRating":2562,
             "achievements":[
                {
                   "achievement":"ACM ICPC Finalist (2016)",
@@ -2966,7 +3072,8 @@
             ],
             "tcRating":-1,
             "cfHandle":"Paohu",
-            "cfRating":2416,
+            "cfRating":2354,
+            "ioiID":"5640",
             "achievements":[
                {
                   "achievement":"IOI Gold Medalist (2015)",
@@ -2981,7 +3088,7 @@
             ],
             "tcHandle":"jihoon.ko",
             "tcId":"40400180",
-            "tcRating":1480,
+            "tcRating":1794,
             "cfHandle":"jihoon",
             "cfRating":2236,
             "achievements":[
@@ -3036,9 +3143,9 @@
             ],
             "tcHandle":"snuke",
             "tcId":"22908185",
-            "tcRating":2645,
+            "tcRating":2648,
             "cfHandle":"snuke",
-            "cfRating":2579,
+            "cfRating":2698,
             "twitterHandle":"snuke_",
             "achievements":[
                {
@@ -3065,10 +3172,15 @@
          {
             "name":"Tetsui Ohkubo",
             "altNames":[
-               "Ohkubo Tetsui"
+               "Ohkubo Tetsui",
+               "Peryaude Peryaudo",
+               "Peryaudo Peryaude"
             ],
-            "tcRating":-1,
-            "cfRating":-1,
+            "tcHandle":"peryaudo",
+            "tcId":"22874824",
+            "tcRating":1295,
+            "cfHandle":"peryaudo",
+            "cfRating":1617,
             "achievements":[
 
             ]
@@ -3124,10 +3236,11 @@
             ],
             "tcHandle":"jsannemo",
             "tcId":"23034081",
-            "tcRating":1759,
+            "tcRating":1949,
             "cfHandle":"jsannemo",
-            "cfRating":2126,
+            "cfRating":2273,
             "twitterHandle":"jsannemo",
+            "ioiID":"2749",
             "achievements":[
                {
                   "achievement":"ACM ICPC Finalist (2015)",
@@ -3148,18 +3261,15 @@
             "altNames":[
                "Lindholm Simon"
             ],
-            "tcHandle":"On Codeforces: @CFTable:simonlindholm:",
+            "tcHandle":"simonlindholm",
             "tcRating":-1,
             "cfHandle":"simonlindholm",
-            "cfRating":2479,
+            "cfRating":2604,
+            "ioiID":"2152",
             "achievements":[
                {
                   "achievement":"ACM ICPC Finalist (2015)",
                   "priority":1001
-               },
-               {
-                  "achievement":"GCJ Finalist (2015, 2016)",
-                  "priority":52
                },
                {
                   "achievement":"IOI Gold Medalist (2012)",
@@ -3168,10 +3278,6 @@
                {
                   "achievement":"IOI Silver Medalist (2010)",
                   "priority":31
-               },
-               {
-                  "achievement":"FBHC Finalist (2016)",
-                  "priority":26
                },
                {
                   "achievement":"IOI Bronze Medalist (2008, 2009)",
@@ -3191,6 +3297,7 @@
             "tcRating":2506,
             "cfHandle":"Gullesnuffs",
             "cfRating":2756,
+            "ioiID":"1462",
             "achievements":[
                {
                   "achievement":"ACM ICPC Finalist (2015)",
@@ -3244,7 +3351,8 @@
          "tcId":"22823691",
          "tcRating":2197,
          "cfHandle":"witua",
-         "cfRating":2434,
+         "cfRating":2480,
+         "ioiID":"2714",
          "achievements":[
             {
                "achievement":"ACM ICPC bronze medal (2016)",
@@ -3270,9 +3378,11 @@
             "altNames":[
                "Savitskyi Taras"
             ],
-            "tcRating":-1,
+            "tcHandle":"Trumen",
+            "tcId":"23185634",
+            "tcRating":1967,
             "cfHandle":"Trumen",
-            "cfRating":2592,
+            "cfRating":2636,
             "achievements":[
                {
                   "achievement":"ACM ICPC bronze medal (2016)",
@@ -3283,10 +3393,15 @@
          {
             "name":"Volodymyr Radiuk",
             "altNames":[
-               "Radiuk Volodymyr"
+               "Radiuk Volodymyr",
+               "Volodymyr Radyuk",
+               "Radyuk Volodymyr"
             ],
-            "tcRating":-1,
-            "cfRating":-1,
+            "tcHandle":"felix13",
+            "tcId":"23082763",
+            "tcRating":1690,
+            "cfHandle":"felix",
+            "cfRating":2448,
             "achievements":[
 
             ]
@@ -3301,6 +3416,7 @@
             "tcRating":2035,
             "cfHandle":"Andrew_Makar",
             "cfRating":2396,
+            "ioiID":"216",
             "achievements":[
                {
                   "achievement":"IOI Bronze Medalist (2011)",
@@ -3342,6 +3458,7 @@
          ],
          "tcRating":-1,
          "cfRating":-1,
+         "ioiID":"95",
          "achievements":[
             {
                "achievement":"ACM ICPC silver medal as coach (2016)",
@@ -3374,6 +3491,7 @@
             "tcRating":1786,
             "cfHandle":"sillycross",
             "cfRating":2426,
+            "ioiID":"2977",
             "achievements":[
                {
                   "achievement":"ACM ICPC bronze medal (2015)",
@@ -3395,6 +3513,7 @@
             "tcRating":2962,
             "cfHandle":"sevenkplus",
             "cfRating":2620,
+            "ioiID":"2671",
             "achievements":[
                {
                   "achievement":"ACM ICPC Finalist (2014)",
@@ -3428,6 +3547,7 @@
             "tcRating":2613,
             "cfHandle":"xyz111",
             "cfRating":2900,
+            "ioiID":"5059",
             "achievements":[
                {
                   "achievement":"IOI Gold Medalist (2014)",
@@ -3471,7 +3591,7 @@
          "tcId":"40052679",
          "tcRating":1918,
          "cfHandle":"MathCrusader",
-         "cfRating":2176,
+         "cfRating":2243,
          "achievements":[
             {
                "achievement":"ACM ICPC Finalist (2013, 2014)",
@@ -3489,7 +3609,7 @@
             "tcId":"40081327",
             "tcRating":1765,
             "cfHandle":"Whalanator",
-            "cfRating":2146,
+            "cfRating":2106,
             "achievements":[
 
             ]
@@ -3513,7 +3633,7 @@
             "altNames":[
                "Anderson Daniel"
             ],
-            "tcHandle":"danielanderson",
+            "tcHandle":"DanielAnderson",
             "tcId":"40328073",
             "tcRating":1591,
             "cfHandle":"DanielAnderson",
@@ -3557,9 +3677,9 @@
          ],
          "tcHandle":"Endagorion",
          "tcId":"22681902",
-         "tcRating":2957,
+         "tcRating":2994,
          "cfHandle":"Endagorion",
-         "cfRating":2836,
+         "cfRating":2740,
          "achievements":[
             {
                "achievement":"ACM ICPC gold medal as coach (2016)",
@@ -3595,9 +3715,9 @@
             ],
             "tcHandle":"ifsmirnov",
             "tcId":"22903001",
-            "tcRating":2690,
+            "tcRating":2722,
             "cfHandle":"ifsmirnov",
-            "cfRating":2687,
+            "cfRating":2504,
             "twitterHandle":"ifsmirnov",
             "achievements":[
                {
@@ -3622,9 +3742,9 @@
             ],
             "tcHandle":"Arterm",
             "tcId":"23043978",
-            "tcRating":2593,
+            "tcRating":2631,
             "cfHandle":"Arterm",
-            "cfRating":2585,
+            "cfRating":2584,
             "achievements":[
                {
                   "achievement":"ACM ICPC gold medal (2016)",
@@ -3655,9 +3775,10 @@
             ],
             "tcHandle":"zemen",
             "tcId":"23093236",
-            "tcRating":2392,
+            "tcRating":2501,
             "cfHandle":"zemen",
-            "cfRating":2794,
+            "cfRating":2920,
+            "ioiID":"3090",
             "achievements":[
                {
                   "achievement":"ACM ICPC gold medal (2016)",
@@ -3752,7 +3873,7 @@
             "tcId":"23066137",
             "tcRating":1714,
             "cfHandle":"Vaness",
-            "cfRating":2163,
+            "cfRating":2143,
             "twitterHandle":"ilakhtanov",
             "achievements":[
 
@@ -3816,8 +3937,11 @@
             "altNames":[
                "Stairs Micah"
             ],
-            "tcRating":-1,
-            "cfRating":-1,
+            "tcHandle":"micah.stairs",
+            "tcId":"23200779",
+            "tcRating":1332,
+            "cfHandle":"micah.stairs",
+            "cfRating":1603,
             "twitterHandle":"micahstairs",
             "achievements":[
 
@@ -3839,7 +3963,9 @@
             "altNames":[
                "Fiset William"
             ],
-            "tcRating":-1,
+            "tcHandle":"will.fiset",
+            "tcId":"23303507",
+            "tcRating":794,
             "cfRating":-1,
             "achievements":[
 
@@ -3893,7 +4019,7 @@
             "tcId":"40086971",
             "tcRating":1229,
             "cfHandle":"ajinkya1p3",
-            "cfRating":2053,
+            "cfRating":2079,
             "achievements":[
 
             ]
@@ -3901,10 +4027,13 @@
          {
             "name":"Prabhu Sahoo",
             "altNames":[
-               "Sahoo Prabhu"
+               "Sahoo Prabhu",
+               "Prabhu Dayal Sahoo",
+               "Sahoo Prabhu Dayal"
             ],
             "tcRating":-1,
-            "cfRating":-1,
+            "cfHandle":"InnocentFool",
+            "cfRating":1679,
             "achievements":[
 
             ]
@@ -3972,9 +4101,9 @@
             ],
             "tcHandle":"Me-and-Myself",
             "tcId":"40173580",
-            "tcRating":1496,
+            "tcRating":1558,
             "cfHandle":"Me-and-Myself",
-            "cfRating":1966,
+            "cfRating":2128,
             "twitterHandle":"AleksandrovRI",
             "achievements":[
 
@@ -3989,7 +4118,7 @@
             ],
             "tcRating":-1,
             "cfHandle":"akashin",
-            "cfRating":2299,
+            "cfRating":2172,
             "achievements":[
 
             ]
@@ -3999,9 +4128,11 @@
             "altNames":[
                "Zetilov Nikita"
             ],
-            "tcRating":-1,
+            "tcHandle":"ZeTILoVNIK",
+            "tcId":"22892239",
+            "tcRating":1702,
             "cfHandle":"zetilovn",
-            "cfRating":2071,
+            "cfRating":2187,
             "achievements":[
 
             ]
@@ -4061,6 +4192,7 @@
             "tcRating":1727,
             "cfHandle":"bobogei81123",
             "cfRating":2137,
+            "ioiID":"2713",
             "achievements":[
                {
                   "achievement":"ACM ICPC Finalist (2016)",
@@ -4081,8 +4213,9 @@
             "tcId":"23125399",
             "tcRating":1749,
             "cfHandle":"step5",
-            "cfRating":2771,
+            "cfRating":2680,
             "twitterHandle":"kevin00050",
+            "ioiID":"3120",
             "achievements":[
                {
                   "achievement":"ACM ICPC Finalist (2016)",
@@ -4102,6 +4235,7 @@
             "name":"Han Chung Wang",
             "altNames":[
                "Wang Han Chung",
+               "Han-Chung Wang",
                "HANCHUNG Wang",
                "Wang HANCHUNG"
             ],
@@ -4109,12 +4243,17 @@
             "tcId":"22935818",
             "tcRating":1815,
             "cfHandle":"darkhh",
-            "cfRating":2158,
+            "cfRating":2322,
             "twitterHandle":"hanhan_w",
+            "ioiID":"3123",
             "achievements":[
                {
                   "achievement":"ACM ICPC Finalist (2016)",
                   "priority":1001
+               },
+               {
+                  "achievement":"IOI Participant (2013)",
+                  "priority":11
                }
             ]
          }
@@ -4170,6 +4309,7 @@
             "tcRating":1494,
             "cfHandle":"aguss787",
             "cfRating":2122,
+            "ioiID":"5610",
             "achievements":[
                {
                   "achievement":"IOI Silver Medalist (2015)",
@@ -4186,7 +4326,8 @@
             "tcId":"23031909",
             "tcRating":1626,
             "cfHandle":"rais.fathin38",
-            "cfRating":2126,
+            "cfRating":2289,
+            "ioiID":"5099",
             "achievements":[
                {
                   "achievement":"IOI Bronze Medalist (2014)",
@@ -4206,6 +4347,7 @@
             "tcRating":1440,
             "cfHandle":"howsiwei",
             "cfRating":1969,
+            "ioiID":"3165",
             "achievements":[
                {
                   "achievement":"IOI Bronze Medalist (2014)",
@@ -4361,6 +4503,7 @@
             "tcRating":846,
             "cfHandle":"abhra",
             "cfRating":1348,
+            "ioiID":"24",
             "achievements":[
                {
                   "achievement":"IOI Participant (2011)",
@@ -4455,10 +4598,13 @@
          {
             "name":"Roman Vishnevskii",
             "altNames":[
-               "Vishnevskii Roman"
+               "Vishnevskii Roman",
+               "Roman Vishnevsky",
+               "Vishnevsky Roman"
             ],
             "tcRating":-1,
-            "cfRating":-1,
+            "cfHandle":"Romchela",
+            "cfRating":2008,
             "achievements":[
 
             ]
@@ -4482,7 +4628,7 @@
             ],
             "tcRating":-1,
             "cfHandle":"pvs",
-            "cfRating":2232,
+            "cfRating":2171,
             "achievements":[
 
             ]
@@ -4540,10 +4686,13 @@
          {
             "name":"Tiankui Guo",
             "altNames":[
-               "Guo Tiankui"
+               "Guo Tiankui",
+               "Seter Guo",
+               "Guo Seter"
             ],
             "tcRating":-1,
-            "cfRating":-1,
+            "cfHandle":"Seter",
+            "cfRating":2566,
             "achievements":[
 
             ]
@@ -4578,7 +4727,7 @@
             "tcId":"23152524",
             "tcRating":1855,
             "cfHandle":"wwt15",
-            "cfRating":2132,
+            "cfRating":2338,
             "achievements":[
 
             ]
@@ -4647,7 +4796,7 @@
             "tcId":"22830668",
             "tcRating":2511,
             "cfHandle":"I_love_Tanya_Romanova",
-            "cfRating":3037,
+            "cfRating":3031,
             "achievements":[
                {
                   "achievement":"ACM ICPC Finalist (2015)",
@@ -4671,9 +4820,9 @@
             ],
             "tcHandle":"2rf",
             "tcId":"22777715",
-            "tcRating":2694,
+            "tcRating":2754,
             "cfHandle":"mmaxio",
-            "cfRating":2584,
+            "cfRating":2579,
             "achievements":[
                {
                   "achievement":"RCC Finalist (2013, 2015)",
@@ -4698,7 +4847,7 @@
             "tcId":"23090574",
             "tcRating":2089,
             "cfHandle":"KuchumovIlya",
-            "cfRating":2312,
+            "cfRating":2534,
             "achievements":[
                {
                   "achievement":"VK Cup finalist (2015, 2016)",
@@ -4758,12 +4907,35 @@
          {
             "name":"Valerii Filev",
             "altNames":[
-
+               "Valeriy Filev",
+               "Filev Valeriy",
+               "Filev Valerii",
+               "Valery Filev",
+               "Valera Filev",
+               "Filev Valera"
             ],
-            "tcRating":-1,
-            "cfRating":-1,
+            "tcHandle":"Kepnu4",
+            "tcId":"22841413",
+            "tcRating":2250,
+            "cfHandle":"Kepnu4",
+            "cfRating":2365,
             "achievements":[
-
+               {
+                  "achievement":"ACM ICPC Finalist (2014)",
+                  "priority":1001
+               },
+               {
+                  "achievement":"GCJ Finalist (2014)",
+                  "priority":51
+               },
+               {
+                  "achievement":"RCC Finalist (2013)",
+                  "priority":26
+               },
+               {
+                  "achievement":"Kotlin Finalist (2014)",
+                  "priority":16
+               }
             ]
          },
          {
@@ -4773,7 +4945,7 @@
             ],
             "tcHandle":"Valentin_E",
             "tcId":"23285209",
-            "tcRating":1317,
+            "tcRating":1454,
             "cfHandle":"Valentin_E",
             "cfRating":1947,
             "achievements":[
@@ -4789,7 +4961,7 @@
             "tcId":"23103259",
             "tcRating":1606,
             "cfHandle":"Svyat",
-            "cfRating":2088,
+            "cfRating":2192,
             "achievements":[
 
             ]
@@ -4853,10 +5025,15 @@
          {
             "name":"Radu Silviu Visan",
             "altNames":[
-               "Visan Radu Silviu"
+               "Visan Radu Silviu",
+               "Radu Visan",
+               "Visan Radu"
             ],
-            "tcRating":-1,
-            "cfRating":-1,
+            "tcHandle":"visanr",
+            "tcId":"23050287",
+            "tcRating":1708,
+            "cfHandle":"visanr",
+            "cfRating":2193,
             "achievements":[
 
             ]
@@ -4864,10 +5041,13 @@
          {
             "name":"Cristian Banu",
             "altNames":[
-               "Banu Cristian"
+               "Banu Cristian",
+               "Cristi Banu",
+               "Banu Cristi"
             ],
             "tcRating":-1,
-            "cfRating":-1,
+            "cfHandle":"cristb",
+            "cfRating":1907,
             "achievements":[
 
             ]
@@ -4926,7 +5106,7 @@
             "tcId":"40030417",
             "tcRating":1725,
             "cfHandle":"itu",
-            "cfRating":1952,
+            "cfRating":2100,
             "achievements":[
 
             ]
@@ -4957,7 +5137,8 @@
                "Espino Jesus"
             ],
             "tcHandle":"Jael860",
-            "tcRating":-1,
+            "tcId":"23195331",
+            "tcRating":1401,
             "cfHandle":"Jael",
             "cfRating":2048,
             "twitterHandle":"Jesusespinojr",
@@ -5033,7 +5214,9 @@
             "altNames":[
                "Petrova Kalina"
             ],
-            "tcRating":-1,
+            "tcHandle":"Kalina",
+            "tcId":"22768214",
+            "tcRating":1085,
             "cfRating":-1,
             "achievements":[
 
@@ -5088,9 +5271,9 @@
             ],
             "tcHandle":"Slamur",
             "tcId":"22915209",
-            "tcRating":1574,
+            "tcRating":1512,
             "cfHandle":"Slamur",
-            "cfRating":2137,
+            "cfRating":2209,
             "achievements":[
 
             ]
@@ -5102,7 +5285,7 @@
             ],
             "tcRating":-1,
             "cfHandle":"pitfall",
-            "cfRating":2158,
+            "cfRating":2200,
             "achievements":[
 
             ]
@@ -5114,7 +5297,7 @@
             ],
             "tcRating":-1,
             "cfHandle":"Petruchcho",
-            "cfRating":2045,
+            "cfRating":2085,
             "achievements":[
 
             ]
@@ -5204,7 +5387,7 @@
             ],
             "tcRating":-1,
             "cfHandle":"Oleg_Smirnov",
-            "cfRating":2376,
+            "cfRating":2279,
             "achievements":[
 
             ]
@@ -5216,7 +5399,7 @@
             ],
             "tcRating":-1,
             "cfHandle":"RoKi",
-            "cfRating":2377,
+            "cfRating":2433,
             "achievements":[
 
             ]
@@ -5227,7 +5410,8 @@
                "Ripinen Alexey"
             ],
             "tcRating":-1,
-            "cfRating":-1,
+            "cfHandle":"Perforator",
+            "cfRating":2458,
             "achievements":[
 
             ]
@@ -5282,6 +5466,7 @@
             "tcRating":-1,
             "cfHandle":"cubelover",
             "cfRating":2919,
+            "ioiID":"5130",
             "achievements":[
                {
                   "achievement":"IOI Gold Medalist (2014, 2015)",
@@ -5299,7 +5484,8 @@
             "tcId":"40032894",
             "tcRating":2265,
             "cfHandle":"gs12117",
-            "cfRating":2707,
+            "cfRating":2737,
+            "ioiID":"3118",
             "achievements":[
                {
                   "achievement":"IOI Gold Medalist (2013, 2014)",
@@ -5321,9 +5507,10 @@
             ],
             "tcHandle":"ainta",
             "tcId":"23008568",
-            "tcRating":2229,
+            "tcRating":2379,
             "cfHandle":"ainta",
             "cfRating":3174,
+            "ioiID":"5132",
             "achievements":[
                {
                   "achievement":"IOI Gold Medalist (2015)",
@@ -5406,8 +5593,9 @@
                "Nasirifar Mohammad"
             ],
             "tcHandle":"colonelm0",
-            "tcRating":-1,
-            "cfHandle":"Colonelmo",
+            "tcId":"23263442",
+            "tcRating":1419,
+            "cfHandle":"colonelmo",
             "cfRating":1875,
             "twitterHandle":"farnasirim",
             "achievements":[
@@ -5491,10 +5679,15 @@
          {
             "name":"Wenhao Li",
             "altNames":[
-               "Li Wenhao"
+               "Li Wenhao",
+               "data h",
+               "h data"
             ],
-            "tcRating":-1,
-            "cfRating":-1,
+            "tcHandle":"iceiceice",
+            "tcId":"23311178",
+            "tcRating":2071,
+            "cfHandle":"data_h",
+            "cfRating":2625,
             "achievements":[
 
             ]
@@ -5504,8 +5697,11 @@
             "altNames":[
                "Qiu Wenda"
             ],
-            "tcRating":-1,
-            "cfRating":-1,
+            "tcHandle":"Akigeor",
+            "tcId":"40319118",
+            "tcRating":1275,
+            "cfHandle":"Akigeor",
+            "cfRating":2582,
             "achievements":[
 
             ]
@@ -5515,9 +5711,11 @@
             "altNames":[
                "Gao Yu"
             ],
-            "tcRating":-1,
+            "tcHandle":"tEJtM",
+            "tcId":"23178685",
+            "tcRating":2372,
             "cfHandle":"xyz2606",
-            "cfRating":2609,
+            "cfRating":2577,
             "twitterHandle":"EgoDruid",
             "achievements":[
 
@@ -5647,6 +5845,7 @@
          ],
          "tcRating":-1,
          "cfRating":-1,
+         "ioiID":"1214",
          "achievements":[
             {
                "achievement":"World Finals coach (2009-2016)",
@@ -5669,6 +5868,7 @@
             "tcRating":1936,
             "cfHandle":"matrix",
             "cfRating":2230,
+            "ioiID":"5617",
             "achievements":[
                {
                   "achievement":"ACM ICPC Finalist (2016)",
@@ -5698,6 +5898,7 @@
             "cfHandle":"JeBeK",
             "cfRating":2273,
             "twitterHandle":"p_JeBeK",
+            "ioiID":"5616",
             "achievements":[
                {
                   "achievement":"ACM ICPC Finalist (2016)",
@@ -5723,6 +5924,7 @@
             "tcRating":2422,
             "cfHandle":"Haghani",
             "cfRating":2596,
+            "ioiID":"5615",
             "achievements":[
                {
                   "achievement":"ACM ICPC Finalist (2016)",
@@ -5926,9 +6128,10 @@
          ],
          "tcHandle":"Burunduk1",
          "tcId":"15868491",
-         "tcRating":2965,
-         "cfHandle":"Burunduk1",
-         "cfRating":2725,
+         "tcRating":2940,
+         "cfHandle":"burunduk1",
+         "cfRating":2773,
+         "ioiID":"2089",
          "achievements":[
             {
                "achievement":"ACM ICPC gold medal (2009)",
@@ -5980,7 +6183,7 @@
             ],
             "tcRating":-1,
             "cfHandle":"MZuev",
-            "cfRating":2221,
+            "cfRating":2067,
             "achievements":[
 
             ]
@@ -5994,7 +6197,7 @@
             "tcId":"23141252",
             "tcRating":1501,
             "cfHandle":"Tehnar",
-            "cfRating":2270,
+            "cfRating":2224,
             "achievements":[
 
             ]
@@ -6008,7 +6211,7 @@
             "tcId":"40044445",
             "tcRating":1511,
             "cfHandle":"ZhNV",
-            "cfRating":2446,
+            "cfRating":2400,
             "achievements":[
 
             ]
@@ -6113,7 +6316,7 @@
             "tcId":"23020794",
             "tcRating":2131,
             "cfHandle":"Belonogov",
-            "cfRating":2645,
+            "cfRating":2732,
             "achievements":[
                {
                   "achievement":"VK Cup 3rd (2015)",
@@ -6144,9 +6347,9 @@
             ],
             "tcHandle":"Enot",
             "tcId":"22905803",
-            "tcRating":2899,
+            "tcRating":2939,
             "cfHandle":"enot110",
-            "cfRating":2598,
+            "cfRating":2709,
             "twitterHandle":"enott110",
             "achievements":[
                {
@@ -6181,7 +6384,7 @@
             "tcId":"23021261",
             "tcRating":2451,
             "cfHandle":"izban",
-            "cfRating":2753,
+            "cfRating":2626,
             "achievements":[
                {
                   "achievement":"VK Cup 3rd (2015)",
@@ -6242,6 +6445,7 @@
          "tcRating":2313,
          "cfHandle":"KOTEHOK",
          "cfRating":2291,
+         "ioiID":"192",
          "achievements":[
             {
                "achievement":"ACM ICPC win (2000, 2001)",
@@ -6295,9 +6499,9 @@
             ],
             "tcHandle":"_aid",
             "tcId":"23295145",
-            "tcRating":2470,
+            "tcRating":2548,
             "cfHandle":"aid",
-            "cfRating":2936,
+            "cfRating":2717,
             "achievements":[
                {
                   "achievement":"ACM ICPC Finalist (2015)",
@@ -6324,9 +6528,9 @@
             ],
             "tcHandle":"-XraY-",
             "tcId":"22762715",
-            "tcRating":3004,
+            "tcRating":2999,
             "cfHandle":"-XraY-",
-            "cfRating":3086,
+            "cfRating":3001,
             "achievements":[
                {
                   "achievement":"ACM ICPC win (2016)",
@@ -6353,9 +6557,9 @@
             ],
             "tcHandle":"ErshovStanislav",
             "tcId":"40026615",
-            "tcRating":2586,
+            "tcRating":2507,
             "cfHandle":"ershov.stanislav",
-            "cfRating":2852,
+            "cfRating":2857,
             "achievements":[
                {
                   "achievement":"ACM ICPC win (2016)",
@@ -6405,6 +6609,7 @@
          "tcRating":-1,
          "cfRating":-1,
          "twitterHandle":"VitaliiB",
+         "ioiID":"2443",
          "achievements":[
             {
                "achievement":"ACM ICPC gold medal as coach (2010)",
@@ -6453,7 +6658,7 @@
             "tcId":"23089461",
             "tcRating":1754,
             "cfHandle":"Antoniuk",
-            "cfRating":2237,
+            "cfRating":2071,
             "achievements":[
 
             ]
@@ -6466,9 +6671,9 @@
             ],
             "tcHandle":"ballon",
             "tcId":"23004552",
-            "tcRating":2173,
+            "tcRating":2123,
             "cfHandle":"ballon",
-            "cfRating":2197,
+            "cfRating":2267,
             "achievements":[
                {
                   "achievement":"Kotlin Finalist (2014)",
@@ -6532,8 +6737,11 @@
             "altNames":[
                "Nasr Omar"
             ],
-            "tcRating":-1,
-            "cfRating":-1,
+            "tcHandle":"DanMaklen",
+            "tcId":"23109671",
+            "tcRating":1451,
+            "cfHandle":"DanMaklen",
+            "cfRating":1428,
             "achievements":[
 
             ]
@@ -6541,10 +6749,15 @@
          {
             "name":"Youssef Khairalla",
             "altNames":[
-               "Khairalla Youssef"
+               "Khairalla Youssef",
+               "Youssef Ayman",
+               "Ayman Youssef"
             ],
-            "tcRating":-1,
-            "cfRating":-1,
+            "tcHandle":"TheRealYoussef",
+            "tcId":"40187507",
+            "tcRating":869,
+            "cfHandle":"TheRealYoussef",
+            "cfRating":1334,
             "achievements":[
 
             ]
@@ -6615,7 +6828,7 @@
             ],
             "tcRating":-1,
             "cfHandle":"Nezzar",
-            "cfRating":2479,
+            "cfRating":2689,
             "twitterHandle":"theogry",
             "achievements":[
                {
@@ -6634,6 +6847,7 @@
             "tcRating":-1,
             "cfHandle":"alex20030190",
             "cfRating":2655,
+            "ioiID":"3045",
             "achievements":[
                {
                   "achievement":"ACM ICPC Finalist (2016)",
@@ -6651,9 +6865,12 @@
                "Lee Chun Yin Sampson",
                "Chun Yin Samspon Lee"
             ],
-            "tcRating":-1,
+            "tcHandle":"abcsampson",
+            "tcId":"23059667",
+            "tcRating":1742,
             "cfHandle":"Sampson",
-            "cfRating":2294,
+            "cfRating":2303,
+            "ioiID":"2726",
             "achievements":[
                {
                   "achievement":"ACM ICPC Finalist (2016)",
@@ -6799,7 +7016,9 @@
             "altNames":[
                "Meed Alex"
             ],
-            "tcRating":-1,
+            "tcHandle":"ameed",
+            "tcId":"40571369",
+            "tcRating":1478,
             "cfRating":-1,
             "achievements":[
 
@@ -6821,8 +7040,11 @@
             "altNames":[
                "Chockchowwat Supawit"
             ],
-            "tcRating":-1,
-            "cfRating":-1,
+            "tcHandle":"mIXs",
+            "tcId":"40162859",
+            "tcRating":1199,
+            "cfHandle":"mIXs",
+            "cfRating":1681,
             "achievements":[
 
             ]
@@ -6883,10 +7105,15 @@
          {
             "name":"Kazumi Kasaura",
             "altNames":[
-               "Kasaura Kazumi"
+               "Kasaura Kazumi",
+               "Hujiwara"
             ],
-            "tcRating":-1,
-            "cfRating":-1,
+            "tcHandle":"Hujiwara",
+            "tcId":"22868841",
+            "tcRating":2603,
+            "cfHandle":"Hujiwara",
+            "cfRating":2332,
+            "ioiID":"2691",
             "achievements":[
                {
                   "achievement":"IOI Silver Medalist (2012)",
@@ -6901,10 +7128,11 @@
             ],
             "tcHandle":"hogloid",
             "tcId":"22926972",
-            "tcRating":2630,
+            "tcRating":2618,
             "cfHandle":"hogloid",
-            "cfRating":2549,
+            "cfRating":2578,
             "twitterHandle":"hogloid",
+            "ioiID":"2697",
             "achievements":[
                {
                   "achievement":"IOI Silver Medalist (2012, 2013)",
@@ -6919,9 +7147,10 @@
             ],
             "tcHandle":"DEGwer",
             "tcId":"23051763",
-            "tcRating":2510,
+            "tcRating":2577,
             "cfHandle":"DEGwer",
-            "cfRating":2659,
+            "cfRating":2647,
+            "ioiID":"2988",
             "achievements":[
                {
                   "achievement":"IOI Silver Medalist (2013)",
@@ -6963,7 +7192,8 @@
          ],
          "tcRating":-1,
          "cfHandle":"Deadwing",
-         "cfRating":2316,
+         "cfRating":2137,
+         "ioiID":"3716",
          "achievements":[
             {
                "achievement":"ACM ICPC Finalist (2015)",
@@ -6997,7 +7227,7 @@
             ],
             "tcRating":-1,
             "cfHandle":"ZieiN",
-            "cfRating":1494,
+            "cfRating":1627,
             "achievements":[
 
             ]
@@ -7008,7 +7238,8 @@
                "Hasan Fudail"
             ],
             "tcRating":-1,
-            "cfRating":-1,
+            "cfHandle":"fudail225",
+            "cfRating":2011,
             "achievements":[
 
             ]
@@ -7157,8 +7388,11 @@
             "altNames":[
                "Katsumata Hiroki"
             ],
-            "tcRating":-1,
-            "cfRating":-1,
+            "tcHandle":"piroz",
+            "tcId":"23157417",
+            "tcRating":1739,
+            "cfHandle":"piroz",
+            "cfRating":2117,
             "achievements":[
 
             ]
@@ -7172,7 +7406,7 @@
             "tcId":"23167065",
             "tcRating":2817,
             "cfHandle":"yosupo",
-            "cfRating":2550,
+            "cfRating":2791,
             "achievements":[
                {
                   "achievement":"GCJ Finalist (2016)",
@@ -7239,7 +7473,7 @@
             "tcId":"40046248",
             "tcRating":1700,
             "cfHandle":"Taube",
-            "cfRating":2396,
+            "cfRating":2357,
             "achievements":[
 
             ]
@@ -7247,10 +7481,15 @@
          {
             "name":"Nicolay Kuzivanov",
             "altNames":[
-               "Kuzivanov Nicolay"
+               "Kuzivanov Nicolay",
+               "Nikolay Kuzivanov",
+               "Kuzivanov Nikolay"
             ],
-            "tcRating":-1,
-            "cfRating":-1,
+            "tcHandle":"Carups",
+            "tcId":"40051836",
+            "tcRating":1611,
+            "cfHandle":"Carups",
+            "cfRating":1959,
             "achievements":[
 
             ]
@@ -7264,7 +7503,7 @@
             "tcId":"23177894",
             "tcRating":1281,
             "cfHandle":"noxwell",
-            "cfRating":2240,
+            "cfRating":2139,
             "twitterHandle":"noxwelle",
             "achievements":[
 
@@ -7330,9 +7569,10 @@
             ],
             "tcHandle":"xudyh",
             "tcId":"23048982",
-            "tcRating":3326,
+            "tcRating":3346,
             "cfHandle":"moejy0viiiiiv",
-            "cfRating":3196,
+            "cfRating":3051,
+            "ioiID":"5556",
             "achievements":[
                {
                   "achievement":"FBHC 2nd (2016)",
@@ -7367,10 +7607,11 @@
             ],
             "tcHandle":"jcvb",
             "tcId":"22902156",
-            "tcRating":2948,
+            "tcRating":2925,
             "cfHandle":"jcccccccccccccccccccccsb",
-            "cfRating":2926,
+            "cfRating":2894,
             "twitterHandle":"jcvbcn",
+            "ioiID":"5872",
             "achievements":[
                {
                   "achievement":"GCJ Finalist (2016)",
@@ -7393,21 +7634,18 @@
          {
             "name":"Lijie Chen",
             "altNames":[
-               "Chen Lijie",
-               "LiJie Chen"
+               "Chen Lijie"
             ],
-            "tcHandle":"On Codeforces: @CFTable:WJMZBMR:",
-            "tcRating":-1,
+            "tcHandle":"WJMZBMR",
+            "tcId":"22840511",
+            "tcRating":2855,
             "cfHandle":"YuukaKazami",
-            "cfRating":2869,
+            "cfRating":2806,
+            "ioiID":"2979",
             "achievements":[
                {
                   "achievement":"ACM ICPC bronze medal (2014)",
                   "priority":4001
-               },
-               {
-                  "achievement":"TCO Finalist (2014)",
-                  "priority":76
                },
                {
                   "achievement":"IOI Gold Medalist (2013)",
@@ -7536,6 +7774,7 @@
          "tcRating":2032,
          "cfHandle":"elsantodel90",
          "cfRating":2170,
+         "ioiID":"59",
          "achievements":[
             {
                "achievement":"World Finals coach (2010, 2013-2016)",
@@ -7588,7 +7827,7 @@
             "tcId":"23083932",
             "tcRating":1018,
             "cfHandle":"fredy10",
-            "cfRating":1790,
+            "cfRating":1795,
             "achievements":[
                {
                   "achievement":"ACM ICPC Finalist (2016)",
@@ -7743,10 +7982,13 @@
          {
             "name":"Marcelo Fornet Fornes",
             "altNames":[
-               "Fornet Fornes Marcelo"
+               "Fornet Fornes Marcelo",
+               "Marcelo Fornet",
+               "Fornet Marcelo"
             ],
             "tcRating":-1,
-            "cfRating":-1,
+            "cfHandle":"marX",
+            "cfRating":2359,
             "achievements":[
                {
                   "achievement":"ACM ICPC Finalist (2015)",
@@ -7764,8 +8006,8 @@
             "tcHandle":"blacktools",
             "tcId":"40552060",
             "tcRating":1453,
-            "cfHandle":"BlackTools",
-            "cfRating":1826,
+            "cfHandle":"blacktools",
+            "cfRating":1972,
             "achievements":[
 
             ]
@@ -7779,7 +8021,7 @@
             ],
             "tcRating":-1,
             "cfHandle":"ArielxX",
-            "cfRating":1929,
+            "cfRating":1913,
             "twitterHandle":"ArielxX94",
             "achievements":[
 
@@ -7835,7 +8077,7 @@
             ],
             "tcRating":-1,
             "cfHandle":"elio",
-            "cfRating":1819,
+            "cfRating":1930,
             "achievements":[
 
             ]
@@ -7851,7 +8093,7 @@
             "tcId":"15589687",
             "tcRating":1205,
             "cfHandle":"Kino",
-            "cfRating":1733,
+            "cfRating":1744,
             "achievements":[
 
             ]
@@ -7867,7 +8109,7 @@
             ],
             "tcRating":-1,
             "cfHandle":"JoseGuerra",
-            "cfRating":1503,
+            "cfRating":1447,
             "achievements":[
 
             ]
@@ -7928,7 +8170,8 @@
                "Ojeda Jorge Javier Eduardo"
             ],
             "tcRating":-1,
-            "cfRating":-1,
+            "cfHandle":"jeoj",
+            "cfRating":1363,
             "twitterHandle":"JavierOjeda",
             "achievements":[
 
@@ -8006,7 +8249,7 @@
             "tcId":"22855367",
             "tcRating":1081,
             "cfHandle":"ivancastel",
-            "cfRating":1895,
+            "cfRating":1941,
             "twitterHandle":"ivancastel",
             "achievements":[
                {
@@ -8030,6 +8273,7 @@
             "cfHandle":"silvavelosa",
             "cfRating":1755,
             "twitterHandle":"silvavelosa",
+            "ioiID":"1043",
             "achievements":[
                {
                   "achievement":"ACM ICPC Finalist (2014)",
@@ -8056,8 +8300,9 @@
             "tcId":"23000099",
             "tcRating":1301,
             "cfHandle":"cmzuluagam",
-            "cfRating":1663,
+            "cfRating":1696,
             "twitterHandle":"chriszulu17",
+            "ioiID":"458",
             "achievements":[
                {
                   "achievement":"ACM ICPC Finalist (2013)",
@@ -8122,7 +8367,7 @@
             ],
             "tcRating":-1,
             "cfHandle":"mrz",
-            "cfRating":1684,
+            "cfRating":1634,
             "twitterHandle":"tinrodriguez8",
             "achievements":[
 
@@ -8143,7 +8388,7 @@
             "tcId":"23177873",
             "tcRating":1667,
             "cfHandle":"mjhun",
-            "cfRating":2421,
+            "cfRating":2424,
             "achievements":[
 
             ]
@@ -8155,7 +8400,7 @@
             ],
             "tcRating":-1,
             "cfHandle":"Vladislao",
-            "cfRating":1507,
+            "cfRating":1601,
             "twitterHandle":"luis_ferroni",
             "achievements":[
 
@@ -8211,7 +8456,9 @@
                "Redigonda Maximiliano"
             ],
             "tcRating":-1,
-            "cfRating":-1,
+            "cfHandle":"maxred",
+            "cfRating":1999,
+            "ioiID":"5519",
             "achievements":[
                {
                   "achievement":"IOI Participant (2015, 2016)",
@@ -8225,7 +8472,8 @@
                "Diaz Ivan"
             ],
             "tcRating":-1,
-            "cfRating":-1,
+            "cfHandle":"indexs",
+            "cfRating":1459,
             "achievements":[
 
             ]
@@ -8236,8 +8484,8 @@
                "Morris Esquivel Brian"
             ],
             "tcRating":-1,
-            "cfHandle":"NBrimix",
-            "cfRating":-1,
+            "cfHandle":"Brimix",
+            "cfRating":1676,
             "achievements":[
 
             ]
@@ -8294,7 +8542,8 @@
                "Rojas Rubmary"
             ],
             "tcRating":-1,
-            "cfRating":-1,
+            "cfHandle":"rubs",
+            "cfRating":1800,
             "twitterHandle":"RubmaryR",
             "achievements":[
                {
@@ -8312,7 +8561,7 @@
             "tcId":"40254181",
             "tcRating":1534,
             "cfHandle":"pulgares",
-            "cfRating":2165,
+            "cfRating":2245,
             "twitterHandle":"nombre_Random",
             "achievements":[
                {
@@ -8330,7 +8579,7 @@
             "tcId":"40327933",
             "tcRating":1385,
             "cfHandle":"JoseAcv2",
-            "cfRating":1857,
+            "cfRating":1781,
             "twitterHandle":"JoseLuisAcv2",
             "achievements":[
 
@@ -8403,6 +8652,7 @@
             "tcRating":-1,
             "cfHandle":"arthurpd",
             "cfRating":2012,
+            "ioiID":"5046",
             "achievements":[
                {
                   "achievement":"IOI Silver Medalist (2014)",
@@ -8419,8 +8669,11 @@
             "altNames":[
                "de Souza Ataide Matheus"
             ],
-            "tcRating":-1,
-            "cfRating":-1,
+            "tcHandle":"matheusataidee",
+            "tcId":"40095418",
+            "tcRating":1222,
+            "cfHandle":"matheusataidee",
+            "cfRating":1854,
             "achievements":[
 
             ]
@@ -8487,13 +8740,15 @@
          {
             "name":"Roberto Caldeira",
             "altNames":[
-               "Caldeira Roberto"
+               "Caldeira Roberto",
+               "Roberto Sales",
+               "Sales Roberto"
             ],
             "tcHandle":"rsalesc",
             "tcId":"40083883",
             "tcRating":1608,
-            "cfHandle":"rsalesc",
-            "cfRating":-1,
+            "cfHandle":"robertosalesc",
+            "cfRating":2030,
             "achievements":[
                {
                   "achievement":"ACM ICPC Finalist (2016)",
@@ -8510,7 +8765,7 @@
             "tcId":"23107076",
             "tcRating":1537,
             "cfHandle":"johnjq",
-            "cfRating":2001,
+            "cfRating":2023,
             "twitterHandle":"jonathan_jclq",
             "achievements":[
                {
@@ -8565,10 +8820,15 @@
          {
             "name":"Lucas de Matos Figueredo",
             "altNames":[
-               "de Matos Figueredo Lucas"
+               "de Matos Figueredo Lucas",
+               "Lucas Figueredo",
+               "Figueredo Lucas"
             ],
-            "tcRating":-1,
-            "cfRating":-1,
+            "tcHandle":"deMatos",
+            "tcId":"23114190",
+            "tcRating":1324,
+            "cfHandle":"deMatos",
+            "cfRating":2033,
             "achievements":[
                {
                   "achievement":"ACM ICPC Finalist (2015)",
@@ -8582,7 +8842,8 @@
                "Andrade de Almeida Victor"
             ],
             "tcRating":-1,
-            "cfRating":-1,
+            "cfHandle":"VictorAA",
+            "cfRating":1640,
             "achievements":[
 
             ]
@@ -8590,11 +8851,13 @@
          {
             "name":"Ordan Silva Santos",
             "altNames":[
-               "Silva Santos Ordan"
+               "Silva Santos Ordan",
+               "Ordan Santos",
+               "Santos Ordan"
             ],
             "tcRating":-1,
-            "cfHandle":"http://codeforces.com/profile/ordan",
-            "cfRating":-1,
+            "cfHandle":"ordan",
+            "cfRating":1878,
             "achievements":[
 
             ]
@@ -8644,11 +8907,15 @@
             "altNames":[
                "Fulvio Abrahao Paula",
                "Paula Fúlvio Abrahão",
-               "Paula Fulvio Abrahao"
+               "Paula Fulvio Abrahao",
+               "Fulvio Abrahao",
+               "Abrahao Fulvio"
             ],
-            "tcRating":-1,
-            "cfHandle":"http://codeforces.com/profile/fulvioabrahao",
-            "cfRating":-1,
+            "tcHandle":"fulvioabrahao",
+            "tcId":"23282806",
+            "tcRating":1237,
+            "cfHandle":"fulvioabrahao",
+            "cfRating":1898,
             "achievements":[
 
             ]
@@ -8667,7 +8934,7 @@
             "tcHandle":"junior.andrade",
             "tcId":"40344583",
             "tcRating":1061,
-            "cfHandle":"Juniorandrade",
+            "cfHandle":"juniorandrade",
             "cfRating":1939,
             "twitterHandle":"JuniorAndradeCC",
             "achievements":[
@@ -8677,10 +8944,14 @@
          {
             "name":"Thiago de Carvalho Pinto",
             "altNames":[
-               "de Carvalho Pinto Thiago"
+               "de Carvalho Pinto Thiago",
+               "Thiago"
             ],
-            "tcRating":-1,
-            "cfRating":-1,
+            "tcHandle":"thiagocarvp",
+            "tcId":"23167854",
+            "tcRating":1624,
+            "cfHandle":"thiagocarvp",
+            "cfRating":1712,
             "twitterHandle":"thiagocarvp",
             "achievements":[
 
@@ -8743,7 +9014,7 @@
             "tcId":"23139161",
             "tcRating":1876,
             "cfHandle":"mhss",
-            "cfRating":2497,
+            "cfRating":2378,
             "achievements":[
                {
                   "achievement":"ACM ICPC Finalist (2016)",
@@ -8835,7 +9106,7 @@
             "tcId":"40340660",
             "tcRating":1480,
             "cfHandle":"victoragnez",
-            "cfRating":2173,
+            "cfRating":2207,
             "achievements":[
 
             ]
@@ -8845,12 +9116,14 @@
             "altNames":[
                "Helio Duarte",
                "Duarte Hélio",
-               "Duarte Helio"
+               "Duarte Helio",
+               "Helio Filho",
+               "Filho Helio"
             ],
             "tcHandle":"deleted",
             "tcId":"40002788",
             "tcRating":1554,
-            "cfHandle":"heliobdf",
+            "cfHandle":"helio",
             "cfRating":1751,
             "achievements":[
 
@@ -8861,8 +9134,11 @@
             "altNames":[
                "Calheiros Railton"
             ],
-            "tcRating":-1,
-            "cfRating":-1,
+            "tcHandle":"RailtonT",
+            "tcId":"23309126",
+            "tcRating":1167,
+            "cfHandle":"RailtonT",
+            "cfRating":1867,
             "achievements":[
 
             ]
@@ -8921,7 +9197,7 @@
             "tcId":"22909826",
             "tcRating":1636,
             "cfHandle":"makanbeling",
-            "cfRating":1959,
+            "cfRating":1988,
             "twitterHandle":"rakinazata",
             "achievements":[
 
@@ -8932,11 +9208,13 @@
             "altNames":[
                "Dzulfikar Muhammad Ayaz"
             ],
-            "tcHandle":"azure",
-            "tcRating":-1,
+            "tcHandle":"azure_lim",
+            "tcId":"22697713",
+            "tcRating":842,
             "cfHandle":"ayaze",
             "cfRating":2305,
             "twitterHandle":"ayaz_dz",
+            "ioiID":"5609",
             "achievements":[
                {
                   "achievement":"IOI Bronze Medalist (2015)",
@@ -8951,7 +9229,8 @@
             ],
             "tcRating":-1,
             "cfHandle":"kadalijo",
-            "cfRating":1963,
+            "cfRating":1925,
+            "ioiID":"5100",
             "achievements":[
                {
                   "achievement":"IOI Bronze Medalist (2014)",
@@ -9043,9 +9322,9 @@
             ],
             "tcHandle":"kzyKT",
             "tcId":"23178732",
-            "tcRating":1277,
+            "tcRating":1340,
             "cfHandle":"kzyKT",
-            "cfRating":1925,
+            "cfRating":1825,
             "twitterHandle":"kzyKT_M",
             "achievements":[
 
@@ -9172,7 +9451,8 @@
                "Chiu Jason"
             ],
             "tcRating":-1,
-            "cfRating":-1,
+            "cfHandle":"MTSranger",
+            "cfRating":1958,
             "achievements":[
 
             ]
@@ -9188,6 +9468,7 @@
             "tcRating":1214,
             "cfHandle":"luccasiau",
             "cfRating":1953,
+            "ioiID":"5547",
             "achievements":[
                {
                   "achievement":"IOI Silver Medalist (2016)",
@@ -9251,7 +9532,7 @@
          ],
          "tcHandle":"klamathix",
          "tcId":"22768541",
-         "tcRating":1986,
+         "tcRating":1956,
          "cfHandle":"klamathix",
          "cfRating":2162,
          "achievements":[
@@ -9265,10 +9546,15 @@
          {
             "name":"Eugenie Daniel Posdarascu",
             "altNames":[
-               "Posdarascu Eugenie Daniel"
+               "Posdarascu Eugenie Daniel",
+               "Eugenie-Daniel Posdarascu",
+               "Posdarascu Eugenie-Daniel"
             ],
-            "tcRating":-1,
-            "cfRating":-1,
+            "tcHandle":"eudanip",
+            "tcId":"22844407",
+            "tcRating":1414,
+            "cfHandle":"eudanip",
+            "cfRating":1928,
             "achievements":[
                {
                   "achievement":"ACM ICPC Finalist (2016)",
@@ -9281,9 +9567,11 @@
             "altNames":[
                "Nitu Mihai"
             ],
-            "tcRating":-1,
+            "tcHandle":"Mikester95",
+            "tcId":"23171321",
+            "tcRating":1863,
             "cfHandle":"Mikester",
-            "cfRating":2233,
+            "cfRating":2267,
             "achievements":[
 
             ]
@@ -9293,10 +9581,16 @@
             "altNames":[
                "Aleksandru Velea",
                "Velea Alexandru",
-               "Velea Aleksandru"
+               "Velea Aleksandru",
+               "Alex Velea",
+               "Velea Alex"
             ],
-            "tcRating":-1,
-            "cfRating":-1,
+            "tcHandle":"alex.velea",
+            "tcId":"23109113",
+            "tcRating":1855,
+            "cfHandle":"alex.velea",
+            "cfRating":2546,
+            "ioiID":"5190",
             "achievements":[
                {
                   "achievement":"IOI Silver Medalist (2014, 2015)",
@@ -9355,7 +9649,8 @@
                "Chen Ruichao"
             ],
             "tcRating":-1,
-            "cfRating":-1,
+            "cfHandle":"sheep0x",
+            "cfRating":1943,
             "achievements":[
 
             ]
@@ -9508,9 +9803,9 @@
             ],
             "tcHandle":"andyshih12",
             "tcId":"40171544",
-            "tcRating":1291,
+            "tcRating":1457,
             "cfHandle":"andyshih12",
-            "cfRating":2113,
+            "cfRating":2052,
             "achievements":[
 
             ]
@@ -9532,8 +9827,11 @@
             "altNames":[
                "Li Jerry"
             ],
-            "tcRating":-1,
-            "cfRating":-1,
+            "tcHandle":"jerrylinew",
+            "tcId":"23035942",
+            "tcRating":1045,
+            "cfHandle":"jerrylinew",
+            "cfRating":1814,
             "achievements":[
 
             ]
@@ -9588,6 +9886,7 @@
             "cfHandle":"rvisser",
             "cfRating":1591,
             "twitterHandle":"rvisser7777",
+            "ioiID":"5751",
             "achievements":[
                {
                   "achievement":"ACM ICPC Finalist (2016)",
@@ -9671,10 +9970,15 @@
             "altNames":[
                "Aleksandr Coleman",
                "Coleman Alexander",
-               "Coleman Aleksandr"
+               "Coleman Aleksandr",
+               "Alex Coleman",
+               "Coleman Alex"
             ],
-            "tcRating":-1,
-            "cfRating":-1,
+            "tcHandle":"alexrcoleman",
+            "tcId":"40423426",
+            "tcRating":1465,
+            "cfHandle":"alexrcoleman",
+            "cfRating":2110,
             "twitterHandle":"alexrcoleman",
             "achievements":[
 
@@ -9698,7 +10002,7 @@
             ],
             "tcRating":-1,
             "cfHandle":"GeometryMaster",
-            "cfRating":1928,
+            "cfRating":2124,
             "achievements":[
 
             ]
@@ -9748,7 +10052,7 @@
             ],
             "tcRating":-1,
             "cfHandle":"Z0RR0",
-            "cfRating":1935,
+            "cfRating":1888,
             "achievements":[
 
             ]
@@ -9759,7 +10063,8 @@
                "Zahin Sabit Anwar"
             ],
             "tcRating":-1,
-            "cfRating":-1,
+            "cfHandle":"sgtlaugh",
+            "cfRating":1945,
             "achievements":[
 
             ]
@@ -9767,10 +10072,12 @@
          {
             "name":"Rezwan Mahmud",
             "altNames":[
-               "Mahmud Rezwan"
+               "Mahmud Rezwan",
+               "rm tonmoy",
+               "tonmoy rm"
             ],
             "tcRating":-1,
-            "cfHandle":"tonmoy_43",
+            "cfHandle":"tube_light",
             "cfRating":1314,
             "achievements":[
 
@@ -9855,8 +10162,11 @@
             "altNames":[
                "Lin Weibo"
             ],
-            "tcRating":-1,
-            "cfRating":-1,
+            "tcHandle":"Lweb",
+            "tcId":"23118299",
+            "tcRating":2006,
+            "cfHandle":"Lweb",
+            "cfRating":2236,
             "achievements":[
 
             ]
@@ -9912,7 +10222,7 @@
             "tcId":"23159925",
             "tcRating":1896,
             "cfHandle":"prof.PVH",
-            "cfRating":2537,
+            "cfRating":2318,
             "achievements":[
                {
                   "achievement":"ACM ICPC Finalist (2016)",
@@ -9927,7 +10237,7 @@
             ],
             "tcRating":-1,
             "cfHandle":"duyboy135",
-            "cfRating":2373,
+            "cfRating":2290,
             "achievements":[
 
             ]
@@ -9941,8 +10251,9 @@
             "tcId":"23287768",
             "tcRating":1940,
             "cfHandle":"minh141198",
-            "cfRating":2210,
+            "cfRating":2369,
             "twitterHandle":"nhatminh1411",
+            "ioiID":"5816",
             "achievements":[
                {
                   "achievement":"IOI Gold Medalist (2016)",
@@ -9990,7 +10301,7 @@
          "tcId":"23177411",
          "tcRating":1935,
          "cfHandle":"sharph",
-         "cfRating":2414,
+         "cfRating":2257,
          "achievements":[
 
          ]
@@ -10035,9 +10346,10 @@
             ],
             "tcHandle":"Laakeri",
             "tcId":"23279106",
-            "tcRating":2451,
+            "tcRating":2499,
             "cfHandle":"Laakeri",
-            "cfRating":2538,
+            "cfRating":2579,
+            "ioiID":"5589",
             "achievements":[
                {
                   "achievement":"ACM ICPC Finalist (2016)",
@@ -10108,7 +10420,8 @@
                "Zhang Yuting"
             ],
             "tcRating":-1,
-            "cfRating":-1,
+            "cfHandle":"ytyt96",
+            "cfRating":1881,
             "achievements":[
 
             ]
@@ -10178,6 +10491,7 @@
             "tcRating":2318,
             "cfHandle":"Alex_2oo8",
             "cfRating":2904,
+            "ioiID":"2964",
             "achievements":[
                {
                   "achievement":"IOI Gold Medalist (2015)",
@@ -10196,10 +10510,13 @@
          {
             "name":"Andrejs Kuznecovs",
             "altNames":[
-               "Kuznecovs Andrejs"
+               "Kuznecovs Andrejs",
+               "Andrej K",
+               "K Andrej"
             ],
             "tcRating":-1,
-            "cfRating":-1,
+            "cfHandle":"A_Le_K",
+            "cfRating":1919,
             "achievements":[
 
             ]
@@ -10427,8 +10744,11 @@
             "altNames":[
                "Wang Tianci"
             ],
-            "tcRating":-1,
-            "cfRating":-1,
+            "tcHandle":"twangal",
+            "tcId":"40002746",
+            "tcRating":1386,
+            "cfHandle":"twangal",
+            "cfRating":1936,
             "achievements":[
 
             ]
@@ -10489,12 +10809,29 @@
          {
             "name":"Mohammad Huda",
             "altNames":[
-               "Huda Mohammad"
+               "Huda Mohammad",
+               "Ishraq Huda",
+               "Huda Ishraq"
             ],
-            "tcRating":-1,
-            "cfRating":-1,
+            "tcHandle":"izrak",
+            "tcId":"23041788",
+            "tcRating":2811,
+            "cfHandle":"izrak",
+            "cfRating":2997,
+            "ioiID":"3011",
             "achievements":[
-
+               {
+                  "achievement":"IOI Gold Medalist (2014, 2015)",
+                  "priority":52
+               },
+               {
+                  "achievement":"Yandex.Algorithm Finalist (2016)",
+                  "priority":26
+               },
+               {
+                  "achievement":"IOI Bronze Medalist (2013)",
+                  "priority":21
+               }
             ]
          },
          {
@@ -10505,6 +10842,7 @@
             "tcRating":-1,
             "cfHandle":"abyssmall",
             "cfRating":2284,
+            "ioiID":"5020",
             "achievements":[
                {
                   "achievement":"IOI Gold Medalist (2014)",
@@ -10517,13 +10855,17 @@
             "altNames":[
                "Li Ray"
             ],
-            "tcHandle":"abacadaea",
-            "tcId":"22915137",
-            "tcRating":1775,
-            "cfHandle":"abacadaea",
+            "tcHandle":"AntiForest",
+            "tcId":"23046034",
+            "tcRating":1697,
+            "cfHandle":"AntiForest",
             "cfRating":1997,
+            "ioiID":"3010",
             "achievements":[
-
+               {
+                  "achievement":"IOI Silver Medalist (2013, 2014)",
+                  "priority":32
+               }
             ]
          }
       ]
@@ -10581,9 +10923,12 @@
             "altNames":[
                "Venev Hristo"
             ],
-            "tcRating":-1,
+            "tcHandle":"mustrum_r",
+            "tcId":"22825275",
+            "tcRating":1667,
             "cfHandle":"mustrumr",
             "cfRating":1690,
+            "ioiID":"2707",
             "achievements":[
                {
                   "achievement":"IOI Gold Medalist (2013-2016)",
@@ -10598,10 +10943,13 @@
          {
             "name":"Mihail Jianu",
             "altNames":[
-               "Jianu Mihail"
+               "Jianu Mihail",
+               "Mihailil Jianu",
+               "Jianu Mihailil"
             ],
             "tcRating":-1,
-            "cfRating":-1,
+            "cfHandle":"mihail.jianu",
+            "cfRating":1861,
             "achievements":[
 
             ]
@@ -10662,6 +11010,7 @@
             ],
             "tcRating":-1,
             "cfRating":-1,
+            "ioiID":"2615",
             "achievements":[
                {
                   "achievement":"IOI Silver Medalist (2009-2011)",
@@ -10679,7 +11028,8 @@
                "Tokanov Arman"
             ],
             "tcRating":-1,
-            "cfRating":-1,
+            "cfHandle":"armant",
+            "cfRating":1517,
             "achievements":[
 
             ]
@@ -10718,6 +11068,7 @@
          ],
          "tcRating":-1,
          "cfRating":-1,
+         "ioiID":"540",
          "achievements":[
             {
                "achievement":"World Finals coach (2010)",
@@ -10736,7 +11087,8 @@
                "Rubery Daniel"
             ],
             "tcRating":-1,
-            "cfRating":-1,
+            "cfHandle":"TusanHomichi",
+            "cfRating":1991,
             "twitterHandle":"TusanHomichi",
             "achievements":[
 
@@ -10761,8 +11113,11 @@
             "altNames":[
                "Polansky Zachary"
             ],
-            "tcRating":-1,
-            "cfRating":-1,
+            "tcHandle":"atomicenergy",
+            "tcId":"23191249",
+            "tcRating":1366,
+            "cfHandle":"atomicenergy",
+            "cfRating":1835,
             "achievements":[
 
             ]
@@ -10822,10 +11177,13 @@
          {
             "name":"Shayan Hosseini",
             "altNames":[
-               "Hosseini Shayan"
+               "Hosseini Shayan",
+               "Shayan Hosseiny",
+               "Hosseiny Shayan"
             ],
             "tcRating":-1,
-            "cfRating":-1,
+            "cfHandle":"ShayanH",
+            "cfRating":2085,
             "twitterHandle":"seshayanh",
             "achievements":[
 
@@ -10849,10 +11207,13 @@
          {
             "name":"Navid RahimiDanesh",
             "altNames":[
-               "RahimiDanesh Navid"
+               "RahimiDanesh Navid",
+               "Navid Rahimi Danesh",
+               "Rahimi Danesh Navid"
             ],
             "tcRating":-1,
-            "cfRating":-1,
+            "cfHandle":"navidda",
+            "cfRating":2053,
             "achievements":[
 
             ]
@@ -10927,7 +11288,7 @@
             ],
             "tcRating":-1,
             "cfHandle":"1NCID3R",
-            "cfRating":2057,
+            "cfRating":2070,
             "achievements":[
 
             ]
@@ -10992,9 +11353,10 @@
             ],
             "tcHandle":"Swistakk",
             "tcId":"23113968",
-            "tcRating":2820,
+            "tcRating":2746,
             "cfHandle":"Swistakk",
-            "cfRating":2573,
+            "cfRating":2548,
+            "ioiID":"2690",
             "achievements":[
                {
                   "achievement":"ACM ICPC silver medal (2016)",
@@ -11015,7 +11377,7 @@
             ],
             "tcHandle":"mnbvmar",
             "tcId":"23059200",
-            "tcRating":2879,
+            "tcRating":2773,
             "cfHandle":"mnbvmar",
             "cfRating":2872,
             "achievements":[
@@ -11040,7 +11402,7 @@
             ],
             "tcHandle":"Marcin_smu",
             "tcId":"22895775",
-            "tcRating":2727,
+            "tcRating":2801,
             "cfHandle":"Marcin_smu",
             "cfRating":2683,
             "achievements":[
@@ -11117,9 +11479,10 @@
             ],
             "tcHandle":"FatalEagle",
             "tcId":"23138492",
-            "tcRating":2525,
+            "tcRating":2606,
             "cfHandle":"FatalEagle",
-            "cfRating":2795,
+            "cfRating":2667,
+            "ioiID":"5052",
             "achievements":[
                {
                   "achievement":"IOI Gold Medalist (2016)",
@@ -11145,6 +11508,7 @@
             "tcRating":2464,
             "cfHandle":"zxqfl",
             "cfRating":2676,
+            "ioiID":"5053",
             "achievements":[
                {
                   "achievement":"ACM ICPC bronze medal (2016)",
@@ -11228,6 +11592,7 @@
             "tcRating":-1,
             "cfHandle":"toppykung",
             "cfRating":1817,
+            "ioiID":"3000",
             "achievements":[
                {
                   "achievement":"ACM ICPC Finalist (2016)",
@@ -11317,10 +11682,15 @@
          {
             "name":"Michał Łowicki",
             "altNames":[
-               "Łowicki Michał"
+               "Łowicki Michał",
+               "Michal Lowicki",
+               "Lowicki Michal"
             ],
-            "tcRating":-1,
-            "cfRating":-1,
+            "tcHandle":"koratel",
+            "tcId":"22858597",
+            "tcRating":1921,
+            "cfHandle":"koratel",
+            "cfRating":2270,
             "achievements":[
 
             ]
@@ -11332,8 +11702,8 @@
             ],
             "tcHandle":"pmichalak",
             "tcId":"22888777",
-            "tcRating":1624,
-            "cfHandle":"PMichalak",
+            "tcRating":1654,
+            "cfHandle":"pmichalak",
             "cfRating":2201,
             "twitterHandle":"michalak_pawel",
             "achievements":[
@@ -11345,9 +11715,11 @@
             "altNames":[
                "Syposz Tomasz"
             ],
-            "tcRating":-1,
+            "tcHandle":"Tomasz.Syposz",
+            "tcId":"40184176",
+            "tcRating":1580,
             "cfHandle":"tomsyp",
-            "cfRating":2392,
+            "cfRating":2342,
             "achievements":[
                {
                   "achievement":"ACM ICPC Finalist (2014)",
@@ -11426,9 +11798,10 @@
             ],
             "tcHandle":"dbradac",
             "tcId":"40178661",
-            "tcRating":2176,
-            "cfHandle":"DBradac",
-            "cfRating":2522,
+            "tcRating":2221,
+            "cfHandle":"Dbradac",
+            "cfRating":2685,
+            "ioiID":"5565",
             "achievements":[
                {
                   "achievement":"IOI Silver Medalist (2015, 2016)",
@@ -11445,7 +11818,8 @@
             ],
             "tcRating":-1,
             "cfHandle":"mislav",
-            "cfRating":2368,
+            "cfRating":2300,
+            "ioiID":"3039",
             "achievements":[
                {
                   "achievement":"IOI Silver Medalist (2013, 2014)",
@@ -11511,10 +11885,15 @@
          {
             "name":"Aleksei Kungurtsev",
             "altNames":[
-               "Kungurtsev Aleksei"
+               "Kungurtsev Aleksei",
+               "Alexey Kungurtsev",
+               "Kungurtsev Alexey"
             ],
-            "tcRating":-1,
-            "cfRating":-1,
+            "tcHandle":"KungA",
+            "tcId":"23180975",
+            "tcRating":1928,
+            "cfHandle":"KungA",
+            "cfRating":2328,
             "achievements":[
 
             ]
@@ -11524,9 +11903,11 @@
             "altNames":[
                "Borozdin Kirill"
             ],
-            "tcRating":-1,
+            "tcHandle":"k1r1ch",
+            "tcId":"22844440",
+            "tcRating":1674,
             "cfHandle":"kb.",
-            "cfRating":2382,
+            "cfRating":2336,
             "achievements":[
 
             ]
@@ -11538,7 +11919,7 @@
             ],
             "tcRating":-1,
             "cfHandle":"Tinsane",
-            "cfRating":2520,
+            "cfRating":2498,
             "achievements":[
 
             ]
@@ -11593,7 +11974,8 @@
             "tcId":"22928704",
             "tcRating":2282,
             "cfHandle":"Sereja",
-            "cfRating":2310,
+            "cfRating":2288,
+            "ioiID":"2093",
             "achievements":[
                {
                   "achievement":"IOI Gold Medalist (2012)",
@@ -11616,10 +11998,15 @@
          {
             "name":"Yehor Bobyk",
             "altNames":[
-               "Bobyk Yehor"
+               "Bobyk Yehor",
+               "Egor Bobyk",
+               "Bobyk Egor"
             ],
-            "tcRating":-1,
-            "cfRating":-1,
+            "tcHandle":"EG0R",
+            "tcId":"23179695",
+            "tcRating":1385,
+            "cfHandle":"EG0R",
+            "cfRating":1651,
             "achievements":[
 
             ]
@@ -11627,10 +12014,13 @@
          {
             "name":"Taras Novokhatskyi",
             "altNames":[
-               "Novokhatskyi Taras"
+               "Novokhatskyi Taras",
+               "Taras Novokhatsky",
+               "Novokhatsky Taras"
             ],
             "tcRating":-1,
-            "cfRating":-1,
+            "cfHandle":"T0RRES",
+            "cfRating":1910,
             "achievements":[
 
             ]
@@ -11683,7 +12073,7 @@
             ],
             "tcRating":-1,
             "cfHandle":"JustasK",
-            "cfRating":2314,
+            "cfRating":2546,
             "achievements":[
 
             ]
@@ -11696,6 +12086,7 @@
             "tcRating":-1,
             "cfHandle":"jDomantas",
             "cfRating":1943,
+            "ioiID":"3196",
             "achievements":[
                {
                   "achievement":"IOI Silver Medalist (2015)",
@@ -11719,7 +12110,8 @@
                "Traskevičius Vytautas"
             ],
             "tcRating":-1,
-            "cfRating":-1,
+            "cfHandle":"Vytautas",
+            "cfRating":1763,
             "achievements":[
 
             ]
@@ -11774,7 +12166,7 @@
             ],
             "tcRating":-1,
             "cfHandle":"ChrisWu",
-            "cfRating":1924,
+            "cfRating":1928,
             "achievements":[
                {
                   "achievement":"ACM ICPC Finalist (2016)",
@@ -11791,7 +12183,7 @@
             "tcId":"40277784",
             "tcRating":1371,
             "cfHandle":"PeterASteele",
-            "cfRating":1974,
+            "cfRating":2104,
             "achievements":[
                {
                   "achievement":"ACM ICPC Finalist (2016)",
@@ -11805,7 +12197,8 @@
                "Katkov Andriy"
             ],
             "tcRating":-1,
-            "cfRating":-1,
+            "cfHandle":"akatkov",
+            "cfRating":1658,
             "achievements":[
 
             ]
@@ -11877,7 +12270,8 @@
                "Chao Pengning"
             ],
             "tcRating":-1,
-            "cfRating":-1,
+            "cfHandle":"Nestman",
+            "cfRating":1713,
             "achievements":[
 
             ]
@@ -11943,10 +12337,13 @@
          {
             "name":"Jinghao Lu",
             "altNames":[
-               "Lu Jinghao"
+               "Lu Jinghao",
+               "Ginghou Luk",
+               "Luk Ginghou"
             ],
             "tcRating":-1,
-            "cfRating":-1,
+            "cfHandle":"GinghouLuk",
+            "cfRating":2157,
             "achievements":[
 
             ]
@@ -12012,6 +12409,7 @@
             "tcRating":-1,
             "cfHandle":"tikfiz",
             "cfRating":1705,
+            "ioiID":"2292",
             "achievements":[
                {
                   "achievement":"IOI Bronze Medalist (2012)",
@@ -12030,9 +12428,10 @@
             ],
             "tcHandle":"Harhro94",
             "tcId":"23019195",
-            "tcRating":2018,
-            "cfHandle":"Harhro94",
-            "cfRating":2392,
+            "tcRating":2077,
+            "cfHandle":"harhro94",
+            "cfRating":2444,
+            "ioiID":"2762",
             "achievements":[
                {
                   "achievement":"IOI Bronze Medalist (2012)",
@@ -12047,9 +12446,10 @@
             ],
             "tcHandle":"albert96",
             "tcId":"23099298",
-            "tcRating":1812,
+            "tcRating":1818,
             "cfHandle":"albert96",
-            "cfRating":2481,
+            "cfRating":2575,
+            "ioiID":"2965",
             "achievements":[
                {
                   "achievement":"IOI Bronze Medalist (2013)",
@@ -12128,7 +12528,7 @@
             ],
             "tcRating":-1,
             "cfHandle":"J.T.J.L.",
-            "cfRating":2264,
+            "cfRating":2267,
             "twitterHandle":"JTJLever",
             "achievements":[
                {

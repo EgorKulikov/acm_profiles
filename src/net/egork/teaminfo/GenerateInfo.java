@@ -56,8 +56,84 @@ public class GenerateInfo {
 
         saveResults();
         saveRatings();
+        saveUniversities();
+        checkSnark();
 //        saveRepeatFinalists();
 //        saveHRForm();
+    }
+
+    private static void checkSnark() throws IOException {
+        BufferedReader reader = new BufferedReader(new FileReader("input/import_snark.csv"));
+        PrintWriter errors = new PrintWriter("output/errors.txt");
+        for (int i = 0; i < TEAM_NUM * 5; i++) {
+            String s = reader.readLine();
+            if (s == null || i % 5 == 0 || i % 5 == 4) {
+                continue;
+            }
+            String[] data = s.split(";", -1);
+            Person person = records[i / 5 + 1].contestants[i % 5 - 1];
+            if (!person.getName().equals(data[0])) {
+                errors.println(person.getName() + " has wrong name");
+            }
+            String tcHandle = null;
+            if (!data[1].isEmpty()) {
+                if (data[1].startsWith("0-")) {
+//                    tcHandle = data[1].substring(2);
+                } else {
+                    tcHandle = data[1];
+                }
+            }
+            String cfHandle = null;
+            if (!data[2].isEmpty()) {
+                if (data[2].startsWith("0-")) {
+//                    cfHandle = data[2].substring(2);
+                } else {
+                    cfHandle = data[2];
+                }
+            }
+            String ioiId = null;
+            String prevFinal = null;
+            for (int j = 3; j < data.length; j++) {
+                if (data[j].startsWith("IOI")) {
+                    ioiId = data[j].split(":")[1];
+                } else if (data[j].startsWith("PL")) {
+                    prevFinal = data[j].substring(2);
+                }
+            }
+            if (!Utils.equals(tcHandle, person.getTcHandle())) {
+                errors.println(person.getName() + " has wrong TC handle " + tcHandle);
+            }
+            if (!Utils.equals(cfHandle, person.getCfHandle())) {
+                errors.println(person.getName() + " has wrong CF handle " + cfHandle);
+            }
+            if (!Utils.equals(ioiId, person.getIoiID())) {
+                errors.println(person.getName() + " has wrong IOI id" + ioiId);
+            }
+            Set<String> personWF = new HashSet<>();
+            for (Achievement achievement : person.getAchievements()) {
+                if (achievement.priority >= 1000 && !achievement.achievement.toLowerCase().contains("coach")) {
+                    String t = achievement.achievement;
+                    for (int j = 0; j < t.length() - 3; j++) {
+                        if (t.substring(j, j + 4).matches("\\d\\d\\d\\d")) {
+                            personWF.add(t.substring(j, j + 4));
+                        }
+                    }
+                }
+            }
+            Set<String> snarkWF = prevFinal == null ? Collections.emptySet() : Collections.singleton(prevFinal);
+            if (!snarkWF.equals(personWF)) {
+                errors.println(person.getName() + " has wrong finals");
+            }
+        }
+        errors.close();
+    }
+
+    private static void saveUniversities() throws IOException {
+        List<University> results = new ArrayList<>();
+        for (int i = 1; i <= TEAM_NUM; i++) {
+            results.add(records[i].university);
+        }
+        Utils.mapper.writeValue(new File("output/univs.json"), results);
     }
 
     private static void saveRatings() throws FileNotFoundException {
@@ -185,7 +261,7 @@ public class GenerateInfo {
     }
 
     private static String convertHandle(String handle) {
-        return handle.substring(handle.lastIndexOf('-') + 1);
+        return handle.substring(handle.lastIndexOf('/') + 1);
     }
 
     private static void readAltNames() throws Exception {

@@ -10,6 +10,8 @@ import org.apache.commons.logging.LogFactory;
 import java.io.*;
 import java.util.*;
 
+import static net.egork.teaminfo.GenerateInfo.TEAM_NUM;
+
 /**
  * @author egor@egork.net
  */
@@ -20,6 +22,7 @@ public class PersonalDatabase {
     static Map<String, Person> byTc = new HashMap<>();
     static Map<String, Person> byTcId = new HashMap<>();
     static Map<String, Person> byCf = new TreeMap<>(String.CASE_INSENSITIVE_ORDER);
+    static Map<String, Person> byIOIId = new HashMap<>();
 
     public static void main(String... args) throws Exception {
         if (Boolean.getBoolean("reloadCodeforcesUsers")) {
@@ -59,17 +62,34 @@ public class PersonalDatabase {
     }
 
     private static void addSnarkCorrection() throws Exception {
-        BufferedReader reader = new BufferedReader(new FileReader("input/add.csv"));
-        String s;
+        BufferedReader reader = new BufferedReader(new FileReader("input/import_snark.csv"));
         List<Person> persons = new ArrayList<>();
-        while ((s = reader.readLine()) != null) {
-            String[] tokens = s.split(";");
-            Person person = new Person().setName(tokens[0]);
-            if (tokens.length >= 2 && !tokens[1].isEmpty()) {
-                person.setCfHandle(tokens[1]);
+        for (int i = 0; i < TEAM_NUM * 5; i++) {
+            String s = reader.readLine();
+            if (s == null || i % 5 == 0 || i % 5 == 4) {
+                continue;
             }
-            if (tokens.length >= 3 && !tokens[2].isEmpty()) {
-                person.setTcHandle(tokens[2]);
+            String[] data = s.split(";", -1);
+            Person person = new Person();
+            person.setName(data[0]);
+            if (!data[1].isEmpty()) {
+                if (data[1].startsWith("0-")) {
+                    person.setTcHandle(data[1].substring(2));
+                } else {
+                    person.setTcHandle(data[1]);
+                }
+            }
+            if (!data[2].isEmpty()) {
+                if (data[2].startsWith("0-")) {
+                    person.setCfHandle(data[2].substring(2));
+                } else {
+                    person.setCfHandle(data[2]);
+                }
+            }
+            for (int j = 3; j < data.length; j++) {
+                if (data[j].startsWith("IOI")) {
+                    person.setIoiID(data[j].split(":")[1]);
+                }
             }
             persons.add(person);
         }
@@ -191,6 +211,13 @@ public class PersonalDatabase {
                     added.add(current);
                 }
             }
+            if (person.getIoiID() != null && byIOIId.containsKey(person.getIoiID())) {
+                Person current = byIOIId.get(person.getIoiID());
+                if (!added.contains(current)) {
+                    person.updateFrom(current);
+                    added.add(current);
+                }
+            }
             if (person.getName() != null) {
                 byName.put(person.getName(), person);
             }
@@ -205,6 +232,9 @@ public class PersonalDatabase {
             }
             if (person.getCfHandle() != null) {
                 byCf.put(person.getCfHandle(), person);
+            }
+            if (person.getIoiID() != null) {
+                byIOIId.put(person.getIoiID(), person);
             }
         }
     }

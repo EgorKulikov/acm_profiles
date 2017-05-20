@@ -190,4 +190,8 @@ public class Utils {
         }
         return false;
     }
+
+    public static boolean equals(String a, String b) {
+        return a == null && b == null || a != null && a.equalsIgnoreCase(b);
+    }
 }

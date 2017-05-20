@@ -62,10 +62,22 @@ public class WFData {
                 if ("Lei Chen".equals(name)) {
                     continue;
                 }
+                if ("Timothy Smith".equals(name)) {
+                    continue;
+                }
+                if ("Yash Kumar".equals(name)) {
+                    continue;
+                }
+                if ("Ahmed Hamed".equals(name) && year != 2015) {
+                    continue;
+                }
                 if ("Felipe Souza".equals(name) && year != 2012) {
                     continue;
                 }
                 if ("Thanh Trung Nguyen".equals(name)) {
+                    continue;
+                }
+                if ("Hao Cui".equals(name)) {
                     continue;
                 }
                 if ("Coach".equals(role)) {
