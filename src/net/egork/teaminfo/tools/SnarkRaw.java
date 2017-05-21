@@ -26,7 +26,7 @@ public class SnarkRaw {
             String[] tokens = row.split("</td><td>");
             tokens[1] = tokens[1].substring(tokens[1].indexOf(">") + 1);
             tokens[1] = tokens[1].substring(0, tokens[1].indexOf("<a>"));
-            int apps = 0;
+            int apps = 1;
             int wins = 0;
             int gold = 0;
             int silver = 0;

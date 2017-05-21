@@ -7,6 +7,7 @@ import org.apache.commons.logging.Log;
 import org.apache.commons.logging.LogFactory;
 
 import java.io.File;
+import java.io.PrintWriter;
 import java.util.*;
 
 import static net.egork.teaminfo.Utils.loadPage;
@@ -83,6 +84,10 @@ public class SnarkDownloader {
         add("TopCoder Collegiate Challenge Winner", "TCCC Winner", 110);
         add("TopCoder Collegiate Challenge Runner-Up", "TCCC 2nd", 105);
         add("TTB Onsite Third Place", "TTB 3rd", 30);
+        add("Distributed Google Code Jam Winner", "DGCJ Winner", 110);
+        add("Distributed Google Code Jam Runner-Up", "DGCJ 2nd", 105);
+        add("Distributed Google Code Jam Third Place", "DGCJ 3rd", 100);
+        add("Distributed Google Code Jam Finalist", "DGCJ Finalist", 50);
     }
 
     public static void main(String... args) throws Exception {
@@ -178,9 +183,11 @@ public class SnarkDownloader {
             log.info(name + " processed");
             contestans.add(contestant);
         }
+        PrintWriter pw = new PrintWriter("output/unknown_snark");
         for (String part : unknownAchievements) {
-            log.info(part);
+            pw.println(part);
         }
+        pw.close();
         Utils.mapper.writeValue(new File("input/snark.json"), contestans);
     }
 }

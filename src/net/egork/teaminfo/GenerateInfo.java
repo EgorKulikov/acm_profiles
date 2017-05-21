@@ -433,7 +433,7 @@ public class GenerateInfo {
             if (!found) {
                 log.info("Debut for " + records[i].university.getFullName());
                 University university = new University();
-                university.setAppearances(0);
+                university.setAppearances(1);
                 university.setWins(0);
                 university.setGold(0);
                 university.setSilver(0);
@@ -477,6 +477,7 @@ public class GenerateInfo {
         }
         Record[] pageRecords = new Record[TEAM_NUM + 1];
         PrintWriter badHashes = new PrintWriter("output/bad_hash_tag.txt");
+        PrintWriter pw = new PrintWriter("output/mapping");
         for (int i = 1; i <= TEAM_NUM; i++) {
             String page = readPage("input/pages/" + i);
             pageRecords[i] = new Record(i);
@@ -532,6 +533,9 @@ public class GenerateInfo {
             String homePage = page.substring(0, index);
             pageRecords[i].university.setUrl(homePage);
             page = page.substring(index);
+            page = page.substring(page.indexOf("http://icpc.baylor.edu/institution/logo/") + "http://icpc.baylor.edu/institution/logo/".length());
+            String logoID = page.substring(0, page.indexOf('"'));
+            pw.println(logoID + "\t" + i);
             page = page.substring(page.indexOf("Regional results"));
             List<String> regionalResults = new ArrayList<>();
             while ((index = page.indexOf("<h5 class=\"panel-title\">")) != -1) {
@@ -558,6 +562,7 @@ public class GenerateInfo {
             }
             pageRecords[i].university.setHashTag(hashTag);
         }
+        pw.close();
         badHashes.close();
         for (int i = 1; i <= TEAM_NUM; i++) {
             boolean found = false;
