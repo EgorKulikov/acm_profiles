@@ -789,8 +789,11 @@
          "altNames":[
             "Jingga Felix"
          ],
-         "tcRating":-1,
-         "cfRating":-1,
+         "tcHandle":"felixj",
+         "tcId":"22740026",
+         "tcRating":1148,
+         "cfHandle":"felixj",
+         "cfRating":1453,
          "twitterHandle":"felixjingga",
          "achievements":[
 
@@ -3057,7 +3060,9 @@
             "altNames":[
                "Lee Jongwon"
             ],
-            "tcRating":-1,
+            "tcHandle":"jaydoubleuel",
+            "tcId":"40261710",
+            "tcRating":2252,
             "cfHandle":"OnionPringles",
             "cfRating":2562,
             "achievements":[
@@ -3074,7 +3079,9 @@
                "HANPIL KANG",
                "KANG HANPIL"
             ],
-            "tcRating":-1,
+            "tcHandle":"HYEA",
+            "tcId":"40193948",
+            "tcRating":2146,
             "cfHandle":"Paohu",
             "cfRating":2354,
             "ioiID":"5640",
@@ -5304,7 +5311,7 @@
                "Ponomarev Egor"
             ],
             "tcRating":-1,
-            "cfHandle":"Petruchcho",
+            "cfHandle":"petruchcho",
             "cfRating":2085,
             "achievements":[
 
@@ -6846,7 +6853,9 @@
             "altNames":[
                "Leung On Yin"
             ],
-            "tcRating":-1,
+            "tcHandle":"scente",
+            "tcId":"23164312",
+            "tcRating":1899,
             "cfHandle":"Nezzar",
             "cfRating":2689,
             "twitterHandle":"theogry",
@@ -8039,6 +8048,7 @@
                "Ariel Cruz",
                "Cruz Ariel"
             ],
+            "tcHandle":"ArielxX",
             "tcRating":-1,
             "cfHandle":"ArielxX",
             "cfRating":1913,
@@ -8728,10 +8738,13 @@
       "coach":{
          "name":"Mauricio Pamplona Segundo",
          "altNames":[
-            "Pamplona Segundo Mauricio"
+            "Pamplona Segundo Mauricio",
+            "Chuck Norris",
+            "Norris Chuck"
          ],
          "tcRating":-1,
-         "cfRating":-1,
+         "cfHandle":"maups",
+         "cfRating":1916,
          "twitterHandle":"mps_ufba",
          "achievements":[
             {
@@ -9154,7 +9167,7 @@
             "altNames":[
                "Calheiros Railton"
             ],
-            "tcHandle":"RailtonT",
+            "tcHandle":"railtont",
             "tcId":"23309126",
             "tcRating":1167,
             "cfHandle":"RailtonT",
@@ -9839,7 +9852,9 @@
             "altNames":[
                "Miagkov Konstantin"
             ],
-            "tcRating":-1,
+            "tcHandle":"bogeyman",
+            "tcId":"40166529",
+            "tcRating":1537,
             "cfHandle":"miagkov",
             "cfRating":2041,
             "achievements":[
@@ -10104,7 +10119,9 @@
                "rm tonmoy",
                "tonmoy rm"
             ],
-            "tcRating":-1,
+            "tcHandle":"yomnot",
+            "tcId":"23291366",
+            "tcRating":1428,
             "cfHandle":"tube_light",
             "cfRating":1314,
             "achievements":[
@@ -10261,11 +10278,15 @@
          {
             "name":"Duy Nguyen",
             "altNames":[
-               "Nguyen Duy"
+               "Nguyen Duy",
+               "Codeforces Account",
+               "Account Codeforces"
             ],
-            "tcRating":-1,
+            "tcHandle":"duyboy13579",
+            "tcId":"23282665",
+            "tcRating":1816,
             "cfHandle":"duyboy135",
-            "cfRating":2290,
+            "cfRating":2063,
             "achievements":[
 
             ]
@@ -10447,6 +10468,7 @@
             "altNames":[
                "Zhang Yuting"
             ],
+            "tcHandle":"ytyt96",
             "tcRating":-1,
             "cfHandle":"ytyt96",
             "cfRating":1881,
@@ -11056,7 +11078,7 @@
                "Tokanov Arman"
             ],
             "tcRating":-1,
-            "cfHandle":"armant",
+            "cfHandle":"arman.t",
             "cfRating":1517,
             "achievements":[
 
@@ -11843,7 +11865,7 @@
             "tcHandle":"dbradac",
             "tcId":"40178661",
             "tcRating":2221,
-            "cfHandle":"Dbradac",
+            "cfHandle":"DBradac",
             "cfRating":2685,
             "ioiID":"5565",
             "achievements":[
@@ -12470,7 +12492,7 @@
             "altNames":[
                "Harutyunyan Hrayr"
             ],
-            "tcHandle":"Harhro94",
+            "tcHandle":"harhro94",
             "tcId":"23019195",
             "tcRating":2077,
             "cfHandle":"harhro94",

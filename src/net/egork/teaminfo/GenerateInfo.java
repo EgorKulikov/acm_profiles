@@ -257,10 +257,59 @@ public class GenerateInfo {
             }
         }
 
+        reader = new BufferedReader(new FileReader("input/personal_update.csv"));
+
+        while (true) {
+            String line = reader.readLine();
+            if (line == null) {
+                break;
+            }
+            String[] data = line.split("~", -1);
+            String role = data[4];
+            if (role.contains("Team: Coach") || role.equals("Team: Contestant")) {
+                Person person = new Person();
+                person.setName(data[0]);
+                if (!data[6].isEmpty()) {
+                    person.setCfHandle(convertHandle(data[6]));
+                }
+                if (!data[5].isEmpty()) {
+                    person.setTcHandle(convertHandle(data[5]));
+                }
+                boolean found = false;
+                for (int i = 1; i <= TEAM_NUM; i++) {
+                    if (data[3].substring(data[3].indexOf(',') + 2).equals(records[i].university.getShortName())) {
+                        found = true;
+                        if (role.contains("Team: Coach")) {
+                            if (Utils.samePerson(records[i].coach, person)) {
+                                records[i].coach.updateFrom(person);
+                                coach++;
+                            }
+                        } else {
+                            boolean saved = false;
+                            for (int j = 0; j < 3; j++) {
+                                if (Utils.samePerson(records[i].contestants[j], person)) {
+                                    records[i].contestants[j].updateFrom(person);
+                                    saved = true;
+                                    contestant++;
+                                    break;
+                                }
+                            }
+                        }
+                        break;
+                    }
+                }
+                if (!found) {
+                    log.error("University not found " + data[5]);
+                }
+            }
+        }
         log.info("Persons done, " + coach + "/133 coaches, " + contestant + "/399 contestants");
     }
 
     private static String convertHandle(String handle) {
+        if (handle.endsWith("/")) {
+            handle = handle.substring(0, handle.length() - 1);
+        }
         return handle.substring(handle.lastIndexOf('/') + 1);
     }
 
