@@ -1,6 +1,7 @@
 package net.egork.teaminfo.tools;
 
 import net.egork.teaminfo.Utils;
+import net.egork.teaminfo.data.Achievement;
 import net.egork.teaminfo.data.CodeforcesUser;
 import net.egork.teaminfo.data.Person;
 import net.egork.teaminfo.data.Record;
@@ -51,6 +52,7 @@ public class PersonalDatabase {
         }
         add("input/wf.json");
         log.info("WF Processed");
+        addOldWf();
         if (Boolean.getBoolean("reloadSnarknews")) {
             SnarkDownloader.main();
         }
@@ -59,6 +61,18 @@ public class PersonalDatabase {
         linkTcCf();
         saveDatabase();
         log.info("Database created");
+    }
+
+    private static void addOldWf() throws Exception {
+        List<Person> persons = Utils.readList("input/old_wf.json", Person.class);
+        List<Person> filtered = new ArrayList<>();
+        for (Person person : persons) {
+            Achievement achievement = person.getAchievements().get(0);
+            if (achievement.year <= 2008 && achievement.achievement.toLowerCase().contains("coach")) {
+                filtered.add(person);
+            }
+        }
+        add(false, filtered);
     }
 
     private static void addSnarkCorrection() throws Exception {
