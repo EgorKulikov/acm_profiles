@@ -31,7 +31,7 @@ public class SnarkRaw {
             int gold = 0;
             int silver = 0;
             int bronze = 0;
-            for (int i = 3; i <= 27; i++) {
+            for (int i = 3; i <= 28; i++) {
                 if ("-".equals(tokens[i])) {
                     continue;
                 }

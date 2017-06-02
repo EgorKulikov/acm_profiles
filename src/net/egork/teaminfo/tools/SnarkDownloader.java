@@ -84,10 +84,20 @@ public class SnarkDownloader {
         add("TopCoder Collegiate Challenge Winner", "TCCC Winner", 110);
         add("TopCoder Collegiate Challenge Runner-Up", "TCCC 2nd", 105);
         add("TTB Onsite Third Place", "TTB 3rd", 30);
-        add("Distributed Google Code Jam Winner", "DGCJ Winner", 110);
-        add("Distributed Google Code Jam Runner-Up", "DGCJ 2nd", 105);
-        add("Distributed Google Code Jam Third Place", "DGCJ 3rd", 100);
-        add("Distributed Google Code Jam Finalist", "DGCJ Finalist", 50);
+        add("Distributed Google Code Jam Winner", "DGCJ Winner", 60);
+        add("Distributed Google Code Jam Runner-Up", "DGCJ 2nd", 55);
+        add("Distributed Google Code Jam Third Place", "DGCJ 3rd", 50);
+        add("Distributed Google Code Jam Finalist", "DGCJ Finalist", 25);
+        add("AtCoder Finals Winner", "AtCoder Winner", 60);
+        add("AtCoder Finals Runner-Up", "AtCoder 2nd", 55);
+        add("AtCoder Finals Third Place", "AtCoder 3rd", 50);
+        add("AtCoder Grand Finals Winner", "AtCoder Grand Winner", 60);
+        add("AtCoder Grand Finals Runner-Up", "AtCoder Grand 2nd", 55);
+        add("AtCoder Grand Finals Third Place", "AtCoder Grand 3rd", 50);
+        add("AtCoder Grand Finals Finalist", "AtCoder Grand Finalist", 25);
+        add("CodeChef SnackDown Winner", "SnackDown Winner", 60);
+        add("CodeChef SnackDown Runner-Up", "SnackDown 2nd", 55);
+        add("CodeChef SnackDown Third Place", "SnackDown 3rd", 50);
     }
 
     public static void main(String... args) throws Exception {
@@ -101,6 +111,9 @@ public class SnarkDownloader {
             index = page.indexOf(".dat");
             String id = page.substring(0, index);
             ids.add(id);
+            if ("Zou Xiaoyao".equals(id)) {
+                break;
+            }
         }
 //        Set<String> parts = new HashSet<>();
         Set<String> unknownAchievements = new HashSet<>();
@@ -182,6 +195,9 @@ public class SnarkDownloader {
 //            }
             log.info(name + " processed");
             contestans.add(contestant);
+            if (name.contains("Zou Xiaoyao")) {
+                break;
+            }
         }
         PrintWriter pw = new PrintWriter("output/unknown_snark");
         for (String part : unknownAchievements) {
