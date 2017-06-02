@@ -38,7 +38,7 @@ public class WFData {
             medals.put(tokens[0].trim() + " " + tokens[1], tokens[2]);
         }
         List<Person> persons = new ArrayList<>();
-        for (int year = 1999; year <= 2016; year++) {
+        for (int year = 1999; year <= 2017; year++) {
             String page = loadPage("https://icpc.baylor.edu/worldfinals/teams/" + year);
             int index;
             String team = null;
@@ -59,29 +59,29 @@ public class WFData {
                 page = page.substring(page.indexOf("<span class=\"role\">"));
                 page = page.substring(page.indexOf(">") + 1);
                 String role = page.substring(0, page.indexOf("<"));
-                if ("Lei Chen".equals(name)) {
+                if ("Lei Chen".equals(name) && year != 2017) {
                     continue;
                 }
-                if ("Timothy Smith".equals(name)) {
+                if ("Timothy Smith".equals(name) && year != 2017) {
                     continue;
                 }
-                if ("Yash Kumar".equals(name)) {
+                if ("Yash Kumar".equals(name) && year != 2017) {
                     continue;
                 }
-                if ("Ahmed Hamed".equals(name) && year != 2015) {
+                if ("Ahmed Hamed".equals(name) && year != 2015 && year != 2017) {
                     continue;
                 }
-                if ("Felipe Souza".equals(name) && year != 2012) {
+                if ("Felipe Souza".equals(name) && year != 2012 && year != 2017) {
                     continue;
                 }
-                if ("Thanh Trung Nguyen".equals(name)) {
+                if ("Thanh Trung Nguyen".equals(name) && year != 2017) {
                     continue;
                 }
-                if ("Hao Cui".equals(name)) {
+                if ("Hao Cui".equals(name) && year != 2017) {
                     continue;
                 }
                 if ("Coach".equals(role)) {
-                    if ("Hao Wu".equals(name)) {
+                    if ("Hao Wu".equals(name) && year != 2017) {
                         continue;
                     }
                     if (medal != null) {
