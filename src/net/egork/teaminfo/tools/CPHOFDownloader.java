@@ -47,7 +47,10 @@ public class CPHOFDownloader {
                 );
                 for (Map person : people) {
                     String s = (String) person.get("name");
-                    String url2 = "https://cphof.org/profile/" + s.substring(18, s.indexOf("\">"));
+                    String url2 = "https://cphof.org/profile/" +
+                            encode(
+                            s.substring(18, s.indexOf("\">"))
+                            );
                     persons.add(loadPerson(url2));
                 }
             }
@@ -55,6 +58,14 @@ public class CPHOFDownloader {
             e.printStackTrace();
         }
         mapper.writeValue(new File("input/cphof.json"), persons);
+    }
+
+    private static String encode(String s) {
+        String chars = "[] ";
+        for (char c : chars.toCharArray()) {
+            s = s.replace("" + c, "%" + Integer.toHexString(c));
+        }
+        return s;
     }
 
     private static Person loadPerson(String url) throws Exception {
@@ -147,7 +158,7 @@ public class CPHOFDownloader {
                         }
                         if (number) {
                             person.addAchievement(new Achievement(
-                                    contestName + " finalist", year, (int) (50 * multiplier)
+                                    contestName + " Finalist", year, (int) (50 * multiplier)
                             ));
                         }
                     }
