@@ -61,11 +61,15 @@ public class CPHOFDownloader {
     }
 
     private static String encode(String s) {
-        String chars = "[] ";
-        for (char c : chars.toCharArray()) {
-            s = s.replace("" + c, "%" + Integer.toHexString(c));
+        String res = "";
+        for (char c : s.toCharArray()) {
+            if (Character.isDigit(c) || Character.isLetter(c)) {
+                res += c;
+            } else {
+                res += "%" + Integer.toHexString(c);
+            }
         }
-        return s;
+        return res;
     }
 
     private static Person loadPerson(String url) throws Exception {
@@ -128,8 +132,18 @@ public class CPHOFDownloader {
                     if (contestName.equals("IOI")) {
                         try {
                             String mdl = td.selectFirst("img").attr("title");
+                            int p = 0;
+                            if (mdl.startsWith("Gold")) {
+                                p = 100;
+                            }
+                            if (mdl.startsWith("Silver")) {
+                                p = 80;
+                            }
+                            if (mdl.startsWith("Bronze")) {
+                                p = 60;
+                            }
                             person.addAchievement(new Achievement(
-                                    contestName + " " + mdl, year, 100
+                                    contestName + " " + mdl, year, p
                             ));
                         } catch (Exception e) {
                         }
