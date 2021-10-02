@@ -130,23 +130,24 @@ public class CPHOFDownloader {
                     if (s.isEmpty() || s.equals("-")) continue;
 
                     if (contestName.equals("IOI")) {
+                        int priority = 10;
+                        String status = "Participant";
                         try {
-                            String mdl = td.selectFirst("img").attr("title");
-                            int p = 0;
-                            if (mdl.startsWith("Gold")) {
-                                p = 100;
+                            status = td.selectFirst("img").attr("title");
+                            if (status.startsWith("Gold")) {
+                                priority = 100;
                             }
-                            if (mdl.startsWith("Silver")) {
-                                p = 80;
+                            if (status.startsWith("Silver")) {
+                                priority = 80;
                             }
-                            if (mdl.startsWith("Bronze")) {
-                                p = 60;
+                            if (status.startsWith("Bronze")) {
+                                priority = 60;
                             }
-                            person.addAchievement(new Achievement(
-                                    contestName + " " + mdl, year, p
-                            ));
                         } catch (Exception e) {
                         }
+                        person.addAchievement(new Achievement(
+                                contestName + " " + status, year, priority
+                        ));
                         continue;
                     }
 
@@ -163,7 +164,7 @@ public class CPHOFDownloader {
                         person.addAchievement(new Achievement(
                                 contestName + " 3rd", year, (int) (60 * multiplier)
                         ));
-                    } else {
+                    } else if (!s.equals("Q")) {
                         boolean number = true;
                         try {
                             Integer.parseInt(s);
@@ -173,6 +174,10 @@ public class CPHOFDownloader {
                         if (number) {
                             person.addAchievement(new Achievement(
                                     contestName + " Finalist", year, (int) (50 * multiplier)
+                            ));
+                        } else {
+                            person.addAchievement(new Achievement(
+                                    contestName + " Participant", year, (int) (10 * multiplier)
                             ));
                         }
                     }
