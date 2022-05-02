@@ -1,0 +1,62 @@
+{
+  "id" : 76,
+  "university" : {
+    "fullName" : "The University of Texas at Dallas",
+    "shortName" : "UT Dallas",
+    "region" : "North America",
+    "hashTag" : "#utdallas",
+    "url" : "http://www.utdallas.edu",
+    "appearances" : 2,
+    "appYears" : [ 2007, 2020 ],
+    "wins" : 0,
+    "winYears" : [ ],
+    "gold" : 0,
+    "goldYears" : [ ],
+    "silver" : 0,
+    "silverYears" : [ ],
+    "bronze" : 0,
+    "bronzeYears" : [ ],
+    "regionalChampionships" : 0,
+    "regYears" : [ ]
+  },
+  "team" : {
+    "name" : "Comets 1",
+    "regionals" : [ "South Central USA, 2nd" ],
+    "openCupPlace" : -1,
+    "openCupTimes" : 0
+  },
+  "coach" : {
+    "name" : "Bhadrachalam Chitturi",
+    "altNames" : [ "Chitturi Bhadrachalam" ],
+    "tcRating" : -1,
+    "cfRating" : -1,
+    "achievements" : [ {
+      "achievement" : "World Finals coach (2014, 2015)",
+      "priority" : 1002
+    } ]
+  },
+  "contestants" : [ {
+    "name" : "Peter Kwak",
+    "altNames" : [ "Kwak Peter" ],
+    "tcRating" : -1,
+    "cfHandle" : "peterr",
+    "cfRating" : 2403,
+    "achievements" : [ ]
+  }, {
+    "name" : "Darrin Wiley",
+    "altNames" : [ "Wiley Darrin" ],
+    "tcRating" : -1,
+    "cfHandle" : "TheDarBear",
+    "cfRating" : 1916,
+    "achievements" : [ ]
+  }, {
+    "name" : "An Nguyen",
+    "altNames" : [ "Nguyen An" ],
+    "tcHandle" : "_m1sch3f_",
+    "tcId" : "40822799",
+    "tcRating" : 1853,
+    "cfHandle" : "m1sch3f",
+    "cfRating" : 2245,
+    "achievements" : [ ]
+  } ]
+}

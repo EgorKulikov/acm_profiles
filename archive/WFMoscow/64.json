@@ -1,0 +1,68 @@
+{
+  "id" : 64,
+  "university" : {
+    "fullName" : "Saratov State University",
+    "shortName" : "Saratov State U",
+    "region" : "Northern Eurasia",
+    "hashTag" : "#SGU",
+    "url" : "http://sgu.ru",
+    "appearances" : 17,
+    "appYears" : [ 2002, 2003, 2005, 2006, 2007, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020 ],
+    "wins" : 1,
+    "winYears" : [ 2006 ],
+    "gold" : 2,
+    "goldYears" : [ 2006, 2009 ],
+    "silver" : 5,
+    "silverYears" : [ 2002, 2003, 2007, 2010, 2011 ],
+    "bronze" : 0,
+    "bronzeYears" : [ ],
+    "regionalChampionships" : 2,
+    "regYears" : [ 2002, 2006 ]
+  },
+  "team" : {
+    "name" : "Saratov SU 1",
+    "regionals" : [ "NERC, 20th" ],
+    "openCupPlace" : -1,
+    "openCupTimes" : 0
+  },
+  "coach" : {
+    "name" : "Aleksandr Frolov",
+    "altNames" : [ "Frolov Aleksandr", "Alexandr Frolov", "Alexander Frolov", "Frolov Alexander" ],
+    "tcRating" : -1,
+    "cfHandle" : "A.Freeman",
+    "cfRating" : 1866,
+    "achievements" : [ {
+      "achievement" : "World Finals coach (2019)",
+      "priority" : 1001
+    }, {
+      "achievement" : "ACM ICPC Finalist (2015)",
+      "priority" : 1001
+    } ]
+  },
+  "contestants" : [ {
+    "name" : "Vladimir Petrov",
+    "altNames" : [ "Petrov Vladimir" ],
+    "tcRating" : -1,
+    "cfHandle" : "vovuh",
+    "cfRating" : 2182,
+    "achievements" : [ ]
+  }, {
+    "name" : "Maksim Meshcheryakov",
+    "altNames" : [ "Meshcheryakov Maksim" ],
+    "tcRating" : -1,
+    "cfRating" : -1,
+    "achievements" : [ ]
+  }, {
+    "name" : "Mikhail Piklyaev",
+    "altNames" : [ "Piklyaev Mikhail" ],
+    "tcHandle" : "pikmike98",
+    "tcId" : "40096705",
+    "tcRating" : 2295,
+    "cfHandle" : "pikmike",
+    "cfRating" : 2609,
+    "achievements" : [ {
+      "achievement" : "VK Cup finalist (2021)",
+      "priority" : 26
+    } ]
+  } ]
+}

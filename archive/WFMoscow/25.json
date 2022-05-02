@@ -1,0 +1,78 @@
+{
+  "id" : 25,
+  "university" : {
+    "fullName" : "Harvard University",
+    "shortName" : "Harvard",
+    "region" : "North America",
+    "hashTag" : "#Harvard",
+    "url" : "http://www.harvard.edu",
+    "appearances" : 18,
+    "appYears" : [ 1992, 1993, 1994, 1995, 1996, 1997, 1999, 2000, 2001, 2003, 2004, 2007, 2012, 2015, 2016, 2018, 2019, 2020 ],
+    "wins" : 1,
+    "winYears" : [ 1993 ],
+    "gold" : 3,
+    "goldYears" : [ 1993, 1996, 2016 ],
+    "silver" : 3,
+    "silverYears" : [ 1995, 2001, 2012 ],
+    "bronze" : 3,
+    "bronzeYears" : [ 1992, 1999, 2004 ],
+    "regionalChampionships" : 2,
+    "regYears" : [ 2012, 2016 ]
+  },
+  "team" : {
+    "name" : "Harvard",
+    "regionals" : [ "NAC, 3rd", "NANE, 2nd" ],
+    "openCupPlace" : -1,
+    "openCupTimes" : 0
+  },
+  "coach" : {
+    "name" : "Robert L Walton",
+    "altNames" : [ "Walton Robert L" ],
+    "tcRating" : -1,
+    "cfRating" : -1,
+    "achievements" : [ {
+      "achievement" : "ACM ICPC gold medal as coach (2016)",
+      "priority" : 4001
+    }, {
+      "achievement" : "World Finals coach (2015, 2018, 2019)",
+      "priority" : 1003
+    } ]
+  },
+  "contestants" : [ {
+    "name" : "Moses Mayer",
+    "altNames" : [ "Mayer Moses", "Pranay Tankala", "Tankala Pranay" ],
+    "tcRating" : -1,
+    "cfHandle" : "pbt17",
+    "cfRating" : 2139,
+    "ioiID" : "6833",
+    "achievements" : [ {
+      "achievement" : "ACM ICPC Finalist (2019)",
+      "priority" : 1001
+    }, {
+      "achievement" : "IOI Bronze Medalist (2019)",
+      "priority" : 21
+    } ]
+  }, {
+    "name" : "Franklyn Wang",
+    "altNames" : [ "Wang Franklyn" ],
+    "tcRating" : -1,
+    "cfHandle" : "Franklyn_W",
+    "cfRating" : 2272,
+    "twitterHandle" : "@franklynw",
+    "achievements" : [ {
+      "achievement" : "ACM ICPC Finalist (2019)",
+      "priority" : 1001
+    } ]
+  }, {
+    "name" : "Eric Zhang",
+    "altNames" : [ "Zhang Eric" ],
+    "tcRating" : -1,
+    "cfHandle" : "ekzhang",
+    "cfRating" : 2689,
+    "ioiID" : "6717",
+    "achievements" : [ {
+      "achievement" : "IOI Gold Medalist (2018, 2019)",
+      "priority" : 52
+    } ]
+  } ]
+}

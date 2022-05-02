@@ -1,0 +1,64 @@
+{
+  "id" : 33,
+  "university" : {
+    "fullName" : "Indian Institute of Technology - Patna",
+    "shortName" : "IIT Patna",
+    "region" : "Asia West",
+    "hashTag" : "#IITP",
+    "url" : "http://www.iitp.ac.in",
+    "appearances" : 3,
+    "appYears" : [ 2018, 2019, 2020 ],
+    "wins" : 0,
+    "winYears" : [ ],
+    "gold" : 0,
+    "goldYears" : [ ],
+    "silver" : 0,
+    "silverYears" : [ ],
+    "bronze" : 0,
+    "bronzeYears" : [ ],
+    "regionalChampionships" : 0,
+    "regYears" : [ ]
+  },
+  "team" : {
+    "name" : "Squirtle Squad",
+    "regionals" : [ "Kharagpur, 4th", "Amritapuri, 191st" ],
+    "openCupPlace" : -1,
+    "openCupTimes" : 0
+  },
+  "coach" : {
+    "name" : "Arijit Mondal",
+    "altNames" : [ "Mondal Arijit" ],
+    "tcRating" : -1,
+    "cfRating" : -1,
+    "achievements" : [ {
+      "achievement" : "World Finals coach (2018, 2019)",
+      "priority" : 1002
+    } ]
+  },
+  "contestants" : [ {
+    "name" : "Fazle Rahman Ejazi",
+    "altNames" : [ "Rahman Ejazi Fazle" ],
+    "tcHandle" : "Fazle",
+    "tcId" : "40525987",
+    "tcRating" : 1210,
+    "cfHandle" : "FazleRahmanEjazi",
+    "cfRating" : 1826,
+    "achievements" : [ ]
+  }, {
+    "name" : "Arsh Mahajan",
+    "altNames" : [ "Mahajan Arsh" ],
+    "tcHandle" : "Nightmare05",
+    "tcId" : "40803200",
+    "tcRating" : 1746,
+    "cfHandle" : "Nightmare05",
+    "cfRating" : 2236,
+    "achievements" : [ ]
+  }, {
+    "name" : "Chandan Kumar",
+    "altNames" : [ "Kumar Chandan" ],
+    "tcRating" : -1,
+    "cfHandle" : "Journey_Begin",
+    "cfRating" : 2108,
+    "achievements" : [ ]
+  } ]
+}

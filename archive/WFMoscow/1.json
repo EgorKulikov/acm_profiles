@@ -1,0 +1,64 @@
+{
+  "id" : 1,
+  "university" : {
+    "fullName" : "Ain Shams University - Faculty of Computer and Information Sciences",
+    "shortName" : "ASU-FCIS",
+    "region" : "Africa and the Middle East",
+    "hashTag" : "#Fciseg",
+    "url" : "http://cis.shams.edu.eg",
+    "appearances" : 6,
+    "appYears" : [ 2011, 2015, 2017, 2018, 2019, 2020 ],
+    "wins" : 0,
+    "winYears" : [ ],
+    "gold" : 0,
+    "goldYears" : [ ],
+    "silver" : 0,
+    "silverYears" : [ ],
+    "bronze" : 0,
+    "bronzeYears" : [ ],
+    "regionalChampionships" : 0,
+    "regYears" : [ ]
+  },
+  "team" : {
+    "name" : "Compilation Error missing 'slifer'",
+    "regionals" : [ "ACPC, 6th" ],
+    "openCupPlace" : -1,
+    "openCupTimes" : 0
+  },
+  "coach" : {
+    "name" : "Mohamed Mahmoud",
+    "altNames" : [ "Mahmoud Mohamed" ],
+    "tcRating" : -1,
+    "cfHandle" : "BL7Awy",
+    "cfRating" : 2252,
+    "achievements" : [ {
+      "achievement" : "World Finals coach (2018, 2019)",
+      "priority" : 1005
+    } ]
+  },
+  "contestants" : [ {
+    "name" : "Ahmed Abd El-Kareem",
+    "altNames" : [ "Abd El-Kareem Ahmed", "Ahmed Kareem", "Kareem Ahmed" ],
+    "tcRating" : -1,
+    "cfHandle" : "XsliferX",
+    "cfRating" : 1714,
+    "achievements" : [ ]
+  }, {
+    "name" : "Mohammed Saeed",
+    "altNames" : [ "Saeed Mohammed" ],
+    "tcRating" : -1,
+    "cfHandle" : "compiler_101",
+    "cfRating" : 2145,
+    "achievements" : [ {
+      "achievement" : "ACM ICPC Finalist (2019)",
+      "priority" : 1001
+    } ]
+  }, {
+    "name" : "Youssef Saeed",
+    "altNames" : [ "Saeed Youssef" ],
+    "tcRating" : -1,
+    "cfHandle" : "Error_404",
+    "cfRating" : 1763,
+    "achievements" : [ ]
+  } ]
+}

@@ -1,0 +1,79 @@
+{
+  "id" : 7,
+  "university" : {
+    "fullName" : "Arab Academy for Science and Technology - Alexandria",
+    "shortName" : "AAST-Alex",
+    "region" : "Africa and the Middle East",
+    "hashTag" : "#AAST",
+    "url" : "http://www.aast.edu",
+    "appearances" : 8,
+    "appYears" : [ 2007, 2009, 2013, 2015, 2016, 2017, 2018, 2020 ],
+    "wins" : 0,
+    "winYears" : [ ],
+    "gold" : 0,
+    "goldYears" : [ ],
+    "silver" : 0,
+    "silverYears" : [ ],
+    "bronze" : 0,
+    "bronzeYears" : [ ],
+    "regionalChampionships" : 1,
+    "regYears" : [ 2013 ]
+  },
+  "team" : {
+    "name" : "EnthusiasmOverflow",
+    "regionals" : [ "ACPC, 10th" ],
+    "openCupPlace" : -1,
+    "openCupTimes" : 0
+  },
+  "coach" : {
+    "name" : "Mohamed Mahmoud",
+    "altNames" : [ "Mahmoud Mohamed" ],
+    "tcRating" : -1,
+    "cfHandle" : "BL7Awy",
+    "cfRating" : 2252,
+    "achievements" : [ {
+      "achievement" : "World Finals coach (2018, 2019)",
+      "priority" : 1005
+    } ]
+  },
+  "contestants" : [ {
+    "name" : "Mahmoud Badawy",
+    "altNames" : [ "Badawy Mahmoud" ],
+    "tcHandle" : "mahmoudbadawy5",
+    "tcId" : "23331631",
+    "tcRating" : 1572,
+    "cfHandle" : "mahmoudbadawy",
+    "cfRating" : 2191,
+    "ioiID" : "5891",
+    "achievements" : [ {
+      "achievement" : "IOI Bronze Medalist (2016)",
+      "priority" : 21
+    }, {
+      "achievement" : "IOI Participant (2018)",
+      "priority" : 11
+    } ]
+  }, {
+    "name" : "Mohamed Yosri Ahmed",
+    "altNames" : [ "Ahmed Mohamed Yosri" ],
+    "tcRating" : -1,
+    "cfHandle" : "Yousry",
+    "cfRating" : 1555,
+    "twitterHandle" : "MYosriY",
+    "achievements" : [ {
+      "achievement" : "ACM ICPC Finalist (2018)",
+      "priority" : 1001
+    } ]
+  }, {
+    "name" : "Noureldin Yosri Yehia Ahmed",
+    "altNames" : [ "Ahmed Noureldin Yosri Yehia", "Noureldin Yosri", "Yosri Noureldin" ],
+    "tcHandle" : "Noureldin2022",
+    "tcId" : "23194274",
+    "tcRating" : 1343,
+    "cfHandle" : "Noureldin",
+    "cfRating" : 2129,
+    "achievements" : [ {
+      "achievement" : "ACM ICPC Finalist (2017)",
+      "priority" : 1001
+    } ]
+  } ]
+}
