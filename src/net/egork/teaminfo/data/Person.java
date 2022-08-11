@@ -56,6 +56,7 @@ public class Person {
     }
 
     public Person setName(String name) {
+        name = normalize(name);
         this.name = name;
         if (name != null) {
             if (name.contains("Andrew")) {
@@ -102,6 +103,41 @@ public class Person {
         return this;
     }
 
+    private String normalize(String name) {
+        if (name != null) {
+            StringBuilder normName = new StringBuilder();
+            boolean lastCaps = false;
+            boolean lastSpace = true;
+            for (int i = 0; i < name.length(); i++) {
+                char c = name.charAt(i);
+                if (Character.isUpperCase(c)) {
+                    if (lastCaps) {
+                        c = Character.toLowerCase(c);
+                    } else {
+                        lastCaps = true;
+                    }
+                    lastSpace = false;
+                } else {
+                    if (Character.isLetter(c)) {
+                        if (lastSpace) {
+                            c = Character.toUpperCase(c);
+                            lastCaps = true;
+                        } else {
+                            lastCaps = false;
+                        }
+                        lastSpace = false;
+                    } else {
+                        lastCaps = false;
+                        lastSpace = true;
+                    }
+                }
+                normName.append(c);
+            }
+            name = normName.toString();
+        }
+        return name;
+    }
+
     public Person setTcHandle(String tcHandle) {
         this.tcHandle = tcHandle;
         return this;
@@ -123,6 +159,7 @@ public class Person {
     }
 
     public Person addAltName(String name) {
+        name = normalize(name);
         if (name.equals(this.name) || altNames.contains(name)) {
             return this;
         }

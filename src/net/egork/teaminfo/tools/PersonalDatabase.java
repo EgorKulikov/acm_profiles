@@ -35,8 +35,9 @@ public class PersonalDatabase {
         }
         add("input/topcoder.json");
         log.info("TopCoder Processed");
-        addSnarkCorrection();
-        add("input/corrections.json");
+//        addSnarkCorrection();
+//        add("input/corrections.json");
+
         if (Boolean.getBoolean("reloadCodeforcesAchievements")) {
             CodeforcesUser.addCodeforcesAchievements();
         }
@@ -50,7 +51,7 @@ public class PersonalDatabase {
         if (Boolean.getBoolean("reloadWFData")) {
             WFData.main();
         }
-        add("input/wf.json");
+        add("input/wf_new.json");
         log.info("WF Processed");
         addOldWf();
         if (Boolean.getBoolean("reloadSnarknews")) {

@@ -27,6 +27,7 @@ public class CodeforcesUser {
         JsonNode node = Utils.codeforcesApiRequest(apiRequest);
         java.util.Iterator<JsonNode> elements = node.elements();
         List<CodeforcesUser> users = new ArrayList<>();
+        log.info("Read: " + node.size());
         while (elements.hasNext()) {
             JsonNode next = elements.next();
             CodeforcesUser user = new CodeforcesUser();
@@ -75,8 +76,22 @@ public class CodeforcesUser {
             String name = tokens[1];
             String top3Priority = tokens[2];
             String otherPriority = tokens[3];
-            JsonNode contest = Utils.codeforcesApiRequest("contest.standings?contestId=" + id + (otherPriority.equals
-                    ("0") ? "&from=1&count=3" : ""));
+            log.info("Starting to process contest " + id);
+            JsonNode contest;
+            while (true) {
+                try {
+                    contest = Utils.codeforcesApiRequest("contest.standings?contestId=" + id + (otherPriority.equals
+                            ("0") ? "&from=1&count=3" : ""));
+                    break;
+                } catch (Throwable e) {
+                    log.warn("Throttled, waiting");
+                    try {
+                        Thread.sleep(60000);
+                    } catch (InterruptedException ex) {
+                        ex.printStackTrace();
+                    }
+                }
+            }
             contest = contest.get("rows");
             Iterator<JsonNode> iterator = contest.elements();
             while (iterator.hasNext()) {

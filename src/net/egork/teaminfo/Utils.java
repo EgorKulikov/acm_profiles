@@ -66,6 +66,9 @@ public class Utils {
     }
 
     public static boolean sameUniversity(University fromRecord, University fromSnark, Map<String, String> map) {
+        if (fromRecord.getFullName() == null) {
+            return false;
+        }
         if (Objects.equals(fromRecord.getFullName(), fromSnark.getFullName())) {
             return true;
         }

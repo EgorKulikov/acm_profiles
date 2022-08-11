@@ -1,0 +1,6597 @@
+[
+  {
+    "id": "1",
+    "name": "Compilation Error missing 'slifer'",
+    "display_name": "Ain Shams University - Faculty of Computer and Information Sciences",
+    "icpc_id": "453854",
+    "group_ids": [
+      "15708"
+    ],
+    "organization_id": "3664",
+    "photo": [
+      {
+        "href": "contests/systest2/teams/1/photo",
+        "mime": "image/jpg",
+        "width": 5000,
+        "height": 3335
+      },
+      {
+        "href": "contests/systest2/teams/1/photo.1920",
+        "mime": "image/jpg",
+        "width": 1920,
+        "height": 1281
+      }
+    ],
+    "desktop": [
+      {
+        "href": "http://172.29.1.207/stream/0",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/1",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/2",
+        "mime": "application/m2ts"
+      }
+    ],
+    "webcam": [
+      {
+        "href": "http://172.29.1.207/stream/3",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/4",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/5",
+        "mime": "application/m2ts"
+      }
+    ],
+    "location": {
+      "x": 2.88,
+      "y": 6.6,
+      "rotation": 0.0
+    }
+  },
+  {
+    "id": "2",
+    "name": "Peaky Blinders Mll Akheer",
+    "display_name": "Al-Baath University",
+    "icpc_id": "453862",
+    "group_ids": [
+      "15708"
+    ],
+    "organization_id": "7113",
+    "photo": [
+      {
+        "href": "contests/systest2/teams/2/photo",
+        "mime": "image/jpg",
+        "width": 5000,
+        "height": 3335
+      },
+      {
+        "href": "contests/systest2/teams/2/photo.1920",
+        "mime": "image/jpg",
+        "width": 1920,
+        "height": 1281
+      }
+    ],
+    "desktop": [
+      {
+        "href": "http://172.29.1.207/stream/6",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/7",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/8",
+        "mime": "application/m2ts"
+      }
+    ],
+    "webcam": [
+      {
+        "href": "http://172.29.1.207/stream/9",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/10",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/11",
+        "mime": "application/m2ts"
+      }
+    ],
+    "location": {
+      "x": 2.88,
+      "y": 9.9,
+      "rotation": 0.0
+    }
+  },
+  {
+    "id": "3",
+    "name": "IGN",
+    "display_name": "Alexandria University - Faculty of Engineering",
+    "icpc_id": "453860",
+    "group_ids": [
+      "15708"
+    ],
+    "organization_id": "0502",
+    "photo": [
+      {
+        "href": "contests/systest2/teams/3/photo",
+        "mime": "image/jpg",
+        "width": 5000,
+        "height": 3335
+      },
+      {
+        "href": "contests/systest2/teams/3/photo.1920",
+        "mime": "image/jpg",
+        "width": 1920,
+        "height": 1281
+      }
+    ],
+    "desktop": [
+      {
+        "href": "http://172.29.1.207/stream/12",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/13",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/14",
+        "mime": "application/m2ts"
+      }
+    ],
+    "webcam": [
+      {
+        "href": "http://172.29.1.207/stream/15",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/16",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/17",
+        "mime": "application/m2ts"
+      }
+    ],
+    "location": {
+      "x": 2.88,
+      "y": 13.2,
+      "rotation": 0.0
+    }
+  },
+  {
+    "id": "4",
+    "name": "AUCA-1",
+    "display_name": "American University - Central Asia",
+    "icpc_id": "542765",
+    "group_ids": [
+      "15692"
+    ],
+    "organization_id": "0061",
+    "photo": [
+      {
+        "href": "contests/systest2/teams/4/photo",
+        "mime": "image/jpg",
+        "width": 5000,
+        "height": 3335
+      },
+      {
+        "href": "contests/systest2/teams/4/photo.1920",
+        "mime": "image/jpg",
+        "width": 1920,
+        "height": 1281
+      }
+    ],
+    "desktop": [
+      {
+        "href": "http://172.29.1.207/stream/18",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/19",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/20",
+        "mime": "application/m2ts"
+      }
+    ],
+    "webcam": [
+      {
+        "href": "http://172.29.1.207/stream/21",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/22",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/23",
+        "mime": "application/m2ts"
+      }
+    ],
+    "location": {
+      "x": 2.88,
+      "y": 16.5,
+      "rotation": 0.0
+    }
+  },
+  {
+    "id": "5",
+    "name": "Linear",
+    "display_name": "American University of Beirut",
+    "icpc_id": "546274",
+    "group_ids": [
+      "15708"
+    ],
+    "organization_id": "0065",
+    "photo": [
+      {
+        "href": "contests/systest2/teams/5/photo",
+        "mime": "image/jpg",
+        "width": 5000,
+        "height": 3335
+      },
+      {
+        "href": "contests/systest2/teams/5/photo.1920",
+        "mime": "image/jpg",
+        "width": 1920,
+        "height": 1281
+      }
+    ],
+    "desktop": [
+      {
+        "href": "http://172.29.1.207/stream/24",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/25",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/26",
+        "mime": "application/m2ts"
+      }
+    ],
+    "webcam": [
+      {
+        "href": "http://172.29.1.207/stream/27",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/28",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/29",
+        "mime": "application/m2ts"
+      }
+    ],
+    "location": {
+      "x": 2.88,
+      "y": 19.8,
+      "rotation": 0.0
+    }
+  },
+  {
+    "id": "6",
+    "name": "Serendipity The Rebellion",
+    "display_name": "Amirkabir University of Technology",
+    "icpc_id": "454164",
+    "group_ids": [
+      "15693"
+    ],
+    "organization_id": "0068",
+    "photo": [
+      {
+        "href": "contests/systest2/teams/6/photo",
+        "mime": "image/jpg",
+        "width": 5000,
+        "height": 3335
+      },
+      {
+        "href": "contests/systest2/teams/6/photo.1920",
+        "mime": "image/jpg",
+        "width": 1920,
+        "height": 1281
+      }
+    ],
+    "desktop": [
+      {
+        "href": "http://172.29.1.207/stream/30",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/31",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/32",
+        "mime": "application/m2ts"
+      }
+    ],
+    "webcam": [
+      {
+        "href": "http://172.29.1.207/stream/33",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/34",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/35",
+        "mime": "application/m2ts"
+      }
+    ],
+    "location": {
+      "x": 4.13,
+      "y": 19.8,
+      "rotation": 180.0
+    }
+  },
+  {
+    "id": "7",
+    "name": "EnthusiasmOverflow",
+    "display_name": "Arab Academy for Science and Technology - Alexandria",
+    "icpc_id": "453857",
+    "group_ids": [
+      "15708"
+    ],
+    "organization_id": "0081",
+    "photo": [
+      {
+        "href": "contests/systest2/teams/7/photo",
+        "mime": "image/jpg",
+        "width": 5000,
+        "height": 3335
+      },
+      {
+        "href": "contests/systest2/teams/7/photo.1920",
+        "mime": "image/jpg",
+        "width": 1920,
+        "height": 1281
+      }
+    ],
+    "desktop": [
+      {
+        "href": "http://172.29.1.207/stream/36",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/37",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/38",
+        "mime": "application/m2ts"
+      }
+    ],
+    "webcam": [
+      {
+        "href": "http://172.29.1.207/stream/39",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/40",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/41",
+        "mime": "application/m2ts"
+      }
+    ],
+    "location": {
+      "x": 4.13,
+      "y": 16.5,
+      "rotation": 180.0
+    }
+  },
+  {
+    "id": "8",
+    "name": "Matrix",
+    "display_name": "Avicenna University",
+    "icpc_id": "454172",
+    "group_ids": [
+      "15693"
+    ],
+    "organization_id": "8628",
+    "photo": [
+      {
+        "href": "contests/systest2/teams/8/photo",
+        "mime": "image/jpg",
+        "width": 5000,
+        "height": 3335
+      },
+      {
+        "href": "contests/systest2/teams/8/photo.1920",
+        "mime": "image/jpg",
+        "width": 1920,
+        "height": 1281
+      }
+    ],
+    "desktop": [
+      {
+        "href": "http://172.29.1.207/stream/42",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/43",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/44",
+        "mime": "application/m2ts"
+      }
+    ],
+    "webcam": [
+      {
+        "href": "http://172.29.1.207/stream/45",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/46",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/47",
+        "mime": "application/m2ts"
+      }
+    ],
+    "location": {
+      "x": 4.13,
+      "y": 13.2,
+      "rotation": 180.0
+    }
+  },
+  {
+    "id": "9",
+    "name": "BUET HellBent",
+    "display_name": "Bangladesh University of Engineering and Technology",
+    "icpc_id": "454160",
+    "group_ids": [
+      "15693"
+    ],
+    "organization_id": "0114",
+    "desktop": [
+      {
+        "href": "http://172.29.1.207/stream/48",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/49",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/50",
+        "mime": "application/m2ts"
+      }
+    ],
+    "webcam": [
+      {
+        "href": "http://172.29.1.207/stream/51",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/52",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/53",
+        "mime": "application/m2ts"
+      }
+    ],
+    "location": {
+      "x": 4.13,
+      "y": 9.9,
+      "rotation": 180.0
+    }
+  },
+  {
+    "id": "10",
+    "name": "Belarusian SU #1",
+    "display_name": "Belarusian State University",
+    "icpc_id": "454118",
+    "group_ids": [
+      "15692"
+    ],
+    "organization_id": "0144",
+    "photo": [
+      {
+        "href": "contests/systest2/teams/10/photo",
+        "mime": "image/jpg",
+        "width": 5000,
+        "height": 3335
+      },
+      {
+        "href": "contests/systest2/teams/10/photo.1920",
+        "mime": "image/jpg",
+        "width": 1920,
+        "height": 1281
+      }
+    ],
+    "desktop": [
+      {
+        "href": "http://172.29.1.207/stream/54",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/55",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/56",
+        "mime": "application/m2ts"
+      }
+    ],
+    "webcam": [
+      {
+        "href": "http://172.29.1.207/stream/57",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/58",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/59",
+        "mime": "application/m2ts"
+      }
+    ],
+    "location": {
+      "x": 4.13,
+      "y": 6.6,
+      "rotation": 180.0
+    }
+  },
+  {
+    "id": "11",
+    "name": "Belarusian SUIR #2",
+    "display_name": "Belarusian State University of Informatics and Radioelectronics",
+    "icpc_id": "454126",
+    "group_ids": [
+      "15692"
+    ],
+    "organization_id": "0140",
+    "photo": [
+      {
+        "href": "contests/systest2/teams/11/photo",
+        "mime": "image/jpg",
+        "width": 5000,
+        "height": 3335
+      },
+      {
+        "href": "contests/systest2/teams/11/photo.1920",
+        "mime": "image/jpg",
+        "width": 1920,
+        "height": 1281
+      }
+    ],
+    "desktop": [
+      {
+        "href": "http://172.29.1.207/stream/60",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/61",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/62",
+        "mime": "application/m2ts"
+      }
+    ],
+    "webcam": [
+      {
+        "href": "http://172.29.1.207/stream/63",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/64",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/65",
+        "mime": "application/m2ts"
+      }
+    ],
+    "location": {
+      "x": 4.13,
+      "y": 3.3,
+      "rotation": 180.0
+    }
+  },
+  {
+    "id": "12",
+    "name": "UNAGI",
+    "display_name": "Bilkent University",
+    "icpc_id": "542757",
+    "group_ids": [
+      "15705"
+    ],
+    "organization_id": "0160",
+    "photo": [
+      {
+        "href": "contests/systest2/teams/12/photo",
+        "mime": "image/jpg",
+        "width": 5000,
+        "height": 3335
+      },
+      {
+        "href": "contests/systest2/teams/12/photo.1920",
+        "mime": "image/jpg",
+        "width": 1920,
+        "height": 1281
+      }
+    ],
+    "desktop": [
+      {
+        "href": "http://172.29.1.207/stream/66",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/67",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/68",
+        "mime": "application/m2ts"
+      }
+    ],
+    "webcam": [
+      {
+        "href": "http://172.29.1.207/stream/69",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/70",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/71",
+        "mime": "application/m2ts"
+      }
+    ],
+    "location": {
+      "x": 9.88,
+      "y": 3.3,
+      "rotation": 0.0
+    }
+  },
+  {
+    "id": "13",
+    "name": "Candidate_Noobs",
+    "display_name": "BITS-Pilani, Hyderabad Campus",
+    "icpc_id": "551748",
+    "group_ids": [
+      "15693"
+    ],
+    "organization_id": "5628",
+    "photo": [
+      {
+        "href": "contests/systest2/teams/13/photo",
+        "mime": "image/jpg",
+        "width": 5000,
+        "height": 3335
+      },
+      {
+        "href": "contests/systest2/teams/13/photo.1920",
+        "mime": "image/jpg",
+        "width": 1920,
+        "height": 1281
+      }
+    ],
+    "desktop": [
+      {
+        "href": "http://172.29.1.207/stream/72",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/73",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/74",
+        "mime": "application/m2ts"
+      }
+    ],
+    "webcam": [
+      {
+        "href": "http://172.29.1.207/stream/75",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/76",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/77",
+        "mime": "application/m2ts"
+      }
+    ],
+    "location": {
+      "x": 9.88,
+      "y": 6.6,
+      "rotation": 0.0
+    }
+  },
+  {
+    "id": "14",
+    "name": "Be Done",
+    "display_name": "Cairo University - Faculty of Computers and Artificial Intelligence",
+    "icpc_id": "453858",
+    "group_ids": [
+      "15708"
+    ],
+    "organization_id": "3348",
+    "photo": [
+      {
+        "href": "contests/systest2/teams/14/photo",
+        "mime": "image/jpg",
+        "width": 5000,
+        "height": 3335
+      },
+      {
+        "href": "contests/systest2/teams/14/photo.1920",
+        "mime": "image/jpg",
+        "width": 1920,
+        "height": 1281
+      }
+    ],
+    "desktop": [
+      {
+        "href": "http://172.29.1.207/stream/78",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/79",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/80",
+        "mime": "application/m2ts"
+      }
+    ],
+    "webcam": [
+      {
+        "href": "http://172.29.1.207/stream/81",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/82",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/83",
+        "mime": "application/m2ts"
+      }
+    ],
+    "location": {
+      "x": 9.88,
+      "y": 9.9,
+      "rotation": 0.0
+    }
+  },
+  {
+    "id": "15",
+    "name": "CMU2",
+    "display_name": "Carnegie Mellon University",
+    "icpc_id": "454345",
+    "group_ids": [
+      "15689"
+    ],
+    "organization_id": "0232",
+    "desktop": [
+      {
+        "href": "http://172.29.1.207/stream/84",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/85",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/86",
+        "mime": "application/m2ts"
+      }
+    ],
+    "webcam": [
+      {
+        "href": "http://172.29.1.207/stream/87",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/88",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/89",
+        "mime": "application/m2ts"
+      }
+    ],
+    "location": {
+      "x": 9.88,
+      "y": 13.2,
+      "rotation": 0.0
+    }
+  },
+  {
+    "id": "16",
+    "name": "ICPCNextCentury",
+    "display_name": "Damascus University",
+    "icpc_id": "453856",
+    "group_ids": [
+      "15708"
+    ],
+    "organization_id": "0358",
+    "photo": [
+      {
+        "href": "contests/systest2/teams/16/photo",
+        "mime": "image/jpg",
+        "width": 5000,
+        "height": 3335
+      },
+      {
+        "href": "contests/systest2/teams/16/photo.1920",
+        "mime": "image/jpg",
+        "width": 1920,
+        "height": 1281
+      }
+    ],
+    "desktop": [
+      {
+        "href": "http://172.29.1.207/stream/90",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/91",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/92",
+        "mime": "application/m2ts"
+      }
+    ],
+    "webcam": [
+      {
+        "href": "http://172.29.1.207/stream/93",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/94",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/95",
+        "mime": "application/m2ts"
+      }
+    ],
+    "location": {
+      "x": 9.88,
+      "y": 16.5,
+      "rotation": 0.0
+    }
+  },
+  {
+    "id": "17",
+    "name": "Sizzling_Brownie",
+    "display_name": "Dhirubhai Ambani Institute of Information and Communication Technology, Gandhinagar",
+    "icpc_id": "541821",
+    "group_ids": [
+      "15693"
+    ],
+    "organization_id": "3944",
+    "photo": [
+      {
+        "href": "contests/systest2/teams/17/photo",
+        "mime": "image/jpg",
+        "width": 5000,
+        "height": 3335
+      },
+      {
+        "href": "contests/systest2/teams/17/photo.1920",
+        "mime": "image/jpg",
+        "width": 1920,
+        "height": 1281
+      }
+    ],
+    "desktop": [
+      {
+        "href": "http://172.29.1.207/stream/96",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/97",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/98",
+        "mime": "application/m2ts"
+      }
+    ],
+    "webcam": [
+      {
+        "href": "http://172.29.1.207/stream/99",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/100",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/101",
+        "mime": "application/m2ts"
+      }
+    ],
+    "location": {
+      "x": 9.88,
+      "y": 19.8,
+      "rotation": 0.0
+    }
+  },
+  {
+    "id": "18",
+    "name": "Castle",
+    "display_name": "Duke University",
+    "icpc_id": "542751",
+    "group_ids": [
+      "15689"
+    ],
+    "organization_id": "0413",
+    "photo": [
+      {
+        "href": "contests/systest2/teams/18/photo",
+        "mime": "image/jpg",
+        "width": 5000,
+        "height": 3335
+      },
+      {
+        "href": "contests/systest2/teams/18/photo.1920",
+        "mime": "image/jpg",
+        "width": 1920,
+        "height": 1281
+      }
+    ],
+    "desktop": [
+      {
+        "href": "http://172.29.1.207/stream/102",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/103",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/104",
+        "mime": "application/m2ts"
+      }
+    ],
+    "webcam": [
+      {
+        "href": "http://172.29.1.207/stream/105",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/106",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/107",
+        "mime": "application/m2ts"
+      }
+    ],
+    "location": {
+      "x": 11.13,
+      "y": 19.8,
+      "rotation": 180.0
+    }
+  },
+  {
+    "id": "19",
+    "name": "ENS Ulm 1",
+    "display_name": "\u00c9cole Normale Sup\u00e9rieure de Paris",
+    "icpc_id": "542744",
+    "group_ids": [
+      "15705"
+    ],
+    "organization_id": "3436",
+    "photo": [
+      {
+        "href": "contests/systest2/teams/19/photo",
+        "mime": "image/jpg",
+        "width": 5000,
+        "height": 3335
+      },
+      {
+        "href": "contests/systest2/teams/19/photo.1920",
+        "mime": "image/jpg",
+        "width": 1920,
+        "height": 1281
+      }
+    ],
+    "desktop": [
+      {
+        "href": "http://172.29.1.207/stream/108",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/109",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/110",
+        "mime": "application/m2ts"
+      }
+    ],
+    "webcam": [
+      {
+        "href": "http://172.29.1.207/stream/111",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/112",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/113",
+        "mime": "application/m2ts"
+      }
+    ],
+    "location": {
+      "x": 11.13,
+      "y": 16.5,
+      "rotation": 180.0
+    }
+  },
+  {
+    "id": "20",
+    "name": "Chopper",
+    "display_name": "Ecole Polytechnique",
+    "icpc_id": "454204",
+    "group_ids": [
+      "15705"
+    ],
+    "organization_id": "0443",
+    "photo": [
+      {
+        "href": "contests/systest2/teams/20/photo",
+        "mime": "image/jpg",
+        "width": 5000,
+        "height": 3335
+      },
+      {
+        "href": "contests/systest2/teams/20/photo.1920",
+        "mime": "image/jpg",
+        "width": 1920,
+        "height": 1281
+      }
+    ],
+    "desktop": [
+      {
+        "href": "http://172.29.1.207/stream/114",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/115",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/116",
+        "mime": "application/m2ts"
+      }
+    ],
+    "webcam": [
+      {
+        "href": "http://172.29.1.207/stream/117",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/118",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/119",
+        "mime": "application/m2ts"
+      }
+    ],
+    "location": {
+      "x": 11.13,
+      "y": 13.2,
+      "rotation": 180.0
+    }
+  },
+  {
+    "id": "21",
+    "name": "mETHodology",
+    "display_name": "ETH Z\u00fcrich",
+    "icpc_id": "454206",
+    "group_ids": [
+      "15705"
+    ],
+    "organization_id": "0451",
+    "photo": [
+      {
+        "href": "contests/systest2/teams/21/photo",
+        "mime": "image/jpg",
+        "width": 5000,
+        "height": 3335
+      },
+      {
+        "href": "contests/systest2/teams/21/photo.1920",
+        "mime": "image/jpg",
+        "width": 1920,
+        "height": 1281
+      }
+    ],
+    "desktop": [
+      {
+        "href": "http://172.29.1.207/stream/120",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/121",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/122",
+        "mime": "application/m2ts"
+      }
+    ],
+    "webcam": [
+      {
+        "href": "http://172.29.1.207/stream/123",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/124",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/125",
+        "mime": "application/m2ts"
+      }
+    ],
+    "location": {
+      "x": 11.13,
+      "y": 9.9,
+      "rotation": 180.0
+    }
+  },
+  {
+    "id": "22",
+    "name": "RAF Penguins",
+    "display_name": "Faculty of Computer Science, Belgrade ",
+    "icpc_id": "454031",
+    "group_ids": [
+      "15705"
+    ],
+    "organization_id": "3360",
+    "photo": [
+      {
+        "href": "contests/systest2/teams/22/photo",
+        "mime": "image/jpg",
+        "width": 5000,
+        "height": 3335
+      },
+      {
+        "href": "contests/systest2/teams/22/photo.1920",
+        "mime": "image/jpg",
+        "width": 1920,
+        "height": 1281
+      }
+    ],
+    "desktop": [
+      {
+        "href": "http://172.29.1.207/stream/126",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/127",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/128",
+        "mime": "application/m2ts"
+      }
+    ],
+    "webcam": [
+      {
+        "href": "http://172.29.1.207/stream/129",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/130",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/131",
+        "mime": "application/m2ts"
+      }
+    ],
+    "location": {
+      "x": 11.13,
+      "y": 6.6,
+      "rotation": 180.0
+    }
+  },
+  {
+    "id": "23",
+    "name": "Tbilisi FreeUni 1",
+    "display_name": "Free University of Tbilisi",
+    "icpc_id": "550234",
+    "group_ids": [
+      "15692"
+    ],
+    "organization_id": "5724",
+    "photo": [
+      {
+        "href": "contests/systest2/teams/23/photo",
+        "mime": "image/jpg",
+        "width": 5000,
+        "height": 3335
+      },
+      {
+        "href": "contests/systest2/teams/23/photo.1920",
+        "mime": "image/jpg",
+        "width": 1920,
+        "height": 1281
+      }
+    ],
+    "desktop": [
+      {
+        "href": "http://172.29.1.207/stream/132",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/133",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/134",
+        "mime": "application/m2ts"
+      }
+    ],
+    "webcam": [
+      {
+        "href": "http://172.29.1.207/stream/135",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/136",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/137",
+        "mime": "application/m2ts"
+      }
+    ],
+    "location": {
+      "x": 11.13,
+      "y": 3.3,
+      "rotation": 180.0
+    }
+  },
+  {
+    "id": "24",
+    "name": "Gotta ACe'm all",
+    "display_name": "German University in Cairo",
+    "icpc_id": "453861",
+    "group_ids": [
+      "15708"
+    ],
+    "organization_id": "3519",
+    "photo": [
+      {
+        "href": "contests/systest2/teams/24/photo",
+        "mime": "image/jpg",
+        "width": 5000,
+        "height": 3335
+      },
+      {
+        "href": "contests/systest2/teams/24/photo.1920",
+        "mime": "image/jpg",
+        "width": 1920,
+        "height": 1281
+      }
+    ],
+    "desktop": [
+      {
+        "href": "http://172.29.1.207/stream/138",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/139",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/140",
+        "mime": "application/m2ts"
+      }
+    ],
+    "webcam": [
+      {
+        "href": "http://172.29.1.207/stream/141",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/142",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/143",
+        "mime": "application/m2ts"
+      }
+    ],
+    "location": {
+      "x": 16.88,
+      "y": 3.3,
+      "rotation": 0.0
+    }
+  },
+  {
+    "id": "25",
+    "name": "Harvard",
+    "display_name": "Harvard University",
+    "icpc_id": "454422",
+    "group_ids": [
+      "15689"
+    ],
+    "organization_id": "0642",
+    "photo": [
+      {
+        "href": "contests/systest2/teams/25/photo",
+        "mime": "image/jpg",
+        "width": 5000,
+        "height": 3335
+      },
+      {
+        "href": "contests/systest2/teams/25/photo.1920",
+        "mime": "image/jpg",
+        "width": 1920,
+        "height": 1281
+      }
+    ],
+    "desktop": [
+      {
+        "href": "http://172.29.1.207/stream/144",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/145",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/146",
+        "mime": "application/m2ts"
+      }
+    ],
+    "webcam": [
+      {
+        "href": "http://172.29.1.207/stream/147",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/148",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/149",
+        "mime": "application/m2ts"
+      }
+    ],
+    "location": {
+      "x": 16.88,
+      "y": 6.6,
+      "rotation": 0.0
+    }
+  },
+  {
+    "id": "26",
+    "name": "Geometric Progression",
+    "display_name": "Higher Institute for Applied Sciences and Technology",
+    "icpc_id": "542764",
+    "group_ids": [
+      "15708"
+    ],
+    "organization_id": "6581",
+    "photo": [
+      {
+        "href": "contests/systest2/teams/26/photo",
+        "mime": "image/jpg",
+        "width": 5000,
+        "height": 3335
+      },
+      {
+        "href": "contests/systest2/teams/26/photo.1920",
+        "mime": "image/jpg",
+        "width": 1920,
+        "height": 1281
+      }
+    ],
+    "desktop": [
+      {
+        "href": "http://172.29.1.207/stream/150",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/151",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/152",
+        "mime": "application/m2ts"
+      }
+    ],
+    "webcam": [
+      {
+        "href": "http://172.29.1.207/stream/153",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/154",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/155",
+        "mime": "application/m2ts"
+      }
+    ],
+    "location": {
+      "x": 16.88,
+      "y": 9.9,
+      "rotation": 0.0
+    }
+  },
+  {
+    "id": "27",
+    "name": "BhagwanBharose",
+    "display_name": "Indian Institute of Technology - Bombay",
+    "icpc_id": "454159",
+    "group_ids": [
+      "15693"
+    ],
+    "organization_id": "0724",
+    "desktop": [
+      {
+        "href": "http://172.29.1.207/stream/156",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/157",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/158",
+        "mime": "application/m2ts"
+      }
+    ],
+    "webcam": [
+      {
+        "href": "http://172.29.1.207/stream/159",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/160",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/161",
+        "mime": "application/m2ts"
+      }
+    ],
+    "location": {
+      "x": 16.88,
+      "y": 13.2,
+      "rotation": 0.0
+    }
+  },
+  {
+    "id": "28",
+    "name": "AlwaysReadyToOverkill",
+    "display_name": "Indian Institute of Technology - Delhi",
+    "icpc_id": "454168",
+    "group_ids": [
+      "15693"
+    ],
+    "organization_id": "0725",
+    "photo": [
+      {
+        "href": "contests/systest2/teams/28/photo",
+        "mime": "image/jpg",
+        "width": 5000,
+        "height": 3335
+      },
+      {
+        "href": "contests/systest2/teams/28/photo.1920",
+        "mime": "image/jpg",
+        "width": 1920,
+        "height": 1281
+      }
+    ],
+    "desktop": [
+      {
+        "href": "http://172.29.1.207/stream/162",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/163",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/164",
+        "mime": "application/m2ts"
+      }
+    ],
+    "webcam": [
+      {
+        "href": "http://172.29.1.207/stream/165",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/166",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/167",
+        "mime": "application/m2ts"
+      }
+    ],
+    "location": {
+      "x": 16.88,
+      "y": 16.5,
+      "rotation": 0.0
+    }
+  },
+  {
+    "id": "29",
+    "name": "I_See_AC",
+    "display_name": "Indian Institute of Technology - Guwahati",
+    "icpc_id": "541820",
+    "group_ids": [
+      "15693"
+    ],
+    "organization_id": "0718",
+    "photo": [
+      {
+        "href": "contests/systest2/teams/29/photo",
+        "mime": "image/jpg",
+        "width": 5000,
+        "height": 3335
+      },
+      {
+        "href": "contests/systest2/teams/29/photo.1920",
+        "mime": "image/jpg",
+        "width": 1920,
+        "height": 1281
+      }
+    ],
+    "desktop": [
+      {
+        "href": "http://172.29.1.207/stream/168",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/169",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/170",
+        "mime": "application/m2ts"
+      }
+    ],
+    "webcam": [
+      {
+        "href": "http://172.29.1.207/stream/171",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/172",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/173",
+        "mime": "application/m2ts"
+      }
+    ],
+    "location": {
+      "x": 16.88,
+      "y": 19.8,
+      "rotation": 0.0
+    }
+  },
+  {
+    "id": "30",
+    "name": "fenmentTree",
+    "display_name": "Indian Institute of Technology - Indore",
+    "icpc_id": "454169",
+    "group_ids": [
+      "15693"
+    ],
+    "organization_id": "5640",
+    "photo": [
+      {
+        "href": "contests/systest2/teams/30/photo",
+        "mime": "image/jpg",
+        "width": 5000,
+        "height": 3335
+      },
+      {
+        "href": "contests/systest2/teams/30/photo.1920",
+        "mime": "image/jpg",
+        "width": 1920,
+        "height": 1281
+      }
+    ],
+    "desktop": [
+      {
+        "href": "http://172.29.1.207/stream/174",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/175",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/176",
+        "mime": "application/m2ts"
+      }
+    ],
+    "webcam": [
+      {
+        "href": "http://172.29.1.207/stream/177",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/178",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/179",
+        "mime": "application/m2ts"
+      }
+    ],
+    "location": {
+      "x": 18.13,
+      "y": 19.8,
+      "rotation": 180.0
+    }
+  },
+  {
+    "id": "31",
+    "name": "FacelessMen2.0",
+    "display_name": "Indian Institute of Technology - Kanpur",
+    "icpc_id": "454161",
+    "group_ids": [
+      "15693"
+    ],
+    "organization_id": "0727",
+    "photo": [
+      {
+        "href": "contests/systest2/teams/31/photo",
+        "mime": "image/jpg",
+        "width": 5000,
+        "height": 3335
+      },
+      {
+        "href": "contests/systest2/teams/31/photo.1920",
+        "mime": "image/jpg",
+        "width": 1920,
+        "height": 1281
+      }
+    ],
+    "desktop": [
+      {
+        "href": "http://172.29.1.207/stream/180",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/181",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/182",
+        "mime": "application/m2ts"
+      }
+    ],
+    "webcam": [
+      {
+        "href": "http://172.29.1.207/stream/183",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/184",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/185",
+        "mime": "application/m2ts"
+      }
+    ],
+    "location": {
+      "x": 18.13,
+      "y": 16.5,
+      "rotation": 180.0
+    }
+  },
+  {
+    "id": "32",
+    "name": "Fast_Code_Transform",
+    "display_name": "Indian Institute of Technology - Kharagpur",
+    "icpc_id": "454170",
+    "group_ids": [
+      "15693"
+    ],
+    "organization_id": "0728",
+    "photo": [
+      {
+        "href": "contests/systest2/teams/32/photo",
+        "mime": "image/jpg",
+        "width": 5000,
+        "height": 3335
+      },
+      {
+        "href": "contests/systest2/teams/32/photo.1920",
+        "mime": "image/jpg",
+        "width": 1920,
+        "height": 1281
+      }
+    ],
+    "desktop": [
+      {
+        "href": "http://172.29.1.207/stream/186",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/187",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/188",
+        "mime": "application/m2ts"
+      }
+    ],
+    "webcam": [
+      {
+        "href": "http://172.29.1.207/stream/189",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/190",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/191",
+        "mime": "application/m2ts"
+      }
+    ],
+    "location": {
+      "x": 18.13,
+      "y": 13.2,
+      "rotation": 180.0
+    }
+  },
+  {
+    "id": "33",
+    "name": "Squirtle Squad",
+    "display_name": "Indian Institute of Technology - Patna",
+    "icpc_id": "551743",
+    "group_ids": [
+      "15693"
+    ],
+    "organization_id": "6908",
+    "photo": [
+      {
+        "href": "contests/systest2/teams/33/photo",
+        "mime": "image/jpg",
+        "width": 5000,
+        "height": 3335
+      },
+      {
+        "href": "contests/systest2/teams/33/photo.1920",
+        "mime": "image/jpg",
+        "width": 1920,
+        "height": 1281
+      }
+    ],
+    "desktop": [
+      {
+        "href": "http://172.29.1.207/stream/192",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/193",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/194",
+        "mime": "application/m2ts"
+      }
+    ],
+    "webcam": [
+      {
+        "href": "http://172.29.1.207/stream/195",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/196",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/197",
+        "mime": "application/m2ts"
+      }
+    ],
+    "location": {
+      "x": 18.13,
+      "y": 9.9,
+      "rotation": 180.0
+    }
+  },
+  {
+    "id": "34",
+    "name": "Laila",
+    "display_name": "Indian Institute of Technology - Roorkee",
+    "icpc_id": "454166",
+    "group_ids": [
+      "15693"
+    ],
+    "organization_id": "0722",
+    "photo": [
+      {
+        "href": "contests/systest2/teams/34/photo",
+        "mime": "image/jpg",
+        "width": 5000,
+        "height": 3335
+      },
+      {
+        "href": "contests/systest2/teams/34/photo.1920",
+        "mime": "image/jpg",
+        "width": 1920,
+        "height": 1281
+      }
+    ],
+    "desktop": [
+      {
+        "href": "http://172.29.1.207/stream/198",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/199",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/200",
+        "mime": "application/m2ts"
+      }
+    ],
+    "webcam": [
+      {
+        "href": "http://172.29.1.207/stream/201",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/202",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/203",
+        "mime": "application/m2ts"
+      }
+    ],
+    "location": {
+      "x": 18.13,
+      "y": 6.6,
+      "rotation": 180.0
+    }
+  },
+  {
+    "id": "35",
+    "name": "Minimum Spanking Tree",
+    "display_name": "Indian Institute of Technology - Varanasi",
+    "icpc_id": "454165",
+    "group_ids": [
+      "15693"
+    ],
+    "organization_id": "9406",
+    "photo": [
+      {
+        "href": "contests/systest2/teams/35/photo",
+        "mime": "image/jpg",
+        "width": 5000,
+        "height": 3335
+      },
+      {
+        "href": "contests/systest2/teams/35/photo.1920",
+        "mime": "image/jpg",
+        "width": 1920,
+        "height": 1281
+      }
+    ],
+    "desktop": [
+      {
+        "href": "http://172.29.1.207/stream/204",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/205",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/206",
+        "mime": "application/m2ts"
+      }
+    ],
+    "webcam": [
+      {
+        "href": "http://172.29.1.207/stream/207",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/208",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/209",
+        "mime": "application/m2ts"
+      }
+    ],
+    "location": {
+      "x": 18.13,
+      "y": 3.3,
+      "rotation": 180.0
+    }
+  },
+  {
+    "id": "36",
+    "name": "Astralix",
+    "display_name": "Indian Institute of Technology (ISM), Dhanbad",
+    "icpc_id": "546273",
+    "group_ids": [
+      "15693"
+    ],
+    "organization_id": "3919",
+    "photo": [
+      {
+        "href": "contests/systest2/teams/36/photo",
+        "mime": "image/jpg",
+        "width": 5000,
+        "height": 3335
+      },
+      {
+        "href": "contests/systest2/teams/36/photo.1920",
+        "mime": "image/jpg",
+        "width": 1920,
+        "height": 1281
+      }
+    ],
+    "desktop": [
+      {
+        "href": "http://172.29.1.207/stream/210",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/211",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/212",
+        "mime": "application/m2ts"
+      }
+    ],
+    "webcam": [
+      {
+        "href": "http://172.29.1.207/stream/213",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/214",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/215",
+        "mime": "application/m2ts"
+      }
+    ],
+    "location": {
+      "x": 23.88,
+      "y": 3.3,
+      "rotation": 0.0
+    }
+  },
+  {
+    "id": "37",
+    "name": "Cogito Ergo Error",
+    "display_name": "Indraprastha Institute of Information Technology",
+    "icpc_id": "454162",
+    "group_ids": [
+      "15693"
+    ],
+    "organization_id": "9574",
+    "photo": [
+      {
+        "href": "contests/systest2/teams/37/photo",
+        "mime": "image/jpg",
+        "width": 5000,
+        "height": 3335
+      },
+      {
+        "href": "contests/systest2/teams/37/photo.1920",
+        "mime": "image/jpg",
+        "width": 1920,
+        "height": 1281
+      }
+    ],
+    "desktop": [
+      {
+        "href": "http://172.29.1.207/stream/216",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/217",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/218",
+        "mime": "application/m2ts"
+      }
+    ],
+    "webcam": [
+      {
+        "href": "http://172.29.1.207/stream/219",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/220",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/221",
+        "mime": "application/m2ts"
+      }
+    ],
+    "location": {
+      "x": 23.88,
+      "y": 6.6,
+      "rotation": 0.0
+    }
+  },
+  {
+    "id": "38",
+    "name": "Innopolis U 1",
+    "display_name": "Innopolis University",
+    "icpc_id": "454052",
+    "group_ids": [
+      "15692"
+    ],
+    "organization_id": "7857",
+    "photo": [
+      {
+        "href": "contests/systest2/teams/38/photo",
+        "mime": "image/jpg",
+        "width": 5000,
+        "height": 3335
+      },
+      {
+        "href": "contests/systest2/teams/38/photo.1920",
+        "mime": "image/jpg",
+        "width": 1920,
+        "height": 1281
+      }
+    ],
+    "desktop": [
+      {
+        "href": "http://172.29.1.207/stream/222",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/223",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/224",
+        "mime": "application/m2ts"
+      }
+    ],
+    "webcam": [
+      {
+        "href": "http://172.29.1.207/stream/225",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/226",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/227",
+        "mime": "application/m2ts"
+      }
+    ],
+    "location": {
+      "x": 23.88,
+      "y": 9.9,
+      "rotation": 0.0
+    }
+  },
+  {
+    "id": "39",
+    "name": "WAI",
+    "display_name": "Institut National des Sciences Appliqu\u00e9es et de Technologie",
+    "icpc_id": "542762",
+    "group_ids": [
+      "15708"
+    ],
+    "organization_id": "6960",
+    "photo": [
+      {
+        "href": "contests/systest2/teams/39/photo",
+        "mime": "image/jpg",
+        "width": 5000,
+        "height": 3335
+      },
+      {
+        "href": "contests/systest2/teams/39/photo.1920",
+        "mime": "image/jpg",
+        "width": 1920,
+        "height": 1281
+      }
+    ],
+    "desktop": [
+      {
+        "href": "http://172.29.1.207/stream/228",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/229",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/230",
+        "mime": "application/m2ts"
+      }
+    ],
+    "webcam": [
+      {
+        "href": "http://172.29.1.207/stream/231",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/232",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/233",
+        "mime": "application/m2ts"
+      }
+    ],
+    "location": {
+      "x": 23.88,
+      "y": 13.2,
+      "rotation": 0.0
+    }
+  },
+  {
+    "id": "40",
+    "name": "Tuturu sem O(1)",
+    "display_name": "Institute of Computing - Federal University of Amazonas",
+    "icpc_id": "542745",
+    "group_ids": [
+      "15706"
+    ],
+    "organization_id": "7325",
+    "photo": [
+      {
+        "href": "contests/systest2/teams/40/photo",
+        "mime": "image/jpg",
+        "width": 5000,
+        "height": 3335
+      },
+      {
+        "href": "contests/systest2/teams/40/photo.1920",
+        "mime": "image/jpg",
+        "width": 1920,
+        "height": 1281
+      }
+    ],
+    "desktop": [
+      {
+        "href": "http://172.29.1.207/stream/234",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/235",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/236",
+        "mime": "application/m2ts"
+      }
+    ],
+    "webcam": [
+      {
+        "href": "http://172.29.1.207/stream/237",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/238",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/239",
+        "mime": "application/m2ts"
+      }
+    ],
+    "location": {
+      "x": 23.88,
+      "y": 16.5,
+      "rotation": 0.0
+    }
+  },
+  {
+    "id": "41",
+    "name": "Delicinhas do Cerrado",
+    "display_name": "Instituto de Inform\u00e1tica - UFG",
+    "icpc_id": "542761",
+    "group_ids": [
+      "15706"
+    ],
+    "organization_id": "3071",
+    "photo": [
+      {
+        "href": "contests/systest2/teams/41/photo",
+        "mime": "image/jpg",
+        "width": 5000,
+        "height": 3335
+      },
+      {
+        "href": "contests/systest2/teams/41/photo.1920",
+        "mime": "image/jpg",
+        "width": 1920,
+        "height": 1281
+      }
+    ],
+    "desktop": [
+      {
+        "href": "http://172.29.1.207/stream/240",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/241",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/242",
+        "mime": "application/m2ts"
+      }
+    ],
+    "webcam": [
+      {
+        "href": "http://172.29.1.207/stream/243",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/244",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/245",
+        "mime": "application/m2ts"
+      }
+    ],
+    "location": {
+      "x": 23.88,
+      "y": 19.8,
+      "rotation": 0.0
+    }
+  },
+  {
+    "id": "42",
+    "name": "tesla_protocol",
+    "display_name": "International Institute of Information Technology - Hyderabad",
+    "icpc_id": "454171",
+    "group_ids": [
+      "15693"
+    ],
+    "organization_id": "0846",
+    "photo": [
+      {
+        "href": "contests/systest2/teams/42/photo",
+        "mime": "image/jpg",
+        "width": 5000,
+        "height": 3335
+      },
+      {
+        "href": "contests/systest2/teams/42/photo.1920",
+        "mime": "image/jpg",
+        "width": 1920,
+        "height": 1281
+      }
+    ],
+    "desktop": [
+      {
+        "href": "http://172.29.1.207/stream/246",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/247",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/248",
+        "mime": "application/m2ts"
+      }
+    ],
+    "webcam": [
+      {
+        "href": "http://172.29.1.207/stream/249",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/250",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/251",
+        "mime": "application/m2ts"
+      }
+    ],
+    "location": {
+      "x": 25.13,
+      "y": 19.8,
+      "rotation": 180.0
+    }
+  },
+  {
+    "id": "43",
+    "name": "IITU 2",
+    "display_name": "International IT University",
+    "icpc_id": "454125",
+    "group_ids": [
+      "15692"
+    ],
+    "organization_id": "4330",
+    "photo": [
+      {
+        "href": "contests/systest2/teams/43/photo",
+        "mime": "image/jpg",
+        "width": 5000,
+        "height": 3335
+      },
+      {
+        "href": "contests/systest2/teams/43/photo.1920",
+        "mime": "image/jpg",
+        "width": 1920,
+        "height": 1281
+      }
+    ],
+    "desktop": [
+      {
+        "href": "http://172.29.1.207/stream/252",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/253",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/254",
+        "mime": "application/m2ts"
+      }
+    ],
+    "webcam": [
+      {
+        "href": "http://172.29.1.207/stream/255",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/256",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/257",
+        "mime": "application/m2ts"
+      }
+    ],
+    "location": {
+      "x": 25.13,
+      "y": 16.5,
+      "rotation": 180.0
+    }
+  },
+  {
+    "id": "44",
+    "name": "Ne nado dumat'",
+    "display_name": "Izhevsk State Technical University",
+    "icpc_id": "542758",
+    "group_ids": [
+      "15692"
+    ],
+    "organization_id": "0923",
+    "photo": [
+      {
+        "href": "contests/systest2/teams/44/photo",
+        "mime": "image/jpg",
+        "width": 5000,
+        "height": 3335
+      },
+      {
+        "href": "contests/systest2/teams/44/photo.1920",
+        "mime": "image/jpg",
+        "width": 1920,
+        "height": 1281
+      }
+    ],
+    "desktop": [
+      {
+        "href": "http://172.29.1.207/stream/258",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/259",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/260",
+        "mime": "application/m2ts"
+      }
+    ],
+    "webcam": [
+      {
+        "href": "http://172.29.1.207/stream/261",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/262",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/263",
+        "mime": "application/m2ts"
+      }
+    ],
+    "location": {
+      "x": 25.13,
+      "y": 13.2,
+      "rotation": 180.0
+    }
+  },
+  {
+    "id": "45",
+    "name": "Jagiellonian 1",
+    "display_name": "Jagiellonian University in Krakow",
+    "icpc_id": "453867",
+    "group_ids": [
+      "15705"
+    ],
+    "organization_id": "0931",
+    "photo": [
+      {
+        "href": "contests/systest2/teams/45/photo",
+        "mime": "image/jpg",
+        "width": 5000,
+        "height": 3335
+      },
+      {
+        "href": "contests/systest2/teams/45/photo.1920",
+        "mime": "image/jpg",
+        "width": 1920,
+        "height": 1281
+      }
+    ],
+    "desktop": [
+      {
+        "href": "http://172.29.1.207/stream/264",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/265",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/266",
+        "mime": "application/m2ts"
+      }
+    ],
+    "webcam": [
+      {
+        "href": "http://172.29.1.207/stream/267",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/268",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/269",
+        "mime": "application/m2ts"
+      }
+    ],
+    "location": {
+      "x": 25.13,
+      "y": 9.9,
+      "rotation": 180.0
+    }
+  },
+  {
+    "id": "46",
+    "name": "Kazan FU: Summertime",
+    "display_name": "Kazan (Volga Region) Federal University",
+    "icpc_id": "454124",
+    "group_ids": [
+      "15692"
+    ],
+    "organization_id": "0993",
+    "photo": [
+      {
+        "href": "contests/systest2/teams/46/photo",
+        "mime": "image/jpg",
+        "width": 5000,
+        "height": 3335
+      },
+      {
+        "href": "contests/systest2/teams/46/photo.1920",
+        "mime": "image/jpg",
+        "width": 1920,
+        "height": 1281
+      }
+    ],
+    "desktop": [
+      {
+        "href": "http://172.29.1.207/stream/270",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/271",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/272",
+        "mime": "application/m2ts"
+      }
+    ],
+    "webcam": [
+      {
+        "href": "http://172.29.1.207/stream/273",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/274",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/275",
+        "mime": "application/m2ts"
+      }
+    ],
+    "location": {
+      "x": 25.13,
+      "y": 6.6,
+      "rotation": 180.0
+    }
+  },
+  {
+    "id": "47",
+    "name": "KhNURE_NRG",
+    "display_name": "Kharkiv National University of Radio Electronics",
+    "icpc_id": "454030",
+    "group_ids": [
+      "15705"
+    ],
+    "organization_id": "1008",
+    "photo": [
+      {
+        "href": "contests/systest2/teams/47/photo",
+        "mime": "image/jpg",
+        "width": 5000,
+        "height": 3335
+      },
+      {
+        "href": "contests/systest2/teams/47/photo.1920",
+        "mime": "image/jpg",
+        "width": 1920,
+        "height": 1281
+      }
+    ],
+    "desktop": [
+      {
+        "href": "http://172.29.1.207/stream/276",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/277",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/278",
+        "mime": "application/m2ts"
+      }
+    ],
+    "webcam": [
+      {
+        "href": "http://172.29.1.207/stream/279",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/280",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/281",
+        "mime": "application/m2ts"
+      }
+    ],
+    "location": {
+      "x": 25.13,
+      "y": 3.3,
+      "rotation": 180.0
+    }
+  },
+  {
+    "id": "48",
+    "name": "Powered by Zigui",
+    "display_name": "Korea University",
+    "icpc_id": "454156",
+    "group_ids": [
+      "15709"
+    ],
+    "organization_id": "1026",
+    "photo": [
+      {
+        "href": "contests/systest2/teams/48/photo",
+        "mime": "image/jpg",
+        "width": 5000,
+        "height": 3335
+      },
+      {
+        "href": "contests/systest2/teams/48/photo.1920",
+        "mime": "image/jpg",
+        "width": 1920,
+        "height": 1281
+      }
+    ],
+    "desktop": [
+      {
+        "href": "http://172.29.1.207/stream/282",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/283",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/284",
+        "mime": "application/m2ts"
+      }
+    ],
+    "webcam": [
+      {
+        "href": "http://172.29.1.207/stream/285",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/286",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/287",
+        "mime": "application/m2ts"
+      }
+    ],
+    "location": {
+      "x": 30.88,
+      "y": 3.3,
+      "rotation": 0.0
+    }
+  },
+  {
+    "id": "49",
+    "name": "Catdriip",
+    "display_name": "Kyungpook National University",
+    "icpc_id": "551747",
+    "group_ids": [
+      "15709"
+    ],
+    "organization_id": "7423",
+    "photo": [
+      {
+        "href": "contests/systest2/teams/49/photo",
+        "mime": "image/jpg",
+        "width": 5000,
+        "height": 3335
+      },
+      {
+        "href": "contests/systest2/teams/49/photo.1920",
+        "mime": "image/jpg",
+        "width": 1920,
+        "height": 1281
+      }
+    ],
+    "desktop": [
+      {
+        "href": "http://172.29.1.207/stream/288",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/289",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/290",
+        "mime": "application/m2ts"
+      }
+    ],
+    "webcam": [
+      {
+        "href": "http://172.29.1.207/stream/291",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/292",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/293",
+        "mime": "application/m2ts"
+      }
+    ],
+    "location": {
+      "x": 30.88,
+      "y": 6.6,
+      "rotation": 0.0
+    }
+  },
+  {
+    "id": "50",
+    "name": "MIT $(^w^)$",
+    "display_name": "Massachusetts Institute of Technology",
+    "icpc_id": "453881",
+    "group_ids": [
+      "15689"
+    ],
+    "organization_id": "1145",
+    "photo": [
+      {
+        "href": "contests/systest2/teams/50/photo",
+        "mime": "image/jpg",
+        "width": 5000,
+        "height": 3335
+      },
+      {
+        "href": "contests/systest2/teams/50/photo.1920",
+        "mime": "image/jpg",
+        "width": 1920,
+        "height": 1281
+      }
+    ],
+    "desktop": [
+      {
+        "href": "http://172.29.1.207/stream/294",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/295",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/296",
+        "mime": "application/m2ts"
+      }
+    ],
+    "webcam": [
+      {
+        "href": "http://172.29.1.207/stream/297",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/298",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/299",
+        "mime": "application/m2ts"
+      }
+    ],
+    "location": {
+      "x": 30.88,
+      "y": 9.9,
+      "rotation": 0.0
+    }
+  },
+  {
+    "id": "51",
+    "name": "Moscow AI #1",
+    "display_name": "Moscow Aviation Institute",
+    "icpc_id": "542755",
+    "group_ids": [
+      "15692"
+    ],
+    "organization_id": "1214",
+    "photo": [
+      {
+        "href": "contests/systest2/teams/51/photo",
+        "mime": "image/jpg",
+        "width": 5000,
+        "height": 3335
+      },
+      {
+        "href": "contests/systest2/teams/51/photo.1920",
+        "mime": "image/jpg",
+        "width": 1920,
+        "height": 1281
+      }
+    ],
+    "desktop": [
+      {
+        "href": "http://172.29.1.207/stream/300",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/301",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/302",
+        "mime": "application/m2ts"
+      }
+    ],
+    "webcam": [
+      {
+        "href": "http://172.29.1.207/stream/303",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/304",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/305",
+        "mime": "application/m2ts"
+      }
+    ],
+    "location": {
+      "x": 30.88,
+      "y": 13.2,
+      "rotation": 0.0
+    }
+  },
+  {
+    "id": "52",
+    "name": "Godnotent",
+    "display_name": "Moscow Institute of Physics and Technology",
+    "icpc_id": "454050",
+    "group_ids": [
+      "15692"
+    ],
+    "organization_id": "1220",
+    "photo": [
+      {
+        "href": "contests/systest2/teams/52/photo",
+        "mime": "image/jpg",
+        "width": 5000,
+        "height": 3335
+      },
+      {
+        "href": "contests/systest2/teams/52/photo.1920",
+        "mime": "image/jpg",
+        "width": 1920,
+        "height": 1281
+      }
+    ],
+    "desktop": [
+      {
+        "href": "http://172.29.1.207/stream/306",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/307",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/308",
+        "mime": "application/m2ts"
+      }
+    ],
+    "webcam": [
+      {
+        "href": "http://172.29.1.207/stream/309",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/310",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/311",
+        "mime": "application/m2ts"
+      }
+    ],
+    "location": {
+      "x": 30.88,
+      "y": 16.5,
+      "rotation": 0.0
+    }
+  },
+  {
+    "id": "53",
+    "name": "Moscow SU: NoNames",
+    "display_name": "Moscow State University",
+    "icpc_id": "454120",
+    "group_ids": [
+      "15692"
+    ],
+    "organization_id": "1237",
+    "photo": [
+      {
+        "href": "contests/systest2/teams/53/photo",
+        "mime": "image/jpg",
+        "width": 5000,
+        "height": 3335
+      },
+      {
+        "href": "contests/systest2/teams/53/photo.1920",
+        "mime": "image/jpg",
+        "width": 1920,
+        "height": 1281
+      }
+    ],
+    "desktop": [
+      {
+        "href": "http://172.29.1.207/stream/312",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/313",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/314",
+        "mime": "application/m2ts"
+      }
+    ],
+    "webcam": [
+      {
+        "href": "http://172.29.1.207/stream/315",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/316",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/317",
+        "mime": "application/m2ts"
+      }
+    ],
+    "location": {
+      "x": 30.88,
+      "y": 19.8,
+      "rotation": 0.0
+    }
+  },
+  {
+    "id": "54",
+    "name": "Moscow EPhI SoZo",
+    "display_name": "National Research Nuclear University MEPhI (Moscow Engineering Physics Institute)",
+    "icpc_id": "541842",
+    "group_ids": [
+      "15692"
+    ],
+    "organization_id": "1215",
+    "photo": [
+      {
+        "href": "contests/systest2/teams/54/photo",
+        "mime": "image/jpg",
+        "width": 5000,
+        "height": 3335
+      },
+      {
+        "href": "contests/systest2/teams/54/photo.1920",
+        "mime": "image/jpg",
+        "width": 1920,
+        "height": 1281
+      }
+    ],
+    "desktop": [
+      {
+        "href": "http://172.29.1.207/stream/318",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/319",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/320",
+        "mime": "application/m2ts"
+      }
+    ],
+    "webcam": [
+      {
+        "href": "http://172.29.1.207/stream/321",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/322",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/323",
+        "mime": "application/m2ts"
+      }
+    ],
+    "location": {
+      "x": 32.13,
+      "y": 19.8,
+      "rotation": 180.0
+    }
+  },
+  {
+    "id": "55",
+    "name": "Logarifmya4ka",
+    "display_name": "National Research University Higher School of Economics",
+    "icpc_id": "454117",
+    "group_ids": [
+      "15692"
+    ],
+    "organization_id": "3534",
+    "photo": [
+      {
+        "href": "contests/systest2/teams/55/photo",
+        "mime": "image/jpg",
+        "width": 5000,
+        "height": 3335
+      },
+      {
+        "href": "contests/systest2/teams/55/photo.1920",
+        "mime": "image/jpg",
+        "width": 1920,
+        "height": 1281
+      }
+    ],
+    "desktop": [
+      {
+        "href": "http://172.29.1.207/stream/324",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/325",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/326",
+        "mime": "application/m2ts"
+      }
+    ],
+    "webcam": [
+      {
+        "href": "http://172.29.1.207/stream/327",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/328",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/329",
+        "mime": "application/m2ts"
+      }
+    ],
+    "location": {
+      "x": 32.13,
+      "y": 16.5,
+      "rotation": 180.0
+    }
+  },
+  {
+    "id": "56",
+    "name": "waynedisonitau123",
+    "display_name": "National Taiwan University",
+    "icpc_id": "454152",
+    "group_ids": [
+      "15709"
+    ],
+    "organization_id": "1303",
+    "photo": [
+      {
+        "href": "contests/systest2/teams/56/photo",
+        "mime": "image/jpg",
+        "width": 5000,
+        "height": 3335
+      },
+      {
+        "href": "contests/systest2/teams/56/photo.1920",
+        "mime": "image/jpg",
+        "width": 1920,
+        "height": 1281
+      }
+    ],
+    "desktop": [
+      {
+        "href": "http://172.29.1.207/stream/330",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/331",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/332",
+        "mime": "application/m2ts"
+      }
+    ],
+    "webcam": [
+      {
+        "href": "http://172.29.1.207/stream/333",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/334",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/335",
+        "mime": "application/m2ts"
+      }
+    ],
+    "location": {
+      "x": 32.13,
+      "y": 13.2,
+      "rotation": 180.0
+    }
+  },
+  {
+    "id": "58",
+    "name": "!zero",
+    "display_name": "Netaji Subhash University Of Technology",
+    "icpc_id": "542754",
+    "group_ids": [
+      "15693"
+    ],
+    "organization_id": "9780",
+    "photo": [
+      {
+        "href": "contests/systest2/teams/58/photo",
+        "mime": "image/jpg",
+        "width": 5000,
+        "height": 3335
+      },
+      {
+        "href": "contests/systest2/teams/58/photo.1920",
+        "mime": "image/jpg",
+        "width": 1920,
+        "height": 1281
+      }
+    ],
+    "desktop": [
+      {
+        "href": "http://172.29.1.207/stream/336",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/337",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/338",
+        "mime": "application/m2ts"
+      }
+    ],
+    "webcam": [
+      {
+        "href": "http://172.29.1.207/stream/339",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/340",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/341",
+        "mime": "application/m2ts"
+      }
+    ],
+    "location": {
+      "x": 32.13,
+      "y": 6.6,
+      "rotation": 180.0
+    }
+  },
+  {
+    "id": "59",
+    "name": "Almost Retired",
+    "display_name": "Nizhny Novgorod State University",
+    "icpc_id": "454049",
+    "group_ids": [
+      "15692"
+    ],
+    "organization_id": "1338",
+    "photo": [
+      {
+        "href": "contests/systest2/teams/59/photo",
+        "mime": "image/jpg",
+        "width": 5000,
+        "height": 3335
+      },
+      {
+        "href": "contests/systest2/teams/59/photo.1920",
+        "mime": "image/jpg",
+        "width": 1920,
+        "height": 1281
+      }
+    ],
+    "desktop": [
+      {
+        "href": "http://172.29.1.207/stream/342",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/343",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/344",
+        "mime": "application/m2ts"
+      }
+    ],
+    "webcam": [
+      {
+        "href": "http://172.29.1.207/stream/345",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/346",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/347",
+        "mime": "application/m2ts"
+      }
+    ],
+    "location": {
+      "x": 32.13,
+      "y": 3.3,
+      "rotation": 180.0
+    }
+  },
+  {
+    "id": "60",
+    "name": "Spartans",
+    "display_name": "NU-FAST Karachi",
+    "icpc_id": "454158",
+    "group_ids": [
+      "15693"
+    ],
+    "organization_id": "7898",
+    "desktop": [
+      {
+        "href": "http://172.29.1.207/stream/348",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/349",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/350",
+        "mime": "application/m2ts"
+      }
+    ],
+    "webcam": [
+      {
+        "href": "http://172.29.1.207/stream/351",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/352",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/353",
+        "mime": "application/m2ts"
+      }
+    ],
+    "location": {
+      "x": 37.88,
+      "y": 3.3,
+      "rotation": 0.0
+    }
+  },
+  {
+    "id": "61",
+    "name": "Bagels",
+    "display_name": "Perm State University",
+    "icpc_id": "550104",
+    "group_ids": [
+      "15692"
+    ],
+    "organization_id": "1452",
+    "photo": [
+      {
+        "href": "contests/systest2/teams/61/photo",
+        "mime": "image/jpg",
+        "width": 5000,
+        "height": 3335
+      },
+      {
+        "href": "contests/systest2/teams/61/photo.1920",
+        "mime": "image/jpg",
+        "width": 1920,
+        "height": 1281
+      }
+    ],
+    "desktop": [
+      {
+        "href": "http://172.29.1.207/stream/354",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/355",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/356",
+        "mime": "application/m2ts"
+      }
+    ],
+    "webcam": [
+      {
+        "href": "http://172.29.1.207/stream/357",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/358",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/359",
+        "mime": "application/m2ts"
+      }
+    ],
+    "location": {
+      "x": 37.88,
+      "y": 6.6,
+      "rotation": 0.0
+    }
+  },
+  {
+    "id": "62",
+    "name": "Aurora",
+    "display_name": "Princess Sumaya University for Technology",
+    "icpc_id": "453591",
+    "group_ids": [
+      "15708"
+    ],
+    "organization_id": "4376",
+    "photo": [
+      {
+        "href": "contests/systest2/teams/62/photo",
+        "mime": "image/jpg",
+        "width": 5000,
+        "height": 3335
+      },
+      {
+        "href": "contests/systest2/teams/62/photo.1920",
+        "mime": "image/jpg",
+        "width": 1920,
+        "height": 1281
+      }
+    ],
+    "desktop": [
+      {
+        "href": "http://172.29.1.207/stream/360",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/361",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/362",
+        "mime": "application/m2ts"
+      }
+    ],
+    "webcam": [
+      {
+        "href": "http://172.29.1.207/stream/363",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/364",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/365",
+        "mime": "application/m2ts"
+      }
+    ],
+    "location": {
+      "x": 37.88,
+      "y": 9.9,
+      "rotation": 0.0
+    }
+  },
+  {
+    "id": "63",
+    "name": "Purdue RE",
+    "display_name": "Purdue University",
+    "icpc_id": "454421",
+    "group_ids": [
+      "15689"
+    ],
+    "organization_id": "3328",
+    "photo": [
+      {
+        "href": "contests/systest2/teams/63/photo",
+        "mime": "image/jpg",
+        "width": 5000,
+        "height": 3335
+      },
+      {
+        "href": "contests/systest2/teams/63/photo.1920",
+        "mime": "image/jpg",
+        "width": 1920,
+        "height": 1281
+      }
+    ],
+    "desktop": [
+      {
+        "href": "http://172.29.1.207/stream/366",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/367",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/368",
+        "mime": "application/m2ts"
+      }
+    ],
+    "webcam": [
+      {
+        "href": "http://172.29.1.207/stream/369",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/370",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/371",
+        "mime": "application/m2ts"
+      }
+    ],
+    "location": {
+      "x": 37.88,
+      "y": 13.2,
+      "rotation": 0.0
+    }
+  },
+  {
+    "id": "64",
+    "name": "Saratov SU 1",
+    "display_name": "Saratov State University",
+    "icpc_id": "454122",
+    "group_ids": [
+      "15692"
+    ],
+    "organization_id": "1623",
+    "photo": [
+      {
+        "href": "contests/systest2/teams/64/photo",
+        "mime": "image/jpg",
+        "width": 5000,
+        "height": 3335
+      },
+      {
+        "href": "contests/systest2/teams/64/photo.1920",
+        "mime": "image/jpg",
+        "width": 1920,
+        "height": 1281
+      }
+    ],
+    "desktop": [
+      {
+        "href": "http://172.29.1.207/stream/372",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/373",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/374",
+        "mime": "application/m2ts"
+      }
+    ],
+    "webcam": [
+      {
+        "href": "http://172.29.1.207/stream/375",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/376",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/377",
+        "mime": "application/m2ts"
+      }
+    ],
+    "location": {
+      "x": 37.88,
+      "y": 16.5,
+      "rotation": 0.0
+    }
+  },
+  {
+    "id": "65",
+    "name": "Cafe Mountain",
+    "display_name": "Seoul National University",
+    "icpc_id": "454145",
+    "group_ids": [
+      "15709"
+    ],
+    "organization_id": "1636",
+    "photo": [
+      {
+        "href": "contests/systest2/teams/65/photo",
+        "mime": "image/jpg",
+        "width": 5000,
+        "height": 3335
+      },
+      {
+        "href": "contests/systest2/teams/65/photo.1920",
+        "mime": "image/jpg",
+        "width": 1920,
+        "height": 1281
+      }
+    ],
+    "desktop": [
+      {
+        "href": "http://172.29.1.207/stream/378",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/379",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/380",
+        "mime": "application/m2ts"
+      }
+    ],
+    "webcam": [
+      {
+        "href": "http://172.29.1.207/stream/381",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/382",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/383",
+        "mime": "application/m2ts"
+      }
+    ],
+    "location": {
+      "x": 37.88,
+      "y": 19.8,
+      "rotation": 0.0
+    }
+  },
+  {
+    "id": "66",
+    "name": "NimRoo",
+    "display_name": "Sharif University of Technology",
+    "icpc_id": "454163",
+    "group_ids": [
+      "15693"
+    ],
+    "organization_id": "1677",
+    "photo": [
+      {
+        "href": "contests/systest2/teams/66/photo",
+        "mime": "image/jpg",
+        "width": 5000,
+        "height": 3335
+      },
+      {
+        "href": "contests/systest2/teams/66/photo.1920",
+        "mime": "image/jpg",
+        "width": 1920,
+        "height": 1281
+      }
+    ],
+    "desktop": [
+      {
+        "href": "http://172.29.1.207/stream/384",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/385",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/386",
+        "mime": "application/m2ts"
+      }
+    ],
+    "webcam": [
+      {
+        "href": "http://172.29.1.207/stream/387",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/388",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/389",
+        "mime": "application/m2ts"
+      }
+    ],
+    "location": {
+      "x": 39.13,
+      "y": 19.8,
+      "rotation": 180.0
+    }
+  },
+  {
+    "id": "67",
+    "name": "Redshift",
+    "display_name": "Sogang University",
+    "icpc_id": "549868",
+    "group_ids": [
+      "15709"
+    ],
+    "organization_id": "1730",
+    "photo": [
+      {
+        "href": "contests/systest2/teams/67/photo",
+        "mime": "image/jpg",
+        "width": 5000,
+        "height": 3335
+      },
+      {
+        "href": "contests/systest2/teams/67/photo.1920",
+        "mime": "image/jpg",
+        "width": 1920,
+        "height": 1281
+      }
+    ],
+    "desktop": [
+      {
+        "href": "http://172.29.1.207/stream/390",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/391",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/392",
+        "mime": "application/m2ts"
+      }
+    ],
+    "webcam": [
+      {
+        "href": "http://172.29.1.207/stream/393",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/394",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/395",
+        "mime": "application/m2ts"
+      }
+    ],
+    "location": {
+      "x": 39.13,
+      "y": 16.5,
+      "rotation": 180.0
+    }
+  },
+  {
+    "id": "68",
+    "name": "Last Hope",
+    "display_name": "St. Petersburg Campus of Higher School of Economics",
+    "icpc_id": "454121",
+    "group_ids": [
+      "15692"
+    ],
+    "organization_id": "9606",
+    "photo": [
+      {
+        "href": "contests/systest2/teams/68/photo",
+        "mime": "image/jpg",
+        "width": 5000,
+        "height": 3335
+      },
+      {
+        "href": "contests/systest2/teams/68/photo.1920",
+        "mime": "image/jpg",
+        "width": 1920,
+        "height": 1281
+      }
+    ],
+    "desktop": [
+      {
+        "href": "http://172.29.1.207/stream/396",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/397",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/398",
+        "mime": "application/m2ts"
+      }
+    ],
+    "webcam": [
+      {
+        "href": "http://172.29.1.207/stream/399",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/400",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/401",
+        "mime": "application/m2ts"
+      }
+    ],
+    "location": {
+      "x": 39.13,
+      "y": 13.2,
+      "rotation": 180.0
+    }
+  },
+  {
+    "id": "69",
+    "name": "ITMO U 1 Standard deviation",
+    "display_name": "St. Petersburg ITMO University",
+    "icpc_id": "454051",
+    "group_ids": [
+      "15692"
+    ],
+    "organization_id": "3295",
+    "photo": [
+      {
+        "href": "contests/systest2/teams/69/photo",
+        "mime": "image/jpg",
+        "width": 5000,
+        "height": 3335
+      },
+      {
+        "href": "contests/systest2/teams/69/photo.1920",
+        "mime": "image/jpg",
+        "width": 1920,
+        "height": 1281
+      }
+    ],
+    "desktop": [
+      {
+        "href": "http://172.29.1.207/stream/402",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/403",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/404",
+        "mime": "application/m2ts"
+      }
+    ],
+    "webcam": [
+      {
+        "href": "http://172.29.1.207/stream/405",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/406",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/407",
+        "mime": "application/m2ts"
+      }
+    ],
+    "location": {
+      "x": 39.13,
+      "y": 9.9,
+      "rotation": 180.0
+    }
+  },
+  {
+    "id": "70",
+    "name": "SPb SU 25",
+    "display_name": "St. Petersburg State University",
+    "icpc_id": "454048",
+    "group_ids": [
+      "15692"
+    ],
+    "organization_id": "1802",
+    "photo": [
+      {
+        "href": "contests/systest2/teams/70/photo",
+        "mime": "image/jpg",
+        "width": 5000,
+        "height": 3335
+      },
+      {
+        "href": "contests/systest2/teams/70/photo.1920",
+        "mime": "image/jpg",
+        "width": 1920,
+        "height": 1281
+      }
+    ],
+    "desktop": [
+      {
+        "href": "http://172.29.1.207/stream/408",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/409",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/410",
+        "mime": "application/m2ts"
+      }
+    ],
+    "webcam": [
+      {
+        "href": "http://172.29.1.207/stream/411",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/412",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/413",
+        "mime": "application/m2ts"
+      }
+    ],
+    "location": {
+      "x": 39.13,
+      "y": 6.6,
+      "rotation": 180.0
+    }
+  },
+  {
+    "id": "71",
+    "name": "Stanford Cardinal",
+    "display_name": "Stanford University",
+    "icpc_id": "542749",
+    "group_ids": [
+      "15689"
+    ],
+    "organization_id": "1822",
+    "photo": [
+      {
+        "href": "contests/systest2/teams/71/photo",
+        "mime": "image/jpg",
+        "width": 5000,
+        "height": 3335
+      },
+      {
+        "href": "contests/systest2/teams/71/photo.1920",
+        "mime": "image/jpg",
+        "width": 1920,
+        "height": 1281
+      }
+    ],
+    "desktop": [
+      {
+        "href": "http://172.29.1.207/stream/414",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/415",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/416",
+        "mime": "application/m2ts"
+      }
+    ],
+    "webcam": [
+      {
+        "href": "http://172.29.1.207/stream/417",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/418",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/419",
+        "mime": "application/m2ts"
+      }
+    ],
+    "location": {
+      "x": 39.13,
+      "y": 3.3,
+      "rotation": 180.0
+    }
+  },
+  {
+    "id": "72",
+    "name": "Traitors",
+    "display_name": "Syrian Virtual University",
+    "icpc_id": "453855",
+    "group_ids": [
+      "15708"
+    ],
+    "organization_id": "8162",
+    "photo": [
+      {
+        "href": "contests/systest2/teams/72/photo",
+        "mime": "image/jpg",
+        "width": 5000,
+        "height": 3335
+      },
+      {
+        "href": "contests/systest2/teams/72/photo.1920",
+        "mime": "image/jpg",
+        "width": 1920,
+        "height": 1281
+      }
+    ],
+    "desktop": [
+      {
+        "href": "http://172.29.1.207/stream/420",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/421",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/422",
+        "mime": "application/m2ts"
+      }
+    ],
+    "webcam": [
+      {
+        "href": "http://172.29.1.207/stream/423",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/424",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/425",
+        "mime": "application/m2ts"
+      }
+    ],
+    "location": {
+      "x": 44.88,
+      "y": 3.3,
+      "rotation": 0.0
+    }
+  },
+  {
+    "id": "73",
+    "name": "Lord VolTUMort",
+    "display_name": "Technische Universit\u00e4t M\u00fcnchen",
+    "icpc_id": "453913",
+    "group_ids": [
+      "15705"
+    ],
+    "organization_id": "1917",
+    "photo": [
+      {
+        "href": "contests/systest2/teams/73/photo",
+        "mime": "image/jpg",
+        "width": 5000,
+        "height": 3335
+      },
+      {
+        "href": "contests/systest2/teams/73/photo.1920",
+        "mime": "image/jpg",
+        "width": 1920,
+        "height": 1281
+      }
+    ],
+    "desktop": [
+      {
+        "href": "http://172.29.1.207/stream/426",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/427",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/428",
+        "mime": "application/m2ts"
+      }
+    ],
+    "webcam": [
+      {
+        "href": "http://172.29.1.207/stream/429",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/430",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/431",
+        "mime": "application/m2ts"
+      }
+    ],
+    "location": {
+      "x": 44.88,
+      "y": 6.6,
+      "rotation": 0.0
+    }
+  },
+  {
+    "id": "74",
+    "name": "Uap_Lumos",
+    "display_name": "The University of Asia Pacific",
+    "icpc_id": "553458",
+    "group_ids": [
+      "15693"
+    ],
+    "organization_id": "1966",
+    "photo": [
+      {
+        "href": "contests/systest2/teams/74/photo",
+        "mime": "image/jpg",
+        "width": 5000,
+        "height": 3335
+      },
+      {
+        "href": "contests/systest2/teams/74/photo.1920",
+        "mime": "image/jpg",
+        "width": 1920,
+        "height": 1281
+      }
+    ],
+    "desktop": [
+      {
+        "href": "http://172.29.1.207/stream/432",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/433",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/434",
+        "mime": "application/m2ts"
+      }
+    ],
+    "webcam": [
+      {
+        "href": "http://172.29.1.207/stream/435",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/436",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/437",
+        "mime": "application/m2ts"
+      }
+    ],
+    "location": {
+      "x": 44.88,
+      "y": 9.9,
+      "rotation": 0.0
+    }
+  },
+  {
+    "id": "75",
+    "name": "undefined_JU",
+    "display_name": "The University of Jordan",
+    "icpc_id": "453859",
+    "group_ids": [
+      "15708"
+    ],
+    "organization_id": "1977",
+    "photo": [
+      {
+        "href": "contests/systest2/teams/75/photo",
+        "mime": "image/jpg",
+        "width": 5000,
+        "height": 3335
+      },
+      {
+        "href": "contests/systest2/teams/75/photo.1920",
+        "mime": "image/jpg",
+        "width": 1920,
+        "height": 1281
+      }
+    ],
+    "desktop": [
+      {
+        "href": "http://172.29.1.207/stream/438",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/439",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/440",
+        "mime": "application/m2ts"
+      }
+    ],
+    "webcam": [
+      {
+        "href": "http://172.29.1.207/stream/441",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/442",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/443",
+        "mime": "application/m2ts"
+      }
+    ],
+    "location": {
+      "x": 44.88,
+      "y": 13.2,
+      "rotation": 0.0
+    }
+  },
+  {
+    "id": "76",
+    "name": "Comets 1",
+    "display_name": "The University of Texas at Dallas",
+    "icpc_id": "454344",
+    "group_ids": [
+      "15689"
+    ],
+    "organization_id": "2538",
+    "photo": [
+      {
+        "href": "contests/systest2/teams/76/photo",
+        "mime": "image/jpg",
+        "width": 5000,
+        "height": 3335
+      },
+      {
+        "href": "contests/systest2/teams/76/photo.1920",
+        "mime": "image/jpg",
+        "width": 1920,
+        "height": 1281
+      }
+    ],
+    "desktop": [
+      {
+        "href": "http://172.29.1.207/stream/444",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/445",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/446",
+        "mime": "application/m2ts"
+      }
+    ],
+    "webcam": [
+      {
+        "href": "http://172.29.1.207/stream/447",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/448",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/449",
+        "mime": "application/m2ts"
+      }
+    ],
+    "location": {
+      "x": 44.88,
+      "y": 16.5,
+      "rotation": 0.0
+    }
+  },
+  {
+    "id": "77",
+    "name": "Acceptophilia",
+    "display_name": "Tishreen University",
+    "icpc_id": "542750",
+    "group_ids": [
+      "15708"
+    ],
+    "organization_id": "3775",
+    "photo": [
+      {
+        "href": "contests/systest2/teams/77/photo",
+        "mime": "image/jpg",
+        "width": 5000,
+        "height": 3335
+      },
+      {
+        "href": "contests/systest2/teams/77/photo.1920",
+        "mime": "image/jpg",
+        "width": 1920,
+        "height": 1281
+      }
+    ],
+    "desktop": [
+      {
+        "href": "http://172.29.1.207/stream/450",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/451",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/452",
+        "mime": "application/m2ts"
+      }
+    ],
+    "webcam": [
+      {
+        "href": "http://172.29.1.207/stream/453",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/454",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/455",
+        "mime": "application/m2ts"
+      }
+    ],
+    "location": {
+      "x": 44.88,
+      "y": 19.8,
+      "rotation": 0.0
+    }
+  },
+  {
+    "id": "78",
+    "name": "Underdog",
+    "display_name": "Ulsan National Institute of Science and Technology",
+    "icpc_id": "551746",
+    "group_ids": [
+      "15709"
+    ],
+    "organization_id": "4846",
+    "photo": [
+      {
+        "href": "contests/systest2/teams/78/photo",
+        "mime": "image/jpg",
+        "width": 5000,
+        "height": 3335
+      },
+      {
+        "href": "contests/systest2/teams/78/photo.1920",
+        "mime": "image/jpg",
+        "width": 1920,
+        "height": 1281
+      }
+    ],
+    "desktop": [
+      {
+        "href": "http://172.29.1.207/stream/456",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/457",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/458",
+        "mime": "application/m2ts"
+      }
+    ],
+    "webcam": [
+      {
+        "href": "http://172.29.1.207/stream/459",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/460",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/461",
+        "mime": "application/m2ts"
+      }
+    ],
+    "location": {
+      "x": 46.13,
+      "y": 19.8,
+      "rotation": 180.0
+    }
+  },
+  {
+    "id": "79",
+    "name": "InChaVoLa",
+    "display_name": "Universidad de Buenos Aires - FCEN",
+    "icpc_id": "453574",
+    "group_ids": [
+      "15706"
+    ],
+    "organization_id": "3683",
+    "photo": [
+      {
+        "href": "contests/systest2/teams/79/photo",
+        "mime": "image/jpg",
+        "width": 5000,
+        "height": 3335
+      },
+      {
+        "href": "contests/systest2/teams/79/photo.1920",
+        "mime": "image/jpg",
+        "width": 1920,
+        "height": 1281
+      }
+    ],
+    "desktop": [
+      {
+        "href": "http://172.29.1.207/stream/462",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/463",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/464",
+        "mime": "application/m2ts"
+      }
+    ],
+    "webcam": [
+      {
+        "href": "http://172.29.1.207/stream/465",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/466",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/467",
+        "mime": "application/m2ts"
+      }
+    ],
+    "location": {
+      "x": 46.13,
+      "y": 16.5,
+      "rotation": 180.0
+    }
+  },
+  {
+    "id": "80",
+    "name": "#NuevaConstituci\u00f3n UChile1",
+    "display_name": "Universidad de Chile",
+    "icpc_id": "453582",
+    "group_ids": [
+      "15706"
+    ],
+    "organization_id": "2107",
+    "desktop": [
+      {
+        "href": "http://172.29.1.207/stream/468",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/469",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/470",
+        "mime": "application/m2ts"
+      }
+    ],
+    "webcam": [
+      {
+        "href": "http://172.29.1.207/stream/471",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/472",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/473",
+        "mime": "application/m2ts"
+      }
+    ],
+    "location": {
+      "x": 46.13,
+      "y": 13.2,
+      "rotation": 180.0
+    }
+  },
+  {
+    "id": "81",
+    "name": "Guerreros de RodriGOD",
+    "display_name": "Universidad de Costa Rica",
+    "icpc_id": "453571",
+    "group_ids": [
+      "15706"
+    ],
+    "organization_id": "5716",
+    "desktop": [
+      {
+        "href": "http://172.29.1.207/stream/474",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/475",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/476",
+        "mime": "application/m2ts"
+      }
+    ],
+    "webcam": [
+      {
+        "href": "http://172.29.1.207/stream/477",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/478",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/479",
+        "mime": "application/m2ts"
+      }
+    ],
+    "location": {
+      "x": 46.13,
+      "y": 9.9,
+      "rotation": 180.0
+    }
+  },
+  {
+    "id": "82",
+    "name": "E3",
+    "display_name": "Universidad de Guanajuato - DCNE",
+    "icpc_id": "453568",
+    "group_ids": [
+      "15706"
+    ],
+    "organization_id": "8140",
+    "photo": [
+      {
+        "href": "contests/systest2/teams/82/photo",
+        "mime": "image/jpg",
+        "width": 5000,
+        "height": 3335
+      },
+      {
+        "href": "contests/systest2/teams/82/photo.1920",
+        "mime": "image/jpg",
+        "width": 1920,
+        "height": 1281
+      }
+    ],
+    "desktop": [
+      {
+        "href": "http://172.29.1.207/stream/480",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/481",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/482",
+        "mime": "application/m2ts"
+      }
+    ],
+    "webcam": [
+      {
+        "href": "http://172.29.1.207/stream/483",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/484",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/485",
+        "mime": "application/m2ts"
+      }
+    ],
+    "location": {
+      "x": 46.13,
+      "y": 6.6,
+      "rotation": 180.0
+    }
+  },
+  {
+    "id": "83",
+    "name": "UH++",
+    "display_name": "Universidad de La Habana",
+    "icpc_id": "453564",
+    "group_ids": [
+      "15706"
+    ],
+    "organization_id": "2112",
+    "photo": [
+      {
+        "href": "contests/systest2/teams/83/photo",
+        "mime": "image/jpg",
+        "width": 5000,
+        "height": 3335
+      },
+      {
+        "href": "contests/systest2/teams/83/photo.1920",
+        "mime": "image/jpg",
+        "width": 1920,
+        "height": 1281
+      }
+    ],
+    "desktop": [
+      {
+        "href": "http://172.29.1.207/stream/486",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/487",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/488",
+        "mime": "application/m2ts"
+      }
+    ],
+    "webcam": [
+      {
+        "href": "http://172.29.1.207/stream/489",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/490",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/491",
+        "mime": "application/m2ts"
+      }
+    ],
+    "location": {
+      "x": 46.13,
+      "y": 3.3,
+      "rotation": 180.0
+    }
+  },
+  {
+    "id": "84",
+    "name": "Limitless",
+    "display_name": "Universidad de Oriente - Sede Antonio Maceo",
+    "icpc_id": "453566",
+    "group_ids": [
+      "15706"
+    ],
+    "organization_id": "4193",
+    "photo": [
+      {
+        "href": "contests/systest2/teams/84/photo",
+        "mime": "image/jpg",
+        "width": 5000,
+        "height": 3335
+      },
+      {
+        "href": "contests/systest2/teams/84/photo.1920",
+        "mime": "image/jpg",
+        "width": 1920,
+        "height": 1281
+      }
+    ],
+    "desktop": [
+      {
+        "href": "http://172.29.1.207/stream/492",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/493",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/494",
+        "mime": "application/m2ts"
+      }
+    ],
+    "webcam": [
+      {
+        "href": "http://172.29.1.207/stream/495",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/496",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/497",
+        "mime": "application/m2ts"
+      }
+    ],
+    "location": {
+      "x": 51.88,
+      "y": 3.3,
+      "rotation": 0.0
+    }
+  },
+  {
+    "id": "85",
+    "name": "Almo5There",
+    "display_name": "Universidad Icesi",
+    "icpc_id": "552467",
+    "group_ids": [
+      "15706"
+    ],
+    "organization_id": "3098",
+    "photo": [
+      {
+        "href": "contests/systest2/teams/85/photo",
+        "mime": "image/jpg",
+        "width": 5000,
+        "height": 3335
+      },
+      {
+        "href": "contests/systest2/teams/85/photo.1920",
+        "mime": "image/jpg",
+        "width": 1920,
+        "height": 1281
+      }
+    ],
+    "desktop": [
+      {
+        "href": "http://172.29.1.207/stream/498",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/499",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/500",
+        "mime": "application/m2ts"
+      }
+    ],
+    "webcam": [
+      {
+        "href": "http://172.29.1.207/stream/501",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/502",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/503",
+        "mime": "application/m2ts"
+      }
+    ],
+    "location": {
+      "x": 51.88,
+      "y": 6.6,
+      "rotation": 0.0
+    }
+  },
+  {
+    "id": "86",
+    "name": "descomUNAL",
+    "display_name": "Universidad Nacional de Colombia - Bogot\u00e1",
+    "icpc_id": "453572",
+    "group_ids": [
+      "15706"
+    ],
+    "organization_id": "3272",
+    "photo": [
+      {
+        "href": "contests/systest2/teams/86/photo",
+        "mime": "image/jpg",
+        "width": 5000,
+        "height": 3335
+      },
+      {
+        "href": "contests/systest2/teams/86/photo.1920",
+        "mime": "image/jpg",
+        "width": 1920,
+        "height": 1281
+      }
+    ],
+    "desktop": [
+      {
+        "href": "http://172.29.1.207/stream/504",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/505",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/506",
+        "mime": "application/m2ts"
+      }
+    ],
+    "webcam": [
+      {
+        "href": "http://172.29.1.207/stream/507",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/508",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/509",
+        "mime": "application/m2ts"
+      }
+    ],
+    "location": {
+      "x": 51.88,
+      "y": 9.9,
+      "rotation": 0.0
+    }
+  },
+  {
+    "id": "87",
+    "name": "GG Dem",
+    "display_name": "Universidad Nacional de C\u00f3rdoba - FaMAF",
+    "icpc_id": "453575",
+    "group_ids": [
+      "15706"
+    ],
+    "organization_id": "0492",
+    "photo": [
+      {
+        "href": "contests/systest2/teams/87/photo",
+        "mime": "image/jpg",
+        "width": 5000,
+        "height": 3335
+      },
+      {
+        "href": "contests/systest2/teams/87/photo.1920",
+        "mime": "image/jpg",
+        "width": 1920,
+        "height": 1281
+      }
+    ],
+    "desktop": [
+      {
+        "href": "http://172.29.1.207/stream/510",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/511",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/512",
+        "mime": "application/m2ts"
+      }
+    ],
+    "webcam": [
+      {
+        "href": "http://172.29.1.207/stream/513",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/514",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/515",
+        "mime": "application/m2ts"
+      }
+    ],
+    "location": {
+      "x": 51.88,
+      "y": 13.2,
+      "rotation": 0.0
+    }
+  },
+  {
+    "id": "88",
+    "name": "Mastropiero Unlimited",
+    "display_name": "Universidad Nacional del Sur",
+    "icpc_id": "542748",
+    "group_ids": [
+      "15706"
+    ],
+    "organization_id": "3487",
+    "photo": [
+      {
+        "href": "contests/systest2/teams/88/photo",
+        "mime": "image/jpg",
+        "width": 5000,
+        "height": 3335
+      },
+      {
+        "href": "contests/systest2/teams/88/photo.1920",
+        "mime": "image/jpg",
+        "width": 1920,
+        "height": 1281
+      }
+    ],
+    "desktop": [
+      {
+        "href": "http://172.29.1.207/stream/516",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/517",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/518",
+        "mime": "application/m2ts"
+      }
+    ],
+    "webcam": [
+      {
+        "href": "http://172.29.1.207/stream/519",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/520",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/521",
+        "mime": "application/m2ts"
+      }
+    ],
+    "location": {
+      "x": 51.88,
+      "y": 16.5,
+      "rotation": 0.0
+    }
+  },
+  {
+    "id": "89",
+    "name": "UPsolving",
+    "display_name": "Universidad Panamericana Campus Bonaterra",
+    "icpc_id": "551741",
+    "group_ids": [
+      "15706"
+    ],
+    "organization_id": "3372",
+    "photo": [
+      {
+        "href": "contests/systest2/teams/89/photo",
+        "mime": "image/jpg",
+        "width": 5000,
+        "height": 3335
+      },
+      {
+        "href": "contests/systest2/teams/89/photo.1920",
+        "mime": "image/jpg",
+        "width": 1920,
+        "height": 1281
+      }
+    ],
+    "desktop": [
+      {
+        "href": "http://172.29.1.207/stream/522",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/523",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/524",
+        "mime": "application/m2ts"
+      }
+    ],
+    "webcam": [
+      {
+        "href": "http://172.29.1.207/stream/525",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/526",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/527",
+        "mime": "application/m2ts"
+      }
+    ],
+    "location": {
+      "x": 51.88,
+      "y": 19.8,
+      "rotation": 0.0
+    }
+  },
+  {
+    "id": "90",
+    "name": "La bomba de tenedores",
+    "display_name": "Universidad Sim\u00f3n Bol\u00edvar",
+    "icpc_id": "453573",
+    "group_ids": [
+      "15706"
+    ],
+    "organization_id": "2172",
+    "desktop": [
+      {
+        "href": "http://172.29.1.207/stream/528",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/529",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/530",
+        "mime": "application/m2ts"
+      }
+    ],
+    "webcam": [
+      {
+        "href": "http://172.29.1.207/stream/531",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/532",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/533",
+        "mime": "application/m2ts"
+      }
+    ],
+    "location": {
+      "x": 53.13,
+      "y": 19.8,
+      "rotation": 180.0
+    }
+  },
+  {
+    "id": "91",
+    "name": "Rock Lee do Pagode Namora D+",
+    "display_name": "Universidade de Bras\u00edlia",
+    "icpc_id": "453587",
+    "group_ids": [
+      "15706"
+    ],
+    "organization_id": "2195",
+    "photo": [
+      {
+        "href": "contests/systest2/teams/91/photo",
+        "mime": "image/jpg",
+        "width": 5000,
+        "height": 3335
+      },
+      {
+        "href": "contests/systest2/teams/91/photo.1920",
+        "mime": "image/jpg",
+        "width": 1920,
+        "height": 1281
+      }
+    ],
+    "desktop": [
+      {
+        "href": "http://172.29.1.207/stream/534",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/535",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/536",
+        "mime": "application/m2ts"
+      }
+    ],
+    "webcam": [
+      {
+        "href": "http://172.29.1.207/stream/537",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/538",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/539",
+        "mime": "application/m2ts"
+      }
+    ],
+    "location": {
+      "x": 53.13,
+      "y": 16.5,
+      "rotation": 180.0
+    }
+  },
+  {
+    "id": "92",
+    "name": "Time com T",
+    "display_name": "Universidade de S\u00e3o Paulo",
+    "icpc_id": "453584",
+    "group_ids": [
+      "15706"
+    ],
+    "organization_id": "2204",
+    "photo": [
+      {
+        "href": "contests/systest2/teams/92/photo",
+        "mime": "image/jpg",
+        "width": 5000,
+        "height": 3335
+      },
+      {
+        "href": "contests/systest2/teams/92/photo.1920",
+        "mime": "image/jpg",
+        "width": 1920,
+        "height": 1281
+      }
+    ],
+    "desktop": [
+      {
+        "href": "http://172.29.1.207/stream/540",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/541",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/542",
+        "mime": "application/m2ts"
+      }
+    ],
+    "webcam": [
+      {
+        "href": "http://172.29.1.207/stream/543",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/544",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/545",
+        "mime": "application/m2ts"
+      }
+    ],
+    "location": {
+      "x": 53.13,
+      "y": 13.2,
+      "rotation": 180.0
+    }
+  },
+  {
+    "id": "93",
+    "name": "Triple G",
+    "display_name": "Universidade de S\u00e3o Paulo - Campus de S\u00e3o Carlos",
+    "icpc_id": "453589",
+    "group_ids": [
+      "15706"
+    ],
+    "organization_id": "0695",
+    "photo": [
+      {
+        "href": "contests/systest2/teams/93/photo",
+        "mime": "image/jpg",
+        "width": 5000,
+        "height": 3335
+      },
+      {
+        "href": "contests/systest2/teams/93/photo.1920",
+        "mime": "image/jpg",
+        "width": 1920,
+        "height": 1281
+      }
+    ],
+    "desktop": [
+      {
+        "href": "http://172.29.1.207/stream/546",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/547",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/548",
+        "mime": "application/m2ts"
+      }
+    ],
+    "webcam": [
+      {
+        "href": "http://172.29.1.207/stream/549",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/550",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/551",
+        "mime": "application/m2ts"
+      }
+    ],
+    "location": {
+      "x": 53.13,
+      "y": 9.9,
+      "rotation": 180.0
+    }
+  },
+  {
+    "id": "94",
+    "name": "Campinas Grande",
+    "display_name": "Universidade Estadual de Campinas",
+    "icpc_id": "453585",
+    "group_ids": [
+      "15706"
+    ],
+    "organization_id": "2216",
+    "photo": [
+      {
+        "href": "contests/systest2/teams/94/photo",
+        "mime": "image/jpg",
+        "width": 5000,
+        "height": 3335
+      },
+      {
+        "href": "contests/systest2/teams/94/photo.1920",
+        "mime": "image/jpg",
+        "width": 1920,
+        "height": 1281
+      }
+    ],
+    "desktop": [
+      {
+        "href": "http://172.29.1.207/stream/552",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/553",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/554",
+        "mime": "application/m2ts"
+      }
+    ],
+    "webcam": [
+      {
+        "href": "http://172.29.1.207/stream/555",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/556",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/557",
+        "mime": "application/m2ts"
+      }
+    ],
+    "location": {
+      "x": 53.13,
+      "y": 6.6,
+      "rotation": 180.0
+    }
+  },
+  {
+    "id": "95",
+    "name": "R\u00e1balabax\u00farias",
+    "display_name": "Universidade Federal de Minas Gerais",
+    "icpc_id": "453588",
+    "group_ids": [
+      "15706"
+    ],
+    "organization_id": "2230",
+    "photo": [
+      {
+        "href": "contests/systest2/teams/95/photo",
+        "mime": "image/jpg",
+        "width": 5000,
+        "height": 3335
+      },
+      {
+        "href": "contests/systest2/teams/95/photo.1920",
+        "mime": "image/jpg",
+        "width": 1920,
+        "height": 1281
+      }
+    ],
+    "desktop": [
+      {
+        "href": "http://172.29.1.207/stream/558",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/559",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/560",
+        "mime": "application/m2ts"
+      }
+    ],
+    "webcam": [
+      {
+        "href": "http://172.29.1.207/stream/561",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/562",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/563",
+        "mime": "application/m2ts"
+      }
+    ],
+    "location": {
+      "x": 53.13,
+      "y": 3.3,
+      "rotation": 180.0
+    }
+  },
+  {
+    "id": "96",
+    "name": "Amigos do Beto",
+    "display_name": "Universidade Federal de Pernambuco",
+    "icpc_id": "453586",
+    "group_ids": [
+      "15706"
+    ],
+    "organization_id": "2232",
+    "photo": [
+      {
+        "href": "contests/systest2/teams/96/photo",
+        "mime": "image/jpg",
+        "width": 5000,
+        "height": 3335
+      },
+      {
+        "href": "contests/systest2/teams/96/photo.1920",
+        "mime": "image/jpg",
+        "width": 1920,
+        "height": 1281
+      }
+    ],
+    "desktop": [
+      {
+        "href": "http://172.29.1.207/stream/564",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/565",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/566",
+        "mime": "application/m2ts"
+      }
+    ],
+    "webcam": [
+      {
+        "href": "http://172.29.1.207/stream/567",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/568",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/569",
+        "mime": "application/m2ts"
+      }
+    ],
+    "location": {
+      "x": 58.88,
+      "y": 3.3,
+      "rotation": 0.0
+    }
+  },
+  {
+    "id": "97",
+    "name": "Disqualified",
+    "display_name": "Universidade Federal do Cear\u00e1 - Campus Quixad\u00e1",
+    "icpc_id": "541819",
+    "group_ids": [
+      "15706"
+    ],
+    "organization_id": "4166",
+    "photo": [
+      {
+        "href": "contests/systest2/teams/97/photo",
+        "mime": "image/jpg",
+        "width": 5000,
+        "height": 3335
+      },
+      {
+        "href": "contests/systest2/teams/97/photo.1920",
+        "mime": "image/jpg",
+        "width": 1920,
+        "height": 1281
+      }
+    ],
+    "desktop": [
+      {
+        "href": "http://172.29.1.207/stream/570",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/571",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/572",
+        "mime": "application/m2ts"
+      }
+    ],
+    "webcam": [
+      {
+        "href": "http://172.29.1.207/stream/573",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/574",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/575",
+        "mime": "application/m2ts"
+      }
+    ],
+    "location": {
+      "x": 58.88,
+      "y": 6.6,
+      "rotation": 0.0
+    }
+  },
+  {
+    "id": "98",
+    "name": "LaStatale Blue",
+    "display_name": "Universit\u00e0 Degli Studi di Milano",
+    "icpc_id": "542756",
+    "group_ids": [
+      "15705"
+    ],
+    "organization_id": "7990",
+    "photo": [
+      {
+        "href": "contests/systest2/teams/98/photo",
+        "mime": "image/jpg",
+        "width": 5000,
+        "height": 3335
+      },
+      {
+        "href": "contests/systest2/teams/98/photo.1920",
+        "mime": "image/jpg",
+        "width": 1920,
+        "height": 1281
+      }
+    ],
+    "desktop": [
+      {
+        "href": "http://172.29.1.207/stream/576",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/577",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/578",
+        "mime": "application/m2ts"
+      }
+    ],
+    "webcam": [
+      {
+        "href": "http://172.29.1.207/stream/579",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/580",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/581",
+        "mime": "application/m2ts"
+      }
+    ],
+    "location": {
+      "x": 58.88,
+      "y": 9.9,
+      "rotation": 0.0
+    }
+  },
+  {
+    "id": "99",
+    "name": "Patience from Yusuf",
+    "display_name": "Universitas Indonesia",
+    "icpc_id": "454151",
+    "group_ids": [
+      "15709"
+    ],
+    "organization_id": "2390",
+    "photo": [
+      {
+        "href": "contests/systest2/teams/99/photo",
+        "mime": "image/jpg",
+        "width": 5000,
+        "height": 3335
+      },
+      {
+        "href": "contests/systest2/teams/99/photo.1920",
+        "mime": "image/jpg",
+        "width": 1920,
+        "height": 1281
+      }
+    ],
+    "desktop": [
+      {
+        "href": "http://172.29.1.207/stream/582",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/583",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/584",
+        "mime": "application/m2ts"
+      }
+    ],
+    "webcam": [
+      {
+        "href": "http://172.29.1.207/stream/585",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/586",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/587",
+        "mime": "application/m2ts"
+      }
+    ],
+    "location": {
+      "x": 58.88,
+      "y": 13.2,
+      "rotation": 0.0
+    }
+  },
+  {
+    "id": "100",
+    "name": "UKUNICHIA",
+    "display_name": "University of Aizu",
+    "icpc_id": "454150",
+    "group_ids": [
+      "15709"
+    ],
+    "organization_id": "1962",
+    "desktop": [
+      {
+        "href": "http://172.29.1.207/stream/588",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/589",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/590",
+        "mime": "application/m2ts"
+      }
+    ],
+    "webcam": [
+      {
+        "href": "http://172.29.1.207/stream/591",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/592",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/593",
+        "mime": "application/m2ts"
+      }
+    ],
+    "location": {
+      "x": 58.88,
+      "y": 16.5,
+      "rotation": 0.0
+    }
+  },
+  {
+    "id": "101",
+    "name": "University of British California",
+    "display_name": "University of British Columbia",
+    "icpc_id": "453883",
+    "group_ids": [
+      "15689"
+    ],
+    "organization_id": "2324",
+    "photo": [
+      {
+        "href": "contests/systest2/teams/101/photo",
+        "mime": "image/jpg",
+        "width": 5000,
+        "height": 3335
+      },
+      {
+        "href": "contests/systest2/teams/101/photo.1920",
+        "mime": "image/jpg",
+        "width": 1920,
+        "height": 1281
+      }
+    ],
+    "desktop": [
+      {
+        "href": "http://172.29.1.207/stream/594",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/595",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/596",
+        "mime": "application/m2ts"
+      }
+    ],
+    "webcam": [
+      {
+        "href": "http://172.29.1.207/stream/597",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/598",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/599",
+        "mime": "application/m2ts"
+      }
+    ],
+    "location": {
+      "x": 58.88,
+      "y": 19.8,
+      "rotation": 0.0
+    }
+  },
+  {
+    "id": "102",
+    "name": "[UNIBUC] ScrambledEggs",
+    "display_name": "University of Bucharest",
+    "icpc_id": "454147",
+    "group_ids": [
+      "15705"
+    ],
+    "organization_id": "0196",
+    "photo": [
+      {
+        "href": "contests/systest2/teams/102/photo",
+        "mime": "image/jpg",
+        "width": 5000,
+        "height": 3335
+      },
+      {
+        "href": "contests/systest2/teams/102/photo.1920",
+        "mime": "image/jpg",
+        "width": 1920,
+        "height": 1281
+      }
+    ],
+    "desktop": [
+      {
+        "href": "http://172.29.1.207/stream/600",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/601",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/602",
+        "mime": "application/m2ts"
+      }
+    ],
+    "webcam": [
+      {
+        "href": "http://172.29.1.207/stream/603",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/604",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/605",
+        "mime": "application/m2ts"
+      }
+    ],
+    "location": {
+      "x": 60.13,
+      "y": 19.8,
+      "rotation": 180.0
+    }
+  },
+  {
+    "id": "103",
+    "name": "Treeniceratops",
+    "display_name": "University of Cambridge",
+    "icpc_id": "453914",
+    "group_ids": [
+      "15705"
+    ],
+    "organization_id": "2343",
+    "photo": [
+      {
+        "href": "contests/systest2/teams/103/photo",
+        "mime": "image/jpg",
+        "width": 5000,
+        "height": 3335
+      },
+      {
+        "href": "contests/systest2/teams/103/photo.1920",
+        "mime": "image/jpg",
+        "width": 1920,
+        "height": 1281
+      }
+    ],
+    "desktop": [
+      {
+        "href": "http://172.29.1.207/stream/606",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/607",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/608",
+        "mime": "application/m2ts"
+      }
+    ],
+    "webcam": [
+      {
+        "href": "http://172.29.1.207/stream/609",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/610",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/611",
+        "mime": "application/m2ts"
+      }
+    ],
+    "location": {
+      "x": 60.13,
+      "y": 16.5,
+      "rotation": 180.0
+    }
+  },
+  {
+    "id": "104",
+    "name": "UCF Knights",
+    "display_name": "University of Central Florida",
+    "icpc_id": "454419",
+    "group_ids": [
+      "15689"
+    ],
+    "organization_id": "2349",
+    "photo": [
+      {
+        "href": "contests/systest2/teams/104/photo",
+        "mime": "image/jpg",
+        "width": 5000,
+        "height": 3335
+      },
+      {
+        "href": "contests/systest2/teams/104/photo.1920",
+        "mime": "image/jpg",
+        "width": 1920,
+        "height": 1281
+      }
+    ],
+    "desktop": [
+      {
+        "href": "http://172.29.1.207/stream/612",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/613",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/614",
+        "mime": "application/m2ts"
+      }
+    ],
+    "webcam": [
+      {
+        "href": "http://172.29.1.207/stream/615",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/616",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/617",
+        "mime": "application/m2ts"
+      }
+    ],
+    "location": {
+      "x": 60.13,
+      "y": 13.2,
+      "rotation": 180.0
+    }
+  },
+  {
+    "id": "105",
+    "name": "DU_SwampFire",
+    "display_name": "University of Dhaka",
+    "icpc_id": "454167",
+    "group_ids": [
+      "15693"
+    ],
+    "organization_id": "2366",
+    "photo": [
+      {
+        "href": "contests/systest2/teams/105/photo",
+        "mime": "image/jpg",
+        "width": 5000,
+        "height": 3335
+      },
+      {
+        "href": "contests/systest2/teams/105/photo.1920",
+        "mime": "image/jpg",
+        "width": 1920,
+        "height": 1281
+      }
+    ],
+    "desktop": [
+      {
+        "href": "http://172.29.1.207/stream/618",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/619",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/620",
+        "mime": "application/m2ts"
+      }
+    ],
+    "webcam": [
+      {
+        "href": "http://172.29.1.207/stream/621",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/622",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/623",
+        "mime": "application/m2ts"
+      }
+    ],
+    "location": {
+      "x": 60.13,
+      "y": 9.9,
+      "rotation": 180.0
+    }
+  },
+  {
+    "id": "106",
+    "name": "Must Pass",
+    "display_name": "University of Illinois at Urbana-Champaign",
+    "icpc_id": "453879",
+    "group_ids": [
+      "15689"
+    ],
+    "organization_id": "2387",
+    "photo": [
+      {
+        "href": "contests/systest2/teams/106/photo",
+        "mime": "image/jpg",
+        "width": 5000,
+        "height": 3335
+      },
+      {
+        "href": "contests/systest2/teams/106/photo.1920",
+        "mime": "image/jpg",
+        "width": 1920,
+        "height": 1281
+      }
+    ],
+    "desktop": [
+      {
+        "href": "http://172.29.1.207/stream/624",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/625",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/626",
+        "mime": "application/m2ts"
+      }
+    ],
+    "webcam": [
+      {
+        "href": "http://172.29.1.207/stream/627",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/628",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/629",
+        "mime": "application/m2ts"
+      }
+    ],
+    "location": {
+      "x": 60.13,
+      "y": 6.6,
+      "rotation": 180.0
+    }
+  },
+  {
+    "id": "107",
+    "name": "LU 2",
+    "display_name": "University of Latvia",
+    "icpc_id": "454119",
+    "group_ids": [
+      "15692"
+    ],
+    "organization_id": "2400",
+    "photo": [
+      {
+        "href": "contests/systest2/teams/107/photo",
+        "mime": "image/jpg",
+        "width": 5000,
+        "height": 3335
+      },
+      {
+        "href": "contests/systest2/teams/107/photo.1920",
+        "mime": "image/jpg",
+        "width": 1920,
+        "height": 1281
+      }
+    ],
+    "desktop": [
+      {
+        "href": "http://172.29.1.207/stream/630",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/631",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/632",
+        "mime": "application/m2ts"
+      }
+    ],
+    "webcam": [
+      {
+        "href": "http://172.29.1.207/stream/633",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/634",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/635",
+        "mime": "application/m2ts"
+      }
+    ],
+    "location": {
+      "x": 60.13,
+      "y": 3.3,
+      "rotation": 180.0
+    }
+  },
+  {
+    "id": "108",
+    "name": "Rochester Yellowjackets",
+    "display_name": "University of Rochester",
+    "icpc_id": "553361",
+    "group_ids": [
+      "15689"
+    ],
+    "organization_id": "2493",
+    "photo": [
+      {
+        "href": "contests/systest2/teams/108/photo",
+        "mime": "image/jpg",
+        "width": 5000,
+        "height": 3335
+      },
+      {
+        "href": "contests/systest2/teams/108/photo.1920",
+        "mime": "image/jpg",
+        "width": 1920,
+        "height": 1281
+      }
+    ],
+    "desktop": [
+      {
+        "href": "http://172.29.1.207/stream/636",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/637",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/638",
+        "mime": "application/m2ts"
+      }
+    ],
+    "webcam": [
+      {
+        "href": "http://172.29.1.207/stream/639",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/640",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/641",
+        "mime": "application/m2ts"
+      }
+    ],
+    "location": {
+      "x": 65.88,
+      "y": 3.3,
+      "rotation": 0.0
+    }
+  },
+  {
+    "id": "109",
+    "name": "USC Trojans",
+    "display_name": "University of Southern California",
+    "icpc_id": "542747",
+    "group_ids": [
+      "15689"
+    ],
+    "organization_id": "2519",
+    "photo": [
+      {
+        "href": "contests/systest2/teams/109/photo",
+        "mime": "image/jpg",
+        "width": 5000,
+        "height": 3335
+      },
+      {
+        "href": "contests/systest2/teams/109/photo.1920",
+        "mime": "image/jpg",
+        "width": 1920,
+        "height": 1281
+      }
+    ],
+    "desktop": [
+      {
+        "href": "http://172.29.1.207/stream/642",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/643",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/644",
+        "mime": "application/m2ts"
+      }
+    ],
+    "webcam": [
+      {
+        "href": "http://172.29.1.207/stream/645",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/646",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/647",
+        "mime": "application/m2ts"
+      }
+    ],
+    "location": {
+      "x": 65.88,
+      "y": 6.6,
+      "rotation": 0.0
+    }
+  },
+  {
+    "id": "110",
+    "name": "Kardak",
+    "display_name": "University of Tehran",
+    "icpc_id": "542763",
+    "group_ids": [
+      "15693"
+    ],
+    "organization_id": "2528",
+    "desktop": [
+      {
+        "href": "http://172.29.1.207/stream/648",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/649",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/650",
+        "mime": "application/m2ts"
+      }
+    ],
+    "webcam": [
+      {
+        "href": "http://172.29.1.207/stream/651",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/652",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/653",
+        "mime": "application/m2ts"
+      }
+    ],
+    "location": {
+      "x": 65.88,
+      "y": 9.9,
+      "rotation": 0.0
+    }
+  },
+  {
+    "id": "111",
+    "name": "Brine Shrimp",
+    "display_name": "University of Utah",
+    "icpc_id": "453885",
+    "group_ids": [
+      "15689"
+    ],
+    "organization_id": "2562",
+    "photo": [
+      {
+        "href": "contests/systest2/teams/111/photo",
+        "mime": "image/jpg",
+        "width": 5000,
+        "height": 3335
+      },
+      {
+        "href": "contests/systest2/teams/111/photo.1920",
+        "mime": "image/jpg",
+        "width": 1920,
+        "height": 1281
+      }
+    ],
+    "desktop": [
+      {
+        "href": "http://172.29.1.207/stream/654",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/655",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/656",
+        "mime": "application/m2ts"
+      }
+    ],
+    "webcam": [
+      {
+        "href": "http://172.29.1.207/stream/657",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/658",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/659",
+        "mime": "application/m2ts"
+      }
+    ],
+    "location": {
+      "x": 65.88,
+      "y": 13.2,
+      "rotation": 0.0
+    }
+  },
+  {
+    "id": "112",
+    "name": "Warsaw Eagles",
+    "display_name": "University of Warsaw",
+    "icpc_id": "453866",
+    "group_ids": [
+      "15705"
+    ],
+    "organization_id": "2673",
+    "photo": [
+      {
+        "href": "contests/systest2/teams/112/photo",
+        "mime": "image/jpg",
+        "width": 5000,
+        "height": 3335
+      },
+      {
+        "href": "contests/systest2/teams/112/photo.1920",
+        "mime": "image/jpg",
+        "width": 1920,
+        "height": 1281
+      }
+    ],
+    "desktop": [
+      {
+        "href": "http://172.29.1.207/stream/660",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/661",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/662",
+        "mime": "application/m2ts"
+      }
+    ],
+    "webcam": [
+      {
+        "href": "http://172.29.1.207/stream/663",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/664",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/665",
+        "mime": "application/m2ts"
+      }
+    ],
+    "location": {
+      "x": 65.88,
+      "y": 16.5,
+      "rotation": 0.0
+    }
+  },
+  {
+    "id": "113",
+    "name": "Model Solution",
+    "display_name": "University of Wisconsin - Madison",
+    "icpc_id": "453880",
+    "group_ids": [
+      "15689"
+    ],
+    "organization_id": "2574",
+    "photo": [
+      {
+        "href": "contests/systest2/teams/113/photo",
+        "mime": "image/jpg",
+        "width": 5000,
+        "height": 3335
+      },
+      {
+        "href": "contests/systest2/teams/113/photo.1920",
+        "mime": "image/jpg",
+        "width": 1920,
+        "height": 1281
+      }
+    ],
+    "desktop": [
+      {
+        "href": "http://172.29.1.207/stream/666",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/667",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/668",
+        "mime": "application/m2ts"
+      }
+    ],
+    "webcam": [
+      {
+        "href": "http://172.29.1.207/stream/669",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/670",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/671",
+        "mime": "application/m2ts"
+      }
+    ],
+    "location": {
+      "x": 65.88,
+      "y": 19.8,
+      "rotation": 0.0
+    }
+  },
+  {
+    "id": "114",
+    "name": "UWr 1",
+    "display_name": "University of Wroclaw",
+    "icpc_id": "453865",
+    "group_ids": [
+      "15705"
+    ],
+    "organization_id": "2589",
+    "photo": [
+      {
+        "href": "contests/systest2/teams/114/photo",
+        "mime": "image/jpg",
+        "width": 5000,
+        "height": 3335
+      },
+      {
+        "href": "contests/systest2/teams/114/photo.1920",
+        "mime": "image/jpg",
+        "width": 1920,
+        "height": 1281
+      }
+    ],
+    "desktop": [
+      {
+        "href": "http://172.29.1.207/stream/672",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/673",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/674",
+        "mime": "application/m2ts"
+      }
+    ],
+    "webcam": [
+      {
+        "href": "http://172.29.1.207/stream/675",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/676",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/677",
+        "mime": "application/m2ts"
+      }
+    ],
+    "location": {
+      "x": 67.13,
+      "y": 19.8,
+      "rotation": 180.0
+    }
+  },
+  {
+    "id": "115",
+    "name": "Utrecht University - Leiden University",
+    "display_name": "Utrecht - Leiden University",
+    "icpc_id": "453863",
+    "group_ids": [
+      "15705"
+    ],
+    "organization_id": "12694",
+    "photo": [
+      {
+        "href": "contests/systest2/teams/115/photo",
+        "mime": "image/jpg",
+        "width": 5000,
+        "height": 3335
+      },
+      {
+        "href": "contests/systest2/teams/115/photo.1920",
+        "mime": "image/jpg",
+        "width": 1920,
+        "height": 1281
+      }
+    ],
+    "desktop": [
+      {
+        "href": "http://172.29.1.207/stream/678",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/679",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/680",
+        "mime": "application/m2ts"
+      }
+    ],
+    "webcam": [
+      {
+        "href": "http://172.29.1.207/stream/681",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/682",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/683",
+        "mime": "application/m2ts"
+      }
+    ],
+    "location": {
+      "x": 67.13,
+      "y": 16.5,
+      "rotation": 180.0
+    }
+  },
+  {
+    "id": "116",
+    "name": "46 is a Prime Number",
+    "display_name": "Virginia Tech",
+    "icpc_id": "542760",
+    "group_ids": [
+      "15689"
+    ],
+    "organization_id": "2648",
+    "photo": [
+      {
+        "href": "contests/systest2/teams/116/photo",
+        "mime": "image/jpg",
+        "width": 5000,
+        "height": 3335
+      },
+      {
+        "href": "contests/systest2/teams/116/photo.1920",
+        "mime": "image/jpg",
+        "width": 1920,
+        "height": 1281
+      }
+    ],
+    "desktop": [
+      {
+        "href": "http://172.29.1.207/stream/684",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/685",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/686",
+        "mime": "application/m2ts"
+      }
+    ],
+    "webcam": [
+      {
+        "href": "http://172.29.1.207/stream/687",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/688",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/689",
+        "mime": "application/m2ts"
+      }
+    ],
+    "location": {
+      "x": 67.13,
+      "y": 13.2,
+      "rotation": 180.0
+    }
+  },
+  {
+    "id": "117",
+    "name": "Volgograd STU 1",
+    "display_name": "Volgograd State Technical University",
+    "icpc_id": "551745",
+    "group_ids": [
+      "15692"
+    ],
+    "organization_id": "2659",
+    "photo": [
+      {
+        "href": "contests/systest2/teams/117/photo",
+        "mime": "image/jpg",
+        "width": 5000,
+        "height": 3335
+      },
+      {
+        "href": "contests/systest2/teams/117/photo.1920",
+        "mime": "image/jpg",
+        "width": 1920,
+        "height": 1281
+      }
+    ],
+    "desktop": [
+      {
+        "href": "http://172.29.1.207/stream/690",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/691",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/692",
+        "mime": "application/m2ts"
+      }
+    ],
+    "webcam": [
+      {
+        "href": "http://172.29.1.207/stream/693",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/694",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/695",
+        "mime": "application/m2ts"
+      }
+    ],
+    "location": {
+      "x": 67.13,
+      "y": 9.9,
+      "rotation": 180.0
+    }
+  },
+  {
+    "id": "118",
+    "name": "Yerevan SU One Last Dance:",
+    "display_name": "Yerevan State University",
+    "icpc_id": "454131",
+    "group_ids": [
+      "15692"
+    ],
+    "organization_id": "2742",
+    "photo": [
+      {
+        "href": "contests/systest2/teams/118/photo",
+        "mime": "image/jpg",
+        "width": 5000,
+        "height": 3335
+      },
+      {
+        "href": "contests/systest2/teams/118/photo.1920",
+        "mime": "image/jpg",
+        "width": 1920,
+        "height": 1281
+      }
+    ],
+    "desktop": [
+      {
+        "href": "http://172.29.1.207/stream/696",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/697",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/698",
+        "mime": "application/m2ts"
+      }
+    ],
+    "webcam": [
+      {
+        "href": "http://172.29.1.207/stream/699",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/700",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/701",
+        "mime": "application/m2ts"
+      }
+    ],
+    "location": {
+      "x": 67.13,
+      "y": 6.6,
+      "rotation": 180.0
+    }
+  },
+  {
+    "id": "119",
+    "name": "Inseop is Korea top",
+    "display_name": "Yonsei University",
+    "icpc_id": "454148",
+    "group_ids": [
+      "15709"
+    ],
+    "organization_id": "2745",
+    "photo": [
+      {
+        "href": "contests/systest2/teams/119/photo",
+        "mime": "image/jpg",
+        "width": 5000,
+        "height": 3335
+      },
+      {
+        "href": "contests/systest2/teams/119/photo.1920",
+        "mime": "image/jpg",
+        "width": 1920,
+        "height": 1281
+      }
+    ],
+    "desktop": [
+      {
+        "href": "http://172.29.1.207/stream/702",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/703",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/704",
+        "mime": "application/m2ts"
+      }
+    ],
+    "webcam": [
+      {
+        "href": "http://172.29.1.207/stream/705",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/706",
+        "mime": "application/m2ts"
+      },
+      {
+        "href": "http://172.29.1.207/stream/707",
+        "mime": "application/m2ts"
+      }
+    ]
+  }
+]

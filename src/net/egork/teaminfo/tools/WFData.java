@@ -30,6 +30,7 @@ public class WFData {
     }
 
     public static void main(String... args) throws Exception {
+        List<Person> persons = Utils.readList("input/wf.json", Person.class);
         Map<String, String> medals = new HashMap<>();
         BufferedReader reader = new BufferedReader(new FileReader("input/medals.csv"));
         String s = null;
@@ -37,27 +38,25 @@ public class WFData {
             String[] tokens = s.split(";");
             medals.put(tokens[0].trim() + " " + tokens[1], tokens[2]);
         }
-        List<Person> persons = new ArrayList<>();
-        for (int year = 1999; year <= 2017; year++) {
-            String page = loadPage("https://icpc.baylor.edu/worldfinals/teams/" + year);
+        for (int year = 2018; year <= 2019; year++) {
+            String page = readPage("input/" + year + ".html");
             int index;
             String team = null;
             String medal = null;
-            while ((index = page.indexOf("<span class=\"teamMember\">")) != -1) {
-                int teamIndex = page.indexOf("<span class=\"gridCols\">");
+            while ((index = page.indexOf("MuiTypography-body2 MuiTypography-displayBlock\">")) != -1) {
+                int teamIndex = page.indexOf("MuiTypography-body1\">");
                 if (teamIndex != -1 && teamIndex < index) {
                     page = page.substring(teamIndex);
                     page = page.substring(page.indexOf(">") + 1);
-                    team = page.substring(0, page.indexOf("\n")).trim().replace("&amp;", "&");
-                    index = page.indexOf("<span class=\"teamMember\">");
+                    team = page.substring(0, page.indexOf(" [<")).trim().replace("&amp;", "&");
+                    index = page.indexOf("MuiTypography-body2 MuiTypography-displayBlock\">");
                     medal = medals.get(team + " " + year);
                     medals.remove(team + " " + year);
                 }
                 page = page.substring(index);
                 page = page.substring(page.indexOf(">") + 1);
-                String name = page.substring(0, page.indexOf(","));
-                page = page.substring(page.indexOf("<span class=\"role\">"));
-                page = page.substring(page.indexOf(">") + 1);
+                String name = page.substring(0, page.indexOf(", "));
+                page = page.substring(page.indexOf(", ") + 2);
                 String role = page.substring(0, page.indexOf("<"));
                 if ("Lei Chen".equals(name) && year != 2017) {
                     continue;
@@ -119,6 +118,6 @@ public class WFData {
             }
 //            log.error(medals.size());
         }
-        Utils.mapper.writeValue(new File("input/wf.json"), persons);
+        Utils.mapper.writeValue(new File("input/wf_new.json"), persons);
     }
 }

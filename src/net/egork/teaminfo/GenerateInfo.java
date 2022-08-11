@@ -1,5 +1,7 @@
 package net.egork.teaminfo;
 
+import com.fasterxml.jackson.databind.JsonNode;
+import com.fasterxml.jackson.databind.ObjectMapper;
 import net.egork.teaminfo.data.Achievement;
 import net.egork.teaminfo.data.Person;
 import net.egork.teaminfo.data.Record;
@@ -19,7 +21,8 @@ import static net.egork.teaminfo.Utils.*;
  * @author egor@egork.net
  */
 public class GenerateInfo {
-    public static final int TEAM_NUM = 133;
+    public static final int TEAM_NUM = 119;
+    public static final int[] SKIPPED = {57};
     private static Log log = LogFactory.getLog(GenerateInfo.class);
 
     static {
@@ -40,14 +43,15 @@ public class GenerateInfo {
         //Getting ready
         init();
 //        readIds();
-        readMyICPC();
+//        readMyICPC();
         readPersons();
+        readRegionals();
 
         //Teams
 //        readShortNames();
         readSnark();
-        readRegionalChamps();
-        readOpenCup();
+//        readRegionalChamps();
+//        readOpenCup();
 
 //        readAltNames();
 
@@ -55,11 +59,28 @@ public class GenerateInfo {
         readPersonalDatabase();
 
         saveResults();
-        saveRatings();
-        saveUniversities();
-        checkSnark();
+//        saveRatings();
+//        saveUniversities();
+//        checkSnark();
 //        saveRepeatFinalists();
 //        saveHRForm();
+    }
+
+    private static void readRegionals() throws IOException {
+        BufferedReader reader = new BufferedReader(new FileReader("input/regionals.csv"));
+        String s;
+        while ((s = reader.readLine()) != null) {
+            String[] data = parseCSV(s);
+            int id = findByFullName(data[0]);
+            List<String> regionals = new ArrayList<>();
+            for (int i = 3; i < data.length; i += 2) {
+                if (!data[i].isEmpty()) {
+                    int place = Integer.parseInt(data[i + 1]);
+                    regionals.add(data[i] + ", " + data[i + 1] + Utils.appropriateEnd(place));
+                }
+            }
+            records[id].team.setRegionals(regionals);
+        }
     }
 
     private static void checkSnark() throws IOException {
@@ -203,7 +224,7 @@ public class GenerateInfo {
     }
 
     private static void readPersons() throws IOException {
-        BufferedReader reader = new BufferedReader(new FileReader("input/persons_data.csv"));
+        BufferedReader reader = new BufferedReader(new FileReader("input/teams.csv"));
 
         int coach = 0;
         int contestant = 0;
@@ -213,36 +234,32 @@ public class GenerateInfo {
             if (line == null) {
                 break;
             }
-            String[] data = line.split("~", -1);
-            String role = data[6];
-            if (role.contains("Team: Coach") || role.equals("Team: Contestant")) {
+            String[] data = parseCSV(line);
+            String role = data[0];
+            if (role.contains("CONTESTANT") || role.equals("COACH")) {
                 Person person = new Person();
-                person.setName(data[0]);
-                person.addAltName(data[1] + " " + data[2]);
-                if (!data[7].isEmpty()) {
-                    person.setTwitterHandle(data[7]);
+                person.setName(data[2] + " " + data[3]);
+                person.addAltName(data[3] + " " + data[2]);
+                if (!data[10].isEmpty()) {
+                    person.setTwitterHandle(data[10]);
                 }
-                if (!data[9].isEmpty()) {
-                    person.setCfHandle(convertHandle(data[9]));
+                if (!data[13].isEmpty()) {
+                    person.setCfHandle(convertHandle(data[13]));
                 }
-                if (!data[8].isEmpty()) {
-                    person.setTcHandle(convertHandle(data[8]));
+                if (!data[12].isEmpty()) {
+                    person.setTcHandle(convertHandle(data[12]));
                 }
                 boolean found = false;
                 for (int i = 1; i <= TEAM_NUM; i++) {
-                    if (data[5].equals(records[i].university.getShortName())) {
+                    if (data[8].equals(records[i].university.getFullName())) {
                         found = true;
-                        if (role.contains("Team: Coach")) {
-                            if (Utils.samePerson(records[i].coach, person)) {
-                                records[i].coach.updateFrom(person);
-                                coach++;
-                            }
+                        if (role.contains("COACH")) {
+                            records[i].coach.updateFrom(person);
+                            coach++;
                         } else {
-                            boolean saved = false;
                             for (int j = 0; j < 3; j++) {
-                                if (Utils.samePerson(records[i].contestants[j], person)) {
+                                if (records[i].contestants[j].getName() == null) {
                                     records[i].contestants[j].updateFrom(person);
-                                    saved = true;
                                     contestant++;
                                     break;
                                 }
@@ -251,13 +268,13 @@ public class GenerateInfo {
                         break;
                     }
                 }
-                if (!found) {
-                    log.error("University not found " + data[5]);
-                }
+//                if (!found) {
+//                    log.error("University not found " + data[5]);
+//                }
             }
         }
 
-        reader = new BufferedReader(new FileReader("input/personal_update.csv"));
+        /*reader = new BufferedReader(new FileReader("input/personal_update.csv"));
 
         while (true) {
             String line = reader.readLine();
@@ -302,8 +319,8 @@ public class GenerateInfo {
                     log.error("University not found " + data[5]);
                 }
             }
-        }
-        log.info("Persons done, " + coach + "/133 coaches, " + contestant + "/399 contestants");
+        }*/
+        log.info("Persons done, " + coach + "/118 coaches, " + contestant + "/354 contestants");
     }
 
     private static String convertHandle(String handle) {
@@ -428,6 +445,8 @@ public class GenerateInfo {
             if (coachFound) {
 //                log.info("Data for coach " + record.coach.getName());
                 coachesFound++;
+            } else if (record.coach.getCfHandle() != null) {
+                log.error("CF found, but not updated for " + record.coach.getName());
             }
             for (Person contestant : record.contestants) {
                 boolean found = false;
@@ -440,6 +459,8 @@ public class GenerateInfo {
                 if (found) {
 //                    log.info("Data for contestant " + contestant.getName());
                     participantsFound++;
+                } else if (contestant.getCfHandle() != null) {
+                    log.error("CF found, but not updated for " + contestant.getName());
                 }
             }
         }
@@ -452,8 +473,8 @@ public class GenerateInfo {
             }
         }
         log.info("Personal info integrated");
-        log.info("Coaches: " + coachesFound + "/133 found");
-        log.info("Participants: " + participantsFound + "/399 found");
+        log.info("Coaches: " + coachesFound + "/118 found");
+        log.info("Participants: " + participantsFound + "/354 found");
     }
 
     private static void readSnark() throws Exception {
@@ -483,6 +504,7 @@ public class GenerateInfo {
                 log.info("Debut for " + records[i].university.getFullName());
                 University university = new University();
                 university.setAppearances(1);
+                university.setAppYears(Collections.singletonList(2020));
                 university.setWins(0);
                 university.setGold(0);
                 university.setSilver(0);
@@ -642,16 +664,19 @@ public class GenerateInfo {
     }
 
     private static void saveResults() throws Exception {
-        PrintWriter out = new PrintWriter("output/all.cvs");
+        PrintWriter out = new PrintWriter("output/all.csv");
         for (int i = 1; i <= TEAM_NUM; i++) {
-            Utils.mapper.writeValue(new File("output/" + i + ".json"), records[i]);
-            out.println(records[i].university.getFullName());
-            for (int j = 0; j < 3; j++) {
-                Person contestant = records[i].contestants[j];
-                out.println(contestant.getName() + ";" + (contestant.getCfHandle() != null ? contestant.getCfHandle() : "") + ";" + (contestant.getTcHandle() != null ? contestant.getTcHandle() : ""));
+            if (i == SKIPPED[0]) {
+                continue;
+            }
+            Utils.mapper.writerWithDefaultPrettyPrinter().writeValue(new File("output/" + i + ".json"), records[i]);
+//            out.println(records[i].university.getFullName());
+            for (int j = 0; j < 4; j++) {
+                Person contestant = j == 3 ? records[i].coach : records[i].contestants[j];
+                out.println(records[i].university.getFullName() + "," + contestant.getName() + "," + (contestant.getCfHandle() != null ? contestant.getCfHandle() : "") + "," + (contestant.getTcHandle() != null ? contestant.getTcHandle() : ""));
             }
         }
-        Utils.mapper.writeValue(new File("output/all.json"), Arrays.asList(Arrays.copyOfRange(records, 1, TEAM_NUM + 1)));
+        Utils.mapper.writerWithDefaultPrettyPrinter().writeValue(new File("output/all.json"), Arrays.asList(Arrays.copyOfRange(records, 1, TEAM_NUM + 1)));
         out.close();
     }
 
@@ -666,30 +691,137 @@ public class GenerateInfo {
         log.info("ids loaded");
     }
 
-    private static void init() throws IOException {
-        BufferedReader reader = new BufferedReader(new FileReader("input/teamdata.csv"));
-        for (int i = 1; i <= TEAM_NUM; i++) {
-            records[i] = new Record(i);
-            String[] data = reader.readLine().split("~");
-            records[i].university.setMyIcpcId(data[1]);
-            records[i].university.setRegion(getRegionById(data[2]));
-            records[i].team.setName(data[3]);
-            records[i].university.setFullName(data[4]);
-            records[i].university.setShortName(data[5]);
-            records[i].university.setUrl(data[6]);
+    public static String[] parseCSV(String line) {
+        List<String> result = new ArrayList<>();
+        StringBuilder current = new StringBuilder();
+        boolean escaped = false;
+        for (int i = 0; i < line.length(); i++) {
+            char c = line.charAt(i);
+            if (c == ',' && !escaped) {
+                result.add(current.toString());
+                current = new StringBuilder();
+            } else if (c == '"') {
+                escaped = !escaped;
+            } else {
+                current.append(c);
+            }
         }
-        log.info("Init done");
+        if (current.length() > 0) {
+            result.add(current.toString());
+        }
+        return result.toArray(new String[0]);
     }
 
-    private static String getRegionById(String regionId) {
-        switch (regionId) {
-            case "11742": return "Asia";
-            case "11735": return "Europe";
-            case "11737": return "Africa and the Middle East";
-            case "11738": return "North America";
-            case "11744": return "Latin America";
-            case "11743": return "South Pacific";
-            default: throw new RuntimeException();
+    private static int findByFullName(String fullName) {
+        int id = -1;
+        for (int j = 1; j <= TEAM_NUM; j++) {
+            if (fullName.equals(records[j].university.getFullName())) {
+                id = j;
+                break;
+            }
         }
+        return id;
+    }
+
+    private static void init() throws IOException {
+        for (int i = 1; i <= TEAM_NUM; i++) {
+            records[i] = new Record(i);
+        }
+        ObjectMapper mapper = new ObjectMapper();
+        JsonNode node = mapper.readTree(new File("input/groups.json"));
+        Map<Integer, String> idToRegion = new HashMap<>();
+        for (int i = 0; i < node.size(); i++) {
+            JsonNode cur = node.get(i);
+            int id = cur.get("id").asInt();
+            String name = cur.get("name").asText();
+            idToRegion.put(id, name);
+        }
+        node = mapper.readTree(new File("input/teams.json"));
+        for (int i = 0; i < node.size(); i++) {
+            JsonNode cur = node.get(i);
+            int id = cur.get("id").asInt();
+            records[id].university.setFullName(cur.get("display_name").asText().trim());
+            records[id].university.setRegion(idToRegion.get(cur.get("group_ids").get(0).asInt()));
+        }
+        node = mapper.readTree(new File("input/organizations.json"));
+        int found = 0;
+        for (int i = 0; i < node.size(); i++) {
+            JsonNode cur = node.get(i);
+//            if (cur.get("id").asText().startsWith("0")) {
+//                continue;
+//            }
+            found++;
+            String fullName = cur.get("formal_name").asText().trim();
+            int id = findByFullName(fullName);
+            records[id].university.setShortName(cur.get("name").asText());
+            if (cur.get("url") != null) {
+                records[id].university.setUrl(cur.get("url").asText());
+            }
+            if (cur.get("twitter_hashtag") != null) {
+                records[id].university.setHashTag(cur.get("twitter_hashtag").asText());
+            }
+        }
+        if (found != TEAM_NUM - SKIPPED.length) {
+            log.error("Jopa " + found);
+        }
+        BufferedReader reader = new BufferedReader(new FileReader("input/univ1.csv"));
+        String s;
+        found = 0;
+        while ((s = reader.readLine()) != null) {
+            String[] res = parseCSV(s);
+            if (res.length == 0) {
+                continue;
+            }
+            int id = findByFullName(res[6]);
+            if (id == -1) {
+                if (Integer.parseInt(res[0]) < 900) {
+                    log.warn("Not found " + res[6]);
+                }
+                continue;
+            }
+            found++;
+            records[id].team.setName(res[4]);
+            if (res[8].startsWith("http") && records[id].university.getUrl() == null) {
+                records[id].university.setUrl(res[8]);
+            }
+        }
+        if (found != TEAM_NUM - SKIPPED.length) {
+            log.error("Jopa " + found);
+        }
+        reader = new BufferedReader(new FileReader("input/univ2.csv"));
+        found = 0;
+        while ((s = reader.readLine()) != null) {
+            String[] res = parseCSV(s);
+            if (res.length == 0) {
+                continue;
+            }
+            int id = findByFullName(res[0]);
+            if (id == -1) {
+                continue;
+            }
+            found++;
+            if (res[3].startsWith("http") && records[id].university.getUrl() == null) {
+                records[id].university.setUrl(res[3]);
+            }
+            if (res[5].startsWith("#") && records[id].university.getHashTag() == null) {
+                records[id].university.setHashTag(res[5]);
+            }
+        }
+        if (found != TEAM_NUM - SKIPPED.length) {
+            log.error("Jopa " + found);
+        }
+        int hasUrl = 0;
+        int hasTag = 0;
+        for (int i = 1; i <= TEAM_NUM; i++) {
+            if (records[i].university.getUrl() != null) {
+                hasUrl++;
+            } else {
+                log.warn("url not forund for " + records[i].university.getFullName());
+            }
+            if (records[i].university.getHashTag() != null) {
+                hasTag++;
+            }
+        }
+        log.info("Init done, urls=" + hasUrl + ", tags=" + hasTag);
     }
 }

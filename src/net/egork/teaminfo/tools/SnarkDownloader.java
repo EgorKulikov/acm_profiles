@@ -88,6 +88,10 @@ public class SnarkDownloader {
         add("Distributed Google Code Jam Runner-Up", "DGCJ 2nd", 55);
         add("Distributed Google Code Jam Third Place", "DGCJ 3rd", 50);
         add("Distributed Google Code Jam Finalist", "DGCJ Finalist", 25);
+        add("Google Hash Code Third Place", "GHC 3rd", 30);
+        add("Google Hash Code Winner", "GHC Winner", 40);
+        add("Google Hash Code Runner-Up", "GHC 2nd", 35);
+        add("Google Hash Code Finalist", "GHC Finalist", 15);
         add("AtCoder Finals Winner", "AtCoder Winner", 60);
         add("AtCoder Finals Runner-Up", "AtCoder 2nd", 55);
         add("AtCoder Finals Third Place", "AtCoder 3rd", 50);
@@ -98,6 +102,25 @@ public class SnarkDownloader {
         add("CodeChef SnackDown Winner", "SnackDown Winner", 60);
         add("CodeChef SnackDown Runner-Up", "SnackDown 2nd", 55);
         add("CodeChef SnackDown Third Place", "SnackDown 3rd", 50);
+        add("TopCoder Open Marathon Runner-Up", "TCO Marathon 2nd", 55);
+        add("TopCoder Open Marathon Third Place", "TCO Marathon 3rd", 55);
+        add("TopCoder Open Marathon Winner", "TCO Marathon Winner", 60);
+        add("TopCoder Open Marathon Finalist", "TCO Marathon Finalist", 25);
+        add("TopCoder Collegiate Challenge Marathon Winner", "TCCC Marathon Winner", 60);
+        add("TopCoder Collegiate Challenge Marathon Runner-Up", "TCCC Marathon Winner", 55);
+        add("TopCoder Collegiate Challenge Marathon Third Place", "TCCC Marathon Winner", 50);
+        add("TopCoder Collegiate Challenge Marathon Finalist", "TCCC Marathon Finalist", 25);
+        add("Codeflow Finalist", "Codeflow Finalist", 15);
+        add("Codeflow Winner", "Codeflow Finalist", 40);
+        add("Codeflow Third Place", "Codeflow Finalist", 30);
+        add("Codeflow Runner-Up", "Codeflow Finalist", 35);
+        add("FII Code Finalist", "FII Code Finalist", 15);
+        add("FII Code Runner-Up", "FII Code 2nd", 35);
+        add("FII Code Third Place", "FII Code 3rd", 30);
+        add("FII Code Winner", "FII Code Winner", 40);
+        add("MindCoding Runner-Up", "MindCoding 2nd", 35);
+        add("MindCoding Winner", "MindCoding Winner", 40);
+        add("MindCoding Third Place", "MindCoding 3rd", 30);
     }
 
     public static void main(String... args) throws Exception {
